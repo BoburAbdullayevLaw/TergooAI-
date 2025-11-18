@@ -1,0 +1,481 @@
+{
+  "id": "JK-097-SHARH-017",
+  "modda_raqam": "97",
+  "sharh_raqami": 17,
+  "tur": "homilador_ayol",
+
+  "_izoh": "BO'LIM 17: JK 97-2(b) - Homilador ayolni o'ldirish",
+
+  "emoji_sarlavha": "🤰 Homilador ayol (avvaldan ayon)",
+
+  "asosiy_matn": "JK 97-2(b): Homiladorligi aybdorga AVVALDAN AYON bo'lgan ayolni o'ldirish. Faqat TO'G'RI qasd. Aybdor homiladorlikni OLDINDAN bilgan bo'lishi kerak (ko'rish, hujjat, ma'lumot). Homiladorlik muddati va homila nobud bo'lishi AHAMIYATSIZ. Faktik xato: homiladorlik yo'q deb o'ylagan - JK 97-2(b) EMAS. Teskari: homiladorlik bor deb o'ylagan, lekin yo'q - JK 97-1.",
+
+  "sinonimlar": {
+    "homilador": {
+      "variantlar": ["homilador", "homila ko'targan", "bolalik", "yuklangan"],
+      "og'irlik": 95,
+      "rasmiy": true,
+      "emoji": "🤰"
+    },
+    "avvaldan ayon": {
+      "variantlar": ["avvaldan ayon", "oldindan ma'lum", "avvaldan bilgan", "oldindan xabardor"],
+      "og'irlik": 90,
+      "rasmiy": true,
+      "emoji": "👁️"
+    }
+  },
+
+  "kontekstli_javoblar": {
+    "tergovchi": {
+      "uslub": "juda_rasmiy",
+      "emoji": "👮",
+      "qo'shimcha": [
+        "👮 Tergov yuritishda:",
+        "👁️ AVVALDAN AYON ekanligini isbotlash",
+        "📊 Qanday bilgan? (ko'rgan, eshitgan, o'qigan)",
+        "📝 Dalillar: guvohlar, hujjatlar, xabarlar"
+      ],
+      "qo'shimcha_malumot": [
+        "❗ ISBOTLASH KERAK:",
+        "1️⃣ Ayol HOMILADOR edi",
+        "2️⃣ Aybdor buni OLDINDAN bilgan",
+        "3️⃣ O'ldirish QASDI bor edi",
+        "",
+        "📊 BILGAN USULLARI:",
+        "👀 Ko'rgan (tashqi belgilar)",
+        "📄 Hujjat (tibbiy)",
+        "💬 Eshitgan (ayol, oila, do'stlar)",
+        "",
+        "🔍 TEKSHIRISH:",
+        "- Homiladorlik: tibbiy hujjat",
+        "- Bilgan: guvohlar, xabarlar, audio/video",
+        "- Muddat: AHAMIYATI YO'Q",
+        "- Homila nobud bo'ldi: AHAMIYATI YO'Q"
+      ]
+    },
+
+    "advokat": {
+      "uslub": "juda_rasmiy",
+      "emoji": "👔",
+      "qo'shimcha": [
+        "⚖️ Himoya strategiyasi:",
+        "❌ BILMAGAN ekanligini dalillang",
+        "🤷 Tashqi belgilar yo'q edi",
+        "📉 JK 97-2(b) dan JK 97-1 ga"
+      ],
+      "qo'shimcha_malumot": [
+        "🎯 MAQSAD: (b) belgini olib tashlash",
+        "❌ BILMAGAN dalillari:",
+        "- Tashqi belgilar yo'q (kichik muddat)",
+        "- Hech kim aytmagan",
+        "- Hujjat ko'rmagan",
+        "- Munosabatda emas edilar",
+        "",
+        "📉 97-2(b) → 97-1:",
+        "15-25 yil → 8-15 yil",
+        "",
+        "❓ Shubha → aybdor foydasiga"
+      ]
+    },
+
+    "sudya": {
+      "uslub": "juda_rasmiy",
+      "emoji": "⚖️",
+      "qo'shimcha": [
+        "⚖️ Sud qarori chiqarishda:",
+        "👁️ AVVALDAN AYON ekanligiga ANIQ dalil bormi?",
+        "❓ Shubha bo'lsa → (b) belgi QO'LLANMAYDI",
+        "📝 Qarorga barcha dalillarni yozish"
+      ],
+      "qo'shimcha_malumot": [
+        "❗ ISBOTLASH YUKI - ayblovda!",
+        "👁️ AVVALDAN AYON - ANIQ isbotlanishi kerak",
+        "",
+        "✅ ANIQ DALILLAR:",
+        "- Tibbiy hujjat ko'rgan",
+        "- Ayol aytgan (guvoh)",
+        "- Tashqi belgilar (katta muddat)",
+        "- Oila ma'lum qilgan",
+        "",
+        "❓ SHUBHALI HOLATLAR:",
+        "- Kichik muddat (ko'rinmaydi)",
+        "- Hech kim aytmagan",
+        "- Munosabatda emas",
+        "→ Shubha aybdor foydasiga",
+        "→ (b) belgi QO'LLANMAYDI",
+        "",
+        "📝 QARORGA YOZISH:",
+        "- Homiladorlik isboti",
+        "- Qanday bilgani (dalillar)",
+        "- Nima uchun (b) belgi / nima uchun yo'q"
+      ]
+    },
+
+    "talaba": {
+      "uslub": "o'rtacha",
+      "emoji": "📚",
+      "qo'shimcha": [
+        "📚 Eslab qoling:",
+        "🤰 Homilador ayol + 👁️ Avvaldan bilgan",
+        "📊 Bilish usullari: ko'rgan, eshitgan, o'qigan",
+        "❌ Bilmagan → (b) belgi yo'q"
+      ],
+      "qo'shimcha_malumot": [
+        "📝 SHARTLAR:",
+        "1️⃣ Ayol homilador",
+        "2️⃣ Aybdor OLDINDAN bilgan",
+        "3️⃣ O'ldirish qasdi",
+        "",
+        "👁️ BILISH:",
+        "- Ko'rgan",
+        "- Eshitgan",
+        "- Hujjat",
+        "",
+        "❌ Bilmasa → JK 97-1",
+        "✅ Bilsa → JK 97-2(b)"
+      ]
+    },
+
+    "oddiy_fuqaro": {
+      "uslub": "norasmiy",
+      "emoji": "👨",
+      "qo'shimcha": [
+        "💬 Oddiy qilib:",
+        "🤰 Homilador ayolni o'ldirdi",
+        "👁️ Bilgan edi (ko'rgan, eshitgan)",
+        "⛓️ Og'ir jazo (15-25 yil)"
+      ],
+      "qo'shimcha_malumot": [
+        "🤰 Homilador ayol o'ldirildi",
+        "👁️ Jinoyatchi bilgan edi",
+        "⛓️ 15-25 yil yoki umrbod"
+      ]
+    }
+  },
+
+  "javob_uzunligi": {
+    "qisqa": {
+      "shablon": "🤰 JK 97-2(b): Homilador ayol + 👁️ Avvaldan ayon. Bilmagan → JK 97-1."
+    },
+    "o'rtacha": {
+      "shablon": "JK 97-2(b): Homiladorligi AVVALDAN AYON bo'lgan ayolni o'ldirish. To'g'ri qasd. Aybdor oldindan bilgan (ko'rgan, eshitgan, hujjat). Muddat, homila nobud bo'lishi ahamiyatsiz. Bilmagan → JK 97-1."
+    },
+    "batafsil": {
+      "shablon": "🤰 JK 97-2(b): Homiladorligi aybdorga AVVALDAN AYON bo'lgan ayolni o'ldirish. Faqat TO'G'RI qasd. AVVALDAN AYON: aybdor homiladorlikni OLDINDAN bilgan (ko'rgan, eshitgan, hujjat). Homiladorlik muddati va homila nobud bo'lishi AHAMIYATSIZ. FAKTIK XATO: bilmagan → JK 97-2(b) EMAS. TESKARI: homilador deb o'ylagan, lekin yo'q → JK 97-1. Jazo: 15-25 yil yoki umrbod."
+    }
+  },
+
+  "1_asosiy_tushuncha": {
+    "emoji": "🤰",
+    "sarlavha": "Homilador ayolni o'ldirish - asosiy tushuncha",
+
+    "tasnif": {
+      "modda": "JK 97-2(b)",
+      "nom": "Homiladorligi avvaldan ayon bo'lgan ayolni o'ldirish",
+      "og'irlashtiruvchi_holat": "Maxsus (zaif holat)",
+      "jazo": "⛓️ 15-25 yil yoki umrbod"
+    },
+
+    "shartlar": {
+      "emoji": "📋",
+      "majburiy": [
+        "1️⃣ Jabrlanuvchi - AYOL",
+        "2️⃣ Ayol HOMILADOR",
+        "3️⃣ Homiladorlik aybdorga AVVALDAN AYON",
+        "4️⃣ O'ldirish QASDI (to'g'ri qasd)"
+      ]
+    },
+
+    "sabab": {
+      "emoji": "🛡️",
+      "asosiy": "Homilador ayol - ZAIF ahvol",
+      "maxsus": "Ikki hayot: ona va homila",
+      "ijtimoiy": "Kelajak avlodni himoya"
+    }
+  },
+
+  "2_avvaldan_ayon": {
+    "emoji": "👁️",
+    "sarlavha": "AVVALDAN AYON - asosiy tushuncha",
+
+    "tasnif": {
+      "nom": "Avvaldan ayon bo'lish",
+      "ma'no": "Aybdor OLDINDAN bilgan",
+      "vaqt": "O'ldirishdan OLDIN",
+      "muhim": "❗ ENG MUHIM SHART!"
+    },
+
+    "bilish_usullari": {
+      "emoji": "📊",
+      "sarlavha": "Qanday bilgan bo'lishi mumkin?",
+
+      "1_korish": {
+        "emoji": "👀",
+        "usul": "SHAXSIY KUZATISH",
+        "ta'rif": "Tashqi belgilardan ko'rgan",
+        "shart": "Katta muddat (ko'rinadigan)",
+        "misol": "6-9 oylik homiladorlik - qorin ko'rinadi",
+        "muhim": "Kichik muddat - ko'rinmaydi!"
+      },
+
+      "2_hujjat": {
+        "emoji": "📄",
+        "usul": "RASMIY HUJJAT",
+        "ta'rif": "Tibbiy hujjat bilan tanishgan",
+        "turlar": [
+          "Homiladorlik dalolatnomasi",
+          "Kasalxona xulosasi",
+          "Shifokor ma'lumotnomasi"
+        ],
+        "misol": "Ayol homiladorlik dalolatnomasini ko'rsatgan",
+        "muhim": "Eng aniq dalil!"
+      },
+
+      "3_eshitish": {
+        "emoji": "💬",
+        "usul": "MA'LUMOT OLISH",
+        "ta'rif": "Kimdir aytgan, eshitgan",
+        "manbalar": [
+          "Ayolning o'zi aytgan",
+          "Ota-onasi xabar qilgan",
+          "Do'stlari ma'lum qilgan",
+          "Tanishlari aytgan"
+        ],
+        "misol": "Ayol: 'Men homiladaman' deb aytgan edi",
+        "muhim": "Ishonchli manba bo'lishi kerak"
+      }
+    }
+  },
+
+  "3_ahamiyatsiz_holatlar": {
+    "emoji": "❌",
+    "sarlavha": "AHAMIYATSIZ holatlar - kvalifikatsiyaga ta'sir etmaydi",
+
+    "1_muddat": {
+      "emoji": "📅",
+      "holat": "Homiladorlik muddati",
+      "qoida": "AHAMIYATI YO'Q",
+      "tushuntirish": "1 hafta yoki 9 oy - farqi yo'q",
+      "misol_1": "2 haftalik homiladorlik - JK 97-2(b) ✅",
+      "misol_2": "8 oylik homiladorlik - JK 97-2(b) ✅",
+      "sabab": "Muhim - BILGANI, muddat emas"
+    },
+
+    "2_homila": {
+      "emoji": "👶",
+      "holat": "Homila nobud bo'lishi",
+      "qoida": "AHAMIYATI YO'Q",
+      "tushuntirish": "Homila qutqarildi yoki yo'q - farqi yo'q",
+      "misol_1": "Homila ham o'ldi - JK 97-2(b) ✅",
+      "misol_2": "Homila qutqarildi - JK 97-2(b) ✅",
+      "sabab": "Muhim - ayolni o'ldirish qasdi"
+    },
+
+    "sabab": "❗ Asosiy - HOMILADOR ayolni BILGAN holda o'ldirish!"
+  },
+
+  "4_faktik_xato": {
+    "emoji": "🤷",
+    "sarlavha": "FAKTIK XATO - bilmagan holat",
+
+    "tasnif": {
+      "nom": "Faktik xato",
+      "ma'no": "Aybdor homiladorlikni BILMAGAN",
+      "sabab": "Ayon bo'lmagan (ko'rinmagan, aytilmagan)",
+      "natija": "JK 97-2(b) QO'LLANMAYDI"
+    },
+
+    "misol": {
+      "emoji": "🤷",
+      "holat": "A ayol B ni o'ldirdi. B 2 oylik homilador edi. A BILMAS EDI (B aytmagan, ko'rinmagan, hech kim aytmagan).",
+      "tahlil": {
+        "homilador": "✅ B homilador edi",
+        "bilgan": "❌ A BILMAS EDI",
+        "sabab": "Kichik muddat, aytilmagan"
+      },
+      "kvalifikatsiya": "❌ JK 97-2(b) EMAS",
+      "togri": "✅ JK 97-1 (yoki boshqa belgilar)",
+      "tushuntirish": "BILMAGAN → (b) belgi QO'LLANMAYDI"
+    },
+
+    "qoida": "❗ Bilmagan → (b) belgi yo'q!"
+  },
+
+  "5_teskari_xato": {
+    "emoji": "🔄",
+    "sarlavha": "TESKARI XATO - homilador deb o'ylagan",
+
+    "tasnif": {
+      "nom": "Teskari xato",
+      "ma'no": "Homilador deb o'ylagan, lekin YO'Q edi",
+      "sabab": "Noto'g'ri taxmin",
+      "natija": "JK 97-1"
+    },
+
+    "misol": {
+      "emoji": "🔄",
+      "holat": "A ayol B ni homilador deb o'ylagan va o'ldirdi. Aslida B homilador EMAS edi.",
+      "tahlil": {
+        "homilador": "❌ B homilador EMAS edi",
+        "o'ylagan": "✅ A homilador deb o'ylagan",
+        "xato": "Noto'g'ri taxmin"
+      },
+      "kvalifikatsiya": "❌ JK 97-2(b) EMAS",
+      "togri": "✅ JK 97-1",
+      "tushuntirish": "Haqiqatda homilador yo'q → (b) belgi yo'q",
+      "sabab": "Belgi REAL bo'lishi kerak"
+    },
+
+    "qoida": "❗ Haqiqatda homilador bo'lishi kerak!"
+  },
+
+  "6_murakkab_holatlar": {
+    "emoji": "🔍",
+    "sarlavha": "Murakkab holatlar - amaliy misollar",
+
+    "holat_1_aniq": {
+      "emoji": "✅",
+      "vaziyat": "A va B turmush qurgan. B 6 oylik homilador. A biladi (ko'radi, hujjat ko'rgan). Janjal bo'ldi, A B ni o'ldirdi.",
+      "tahlil": {
+        "homilador": "✅ 6 oy (aniq)",
+        "bilgan": "✅ Ko'rgan, hujjat",
+        "qasd": "✅ O'ldirish qasdi"
+      },
+      "kvalifikatsiya": "JK 97-2(b)",
+      "jazo": "15-25 yil",
+      "sabab": "Barcha shartlar to'liq"
+    },
+
+    "holat_2_bilmagan": {
+      "emoji": "❌",
+      "vaziyat": "A va B tanish. B 1 oylik homilador (ko'rinmaydi). B aytmagan. A B ni o'ldirdi.",
+      "tahlil": {
+        "homilador": "✅ 1 oy",
+        "bilgan": "❌ BILMAGAN",
+        "sabab": "Ko'rinmaydi, aytilmagan"
+      },
+      "kvalifikatsiya": "JK 97-1 (boshqa belgilar bo'lsa 97-2)",
+      "jazo": "8-15 yil",
+      "sabab": "BILMAGAN → (b) yo'q"
+    },
+
+    "holat_3_shubhali": {
+      "emoji": "❓",
+      "vaziyat": "A B ni o'ldirdi. B 3 oylik homilador (kichik ko'rinadigan). Prokuror: A ko'rgan. Advokat: A bilmagan. Aniq dalil yo'q.",
+      "tahlil": {
+        "homilador": "✅ 3 oy",
+        "bilgan": "❓ SHUBHALI",
+        "dalil": "Aniq emas"
+      },
+      "yechim": "❓ Shubha → aybdor foydasiga",
+      "kvalifikatsiya": "JK 97-1",
+      "sabab": "Aniq isbotlanmagan → (b) yo'q"
+    },
+
+    "holat_4_muvaffaq": {
+      "emoji": "🔄",
+      "vaziyat": "A homilador B ni o'ldirmoqchi. Urdi, lekin B qutqarildi (kasalxona). Homila ham saqlab qolindi.",
+      "tahlil": {
+        "homilador": "✅ Edi",
+        "bilgan": "✅ Bilgan",
+        "natija": "❌ O'lmadi (suiqasd)"
+      },
+      "kvalifikatsiya": "JK 25, 97-2(b) (suiqasd)",
+      "jazo": "Suiqasd uchun",
+      "sabab": "O'lmadi, lekin qasd bor edi"
+    }
+  },
+
+  "7_isbotlash": {
+    "emoji": "📊",
+    "sarlavha": "ISBOTLASH - tergovchi va sud uchun",
+
+    "isbotlash_yuki": {
+      "emoji": "⚖️",
+      "kim": "Ayblov (prokuror, tergovchi)",
+      "nima": "AVVALDAN AYON ekanligini isbotlash",
+      "qanday": "Aniq, shubhasiz dalillar"
+    },
+
+    "dalillar": {
+      "emoji": "📋",
+      "turlar": [
+        "1️⃣ Tibbiy hujjatlar (homiladorlik isboti)",
+        "2️⃣ Guvohlar (kimdan eshitgan)",
+        "3️⃣ Foto/video (tashqi belgilar)",
+        "4️⃣ Xabarlar (SMS, chat)",
+        "5️⃣ Audio (suhbat yozuvlari)",
+        "6️⃣ Aybdor so'zlari (bilganini tan oldi)"
+      ]
+    },
+
+    "tekshirish": {
+      "emoji": "🔍",
+      "qadamlar": [
+        "1️⃣ Homiladorlik isboti (tibbiy)",
+        "2️⃣ Aybdor bilganini isbotlash",
+        "3️⃣ Qachon bilgan (oldindan)",
+        "4️⃣ Qanday bilgan (usul)",
+        "5️⃣ Kim aytgan (guvoh)"
+      ]
+    }
+  },
+
+  "8_sudya_uchun_algoritm": {
+    "emoji": "⚖️",
+    "sarlavha": "Sudya uchun kvalifikatsiya algoritmi",
+
+    "qadamlar": [
+      {
+        "qadam": "1️⃣ Jabrlanuvchi ayolmi?",
+        "javob": "Ha → 2-qadam. Yo'q → (b) yo'q"
+      },
+      {
+        "qadam": "2️⃣ Ayol homilador edimi?",
+        "javob": "Ha (tibbiy dalil) → 3-qadam. Yo'q → (b) yo'q"
+      },
+      {
+        "qadam": "3️⃣ Aybdor OLDINDAN bilgan edimi?",
+        "javob": "Aniq dalil bor → 4-qadam. Yo'q/shubha → (b) yo'q"
+      },
+      {
+        "qadam": "4️⃣ O'ldirish qasdi bor edimi?",
+        "javob": "Ha (to'g'ri qasd) → JK 97-2(b). Yo'q → boshqa modda"
+      }
+    ],
+
+    "shubha": {
+      "emoji": "❓",
+      "qoida": "Shubha → aybdor foydasiga",
+      "misol": "BILGAN yoki BILMAGAN - noaniq",
+      "yechim": "BILMAGAN deb hisoblash",
+      "natija": "(b) belgi QO'LLANMAYDI"
+    }
+  },
+
+  "9_muhim_xulosa": {
+    "emoji": "❗",
+    "asosiy_shartlar": [
+      "🤰 Homilador ayol",
+      "👁️ Avvaldan ayon (oldindan bilgan)",
+      "🎯 O'ldirish qasdi (to'g'ri qasd)"
+    ],
+    "ahamiyatsiz": [
+      "❌ Homiladorlik muddati",
+      "❌ Homila nobud bo'lishi"
+    ],
+    "xatolar": [
+      "🤷 Bilmagan → (b) yo'q",
+      "🔄 Homilador deb o'ylagan, yo'q → JK 97-1"
+    ],
+    "isbotlash": "📊 Ayblov isbotlashi kerak - aniq dalillar"
+  },
+
+  "tushuntirish": "JK 97-2(b): Homiladorligi aybdorga AVVALDAN AYON bo'lgan ayolni o'ldirish. Shartlar: ayol homilador + aybdor OLDINDAN bilgan (ko'rgan, eshitgan, hujjat) + o'ldirish qasdi. Bilish usullari: shaxsiy kuzatish (tashqi belgilar), rasmiy hujjat (tibbiy), ma'lumot (ayol, oila, do'stlar). AHAMIYATSIZ: homiladorlik muddati, homila nobud bo'lishi. FAKTIK XATO: bilmagan → JK 97-2(b) EMAS, JK 97-1. TESKARI: homilador deb o'ylagan, yo'q → JK 97-1. Shubha → aybdor foydasiga → (b) yo'q. Jazo: 15-25 yil yoki umrbod.",
+
+  "translations": {
+    "uz": "JK 97-2(b): Homilador ayol. Avvaldan bilgan. Bilmagan → (b) yo'q.",
+    "ru": "УК 97-2(б): Беременная. Заранее знал. Не знал → (б) нет.",
+    "en": "CC 97-2(b): Pregnant woman. Knew beforehand. Didn't know → (b) no."
+  }
+}

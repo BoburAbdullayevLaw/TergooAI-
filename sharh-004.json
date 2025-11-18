@@ -1,0 +1,505 @@
+{
+  "id": "JK-097-SHARH-004",
+  "modda_raqam": "97",
+  "sharh_raqami": 4,
+  "tur": "obyektiv_tomon",
+
+  "_izoh": "BO'LIM 4: Obyektiv tomon - jinoyatning tashqi ko'rinishi, harakat va natija",
+
+  "emoji_sarlavha": "🎬 Obyektiv tomon - harakatlar va natija",
+
+  "asosiy_matn": "Qasddan odam o'ldirish jinoyatining obyektiv tomoni o'zga shaxsni huquqqa xilof ravishda hayotdan mahrum qilishdan iborat. Odam o'ldirish faol harakatlar bilan ham, harakatsizlik orqali ham sodir etilishi mumkin. Odam o'ldirish usuli jinoyatni kvalifikatsiya qilishga ta'sir ko'rsatmaydi",
+
+  "sinonimlar": {
+    "obyektiv tomon": {
+      "variantlar": ["obyektiv tomon", "tashqi tomon", "harakat tomoni", "jinoyat ko'rinishi"],
+      "og'irlik": 90,
+      "rasmiy": true,
+      "emoji": "🎬"
+    },
+    "faol harakat": {
+      "variantlar": ["faol harakat", "harakat", "qilish", "amal"],
+      "og'irlik": 85,
+      "rasmiy": true,
+      "emoji": "👊"
+    },
+    "harakatsizlik": {
+      "variantlar": ["harakatsizlik", "qilmaslik", "qoldirish", "to'xtatish"],
+      "og'irlik": 85,
+      "rasmiy": true,
+      "emoji": "🤷"
+    },
+    "sababiy bogliq": {
+      "variantlar": ["sababiy bog'liq", "sabab-natija", "aloqa", "bog'lanish"],
+      "og'irlik": 95,
+      "rasmiy": true,
+      "emoji": "🔗"
+    }
+  },
+
+  "kontekstli_javoblar": {
+    "_izoh": "Har xil foydalanuvchilar uchun javob uslublari",
+
+    "tergovchi": {
+      "uslub": "juda_rasmiy",
+      "emoji": "👮",
+      "qo'shimcha": [
+        "👮 Tergov yuritishda:",
+        "🎬 Obyektiv tomonni aniqlang",
+        "🔗 Sabab-natija aloqasini tekshiring",
+        "⚖️ Harakatning qonuniyligini baholang"
+      ],
+      "fokus": "aniqlash",
+      "qo'shimcha_malumot": [
+        "1️⃣ HARAKAT: Faol yoki harakatsizlik?",
+        "2️⃣ NATIJA: O'lim yuz bergani (tibbiy ekspertiza)",
+        "3️⃣ ALOQA: Harakat va o'lim o'rtasida bog'liq bormi?",
+        "4️⃣ QONUNIYLIK: Zaruriy mudofaa yoki boshqa asos yo'qmi?",
+        "⚠️ Agar sabab-natija yo'q → JK 97 EMAS!"
+      ]
+    },
+
+    "advokat": {
+      "uslub": "juda_rasmiy",
+      "emoji": "👔",
+      "qo'shimcha": [
+        "⚖️ Himoya strategiyasi:",
+        "❓ Sabab-natija aloqasi yo'qligini isbotlang",
+        "🛡️ Qonuniy asos borligini dalillang",
+        "🔍 O'lim boshqa sababdan ekanligini ko'rsating"
+      ],
+      "fokus": "inkor_qilish",
+      "qo'shimcha_malumot": [
+        "❓ O'lim aybdor harakatidan emasmi? (boshqa sabab)",
+        "❓ Qonuniy asos bormi? (zaruriy mudofaa, zarurat)",
+        "🔍 Tibbiy ekspertizani tekshiring (o'lim sababi)",
+        "🎯 Maqsad: Sabab-natija aloqasi yo'q → JK 97 EMAS"
+      ]
+    },
+
+    "sudya": {
+      "_izoh": "Sudya uchun - obyektiv tomonni baholash",
+      "uslub": "juda_rasmiy",
+      "emoji": "⚖️",
+      "qo'shimcha": [
+        "⚖️ Sud qarori chiqarishda:",
+        "🎬 Obyektiv tomon elementlari bormi?",
+        "🔗 Sabab-natija aloqasi ANIQ isbotlanganmi?",
+        "⚠️ Qonuniy asos bo'lsa → JK 97 EMAS"
+      ],
+      "fokus": "baholash",
+      "qo'shimcha_malumot": [
+        "1️⃣ HARAKAT: Aybdor nima qildi? (faol yoki harakatsizlik)",
+        "2️⃣ NATIJA: O'lim yuz berdi (tibbiy ekspertiza tasdiqladimi?)",
+        "3️⃣ ALOQA: Harakat → O'lim (aloqa ANIQ va ISBOTLANGAN mi?)",
+        "4️⃣ QONUNIYLIK: Qonuniy asos YO'Q (zaruriy mudofaa emas)",
+        "❗ MUHIM: Sabab-natija aloqasi shubhali → aybdor foydasiga (JK 14)",
+        "📋 Tibbiy ekspertiza: o'lim sababini ANIQ ko'rsatishi kerak",
+        "🔍 Agar o'lim boshqa sababdan → aybdor harakati va o'lim aloqasi YO'Q"
+      ]
+    },
+
+    "talaba": {
+      "uslub": "o'rtacha",
+      "emoji": "📚",
+      "qo'shimcha": [
+        "📚 Eslab qoling:",
+        "🎬 Obyektiv tomon = 3 element",
+        "💡 Harakatlar + Natija + Aloqa",
+        "📝 Formula: H + N + A"
+      ],
+      "fokus": "formula",
+      "qo'shimcha_malumot": [
+        "📝 OBYEKTIV TOMON (3 element):",
+        "1️⃣ 👊 HARAKAT (faol yoki harakatsizlik)",
+        "2️⃣ ☠️ NATIJA (o'lim)",
+        "3️⃣ 🔗 ALOQA (sabab-natija)",
+        "✅ Barchasi bo'lsa → Obyektiv tomon bor"
+      ]
+    },
+
+    "oddiy_fuqaro": {
+      "uslub": "norasmiy",
+      "emoji": "👨",
+      "qo'shimcha": [
+        "💬 Oddiy qilib:",
+        "👊 Nima qildi?",
+        "☠️ Odam o'ldimi?",
+        "🔗 Uning harakati tufaylimi?"
+      ],
+      "fokus": "sodda",
+      "qo'shimcha_malumot": [
+        "1️⃣ 👊 HARAKAT: Pichoqladi, otdi, boshqa narsa",
+        "2️⃣ ☠️ NATIJA: Odam o'ldi",
+        "3️⃣ 🔗 ALOQA: Uning qilgani tufayli o'ldi",
+        "❗ Barchasi bo'lsa → Odam o'ldirish"
+      ]
+    }
+  },
+
+  "savol_turlari": {
+    "_izoh": "Qanday savollarga qanday javob beriladi",
+
+    "ta'rif": {
+      "trigger_sozlar": ["nima", "ta'rif", "obyektiv tomon", "degani"],
+      "javob": "asosiy_matn",
+      "emoji": "❓"
+    },
+    "harakat": {
+      "trigger_sozlar": ["harakat", "qanday", "usul", "yo'l"],
+      "javob": "harakat_turlari",
+      "emoji": "👊"
+    },
+    "aloqa": {
+      "trigger_sozlar": ["aloqa", "sabab", "natija", "bogliq"],
+      "javob": "sababiy_aloqa",
+      "emoji": "🔗"
+    }
+  },
+
+  "javob_uzunligi": {
+    "_izoh": "Javob qanchalik batafsil bo'lishi kerak",
+
+    "qisqa": {
+      "shablon": "🎬 Obyektiv tomon = 👊 Harakat + ☠️ O'lim + 🔗 Aloqa"
+    },
+    "o'rtacha": {
+      "shablon": "Obyektiv tomon 3 elementdan: 👊 harakat (faol yoki harakatsizlik), ☠️ natija (o'lim), 🔗 sabab-natija aloqasi. Barchasi bo'lishi kerak."
+    },
+    "batafsil": {
+      "shablon": "🎬 Qasddan odam o'ldirish obyektiv tomoni 3 ta zaruriy elementdan iborat: 1️⃣ 👊 HARAKAT (faol yoki harakatsizlik orqali), 2️⃣ ☠️ NATIJA (jabrlanuvchining biologik o'limi - miyaning tuzalmas halokati), 3️⃣ 🔗 SABABIY ALOQA (harakat va o'lim o'rtasida). ⚠️ Agar sabab-natija aloqasi yo'q bo'lsa → JK 97 qo'llanilmaydi. Odam o'ldirish usuli kvalifikatsiyaga ta'sir qilmaydi."
+    }
+  },
+
+  "1_obyektiv_tomon_tushunchasi": {
+    "_izoh": "BO'LIM 1: OBYEKTIV TOMON - bu nima?",
+
+    "emoji": "🎬",
+    "nom": "Obyektiv tomon",
+    "ta'rif": "Jinoyatning TASHQI ko'rinishi, HARAKATLAR va NATIJA",
+    "tushuntirish": "Bu aybdor nima qilgani, qanday natija yuz bergani",
+
+    "3_element": {
+      "_izoh": "Obyektiv tomonning 3 ta ZARURIY elementi",
+      "emoji": "🔢",
+      "asosiy": "3 ta element BARCHASI bo'lishi SHART",
+
+      "element_1": "1️⃣ 👊 HARAKAT (yoki harakatsizlik)",
+      "element_2": "2️⃣ ☠️ NATIJA (o'lim)",
+      "element_3": "3️⃣ 🔗 SABABIY ALOQA (harakat → o'lim)",
+
+      "muhim": "❗ Bittasi bo'lmasa → obyektiv tomon YO'Q → JK 97 EMAS"
+    }
+  },
+
+  "2_harakat": {
+    "_izoh": "BO'LIM 2: HARAKAT - faol yoki harakatsizlik",
+
+    "emoji": "👊",
+    "sarlavha": "Harakat - jinoyat qanday sodir etilgan",
+    "umumiy": "Odam o'ldirish 2 xil yo'l bilan sodir etilishi mumkin",
+
+    "faol_harakat": {
+      "emoji": "👊",
+      "nom": "1. FAOL HARAKAT",
+      "ta'rif": "Aybdor FAOL harakatlar qiladi (qilish)",
+      "tushuntirish": "Aybdor o'ldirish uchun biror narsa QILADI",
+
+      "misollar": [
+        "🔪 Pichoqlash",
+        "🔫 Otish",
+        "👊 Urish",
+        "💉 Zahar berish",
+        "🪢 Bo'g'ish",
+        "🔥 Yoqib yuborish",
+        "💣 Portlatish"
+      ],
+
+      "xususiyat": "Ko'pchilik hollarda odam o'ldirish faol harakat bilan sodir etiladi"
+    },
+
+    "harakatsizlik": {
+      "emoji": "🤷",
+      "nom": "2. HARAKATSIZLIK",
+      "ta'rif": "Aybdor QILISHI KERAK bo'lgan narsani QILMAYDI",
+      "tushuntirish": "Aybdorning BURCHI bor edi, lekin bajarMADI",
+
+      "shartlar": {
+        "_izoh": "Harakatsizlik uchun 2 ta shart",
+        "1_burch": {
+          "emoji": "📋",
+          "shart": "Aybdorning BURCHI bo'lishi kerak",
+          "manba": "Qonun, kasbiy burch, shartnoma, oldingi harakat"
+        },
+        "2_imkoniyat": {
+          "emoji": "✅",
+          "shart": "Harakat qilish IMKONIYATI bo'lishi kerak",
+          "tushuntirish": "Aybdor harakat qila OLGAN, lekin qilMAGAN"
+        }
+      },
+
+      "misollar": [
+        {
+          "emoji": "👨‍⚕️",
+          "holat": "Shifokor bemorni davolamadi",
+          "burch": "Kasbiy burch (shifokorlik)",
+          "natija": "Bemor o'ldi → harakatsizlik orqali o'ldirish"
+        },
+        {
+          "emoji": "👶",
+          "holat": "Ona chaqaloqni ovqatlantirmadi",
+          "burch": "Qonun (ona burchi)",
+          "natija": "Chaqaloq o'ldi → harakatsizlik orqali o'ldirish"
+        },
+        {
+          "emoji": "💂",
+          "holat": "Qorovul xavfni oldini olmadi",
+          "burch": "Xizmat burchi",
+          "natija": "Odam o'ldi → harakatsizlik orqali o'ldirish"
+        }
+      ],
+
+      "muhim": "❗ Harakatsizlik uchun BURCH va IMKONIYAT bo'lishi SHART!"
+    },
+
+    "asosiy_qoida": "Odam o'ldirish HAR QANDAY yo'l bilan (faol yoki harakatsizlik) sodir etilishi mumkin"
+  },
+
+  "3_natija": {
+    "_izoh": "BO'LIM 3: NATIJA - o'lim",
+
+    "emoji": "☠️",
+    "sarlavha": "Natija - jabrlanuvchining o'limi",
+    "ta'rif": "Jabrlanuvchining BIOLOGIK O'LIMI",
+
+    "biologik_olim": {
+      "emoji": "☠️",
+      "nom": "Biologik o'lim",
+      "ta'rif": "Miyaning tuzalmas halokati",
+      "vaqt": "Miya faoliyati to'xtashi momenti",
+      "belgilari": [
+        "Miya faoliyati to'xtadi",
+        "Qaytarib bo'lmaydigan",
+        "Tibbiy ekspertiza tasdiqladi"
+      ],
+      "muhim": "❗ Shu momentdan HAYOT tugadi hisoblanadi"
+    },
+
+    "moddiy_tarkib": {
+      "_izoh": "Odam o'ldirish - moddiy tarkibli jinoyat",
+      "emoji": "📋",
+      "ta'rif": "Jinoyat NATIJA (o'lim) yuz bergandagina TUGALLANGAN hisoblanadi",
+      "tushuntirish": "Agar o'lim bo'lmasa → tugallanmagan (suiqasd)",
+
+      "holat_1_olim_bor": {
+        "emoji": "☠️",
+        "holat": "O'lim yuz berdi",
+        "natija": "Jinoyat TUGALLANGAN → JK 97"
+      },
+      "holat_2_olim_yoq": {
+        "emoji": "❌",
+        "holat": "O'lim yuz bermadi (tirik qoldi)",
+        "natija": "Jinoyat TUGALLANMAGAN → JK 25, 97 (suiqasd)"
+      }
+    },
+
+    "tibbiy_ekspertiza": {
+      "emoji": "🏥",
+      "nom": "Tibbiy ekspertiza",
+      "vazifa": "O'lim faktini va sababini aniqlash",
+      "zaruriylik": "MAJBURIY (har doim o'tkazilishi kerak)",
+      "aniqlanadi": [
+        "O'lim yuz berdi yoki yo'q",
+        "O'lim sababi nima",
+        "O'lim vaqti qachon",
+        "Jarohatlar xususiyati"
+      ]
+    }
+  },
+
+  "4_sababiy_aloqa": {
+    "_izoh": "BO'LIM 4: SABABIY ALOQA - eng muhim element!",
+
+    "emoji": "🔗",
+    "sarlavha": "Sabab-natija aloqasi",
+    "ta'rif": "Aybdorning harakati va jabrlanuvchining o'limi o'rtasida BOG'LIQ",
+    "muhim": "❗ Bu ENG MUHIM element - agar yo'q bo'lsa, JK 97 QO'LLANILMAYDI!",
+
+    "tushuncha": {
+      "emoji": "🔗",
+      "savol": "Jabrlanuvchi AYNAN aybdorning harakati TUFAYLI o'ldimi?",
+      "formula": "Aybdor harakati → O'lim",
+      "tushuntirish": "Agar aybdor bu harakatni qilmaganda edi, jabrlanuvchi o'lmas edi"
+    },
+
+    "aloqa_bor": {
+      "_izoh": "Sabab-natija aloqasi BOR - JK 97",
+      "emoji": "✅",
+
+      "misol_1": {
+        "holat": "A B ni pichoqladi → qon ketdi → B o'ldi",
+        "tahlil": "Pichoqlash → Qon ketdi → O'lim",
+        "aloqa": "✅ BOR (o'lim pichoqlash tufayli)",
+        "natija": "JK 97"
+      },
+
+      "misol_2": {
+        "holat": "A B ni urdi, boshi toshga tegdi → bosh jarohati → B o'ldi",
+        "tahlil": "Urish → Bosh jarohati → O'lim",
+        "aloqa": "✅ BOR (o'lim urish tufayli)",
+        "natija": "JK 97"
+      }
+    },
+
+    "aloqa_yoq": {
+      "_izoh": "Sabab-natija aloqasi YO'Q - JK 97 EMAS!",
+      "emoji": "❌",
+
+      "misol_1": {
+        "holat": "A B ni urdi → B kasalxonaga yotqizildi → shifokor xato davoladi → B o'ldi",
+        "tahlil": "Urish → Kasalxona → SHIFOKOR XATOSI → O'lim",
+        "aloqa": "❌ YO'Q (o'lim shifokor xatosi tufayli, urish emas)",
+        "natija": "A ga JK 97 EMAS, shifokor uchun JK boshqa modda",
+        "tushuntirish": "O'lim ASOSIY sababi - shifokor xatosi"
+      },
+
+      "misol_2": {
+        "holat": "A B ni engil urdi → B uyiga ketayotgan yo'lda avtomashina urib ketdi → B o'ldi",
+        "tahlil": "Urish → Yo'lda → AVTOMASHINA → O'lim",
+        "aloqa": "❌ YO'Q (o'lim avtomashina tufayli, urish emas)",
+        "natija": "A ga JK 97 EMAS, haydovchi uchun JK 102",
+        "tushuntirish": "O'lim ASOSIY sababi - avtomashina"
+      },
+
+      "misol_3": {
+        "holat": "A B ni urdi → B kasalxonaga yotqizildi → kasalxonada yong'in bo'ldi → B o'ldi",
+        "tahlil": "Urish → Kasalxona → YONG'IN → O'lim",
+        "aloqa": "❌ YO'Q (o'lim yong'in tufayli, urish emas)",
+        "natija": "A ga JK 97 EMAS",
+        "tushuntirish": "O'lim ASOSIY sababi - yong'in (kutilmagan hodisa)"
+      }
+    },
+
+    "murakkab_holatlar": {
+      "_izoh": "Murakkab holatlar - ehtiyotkorlik kerak",
+      "emoji": "⚠️",
+
+      "bir_necha_sabab": {
+        "holat": "Bir necha sabab birgalikda o'limga olib keldi",
+        "misol": "A B ni urdi (og'ir jarohat) + Shifokor xato davoladi (qo'shimcha zarar) = B o'ldi",
+        "yechim": "Har bir sababning HISSASINI aniqlash kerak",
+        "natija": "Agar urish ASOSIY sabab → A ga JK 97. Agar shifokor xatosi ASOSIY → A ga JK 104, shifokor uchun boshqa modda"
+      },
+
+      "vaqt_oraliği": {
+        "holat": "Harakat va o'lim o'rtasida ancha vaqt o'tdi",
+        "misol": "A B ni urdi → 1 oy keyin kasallik asoratlari tufayli B o'ldi",
+        "yechim": "Tibbiy ekspertiza: o'lim urish asosatlarimi?",
+        "natija": "Agar urish asosatlar → aloqa BOR → JK 97"
+      }
+    },
+
+    "sudya_uchun": {
+      "_izoh": "Sudya sabab-natija aloqasini qanday baholaydi",
+      "qoidalar": [
+        "📋 Tibbiy ekspertiza MAJBURIY",
+        "🔍 O'lim ASOSIY sababini aniqlash",
+        "❓ Shubha bo'lsa → aybdor foydasiga (JK 14)",
+        "⚖️ Bir necha sabab bo'lsa → har birining hissasini baholash"
+      ]
+    }
+  },
+
+  "5_qonuniy_asoslar": {
+    "_izoh": "BO'LIM 5: QONUNIY ASOSLAR - qachon JK 97 QO'LLANILMAYDI",
+
+    "emoji": "🛡️",
+    "sarlavha": "Huquqqa xilof EMAS - qonuniy asoslar",
+    "umumiy": "Agar qonuniy asos bo'lsa → huquqqa xilof EMAS → JK 97 EMAS",
+
+    "zaruriy_mudofaa": {
+      "emoji": "🛡️",
+      "modda": "JK 37",
+      "nom": "Zaruriy mudofaa",
+      "ta'rif": "O'zini yoki boshqalarni himoya qilish",
+      "misol": "Hujumchi sizga hujum qildi, siz himoya qilib o'ldirdingiz",
+      "natija": "❌ Huquqqa xilof EMAS → JK 97 QO'LLANILMAYDI"
+    },
+
+    "oxirgi_zarurat": {
+      "emoji": "⚠️",
+      "modda": "JK 38",
+      "nom": "Oxirgi zarurat",
+      "ta'rif": "Katta xavfni oldini olish uchun kichik zarar",
+      "misol": "Samolyot qulayapti, bir uyga tushdi, odam o'ldi (ko'pni saqlab qolish uchun)",
+      "natija": "❌ Huquqqa xilof EMAS → JK 97 QO'LLANILMAYDI"
+    },
+
+    "ushlash": {
+      "emoji": "👮",
+      "modda": "JK 39",
+      "nom": "Jinoyatchini ushlash",
+      "ta'rif": "Jinoyatchi qochayotganda ushlash",
+      "misol": "Jinoyatchi qochdi, politsiya ushlashda o'ldirdi",
+      "natija": "❌ Huquqqa xilof EMAS → JK 97 QO'LLANILMAYDI"
+    }
+  },
+
+  "6_usul_ahamiyati": {
+    "_izoh": "BO'LIM 6: USUL - kvalifikatsiyaga ta'sir qilmaydi",
+
+    "emoji": "🔧",
+    "sarlavha": "Odam o'ldirish usuli",
+    "qoida": "❗ Usul kvalifikatsiyaga TA'SIR QILMAYDI",
+    "tushuntirish": "Qanday usul bilan o'ldirganidan qat'i nazar → JK 97",
+
+    "misollar": [
+      "🔪 Pichoq bilan o'ldirdi → JK 97",
+      "🔫 Qurol bilan o'ldirdi → JK 97",
+      "👊 Qo'l bilan urdi → JK 97",
+      "💉 Zahar berdi → JK 97",
+      "🪢 Bo'g'di → JK 97"
+    ],
+
+    "istisno": {
+      "_izoh": "Usul faqat bir holatda muhim",
+      "emoji": "💥",
+      "holat": "Umumxavfli usul - JK 97-2(d)",
+      "ta'rif": "Boshqa odamlar uchun ham xavfli usul",
+      "misol": "Portlatish, yong'in - ko'p odamga xavf",
+      "natija": "Bu OG'IRLASHTIRUVCHI holat → JK 97-2(d)"
+    }
+  },
+
+  "7_muhim_xulosa": {
+    "_izoh": "BO'LIM 7: MUHIM XULOSA",
+
+    "emoji": "❗",
+    "asosiy": "Obyektiv tomon = Harakat + Natija + Sabab-natija aloqasi",
+    "formula": "👊 + ☠️ + 🔗 = 🎬 Obyektiv tomon",
+    "eng_muhim": "🔗 Sabab-natija aloqasi - ENG MUHIM! Agar yo'q → JK 97 EMAS"
+  },
+
+  "tushuntirish": "Obyektiv tomon 3 ta zaruriy elementdan iborat: 👊 HARAKAT (faol yoki harakatsizlik), ☠️ NATIJA (o'lim - miyaning tuzalmas halokati), 🔗 SABABIY ALOQA (harakat va o'lim o'rtasida). Barchasi bo'lishi SHART. Agar sabab-natija aloqasi yo'q → JK 97 qo'llanilmaydi. Usul kvalifikatsiyaga ta'sir qilmaydi.",
+
+  "misollar": {
+    "to'g'ri": {
+      "emoji": "✅",
+      "holat": "A B ni pichoqladi → qon ketdi → B o'ldi (tibbiy ekspertiza tasdiqladi)",
+      "tahlil": "Harakat (pichoqlash) + Natija (o'lim) + Aloqa (pichoqlash tufayli o'ldi)",
+      "natija": "Obyektiv tomon BOR → JK 97"
+    },
+    "noto'g'ri": {
+      "emoji": "❌",
+      "holat": "A B ni urdi → B kasalxonaga yotqizildi → shifokor xato qildi → B o'ldi",
+      "tahlil": "Sabab-natija aloqasi YO'Q (o'lim shifokor xatosi tufayli)",
+      "natija": "Obyektiv tomon YO'Q (sabab-natija yo'q) → A ga JK 97 EMAS"
+    }
+  },
+
+  "translations": {
+    "uz": "Obyektiv tomon: harakat + o'lim + sabab-natija. Usul farq qilmaydi.",
+    "ru": "Объективная сторона: действие + смерть + причинная связь. Способ не имеет значения.",
+    "en": "Objective side: action + death + causal link. Method doesn't matter."
+  }
+}

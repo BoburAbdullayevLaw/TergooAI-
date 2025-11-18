@@ -1,0 +1,346 @@
+{
+  "id": "JK-097-SHARH-015",
+  "modda_raqam": "97",
+  "sharh_raqami": 15,
+  "tur": "shikast_olim",
+
+  "_izoh": "BO'LIM 15: JK 97-2(d) va JK 104-3(d) farqi - qasd yo'nalishi",
+
+  "emoji_sarlavha": "💪 Og'ir shikast → O'lim (qasd farqi)",
+
+  "asosiy_matn": "JK 97-moddasi 2-qismi (d) bandi va JK 104-moddasi 3-qismi (d) bandi o'rtasidagi farq aybdorning QASD YO'NALISHIDA. JK 97-2(d) - o'ldirish QASDI bor edi, og'ir shikast - usul. JK 104-3(d) - shikast qasdi bor edi, o'lim - EHTIYOTSIZLIK natijasi. Farqni aniqlash uchun SHARH-006 ga qarang (qasdni aniqlash, holatlar majmui)",
+
+  "sinonimlar": {
+    "ogir shikast": {
+      "variantlar": ["og'ir shikast", "jiddiy jarohat", "katta shikast"],
+      "og'irlik": 90,
+      "rasmiy": true,
+      "emoji": "💪"
+    }
+  },
+
+  "kontekstli_javoblar": {
+    "tergovchi": {
+      "uslub": "juda_rasmiy",
+      "emoji": "👮",
+      "qo'shimcha": [
+        "👮 Tergov yuritishda:",
+        "🎯 QASD nimaga yo'nalgan?",
+        "💪 O'ldirish qasdi yoki shikast qasdi?",
+        "📊 Holatlar majmuini tekshiring (SHARH-006)"
+      ],
+      "qo'shimcha_malumot": [
+        "❗ ASOSIY SAVOL: Qasd NIMAGA yo'nalgan?",
+        "🎯 O'LDIRISH qasdi → JK 97-2(d)",
+        "💪 SHIKAST qasdi → JK 104-3(d)",
+        "📊 HOLATLAR MAJMUI (SHARH-006):",
+        "- Usul va qurol",
+        "- Jarohatlar (joy, son)",
+        "- To'xtash sabablari",
+        "- Oldingi munosabat",
+        "- Aybdorning so'zlari",
+        "- Keyingi harakatlar"
+      ]
+    },
+
+    "advokat": {
+      "uslub": "juda_rasmiy",
+      "emoji": "👔",
+      "qo'shimcha": [
+        "⚖️ Himoya strategiyasi:",
+        "💪 Shikast qasdi ekanligini dalillang",
+        "❌ O'ldirish qasdi yo'qligini isbotlang",
+        "📉 JK 97-2(d) dan JK 104-3(d) ga"
+      ],
+      "qo'shimcha_malumot": [
+        "🎯 MAQSAD: JK 97-2(d) → JK 104-3(d)",
+        "📉 15-25 yil → 5-10 yil",
+        "💪 Qasd SHIKASTGA yo'nalgan (o'ldirish emas)",
+        "❌ O'lim - EHTIYOTSIZLIK (tasodif)"
+      ]
+    },
+
+    "sudya": {
+      "uslub": "juda_rasmiy",
+      "emoji": "⚖️",
+      "qo'shimcha": [
+        "⚖️ Sud qarori chiqarishda:",
+        "🎯 QASD YO'NALISHI aniq aniqlangan mi?",
+        "📊 Holatlar majmui to'liq baholangan mi?",
+        "❓ Shubha bo'lsa → JK 104-3(d)"
+      ],
+      "qo'shimcha_malumot": [
+        "❗ ASOSIY PRINTSIP:",
+        "O'lim yuz berdi ≠ O'ldirish qasdi bor",
+        "📊 HOLATLAR MAJMUI (SHARH-006 ga qarang):",
+        "- Barcha 6 ta holatni baholash",
+        "- Birgalikda ko'rish",
+        "❓ SHUBHA → JK 104-3(d) (aybdor foydasiga)",
+        "📝 Qaror: Nima uchun shu qasd - har bir dalilni yozish"
+      ]
+    },
+
+    "talaba": {
+      "uslub": "o'rtacha",
+      "emoji": "📚",
+      "qo'shimcha": [
+        "📚 Eslab qoling:",
+        "🎯 JK 97-2(d): O'ldirish QASDI",
+        "💪 JK 104-3(d): Shikast qasdi, o'lim ehtiyotsizlik",
+        "📊 Holatlar majmui - SHARH-006"
+      ],
+      "qo'shimcha_malumot": [
+        "📝 FARQ:",
+        "🎯 JK 97-2(d): QASD → O'ldirish",
+        "💪 JK 104-3(d): QASD → Shikast, O'LIM → Ehtiyotsizlik",
+        "❗ NATIJA bir xil (o'lim), QASD boshqa!"
+      ]
+    },
+
+    "oddiy_fuqaro": {
+      "uslub": "norasmiy",
+      "emoji": "👨",
+      "qo'shimcha": [
+        "💬 Oddiy qilib:",
+        "🎯 O'ldirmoqchi edi → JK 97-2(d) (15-25 yil)",
+        "💪 Urmoqchi edi, o'ldi → JK 104-3(d) (5-10 yil)",
+        "❓ Niyatiga qaraladi"
+      ],
+      "qo'shimcha_malumot": [
+        "🎯 O'LDIRMOQCHI edi → 15-25 yil",
+        "💪 URMOQCHI edi → 5-10 yil",
+        "❗ Odam o'ldi ≠ O'ldirmoqchi edi"
+      ]
+    }
+  },
+
+  "javob_uzunligi": {
+    "qisqa": {
+      "shablon": "🎯 JK 97-2(d): O'ldirish qasdi. 💪 JK 104-3(d): Shikast qasdi. SHARH-006 ga qarang."
+    },
+    "o'rtacha": {
+      "shablon": "JK 97-2(d) vs JK 104-3(d): Farq - QASD YO'NALISHI. 97-2(d): o'ldirish QASDI bor. 104-3(d): shikast qasdi, o'lim ehtiyotsizlik. Aniqlash: holatlar majmui (SHARH-006). Shubha → 104-3(d)."
+    },
+    "batafsil": {
+      "shablon": "Farq JK 97-2(d) va JK 104-3(d): QASD YO'NALISHI. 🎯 JK 97-2(d): Aybdor O'LDIRISH qasdi bilan harakat qilgan, og'ir shikast - USUL. 💪 JK 104-3(d): Aybdor SHIKAST qasdi bilan harakat qilgan, o'lim - EHTIYOTSIZLIK natijasi. Aniqlash: HOLATLAR MAJMUI (SHARH-006): usul, qurol, jarohatlar, to'xtash, munosabat, harakatlar. O'lim yuz berdi ≠ O'ldirish qasdi. Shubha → JK 104-3(d) (aybdor foydasiga). Jazo: 97-2(d): 15-25 yil, 104-3(d): 5-10 yil."
+    }
+  },
+
+  "1_asosiy_muammo": {
+    "emoji": "⚖️",
+    "sarlavha": "ASOSIY MUAMMO - ikki modda, bir natija",
+    "muammo": "Natija BIR XIL - odam O'LDI. Lekin jinoyat BOSHQA!",
+
+    "umumiy": {
+      "emoji": "☠️",
+      "natija": "Har ikkisida ham ODAM O'LDI",
+      "usul": "Og'ir shikast yetkazildi",
+      "muammo": "Qaysi modda? Farqi nimada?"
+    },
+
+    "farq": {
+      "asosiy": "❗ FARQ - QASD YO'NALISHIDA!",
+
+      "jk_97_2d": {
+        "emoji": "🎯",
+        "modda": "JK 97-2(d)",
+        "qasd": "O'LDIRISH qasdi",
+        "shikast": "Og'ir shikast - USUL (o'ldirish uchun)",
+        "jazo": "⛓️ 15-25 yil yoki umrbod"
+      },
+
+      "jk_104_3d": {
+        "emoji": "💪",
+        "modda": "JK 104-3(d)",
+        "qasd": "SHIKAST qasdi",
+        "olim": "O'lim - EHTIYOTSIZLIK (kutilmagan)",
+        "jazo": "⛓️ 5-10 yil"
+      }
+    }
+  },
+
+  "2_qasdni_aniqlash": {
+    "emoji": "🔍",
+    "sarlavha": "Qasdni qanday aniqlash?",
+    "havola": "❗ BATAFSIL - SHARH-006 ga qarang!",
+
+    "qisqacha": {
+      "emoji": "📊",
+      "usul": "HOLATLAR MAJMUI",
+      "prinsip": "Barcha holatlar BIRGALIKDA baholanadi",
+
+      "6_holat": [
+        "1️⃣ Usul va qurol",
+        "2️⃣ Jarohatlar (joy, son, chuqurlik)",
+        "3️⃣ To'xtash sabablari",
+        "4️⃣ Oldingi munosabat",
+        "5️⃣ Aybdorning so'zlari va fe'l-atvori",
+        "6️⃣ Keyingi harakatlar"
+      ]
+    },
+
+    "batafsil_sharh": "SHARH-006 da to'liq metodika bor!"
+  },
+
+  "3_jk_97_2d": {
+    "emoji": "🎯",
+    "sarlavha": "JK 97-2(d) - O'LDIRISH qasdi",
+
+    "tushuncha": {
+      "qasd": "O'LDIRISH qasdi bor edi",
+      "shikast": "Og'ir shikast - USUL (o'ldirish uchun)",
+      "natija": "O'lim - MAQSAD edi"
+    },
+
+    "belgilari": [
+      "O'ldirish - MAQSAD",
+      "Og'ir shikast - VOSITA",
+      "Hayot uchun muhim joyga urish",
+      "Bir necha marta urish",
+      "O'ldiruvchi qurol",
+      "O'zi to'xtadi (maqsadiga yetdi)",
+      "Yordam chaqirmadi"
+    ],
+
+    "misol": {
+      "emoji": "🎯",
+      "holat": "A B ni o'ldirmoqchi edi. Boshiga 5 marta pichoq sanqdi. B yiqildi, A ketdi. B o'ldi.",
+      "tahlil": {
+        "usul": "🔪 Pichoq (o'ldiruvchi)",
+        "joy": "🧠 Bosh (hayot uchun muhim)",
+        "son": "5️⃣ 5 marta (ko'p)",
+        "toxtatish": "💭 O'zi to'xtadi",
+        "yordam": "❌ Yordam chaqirmadi"
+      },
+      "xulosa": "Barcha belgilar O'LDIRISH qasdi ni ko'rsatadi",
+      "kvalifikatsiya": "JK 97-2(d)"
+    }
+  },
+
+  "4_jk_104_3d": {
+    "emoji": "💪",
+    "sarlavha": "JK 104-3(d) - SHIKAST qasdi",
+
+    "tushuncha": {
+      "qasd": "SHIKAST qasdi bor edi",
+      "olim": "O'lim - EHTIYOTSIZLIK (kutilmagan)",
+      "natija": "O'lim - TASODIF"
+    },
+
+    "belgilari": [
+      "Urish - MAQSAD",
+      "O'ldirish - MAQSAD EMAS",
+      "Oddiy qurol yoki qo'l",
+      "Bir marta yoki kam urish",
+      "Muhim emas joyga urish",
+      "Darhol to'xtadi",
+      "Tez yordam chaqirdi"
+    ],
+
+    "misol": {
+      "emoji": "💪",
+      "holat": "A va B janjal qilishdi. A hissiylanib, qo'l ostidagi shisha bilan B ning boshiga bir marta urdi. B yiqildi. A qo'rqib, tez yordam chaqirdi. B kasalxonada o'ldi.",
+      "tahlil": {
+        "usul": "🍾 Shisha (oddiy, qo'l ostida)",
+        "joy": "🧠 Bosh, lekin",
+        "son": "1️⃣ Bir marta",
+        "toxtatish": "💭 Darhol to'xtadi",
+        "yordam": "✅ Tez yordam chaqirdi",
+        "munosabat": "😊 Do'st edilar"
+      },
+      "xulosa": "Ko'p belgilar SHIKAST qasdi ni ko'rsatadi",
+      "kvalifikatsiya": "JK 104-3(d)"
+    }
+  },
+
+  "5_amaliy_taqqoslash": {
+    "emoji": "📊",
+    "sarlavha": "Amaliy taqqoslash - bir xil natija, har xil qasd",
+
+    "holat_1_oldirish": {
+      "emoji": "🎯",
+      "vaziyat": "A B ni o'ch olish uchun pichoq bilan 7 marta boshiga va ko'kragiga sanqdi. B o'ldi.",
+      "qasd_tahlil": {
+        "maqsad": "O'ch olish (oldindan)",
+        "usul": "Pichoq (o'ldiruvchi)",
+        "joy": "Bosh, ko'krak (muhim)",
+        "son": "7 marta (ko'p)",
+        "niyat": "O'ldirish"
+      },
+      "qasd": "🎯 O'LDIRISH qasdi",
+      "modda": "JK 97-2(d)",
+      "jazo": "15-25 yil"
+    },
+
+    "holat_2_shikast": {
+      "emoji": "💪",
+      "vaziyat": "A va B ichib o'tirishdi, janjal bo'ldi. A tayoq bilan B ning oyog'iga bir marta urdi. B yiqildi, boshi toshga urildi. B kasalxonada o'ldi.",
+      "qasd_tahlil": {
+        "maqsad": "Janjal (spontan)",
+        "usul": "Tayoq (oddiy)",
+        "joy": "Oyoq (muhim emas)",
+        "son": "1 marta",
+        "niyat": "Urish (o'ldirish emas)",
+        "olim": "Tasodif (bosh toshga urildi)"
+      },
+      "qasd": "💪 SHIKAST qasdi",
+      "modda": "JK 104-3(d)",
+      "jazo": "5-10 yil"
+    }
+  },
+
+  "6_shubha_printsipi": {
+    "emoji": "❓",
+    "sarlavha": "Shubha - aybdor foydasiga",
+    "qoida": "Agar qasd yo'nalishi NOANIQ → ENGILROQ modda (JK 104-3(d))",
+
+    "misol": {
+      "holat": "Qasd aniq emas - o'ldirmoqchi edi yoki urmoqchi edi?",
+      "dalillar": "Ba'zi dalillar o'ldirish ga, ba'zilari shikast ga ishora qilmoqda",
+      "shubha": "❓ NOANIQ",
+      "yechim": "Aybdor FOYDASIGA → JK 104-3(d) (yengilroq)",
+      "sabab": "JK 14 - Shubha aybdor foydasiga talqin qilinadi"
+    }
+  },
+
+  "7_sudya_uchun": {
+    "emoji": "⚖️",
+    "sarlavha": "Sudya uchun ko'rsatmalar",
+
+    "qadamlar": [
+      "1️⃣ HOLATLAR MAJMUINI to'liq o'rganish (SHARH-006)",
+      "2️⃣ Har bir holatni ALOHIDA baholash",
+      "3️⃣ Barchasini BIRGALIKDA ko'rish",
+      "4️⃣ Qasd YO'NALISHINI aniqlash",
+      "5️⃣ Agar ANIQ → shu modda",
+      "6️⃣ Agar NOANIQ → ENGILROQ (JK 104-3(d))"
+    ],
+
+    "qaror": {
+      "emoji": "📝",
+      "talab": "Qarorga YOZISH:",
+      "nima": [
+        "Har bir holat (6 ta)",
+        "Har birining tahlili",
+        "Nima uchun shu qasd",
+        "Nima uchun shu modda"
+      ]
+    }
+  },
+
+  "8_muhim_xulosa": {
+    "emoji": "❗",
+    "asosiy": "O'lim yuz berdi ≠ O'ldirish qasdi bor!",
+    "farq": "Farq - QASD YO'NALISHIDA",
+    "usul": "Aniqlash - HOLATLAR MAJMUI (SHARH-006)",
+    "shubha": "Noaniq → JK 104-3(d) (aybdor foydasiga)"
+  },
+
+  "tushuntirish": "JK 97-2(d) va JK 104-3(d) farqi - QASD YO'NALISHI. 🎯 JK 97-2(d): O'LDIRISH qasdi, og'ir shikast usul. 💪 JK 104-3(d): SHIKAST qasdi, o'lim ehtiyotsizlik. Aniqlash: HOLATLAR MAJMUI (SHARH-006): usul, qurol, jarohatlar, to'xtash, munosabat, so'zlar, harakatlar - BARCHASINI birgalikda. O'lim ≠ O'ldirish qasdi. Shubha → JK 104-3(d) (aybdor foydasiga, JK 14). Jazo: 97-2(d): 15-25 yil, 104-3(d): 5-10 yil.",
+
+  "translations": {
+    "uz": "JK 97-2(d): O'ldirish qasdi. JK 104-3(d): Shikast qasdi. Farq - QASD. SHARH-006.",
+    "ru": "УК 97-2(д): Умысел на убийство. УК 104-3(д): Умысел на травму. Разница - УМЫСЕЛ. КОММ-006.",
+    "en": "CC 97-2(d): Intent to kill. CC 104-3(d): Intent to injure. Difference - INTENT. COMM-006."
+  }
+}

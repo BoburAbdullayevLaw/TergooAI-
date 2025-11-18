@@ -1,0 +1,613 @@
+{
+  "id": "JK-097-SHARH-018",
+  "modda_raqam": "97",
+  "sharh_raqami": 18,
+  "tur": "ojiz_ahvol",
+
+  "_izoh": "BO'LIM 18: JK 97-2(v) - Ojiz ahvoldagi shaxsni o'ldirish",
+
+  "emoji_sarlavha": "🛡️ Ojiz ahvol (himoyasiz holat)",
+
+  "asosiy_matn": "JK 97-2(v): Aybdorga ayon bo'lgan OJIZ AHVOLDAGI shaxsni o'ldirish. Ojiz ahvol - jabrlanuvchi o'zini HIMOYA QILA OLMAYDI yoki harakatlarni TUSHUNMAYDI/BOSHQARMAYDI (fiziologik, jismoniy, ruhiy sabablarga ko'ra). Sabablari: nuqsonlar, kasallik, yosh/keksalik, og'riq, behush, uyqu, mastlik (og'ir). Aybdor ojiz ahvolni BILGAN bo'lishi shart. Mastlik: kim ahvolga solgan - ahamiyatsiz. MAXSUS: chaqaloq ojiz, lekin ona o'ldirsa → JK 99 (JK 97-2(v) EMAS).",
+
+  "sinonimlar": {
+    "ojiz_ahvol": {
+      "variantlar": ["ojiz ahvol", "zaif holat", "himoyasiz ahvol", "qo'rg'osiz holat"],
+      "og'irlik": 95,
+      "rasmiy": true,
+      "emoji": "🛡️"
+    },
+    "himoya_qila_olmaydi": {
+      "variantlar": ["himoya qila olmaydi", "qarshilik ko'rsata olmaydi", "o'zini himoyalash imkoni yo'q"],
+      "og'irlik": 90,
+      "rasmiy": true,
+      "emoji": "❌"
+    }
+  },
+
+  "kontekstli_javoblar": {
+    "tergovchi": {
+      "uslub": "juda_rasmiy",
+      "emoji": "👮",
+      "qo'shimcha": [
+        "👮 Tergov yuritishda:",
+        "🛡️ OJIZ AHVOL isboti (tibbiy, texnik)",
+        "👁️ Aybdor BILGAN ekanligini aniqlash",
+        "📊 Sabab: jismoniy, ruhiy, fiziologik"
+      ],
+      "qo'shimcha_malumot": [
+        "❗ ISBOTLASH KERAK:",
+        "1️⃣ Jabrlanuvchi OJIZ AHVOLDA edi",
+        "2️⃣ Ojiz ahvol QANDAY (sabab)",
+        "3️⃣ Aybdor buni BILGAN",
+        "4️⃣ O'ldirish QASDI",
+        "",
+        "🛡️ OJIZ AHVOL TURLARI:",
+        "👶 Juda yosh (chaqaloq, bola)",
+        "👴 Juda keks (harakatsiz)",
+        "🤕 Jismoniy nuqson (nogʻiron)",
+        "🧠 Ruhiy kasallik (aql zaif)",
+        "😴 Uyqu, behush",
+        "🍺 Og'ir mastlik",
+        "🤒 Og'riq, xushsiz",
+        "",
+        "📊 DALILLAR:",
+        "- Tibbiy xulosalar",
+        "- Foto/video",
+        "- Guvohlar",
+        "- Holat rekonstruksiyasi"
+      ]
+    },
+
+    "advokat": {
+      "uslub": "juda_rasmiy",
+      "emoji": "👔",
+      "qo'shimcha": [
+        "⚖️ Himoya strategiyasi:",
+        "❌ Ojiz ahvol YO'Q edi (qarshilik ko'rsata olardi)",
+        "🤷 Aybdor BILMAGAN",
+        "📉 JK 97-2(v) dan JK 97-1 ga"
+      ],
+      "qo'shimcha_malumot": [
+        "🎯 MAQSAD: (v) belgini olib tashlash",
+        "❌ OJIZ EMAS dalillari:",
+        "- Qarshilik ko'rsatgan",
+        "- Tushungan (gapirgan)",
+        "- Harakatchan edi",
+        "- Yengil mastlik (og'ir emas)",
+        "",
+        "🤷 BILMAGAN:",
+        "- Tashqidan ko'rinmagan",
+        "- Hech kim aytmagan",
+        "- O'zi yashirgan",
+        "",
+        "📉 97-2(v) → 97-1:",
+        "15-25 yil → 8-15 yil"
+      ]
+    },
+
+    "sudya": {
+      "uslub": "juda_rasmiy",
+      "emoji": "⚖️",
+      "qo'shimcha": [
+        "⚖️ Sud qarori chiqarishda:",
+        "🛡️ OJIZ AHVOL ANIQ isbotlangan mi?",
+        "👁️ Aybdor BILGAN ekanligiga dalil bormi?",
+        "❓ Shubha → (v) belgi YO'Q"
+      ],
+      "qo'shimcha_malumot": [
+        "❗ TEKSHIRISH KETMA-KETLIGI:",
+        "1️⃣ OJIZ AHVOL mavjudmi? (tibbiy dalil)",
+        "2️⃣ QANDAY ojiz? (turi, darajasi)",
+        "3️⃣ Aybdor BILGAN mi? (aniq dalil)",
+        "4️⃣ Agar SHUBHA → (v) yo'q",
+        "",
+        "🛡️ OJIZ AHVOL DARAJALARI:",
+        "✅ TO'LIQ ojiz (umuman himoyalanmaydi)",
+        "✅ QISMAN ojiz (kam himoyalanadi)",
+        "❌ OJIZ EMAS (normal qarshilik)",
+        "",
+        "❓ CHEGARAVIY HOLATLAR:",
+        "- Yengil mastlik → ojiz EMAS",
+        "- O'rtacha nuqson → har holat alohida",
+        "→ Shubha → aybdor foydasiga",
+        "",
+        "⚠️ MAXSUS: Chaqaloq va ona:",
+        "- Chaqaloq ojiz ✅",
+        "- Lekin ona o'ldirsa → JK 99",
+        "- (v) belgi QO'LLANMAYDI"
+      ]
+    },
+
+    "talaba": {
+      "uslub": "o'rtacha",
+      "emoji": "📚",
+      "qo'shimcha": [
+        "📚 Eslab qoling:",
+        "🛡️ Ojiz ahvol = himoya qila olmaydi",
+        "👁️ Aybdor bilgan bo'lishi kerak",
+        "👶 Maxsus: chaqaloq + ona → JK 99"
+      ],
+      "qo'shimcha_malumot": [
+        "📝 ASOSIY:",
+        "🛡️ OJIZ AHVOL:",
+        "- Himoya qila olmaydi",
+        "- Tushunmaydi",
+        "- Boshqarmaydi",
+        "",
+        "🔍 SABABLARI:",
+        "- Yosh/keksalik",
+        "- Nuqson, kasallik",
+        "- Uyqu, behush",
+        "- Og'ir mastlik",
+        "",
+        "⚠️ Chaqaloq → JK 99"
+      ]
+    },
+
+    "oddiy_fuqaro": {
+      "uslub": "norasmiy",
+      "emoji": "👨",
+      "qo'shimcha": [
+        "💬 Oddiy qilib:",
+        "🛡️ O'zini himoya qila olmaydi",
+        "😴 Uyquda, behush, juda mast",
+        "⛓️ Og'ir jazo (15-25 yil)"
+      ],
+      "qo'shimcha_malumot": [
+        "🛡️ Himoyasiz odam o'ldirildi",
+        "😴 Uyquda, behush, mast",
+        "⛓️ 15-25 yil yoki umrbod"
+      ]
+    }
+  },
+
+  "javob_uzunligi": {
+    "qisqa": {
+      "shablon": "🛡️ JK 97-2(v): Ojiz ahvol + 👁️ Aybdor bilgan. Chaqaloq+ona → JK 99."
+    },
+    "o'rtacha": {
+      "shablon": "JK 97-2(v): Ojiz ahvoldagi shaxsni o'ldirish. Ojiz - himoya qila olmaydi/tushunmaydi/boshqarmaydi (jismoniy, ruhiy sabab). Aybdor bilgan. Mastlik: kim solgan - ahamiyatsiz. Chaqaloq+ona → JK 99."
+    },
+    "batafsil": {
+      "shablon": "🛡️ JK 97-2(v): Aybdorga ayon bo'lgan OJIZ AHVOLDAGI shaxsni o'ldirish. Ojiz ahvol: himoya qila olmaydi yoki tushunmaydi/boshqarmaydi (fiziologik, jismoniy, ruhiy). Sabablari: nuqson, kasallik, yosh/keksalik, og'riq, behush, uyqu, og'ir mastlik. Aybdor BILGAN. Mastlik: kim ahvolga solgan - ahamiyatsiz. MAXSUS: chaqaloq ojiz, lekin ona o'ldirsa → JK 99 (97-2(v) EMAS). Jazo: 15-25 yil yoki umrbod."
+    }
+  },
+
+  "1_ojiz_ahvol_tushunchasi": {
+    "emoji": "🛡️",
+    "sarlavha": "OJIZ AHVOL - asosiy tushuncha",
+
+    "tasnif": {
+      "modda": "JK 97-2(v)",
+      "nom": "Ojiz ahvoldagi shaxsni o'ldirish",
+      "og'irlashtiruvchi": "Maxsus zaiflik",
+      "jazo": "⛓️ 15-25 yil yoki umrbod"
+    },
+
+    "ta'rif": {
+      "emoji": "📋",
+      "umumiy": "Jabrlanuvchi o'zini HIMOYA QILA OLMAYDI",
+
+      "3_turi": {
+        "1_himoya": {
+          "emoji": "❌",
+          "nom": "Himoya qila olmaydi",
+          "ma'no": "O'zini himoya qilishga qodir emas",
+          "misol": "Qayd qilingan, bog'langan, juda zaif"
+        },
+
+        "2_tushunish": {
+          "emoji": "🤔",
+          "nom": "Tushunmaydi",
+          "ma'no": "Harakatlarning mohiyatini anglamaydi",
+          "misol": "Ruhiy kasallik, behush, uyqu"
+        },
+
+        "3_boshqarish": {
+          "emoji": "🎮",
+          "nom": "Boshqarmaydi",
+          "ma'no": "O'z harakatlarini nazorat qila olmaydi",
+          "misol": "Og'ir mastlik, ruhiy buzilish"
+        }
+      }
+    },
+
+    "shart": {
+      "emoji": "👁️",
+      "asosiy": "Aybdor ojiz ahvolni BILGAN bo'lishi SHART",
+      "muhim": "❗ Agar bilmasa → (v) belgi yo'q!"
+    }
+  },
+
+  "2_ojiz_ahvol_sabablari": {
+    "emoji": "📊",
+    "sarlavha": "OJIZ AHVOL sabablari - turlari",
+
+    "1_fiziologik": {
+      "emoji": "👶",
+      "nom": "FIZIOLOGIK sabab",
+      "ta'rif": "Tabiiy holat - yosh yoki keksalik",
+
+      "turlari": {
+        "yosh": {
+          "emoji": "👶",
+          "holat": "Juda yosh",
+          "misollar": [
+            "Chaqaloq (1 kun - 1 yosh)",
+            "Kichik bola (1-3 yosh)",
+            "Bola (o'zini himoyalashga qodir emas)"
+          ],
+          "muhim": "⚠️ Chaqaloq + ona → JK 99!"
+        },
+
+        "keksalik": {
+          "emoji": "👴",
+          "holat": "Juda keks",
+          "misollar": [
+            "Harakatsiz keksa",
+            "To'shakda yotgan",
+            "O'zi yura olmaydi"
+          ]
+        }
+      }
+    },
+
+    "2_jismoniy": {
+      "emoji": "🤕",
+      "nom": "JISMONIY sabab",
+      "ta'rif": "Tana nuqsoni yoki shikasti",
+
+      "turlari": {
+        "nuqson": {
+          "emoji": "♿",
+          "holat": "Jismoniy nuqson",
+          "misollar": [
+            "Nogʻiron (qo'l-oyoq)",
+            "Ko'rlik",
+            "Karlik",
+            "Falaj"
+          ]
+        },
+
+        "shikast": {
+          "emoji": "🤕",
+          "holat": "Og'ir jarohat",
+          "misollar": [
+            "Qattiq og'riq",
+            "Qon yo'qotgan",
+            "Suyak singan"
+          ]
+        },
+
+        "holat": {
+          "emoji": "😴",
+          "holatlar": [
+            "Behush",
+            "Xushidan ketgan",
+            "Uyquda"
+          ]
+        }
+      }
+    },
+
+    "3_ruhiy": {
+      "emoji": "🧠",
+      "nom": "RUHIY sabab",
+      "ta'rif": "Aqliy faoliyat buzilishi",
+
+      "turlari": {
+        "kasallik": {
+          "emoji": "🧠",
+          "holat": "Ruhiy kasallik",
+          "misollar": [
+            "Aql zaif",
+            "Ruhiy buzilish",
+            "Psixik kasallik"
+          ]
+        },
+
+        "mastlik": {
+          "emoji": "🍺",
+          "holat": "OG'IR mastlik",
+          "shart": "Atrofni anglamaydi",
+          "misollar": [
+            "Alkogol (juda mast)",
+            "Giyohvandlik (juda mast)",
+            "Psixotrop (juda mast)"
+          ],
+          "muhim": "❗ YENGIL mastlik - ojiz EMAS!",
+          "ahamiyatsiz": "Kim ahvolga solgan - FARQI YO'Q"
+        }
+      }
+    }
+  },
+
+  "3_mastlik_maxsus": {
+    "emoji": "🍺",
+    "sarlavha": "MASTLIK - maxsus holat",
+
+    "qoida": {
+      "emoji": "📋",
+      "asosiy": "OG'IR mastlik - ojiz ahvol",
+      "shart": "Atrofni anglamaydi, o'zini boshqarmaydi",
+      "ahamiyatsiz": "Kim ahvolga solgan - FARQI YO'Q"
+    },
+
+    "darajalar": {
+      "ogir": {
+        "emoji": "🍺",
+        "daraja": "OG'IR mastlik",
+        "holat": "Atrofni anglamaydi",
+        "natija": "✅ OJIZ ahvol",
+        "misol": "Juda mast, gapirolmaydi, harakatsiz"
+      },
+
+      "ortacha": {
+        "emoji": "🍷",
+        "daraja": "O'RTACHA mastlik",
+        "holat": "Anglay oladi, lekin sekin",
+        "natija": "❓ Har holat alohida",
+        "misol": "Mast, lekin gapiradi, harakatlanadi"
+      },
+
+      "yengil": {
+        "emoji": "🍻",
+        "daraja": "YENGIL mastlik",
+        "holat": "Normal anglay oladi",
+        "natija": "❌ Ojiz ahvol EMAS",
+        "misol": "Biroz mast, lekin normal"
+      }
+    },
+
+    "kim_solgan": {
+      "emoji": "❓",
+      "savol": "Kim mastlik ahvoliga solgan?",
+      "javob": "AHAMIYATI YO'Q!",
+
+      "variantlar": [
+        "O'zi ichgan → ojiz ahvol ✅",
+        "Aybdor ichirgan → ojiz ahvol ✅",
+        "Boshqa kishi → ojiz ahvol ✅"
+      ],
+
+      "muhim": "Muhim - OG'IR mastlik MAVJUD yoki yo'q"
+    }
+  },
+
+  "4_bilganlik_sharti": {
+    "emoji": "👁️",
+    "sarlavha": "BILGANLIK - majburiy shart",
+
+    "qoida": {
+      "emoji": "📋",
+      "asosiy": "Aybdor ojiz ahvolni BILGAN bo'lishi SHART",
+      "agar_bilmasa": "Bilmagan → (v) belgi YO'Q"
+    },
+
+    "bilish_usullari": {
+      "emoji": "👀",
+      "1_korish": {
+        "usul": "Ko'rgan",
+        "misollar": [
+          "Uyquda ekanligini ko'rgan",
+          "Nogʻiron ekanligini ko'rgan",
+          "Behush ekanligini ko'rgan"
+        ]
+      },
+
+      "2_eshitish": {
+        "usul": "Eshitgan/Bilgan",
+        "misollar": [
+          "Aql zaif ekanligini bilgan",
+          "Kasalligini eshitgan",
+          "Qarindosh aytgan"
+        ]
+      },
+
+      "3_harakat": {
+        "usul": "O'zi ahvolga solgan",
+        "misollar": [
+          "Urdi, behush qildi",
+          "Bog'ladi, qayd qildi",
+          "Ichirdi, mast qildi"
+        ]
+      }
+    },
+
+    "bilmagan": {
+      "emoji": "🤷",
+      "holat": "Bilmagan edi",
+      "sabab": "Ko'rinmagan, aytilmagan",
+      "natija": "❌ (v) belgi QO'LLANMAYDI",
+      "modda": "JK 97-1 (yoki boshqa belgilar)"
+    }
+  },
+
+  "5_chaqaloq_maxsus": {
+    "emoji": "👶",
+    "sarlavha": "CHAQALOQ va ONA - maxsus qoida",
+
+    "umumiy": {
+      "emoji": "❗",
+      "holat": "Chaqaloq - OJIZ ahvoldagi shaxs",
+      "lekin": "MAXSUS qoida mavjud!"
+    },
+
+    "qoida": {
+      "emoji": "📋",
+      "holat": "Chaqaloqni ONA o'ldirsa",
+      "modda": "❌ JK 97-2(v) EMAS",
+      "togri": "✅ JK 99 (Yangi tug'ilgan chaqaloqni o'ldirish)",
+      "sabab": "Maxsus, yengilroq modda",
+      "jazo": "JK 99: 3-5 yil (97-2(v): 15-25 yil)"
+    },
+
+    "kim_oldirsa": {
+      "chaqaloq_ona": {
+        "emoji": "👶👩",
+        "kim": "ONA o'ldirdi",
+        "modda": "JK 99",
+        "jazo": "3-5 yil"
+      },
+
+      "chaqaloq_boshqa": {
+        "emoji": "👶👨",
+        "kim": "BOSHQA kishi o'ldirdi",
+        "modda": "JK 97-2(v)",
+        "jazo": "15-25 yil",
+        "sabab": "Chaqaloq - ojiz ahvol"
+      }
+    }
+  },
+
+  "6_amaliy_misollar": {
+    "emoji": "📚",
+    "sarlavha": "Amaliy misollar - turli holatlar",
+
+    "misol_1_uyqu": {
+      "emoji": "😴",
+      "vaziyat": "A B ning uyquda ekanligini bilgan holda, boshiga pichoq bilan urdi. B o'ldi.",
+      "tahlil": {
+        "ojiz": "✅ Uyquda (himoyalanmaydi)",
+        "bilgan": "✅ Uyquda ekanini bilgan",
+        "qasd": "✅ O'ldirish qasdi"
+      },
+      "kvalifikatsiya": "JK 97-2(v)",
+      "jazo": "15-25 yil"
+    },
+
+    "misol_2_nogaron": {
+      "emoji": "♿",
+      "vaziyat": "A nogʻiron B ni (nogʻiron arava) o'ldirdi. A bilgan edi B nogʻiron ekanligini.",
+      "tahlil": {
+        "ojiz": "✅ Nogʻiron (harakatsiz)",
+        "bilgan": "✅ Ko'rgan edi",
+        "qasd": "✅ O'ldirish qasdi"
+      },
+      "kvalifikatsiya": "JK 97-2(v)",
+      "jazo": "15-25 yil"
+    },
+
+    "misol_3_mastlik": {
+      "emoji": "🍺",
+      "vaziyat": "A va B ichishdi. B juda mast bo'ldi (atrofni anglamaydi, gapirolmaydi). A bilgan holda, B ni pichoq bilan o'ldirdi.",
+      "tahlil": {
+        "ojiz": "✅ Og'ir mastlik",
+        "bilgan": "✅ Ko'rgan",
+        "qasd": "✅ O'ldirish qasdi",
+        "kim_solgan": "❓ O'zi ichgan - AHAMIYATSIZ"
+      },
+      "kvalifikatsiya": "JK 97-2(v)",
+      "jazo": "15-25 yil"
+    },
+
+    "misol_4_behush": {
+      "emoji": "😵",
+      "vaziyat": "A B ni urdi, B behush bo'ldi. A ko'rdi va pichoq bilan o'ldirdi.",
+      "tahlil": {
+        "ojiz": "✅ Behush (himoyalanmaydi)",
+        "bilgan": "✅ O'zi behush qilgan",
+        "qasd": "✅ O'ldirish qasdi"
+      },
+      "kvalifikatsiya": "JK 97-2(v)",
+      "jazo": "15-25 yil"
+    },
+
+    "misol_5_chaqaloq_ona": {
+      "emoji": "👶👩",
+      "vaziyat": "Ona yangi tug'ilgan chaqaloqni o'ldirdi (tug'ilgandan 1 kun keyin).",
+      "tahlil": {
+        "ojiz": "✅ Chaqaloq (juda ojiz)",
+        "kim": "❗ ONA o'ldirdi",
+        "maxsus": "JK 99 (maxsus modda)"
+      },
+      "kvalifikatsiya": "❌ JK 97-2(v) EMAS",
+      "togri": "✅ JK 99",
+      "jazo": "3-5 yil"
+    },
+
+    "misol_6_chaqaloq_boshqa": {
+      "emoji": "👶👨",
+      "vaziyat": "A (ota emas) yangi tug'ilgan chaqaloqni o'ldirdi.",
+      "tahlil": {
+        "ojiz": "✅ Chaqaloq (juda ojiz)",
+        "kim": "❗ BOSHQA kishi",
+        "qoida": "Oddiy (v) belgi"
+      },
+      "kvalifikatsiya": "JK 97-2(v)",
+      "jazo": "15-25 yil"
+    },
+
+    "misol_7_bilmagan": {
+      "emoji": "🤷",
+      "vaziyat": "A B ni o'ldirdi. B ruhiy kasallik bilan og'rigan edi (aql zaif). A BILMAS edi (B yaxshi yashirgan).",
+      "tahlil": {
+        "ojiz": "✅ Ruhiy kasallik",
+        "bilgan": "❌ A BILMAS EDI",
+        "sabab": "Yashirgan, ko'rinmagan"
+      },
+      "kvalifikatsiya": "❌ JK 97-2(v) EMAS",
+      "togri": "✅ JK 97-1",
+      "jazo": "8-15 yil"
+    }
+  },
+
+  "7_sudya_uchun_algoritm": {
+    "emoji": "⚖️",
+    "sarlavha": "Sudya uchun kvalifikatsiya algoritmi",
+
+    "qadamlar": [
+      {
+        "qadam": "1️⃣ Jabrlanuvchi OJIZ AHVOLDA edimi?",
+        "tekshirish": "Tibbiy dalil, guvohlar, foto",
+        "javob": "Ha → 2-qadam. Yo'q → (v) yo'q"
+      },
+      {
+        "qadam": "2️⃣ QANDAY ojiz? (turi, darajasi)",
+        "tekshirish": "Sabab: jismoniy, ruhiy, fiziologik",
+        "javob": "Aniq → 3-qadam. Noaniq → shubha"
+      },
+      {
+        "qadam": "3️⃣ Aybdor BILGAN edimi?",
+        "tekshirish": "Ko'rgan, eshitgan, o'zi qilgan?",
+        "javob": "Ha → 4-qadam. Yo'q/shubha → (v) yo'q"
+      },
+      {
+        "qadam": "4️⃣ MAXSUS: Chaqaloq va ona?",
+        "tekshirish": "Jabrlanuvchi chaqaloq + aybdor ona?",
+        "javob": "Ha → JK 99. Yo'q → 5-qadam"
+      },
+      {
+        "qadam": "5️⃣ O'ldirish qasdi?",
+        "javob": "Ha → JK 97-2(v). Yo'q → boshqa modda"
+      }
+    ]
+  },
+
+  "8_muhim_xulosa": {
+    "emoji": "❗",
+    "asosiy_shartlar": [
+      "🛡️ Ojiz ahvol (himoya qila olmaydi)",
+      "👁️ Aybdor bilgan",
+      "🎯 O'ldirish qasdi"
+    ],
+    "ojiz_sabablari": [
+      "👶 Yosh/keksalik",
+      "🤕 Nuqson/shikast",
+      "🧠 Ruhiy kasallik",
+      "😴 Uyqu/behush",
+      "🍺 Og'ir mastlik"
+    ],
+    "maxsus": "👶 Chaqaloq + ona → JK 99 (97-2(v) EMAS)",
+    "mastlik": "Kim ahvolga solgan - AHAMIYATSIZ"
+  },
+
+  "tushuntirish": "JK 97-2(v): Aybdorga ayon bo'lgan OJIZ AHVOLDAGI shaxsni o'ldirish. Ojiz ahvol: jabrlanuvchi o'zini HIMOYA QILA OLMAYDI yoki harakatlarni TUSHUNMAYDI/BOSHQARMAYDI. Sabablari: FIZIOLOGIK (yosh, keksalik), JISMONIY (nuqson, shikast, behush, uyqu), RUHIY (kasallik, og'ir mastlik). Aybdor ojiz ahvolni BILGAN. Mastlik: OG'IR (atrofni anglamaydi) - ojiz ✅, yengil - ojiz ❌. Kim ahvolga solgan - AHAMIYATSIZ. MAXSUS: Chaqaloq ojiz ✅, lekin ONA o'ldirsa → JK 99 (97-2(v) EMAS, 3-5 yil). Boshqa kishi o'ldirsa → 97-2(v) (15-25 yil). Jazo: 15-25 yil yoki umrbod.",
+
+  "translations": {
+    "uz": "JK 97-2(v): Ojiz ahvol. Bilgan. Chaqaloq+ona → JK 99.",
+    "ru": "УК 97-2(в): Беспомощное. Знал. Младенец+мать → УК 99.",
+    "en": "CC 97-2(v): Helpless. Knew. Infant+mother → CC 99."
+  }
+}

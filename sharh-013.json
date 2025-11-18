@@ -1,0 +1,359 @@
+{
+  "id": "JK-097-SHARH-013",
+  "modda_raqam": "97",
+  "sharh_raqami": 13,
+  "tur": "boshqa_jinoyat_bilan",
+
+  "_izoh": "BO'LIM 13: JK 97-2(v) - Boshqa og'ir jinoyat sodir etish bilan bog'liq o'ldirish",
+
+  "emoji_sarlavha": "⚔️ Boshqa og'ir jinoyat bilan bog'liq o'ldirish",
+
+  "asosiy_matn": "JK 97-moddasi 2-qismi (v) bandi bo'yicha boshqa og'ir jinoyat sodir etish bilan bog'liq holda odam o'ldirish deganda, odam o'ldirish boshqa og'ir jinoyatni sodir etish jarayonida, uni yashirish, osonlashtirish yoki uning oqibatlarini bartaraf etish maqsadida amalga oshirilganda tushuniladi. Boshqa og'ir jinoyat deganda og'ir yoki ayniqsa og'ir jinoyatlar (JK 15) nazarda tutiladi",
+
+  "sinonimlar": {
+    "boshqa jinoyat": {
+      "variantlar": ["boshqa jinoyat", "qo'shimcha jinoyat", "asosiy jinoyat"],
+      "og'irlik": 90,
+      "rasmiy": true,
+      "emoji": "⚔️"
+    },
+    "bogliq": {
+      "variantlar": ["bog'liq", "aloqador", "munosabatda"],
+      "og'irlik": 85,
+      "rasmiy": false,
+      "emoji": "🔗"
+    }
+  },
+
+  "kontekstli_javoblar": {
+    "tergovchi": {
+      "uslub": "juda_rasmiy",
+      "emoji": "👮",
+      "qo'shimcha": [
+        "👮 Tergov yuritishda:",
+        "⚔️ Boshqa jinoyat bormi? (og'ir/ayniqsa og'ir)",
+        "🔗 O'ldirish va jinoyat bog'liqmi?",
+        "🎯 Maqsad: yashirish, osonlashtirish?"
+      ],
+      "qo'shimcha_malumot": [
+        "1️⃣ BOSHQA JINOYAT: Og'ir yoki ayniqsa og'ir (JK 15)",
+        "2️⃣ BOG'LIQLIK: O'ldirish va jinoyat aloqada",
+        "3️⃣ MAQSAD: Yashirish, osonlashtirish, guvohni yo'q qilish",
+        "4️⃣ IKKALA JINOYAT: Har ikkisi ham isbotlanishi kerak",
+        "⚠️ Agar bog'liqlik yo'q → (v) belgi qo'llanilmaydi"
+      ]
+    },
+
+    "advokat": {
+      "uslub": "juda_rasmiy",
+      "emoji": "👔",
+      "qo'shimcha": [
+        "⚖️ Himoya strategiyasi:",
+        "❌ Bog'liqlik yo'qligini dalillang",
+        "📉 Boshqa jinoyat og'ir emasligini isbotlang",
+        "🎯 (v) belgisiz JK 97-1 ga tushirish"
+      ],
+      "qo'shimcha_malumot": [
+        "❓ Bog'liqlik YO'Q: Alohida jinoyatlar",
+        "❓ Boshqa jinoyat YENGIL (og'ir emas)",
+        "❓ Maqsad boshqa (yashirish emas)",
+        "🎯 Maqsad: (v) belgisiz JK 97-1"
+      ]
+    },
+
+    "sudya": {
+      "uslub": "juda_rasmiy",
+      "emoji": "⚖️",
+      "qo'shimcha": [
+        "⚖️ Sud qarori chiqarishda:",
+        "⚔️ Boshqa jinoyat ANIQ og'irmi? (JK 15)",
+        "🔗 Bog'liqlik ANIQmi?",
+        "🎯 Maqsad isbotlanganmi?"
+      ],
+      "qo'shimcha_malumot": [
+        "❗ 3 TA SHART (barchasi kerak):",
+        "1️⃣ BOSHQA JINOYAT og'ir/ayniqsa og'ir (JK 15)",
+        "2️⃣ BOG'LIQLIK aniq (yashirish, osonlashtirish)",
+        "3️⃣ MAQSAD isbotlangan",
+        "❓ Shubha → (v) belgi qo'llanilmaydi",
+        "📊 Kvalifikatsiya: JK 97-2(v) + boshqa jinoyat"
+      ]
+    },
+
+    "talaba": {
+      "uslub": "o'rtacha",
+      "emoji": "📚",
+      "qo'shimcha": [
+        "📚 Eslab qoling:",
+        "⚔️ Boshqa OG'IR jinoyat (JK 15)",
+        "🔗 Bog'liqlik bor",
+        "🎯 Maqsad: yashirish/osonlashtirish"
+      ],
+      "qo'shimcha_malumot": [
+        "📝 JK 97-2(v) SHARTLARI:",
+        "1️⃣ Og'ir/ayniqsa og'ir jinoyat",
+        "2️⃣ Bog'liqlik",
+        "3️⃣ Maqsad aniq",
+        "✅ 3 tasi → (v) belgi"
+      ]
+    },
+
+    "oddiy_fuqaro": {
+      "uslub": "norasmiy",
+      "emoji": "👨",
+      "qo'shimcha": [
+        "💬 Oddiy qilib:",
+        "⚔️ Boshqa jinoyat ham qildi",
+        "🔗 O'ldirish shu jinoyat uchun",
+        "⛓️ Ikkalasi uchun jazo"
+      ],
+      "qo'shimcha_malumot": [
+        "⚔️ 2 TA JINOYAT qildi",
+        "🔗 Birinchisini yashirish uchun o'ldirdi",
+        "⛓️ Ikkalasi uchun ham jazo"
+      ]
+    }
+  },
+
+  "javob_uzunligi": {
+    "qisqa": {
+      "shablon": "⚔️ JK 97-2(v): Boshqa og'ir jinoyat + Bog'liqlik + Maqsad"
+    },
+    "o'rtacha": {
+      "shablon": "JK 97-2(v) - boshqa og'ir jinoyat bilan bog'liq o'ldirish. 3 shart: 1) Og'ir/ayniqsa og'ir jinoyat (JK 15), 2) Bog'liqlik (yashirish, osonlashtirish), 3) Maqsad aniq. Ikkalasi ham kvalifikatsiya qilinadi."
+    },
+    "batafsil": {
+      "shablon": "⚔️ JK 97-2(v): Boshqa og'ir jinoyat sodir etish bilan bog'liq o'ldirish. 3 TA SHART: 1) BOSHQA JINOYAT og'ir yoki ayniqsa og'ir (JK 15), 2) BOG'LIQLIK (o'ldirish jinoyatni yashirish, osonlashtirish, guvohni yo'q qilish uchun), 3) MAQSAD aniq isbotlangan. Har ikkala jinoyat ham alohida kvalifikatsiya qilinadi: JK 97-2(v) + boshqa jinoyat moddasi. Jazo: 15-25 yil yoki umrbod."
+    }
+  },
+
+  "1_asosiy_tushuncha": {
+    "emoji": "⚔️",
+    "sarlavha": "Boshqa jinoyat bilan bog'liq o'ldirish",
+    "ta'rif": "O'ldirish BOSHQA JINOYAT bilan aloqada sodir etiladi",
+    "tushuntirish": "Odam biror jinoyat qiladi, keyin uni yashirish yoki osonlashtirish uchun o'ldiradi",
+
+    "3_holat": {
+      "yashirish": {
+        "emoji": "🙈",
+        "nom": "1. YASHIRISH",
+        "ta'rif": "Jinoyatni berkitish, sir saqlash",
+        "misol": "O'g'irladi, guvohni o'ldirdi"
+      },
+
+      "osonlashtirish": {
+        "emoji": "🎯",
+        "nom": "2. OSONLASHTIRISH",
+        "ta'rif": "Jinoyatni sodir etishni osonlashtirish",
+        "misol": "Qorovulni o'ldirdi, keyin o'g'irladi"
+      },
+
+      "oqibat_bartaraf": {
+        "emoji": "🔧",
+        "nom": "3. OQIBATNI BARTARAF ETISH",
+        "ta'rif": "Jinoyat natijasini yo'q qilish",
+        "misol": "Jinoyatchi qochishiga yordam bergan odamni o'ldirdi"
+      }
+    }
+  },
+
+  "2_boshqa_jinoyat_talabi": {
+    "emoji": "⚔️",
+    "sarlavha": "Boshqa jinoyat - OG'IR yoki AYNIQSA OG'IR",
+    "modda": "JK 15 - Jinoyatlarning xavflilik darajasiga ko'ra toifalari",
+
+    "jinoyat_toifalari": {
+      "yengil": {
+        "emoji": "🟢",
+        "kategoriya": "Yengil jinoyat",
+        "jazo": "2 yilgacha",
+        "misol": "Kichik o'g'irlash",
+        "natija": "❌ (v) belgi uchun EMAS"
+      },
+
+      "ortacha": {
+        "emoji": "🟡",
+        "kategoriya": "O'rtacha og'irlikdagi jinoyat",
+        "jazo": "2 yildan 5 yilgacha",
+        "misol": "Oddiy talon-taroj",
+        "natija": "❌ (v) belgi uchun EMAS"
+      },
+
+      "ogir": {
+        "emoji": "🟠",
+        "kategoriya": "Og'ir jinoyat",
+        "jazo": "5 yildan 10 yilgacha",
+        "misollar": [
+          "Yirik o'g'irlash",
+          "Zo'rlash",
+          "Og'ir shikast"
+        ],
+        "natija": "✅ (v) belgi UCHUN TO'G'RI"
+      },
+
+      "ayniqsa_ogir": {
+        "emoji": "🔴",
+        "kategoriya": "Ayniqsa og'ir jinoyat",
+        "jazo": "10 yildan ortiq",
+        "misollar": [
+          "Talon-taroj (og'ir)",
+          "Narkotik savdo",
+          "Terrorchilik"
+        ],
+        "natija": "✅ (v) belgi UCHUN TO'G'RI"
+      }
+    },
+
+    "muhim": "❗ Faqat OG'IR yoki AYNIQSA OG'IR jinoyat → (v) belgi"
+  },
+
+  "3_bogliqlik": {
+    "emoji": "🔗",
+    "sarlavha": "BOG'LIQLIK - o'ldirish va jinoyat aloqasi",
+    "ta'rif": "O'ldirish BOSHQA JINOYAT UCHUN sodir etilgan",
+
+    "4_tur": {
+      "jarayonda": {
+        "emoji": "⏱️",
+        "nom": "1. Jinoyat JARAYONIDA",
+        "ta'rif": "Jinoyat sodir etish vaqtida o'ldirish",
+        "misol": "Bankni talon-taroj qilayotganda xavfsizlik xodimini o'ldirdi",
+        "vaqt": "BIR VAQTDA"
+      },
+
+      "osonlashtirish": {
+        "emoji": "🎯",
+        "nom": "2. OSONLASHTIRISH uchun",
+        "ta'rif": "Jinoyatni oson qilish uchun oldindan o'ldirish",
+        "misol": "Uyni talon-taroj qilish uchun qorovulni avval o'ldirdi",
+        "vaqt": "OLDINDAN"
+      },
+
+      "yashirish": {
+        "emoji": "🙈",
+        "nom": "3. YASHIRISH uchun",
+        "ta'rif": "Jinoyatni yashirish, guvohni yo'q qilish",
+        "misol": "O'g'irladi, guvohni keyin o'ldirdi",
+        "vaqt": "KEYIN"
+      },
+
+      "oqibat": {
+        "emoji": "🔧",
+        "nom": "4. OQIBATNI bartaraf etish",
+        "ta'rif": "Jinoyat natijasini yo'q qilish",
+        "misol": "Jinoyat haqida bilgan odamni o'ldirdi",
+        "vaqt": "KEYIN"
+      }
+    }
+  },
+
+  "4_misollar": {
+    "emoji": "📚",
+    "sarlavha": "Amaliy misollar",
+
+    "misol_1_bor": {
+      "emoji": "✅",
+      "holat": "A bankni talon-taroj qilayotganda qorovul X ni o'ldirdi (qarshilik ko'rsatgan edi).",
+      "tahlil": {
+        "boshqa_jinoyat": "⚔️ Talon-taroj (ayniqsa og'ir) ✅",
+        "bogliqlik": "🔗 Jarayonda (osonlashtirish) ✅",
+        "maqsad": "🎯 Talon-tarojni amalga oshirish ✅"
+      },
+      "kvalifikatsiya": "JK 97-2(v) + JK 168 (talon-taroj)",
+      "natija": "✅ (v) belgi"
+    },
+
+    "misol_2_bor": {
+      "emoji": "✅",
+      "holat": "A yirik o'g'irlash qildi. Guvoh Y buni ko'rdi. A keyin Y ni topib o'ldirdi (guvoh bo'lmasin deb).",
+      "tahlil": {
+        "boshqa_jinoyat": "⚔️ Yirik o'g'irlash (og'ir) ✅",
+        "bogliqlik": "🔗 Yashirish (guvohni yo'q qilish) ✅",
+        "maqsad": "🎯 O'g'irlashni yashirish ✅"
+      },
+      "kvalifikatsiya": "JK 97-2(v) + JK 169 (o'g'irlash)",
+      "natija": "✅ (v) belgi"
+    },
+
+    "misol_3_yoq": {
+      "emoji": "❌",
+      "holat": "A kichik o'g'irlash qildi (yengil jinoyat). Guvoh Y ni keyin o'ldirdi.",
+      "tahlil": {
+        "boshqa_jinoyat": "⚔️ Kichik o'g'irlash (YENGIL) ❌",
+        "bogliqlik": "🔗 Yashirish ✅",
+        "maqsad": "🎯 O'g'irlashni yashirish ✅"
+      },
+      "natija": "❌ (v) belgi YO'Q (jinoyat yengil)",
+      "kvalifikatsiya": "JK 97-1 + JK 169 (alohida)"
+    },
+
+    "misol_4_yoq": {
+      "emoji": "❌",
+      "holat": "A talon-taroj qildi. Bir hafta keyin boshqa sababdan (shaxsiy janjal) Y ni o'ldirdi.",
+      "tahlil": {
+        "boshqa_jinoyat": "⚔️ Talon-taroj (og'ir) ✅",
+        "bogliqlik": "❌ Bog'liqlik YO'Q (boshqa sabab)",
+        "maqsad": "❌ Shaxsiy janjal (yashirish emas)"
+      },
+      "natija": "❌ (v) belgi YO'Q (bog'liqlik yo'q)",
+      "kvalifikatsiya": "JK 97-1 + JK 168 (alohida)"
+    }
+  },
+
+  "5_kvalifikatsiya": {
+    "emoji": "📊",
+    "sarlavha": "Kvalifikatsiya - ikki jinoyat ham",
+
+    "qoida": {
+      "emoji": "⚖️",
+      "asosiy": "HAR IKKALA JINOYAT ham alohida kvalifikatsiya qilinadi",
+      "formula": "JK 97-2(v) + Boshqa jinoyat moddasi",
+      "tushuntirish": "O'ldirish va boshqa jinoyat - har biri alohida"
+    },
+
+    "misol": {
+      "holat": "Talon-taroj + O'ldirish",
+      "kvalifikatsiya": [
+        "JK 97-2(v) - O'ldirish (talon-taroj bilan bog'liq)",
+        "JK 168 - Talon-taroj"
+      ],
+      "jazo": "Har ikkalasi uchun, jamlanadi (JK 54)"
+    }
+  },
+
+  "6_maxsus_holatlar": {
+    "emoji": "⚠️",
+    "sarlavha": "Maxsus holatlar",
+
+    "bir_necha_oldirish": {
+      "emoji": "👥",
+      "holat": "Boshqa jinoyat bilan bir necha kishini o'ldirsa?",
+      "javob": "JK 97-2(a)(v) - ikki belgi birgalikda",
+      "misol": "Bankni talon-taroj qildi, 2 ta qorovulni o'ldirdi",
+      "kvalifikatsiya": "JK 97-2(a)(v) + JK 168"
+    },
+
+    "suiqasd": {
+      "emoji": "❌",
+      "holat": "O'ldirmoqchi bo'ldi, lekin tirik qoldi?",
+      "javob": "JK 25, 97-2(v) (suiqasd) + Boshqa jinoyat",
+      "misol": "Talon-taroj qildi, guvohni o'ldirmoqchi bo'ldi, tirik qoldi",
+      "kvalifikatsiya": "JK 25, 97-2(v) + JK 168"
+    }
+  },
+
+  "7_muhim_xulosa": {
+    "emoji": "❗",
+    "asosiy": "JK 97-2(v): Og'ir jinoyat + Bog'liqlik + Maqsad",
+    "formula": "⚔️ OG'IR + 🔗 + 🎯 = (v) belgi",
+    "kvalifikatsiya": "JK 97-2(v) + Boshqa jinoyat (har ikkisi)"
+  },
+
+  "tushuntirish": "JK 97-2(v): Boshqa og'ir jinoyat bilan bog'liq o'ldirish. 3 shart: 1) BOSHQA JINOYAT og'ir yoki ayniqsa og'ir (JK 15), 2) BOG'LIQLIK (yashirish, osonlashtirish, jarayonda, oqibatni bartaraf etish), 3) MAQSAD isbotlangan. Yengil/o'rtacha jinoyat bo'lsa → (v) belgi yo'q. Har ikkala jinoyat ham alohida kvalifikatsiya: JK 97-2(v) + boshqa jinoyat moddasi. Jazo: 15-25 yil yoki umrbod + boshqa jinoyat jazosi.",
+
+  "translations": {
+    "uz": "JK 97-2(v): Og'ir jinoyat + Bog'liqlik. Har ikkisi ham kvalifikatsiya.",
+    "ru": "УК 97-2(в): Тяжкое преступление + Связь. Обе квалифицируются.",
+    "en": "CC 97-2(v): Serious crime + Connection. Both are qualified."
+  }
+}

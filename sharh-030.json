@@ -1,0 +1,635 @@
+{
+  "id": "JK-097-SHARH-030",
+  "modda_raqam": "97",
+  "sharh_raqami": 30,
+  "tur": "yashirish_osonlashtirish",
+
+  "_izoh": "BO'LIM 30: JK 97-2(o) - Jinoyatni yashirish/osonlashtirish maqsadida o'ldirish",
+
+  "emoji_sarlavha": "🙈 Yashirish/Osonlashtirish (guvoh, dalil)",
+
+  "asosiy_matn": "JK 97-2(o): BOSHQA jinoyatni yashirish yoki osonlashtirish maqsadida o'ldirish. 2 TUR: 1️⃣ YASHIRISH (guvoh/shohid yo'q qilish, dalil yo'q qilish, javobgarlikdan qutulish). 2️⃣ OSONLASHTIRISH (qulay sharoit, to'siqni olib tashlash). MAQSADGA ERISHISH shart EMAS (faqat maqsad yetarli). TO'G'RI QASD. AGAR ARIZA bor (organlarga) → (o) YO'Q, (g) ✅ (xizmat burchi). MAJMUI: JK 97-2(o) + boshqa jinoyat. Osonlashtirish, lekin SODIR ETMAGAN → JK 97-2(o) + tayyorgarlik. BOSHQA MAQSAD bilan BIRGA → (o) EMAS (masalan, tamagirlik+yashirish → faqat (i)).",
+
+  "sinonimlar": {
+    "yashirish": {
+      "variantlar": ["yashirish", "berkitish", "sir tutish", "yo'qotish", "pinhon qilish"],
+      "og'irlik": 95,
+      "rasmiy": true,
+      "emoji": "🙈"
+    },
+    "osonlashtirish": {
+      "variantlar": ["osonlashtirish", "yengillashtirish", "yordam berish", "sharoit yaratish"],
+      "og'irlik": 90,
+      "rasmiy": true,
+      "emoji": "🎯"
+    },
+    "guvoh": {
+      "variantlar": ["guvoh", "shohid", "ko'rgan odam", "dalil beruvchi"],
+      "og'irlik": 85,
+      "rasmiy": true,
+      "emoji": "👁️"
+    }
+  },
+
+  "kontekstli_javoblar": {
+    "tergovchi": {
+      "uslub": "juda_rasmiy",
+      "emoji": "👮",
+      "qo'shimcha": [
+        "👮 Tergov yuritishda:",
+        "🙈 BOSHQA jinoyat borligini aniqlash",
+        "🎯 MAQSAD: yashirish yoki osonlashtirish?",
+        "📋 ARIZA bor edi mi? (organlarga)"
+      ],
+      "qo'shimcha_malumot": [
+        "❗ ANIQLASH KERAK:",
+        "1️⃣ BOSHQA jinoyat bor mi?",
+        "   - Qaysi jinoyat?",
+        "   - Sodir etilgan yoki rejalashtirilgan?",
+        "2️⃣ MAQSAD nima?",
+        "   🙈 YASHIRISH:",
+        "   - Guvoh yo'q qilish?",
+        "   - Dalil yo'q qilish?",
+        "   - Javobgarlikdan qutulish?",
+        "",
+        "   🎯 OSONLASHTIRISH:",
+        "   - Qulay sharoit yaratish?",
+        "   - To'siqni olib tashlash?",
+        "",
+        "3️⃣ ARIZA bor edi mi?",
+        "   - Organlarga arz qilingan?",
+        "   - Aybdor bilgan edi mi?",
+        "   → Agar bor → (g) ✅, (o) ❌",
+        "",
+        "🙈 YASHIRISH TURLARI:",
+        "👁️ GUVOH/SHOHID:",
+        "- Ko'rgan odamni o'ldirish",
+        "- Dalil beruvchi",
+        "- Bilgan odam",
+        "",
+        "📋 DALIL YO'Q QILISH:",
+        "- Dalil bilan birga o'ldirish",
+        "- Izlarni yo'q qilish",
+        "",
+        "⚖️ JAVOBGARLIK:",
+        "- Javobdan qochish",
+        "- Jazoga duchor bo'lmaslik",
+        "",
+        "🎯 OSONLASHTIRISH:",
+        "- Qorovulni o'ldirish",
+        "- To'siqni olib tashlash",
+        "- Sharoit yaratish",
+        "",
+        "📊 MAJMUI:",
+        "JK 97-2(o) + BOSHQA jinoyat",
+        "",
+        "⚠️ BOSHQA MAQSAD:",
+        "Agar tamagirlik/bezorilik/boshqa → (o) EMAS"
+      ]
+    },
+
+    "advokat": {
+      "uslub": "juda_rasmiy",
+      "emoji": "👔",
+      "qo'shimcha": [
+        "⚖️ Himoya strategiyasi:",
+        "❌ Yashirish/osonlashtirish MAQSADI yo'q",
+        "📋 ARIZA bor edi (organlarga)",
+        "🎯 BOSHQA maqsad bor (tamagirlik, o'ch)",
+        "📉 JK 97-2(o) dan JK 97-1 ga"
+      ],
+      "qo'shimcha_malumot": [
+        "🎯 MAQSAD: (o) belgini olib tashlash",
+        "❌ MAQSAD YO'Q:",
+        "- Yashirish maqsadi yo'q",
+        "- Boshqa sabab (o'ch, janjal)",
+        "- Tasodif",
+        "",
+        "📋 ARIZA BOR EDI:",
+        "- Organlarga xabar berilgan",
+        "- Aybdor bilgan",
+        "→ (g) ✅, (o) ❌",
+        "",
+        "🎯 BOSHQA MAQSAD:",
+        "- Tamagirlik asosiy",
+        "- O'ch asosiy",
+        "→ (o) yo'q, boshqa belgi",
+        "",
+        "📉 97-2(o) → 97-1:",
+        "15-25 yil → 8-15 yil"
+      ]
+    },
+
+    "sudya": {
+      "uslub": "juda_rasmiy",
+      "emoji": "⚖️",
+      "qo'shimcha": [
+        "⚖️ Sud qarori chiqarishda:",
+        "🙈 BOSHQA jinoyat va yashirish/osonlashtirish maqsadi ANIQ isbotlangan mi?",
+        "📋 ARIZA tekshirildi mi?",
+        "🎯 BOSHQA maqsad yo'qmi?"
+      ],
+      "qo'shimcha_malumot": [
+        "❗ TEKSHIRISH:",
+        "1️⃣ BOSHQA JINOYAT?",
+        "   - Qaysi jinoyat?",
+        "   - Aniq isbotlangan mi?",
+        "   - Sodir etilgan yoki rejadagi?",
+        "",
+        "2️⃣ MAQSAD ANIQ mi?",
+        "   🙈 YASHIRISH:",
+        "   - Guvohni yo'q qilish?",
+        "   - Dalilni yo'q qilish?",
+        "   - Javobgarlikdan qutulish?",
+        "",
+        "   🎯 OSONLASHTIRISH:",
+        "   - Qulay sharoit?",
+        "   - To'siq olib tashlash?",
+        "",
+        "3️⃣ ARIZA BOR MI?",
+        "   📋 Organlarga arz qilingan?",
+        "   ✅ Agar bor:",
+        "   - Aybdor bilgan mi?",
+        "   → Ha → (g) ✅, (o) ❌",
+        "",
+        "4️⃣ BOSHQA MAQSAD yo'qmi?",
+        "   ⚠️ IKKI MAQSAD:",
+        "   - Tamagirlik + yashirish?",
+        "   - Bezorilik + yashirish?",
+        "   → Faqat BITTA maqsad!",
+        "   → Asosiy maqsad qaysi?",
+        "",
+        "5️⃣ MAJMUI?",
+        "   📊 JK 97-2(o) + boshqa jinoyat",
+        "   - Ikkalasi ham kvalifikatsiya",
+        "",
+        "📝 QARORGA YOZISH:",
+        "- Qaysi jinoyatni yashirish/osonlashtirish",
+        "- Aniq maqsad (dalillar)",
+        "- Ariza bo'ldi mi",
+        "- Majmui (ikkalasi)"
+      ]
+    },
+
+    "talaba": {
+      "uslub": "o'rtacha",
+      "emoji": "📚",
+      "qo'shimcha": [
+        "📚 Eslab qoling:",
+        "🙈 2 tur: yashirish (guvoh) / osonlashtirish (sharoit)",
+        "📋 Ariza bor → (g), (o) yo'q",
+        "🎯 Boshqa maqsad bilan birga → (o) emas",
+        "📊 Majmui: (o) + boshqa jinoyat"
+      ],
+      "qo'shimcha_malumot": [
+        "📝 ASOSIY:",
+        "🙈 YASHIRISH:",
+        "Guvoh, dalil yo'q qilish",
+        "",
+        "🎯 OSONLASHTIRISH:",
+        "Sharoit yaratish",
+        "",
+        "📋 ARIZA:",
+        "Bor → (g), yo'q → (o)",
+        "",
+        "📊 MAJMUI:",
+        "(o) + boshqa jinoyat"
+      ]
+    },
+
+    "oddiy_fuqaro": {
+      "uslub": "norasmiy",
+      "emoji": "👨",
+      "qo'shimcha": [
+        "💬 Oddiy qilib:",
+        "🙈 Guvohni o'ldirdi (yashirish)",
+        "🎯 Yoki sharoit yaratdi",
+        "⛓️ Og'ir jazo (15-25 yil)"
+      ],
+      "qo'shimcha_malumot": [
+        "🙈 Guvohni yo'q qildi",
+        "🎯 Jinoyat uchun sharoit",
+        "⛓️ 15-25 yil"
+      ]
+    }
+  },
+
+  "javob_uzunligi": {
+    "qisqa": {
+      "shablon": "🙈 JK 97-2(o): Jinoyatni yashirish/osonlashtirish. Guvoh/sharoit. 📋 Ariza bor → (g). 🎯 Boshqa maqsad → (o) yo'q. Majmui."
+    },
+    "o'rtacha": {
+      "shablon": "JK 97-2(o): Boshqa jinoyatni yashirish (guvoh/dalil yo'q qilish) yoki osonlashtirish (sharoit yaratish) maqsadida o'ldirish. Maqsadga erishish shart emas. To'g'ri qasd. Ariza bor (organlarga) → (g), (o) yo'q. Majmui: (o) + boshqa jinoyat. Boshqa maqsad bilan birga → (o) emas."
+    },
+    "batafsil": {
+      "shablon": "🙈 JK 97-2(o): BOSHQA jinoyatni yashirish yoki osonlashtirish maqsadida o'ldirish. 2 TUR: 1️⃣ YASHIRISH - guvoh/shohid yo'q qilish, dalil yo'q qilish, javobgarlikdan qutulish. 2️⃣ OSONLASHTIRISH - qulay sharoit yaratish, to'siqni olib tashlash. MAQSADGA ERISHISH shart EMAS. TO'G'RI QASD kerak. 📋 ARIZA: agar organlarga arz qilingan va aybdor bilgan → (o) YO'Q, (g) ✅ (xizmat burchi). 📊 MAJMUI: JK 97-2(o) + boshqa jinoyat (ikkalasi ham). Osonlashtirish, lekin sodir etmagan → (o) + tayyorgarlik. ⚠️ BOSHQA MAQSAD bilan BIRGA bo'lmaydi (tamagirlik+yashirish → faqat (i), bezorilik+yashirish → faqat (l)). Jazo: 15-25 yil yoki umrbod."
+    }
+  },
+
+  "1_asosiy_tushuncha": {
+    "emoji": "🙈",
+    "sarlavha": "YASHIRISH/OSONLASHTIRISH - asosiy tushuncha",
+
+    "tasnif": {
+      "modda": "JK 97-2(o)",
+      "nom": "Jinoyatni yashirish/osonlashtirish maqsadida o'ldirish",
+      "og'irlashtiruvchi": "Maxsus maqsad",
+      "jazo": "⛓️ 15-25 yil yoki umrbod"
+    },
+
+    "asosiy_shart": {
+      "emoji": "❗",
+      "muhim": "BOSHQA jinoyat bo'lishi KERAK",
+      "ma_no": "O'ldirish - BOSHQA jinoyat uchun",
+      "agar_yoq": "Boshqa jinoyat yo'q → (o) yo'q"
+    },
+
+    "2_tur": {
+      "1_yashirish": {
+        "emoji": "🙈",
+        "nom": "YASHIRISH",
+        "ta_rif": "Sodir etilgan jinoyatni yashirish",
+        "vaqt": "Jinoyat sodir etilGAN (o'tmish)"
+      },
+
+      "2_osonlashtirish": {
+        "emoji": "🎯",
+        "nom": "OSONLASHTIRISH",
+        "ta_rif": "Sodir etilADIGAN jinoyatni osonlashtirish",
+        "vaqt": "Jinoyat rejalashtirILAYOTGAN (kelajak)"
+      }
+    }
+  },
+
+  "2_yashirish": {
+    "emoji": "🙈",
+    "sarlavha": "YASHIRISH - sodir etilgan jinoyat",
+
+    "ta_rif": {
+      "nom": "Jinoyatni yashirish",
+      "ma_no": "Sodir etilgan jinoyatni sir tutish, berkitish",
+      "vaqt": "Jinoyat avval sodir etilGAN"
+    },
+
+    "3_usul": {
+      "1_guvoh": {
+        "emoji": "👁️",
+        "nom": "GUVOH/SHOHID yo'q qilish",
+        "ta_rif": "Jinoyatni ko'rgan odamni o'ldirish",
+        "misollar": [
+          "O'g'irlikni ko'rgan guvoh",
+          "Qotillikni ko'rgan shohid",
+          "Dalil beradigan odam",
+          "Bilgan kishi"
+        ],
+        "maqsad": "Guvoh dalil bermasin"
+      },
+
+      "2_dalil": {
+        "emoji": "📋",
+        "nom": "DALIL yo'q qilish",
+        "ta_rif": "Dalil bilan birga odamni o'ldirish",
+        "misollar": [
+          "Dalilni saqlovchi",
+          "Hujjatlar yonida",
+          "Izlar bilan birga"
+        ],
+        "maqsad": "Dalil topilmasin"
+      },
+
+      "3_javobgarlik": {
+        "emoji": "⚖️",
+        "nom": "JAVOBGARLIKDAN qutulish",
+        "ta_rif": "Jazoga duchor bo'lmaslik uchun",
+        "misollar": [
+          "Jinoyat sodir etdi, keyin guvohni o'ldirdi",
+          "Qarzni to'lamaslik uchun kreditorni o'ldirdi",
+          "Javobdan qochish"
+        ],
+        "maqsad": "Jazo olmasin"
+      }
+    }
+  },
+
+  "3_osonlashtirish": {
+    "emoji": "🎯",
+    "sarlavha": "OSONLASHTIRISH - rejalashtirilgan jinoyat",
+
+    "ta_rif": {
+      "nom": "Jinoyatni osonlashtirish",
+      "ma_no": "Kelajakda sodir etiladigan jinoyat uchun sharoit yaratish",
+      "vaqt": "Jinoyat hali sodir etilMAGAN"
+    },
+
+    "3_usul": {
+      "1_sharoit": {
+        "emoji": "🏗️",
+        "nom": "Qulay SHAROIT yaratish",
+        "ta_rif": "Jinoyat uchun yaxshi sharoit",
+        "misollar": [
+          "Qorovulni o'ldirish (bosqinchilik uchun)",
+          "Egani o'ldirish (mulk olish uchun)",
+          "To'siqni olib tashlash"
+        ]
+      },
+
+      "2_tosiq": {
+        "emoji": "🚫",
+        "nom": "TO'SIQ olib tashlash",
+        "ta_rif": "Jinoyatga to'sqinlik qiluvchini yo'q qilish",
+        "misollar": [
+          "Himoyachini o'ldirish",
+          "Politsiyachini o'ldirish",
+          "Nazoratchi o'ldirish"
+        ]
+      },
+
+      "3_yengillashtirish": {
+        "emoji": "⚡",
+        "nom": "YENGILLASHTIRISH",
+        "ta_rif": "Jinoyatni oson qilish",
+        "misollar": [
+          "Mulk olishni osonlashtirish",
+          "Hujumni yengillashtirish",
+          "Qarshiliksiz qilish"
+        ]
+      }
+    }
+  },
+
+  "4_maqsadga_erishish": {
+    "emoji": "❌",
+    "sarlavha": "MAQSADGA ERISHISH - shart emas",
+
+    "qoida": {
+      "emoji": "📋",
+      "asosiy": "Maqsadga erishish SHART EMAS",
+      "yetarli": "Faqat MAQSAD bo'lishi yetarli"
+    },
+
+    "2_holat": {
+      "1_erishgan": {
+        "emoji": "✅",
+        "holat": "Guvohni o'ldirib, jinoyat YASHIRILDI",
+        "natija": "Maqsadga erishdi",
+        "kvalifikatsiya": "JK 97-2(o) ✅"
+      },
+
+      "2_erishmagan": {
+        "emoji": "✅",
+        "holat": "Guvohni o'ldirib, lekin boshqa guvoh TOPILDI",
+        "natija": "Maqsadga erishMAdi (jinoyat baribir oshkor)",
+        "kvalifikatsiya": "JK 97-2(o) ✅ (baribir)",
+        "sabab": "Faqat maqsad yetarli"
+      }
+    }
+  },
+
+  "5_ariza_muammosi": {
+    "emoji": "📋",
+    "sarlavha": "ARIZA (organlarga) - muhim farq",
+
+    "qoida": {
+      "emoji": "📋",
+      "asosiy": "Agar ARIZA qilingan va aybdor BILGAN → (o) YO'Q",
+      "o'rniga": "JK 97-2(g) - xizmat/fuqarolik burchi"
+    },
+
+    "2_holat": {
+      "1_ariza_yoq": {
+        "emoji": "🙈",
+        "holat": "Jinoyat haqida organlarga ARIZA YO'Q",
+        "natija": "Guvohni o'ldirdi",
+        "kvalifikatsiya": "JK 97-2(o) ✅",
+        "sabab": "Ariza yo'q → yashirish maqsadi"
+      },
+
+      "2_ariza_bor": {
+        "emoji": "📋",
+        "holat": "Jinoyat haqida organlarga ARIZA QILINGAN",
+        "aybdor": "Aybdor bundan XABARDOR",
+        "natija": "Guvohni o'ldirdi",
+        "kvalifikatsiya": "❌ JK 97-2(o) EMAS",
+        "togri": "✅ JK 97-2(g) - xizmat burchi",
+        "sabab": "Ariza bor → guvoh xizmat bajarmoqda"
+      }
+    },
+
+    "misol_ariza": {
+      "emoji": "📋",
+      "holat": "A o'g'irlik qildi. B guvoh bo'lib, politsiyaga ARIZA berdi. A buni bildi va B ni o'ldirdi.",
+      "tahlil": {
+        "jinoyat": "✅ O'g'irlik (avval)",
+        "ariza": "✅ Politsiyaga ariza",
+        "aybdor": "✅ A xabardor",
+        "guvoh": "B xizmat bajarmoqda"
+      },
+      "kvalifikatsiya": "❌ JK 97-2(o) EMAS",
+      "togri": "✅ JK 97-2(g) - xizmat burchi",
+      "sabab": "Ariza bor, aybdor bilgan"
+    }
+  },
+
+  "6_majmui": {
+    "emoji": "📊",
+    "sarlavha": "MAJMUI - 2 jinoyat",
+
+    "qoida": {
+      "emoji": "📋",
+      "asosiy": "Jinoyatlar MAJMUI - 2 ta jinoyat",
+      "1_oldirish": "JK 97-2(o) - O'ldirish",
+      "2_boshqa": "Boshqa jinoyat moddasi"
+    },
+
+    "3_holat": {
+      "1_yashirilgan": {
+        "emoji": "✅",
+        "holat": "Boshqa jinoyat SODIR ETILGAN va YASHIRILDI",
+        "kvalifikatsiya": "JK 97-2(o) + boshqa jinoyat moddasi",
+        "misol": "O'g'irlik qildi, guvohni o'ldirdi → JK 97-2(o) + JK 169"
+      },
+
+      "2_osonlashtirilgan": {
+        "emoji": "✅",
+        "holat": "Jinoyat uchun OSONLASHTIRIB, SODIR ETILDI",
+        "kvalifikatsiya": "JK 97-2(o) + boshqa jinoyat moddasi",
+        "misol": "Qorovulni o'ldirib, bosqinchilik qildi → JK 97-2(o) + JK 164"
+      },
+
+      "3_sodir_etmagan": {
+        "emoji": "⚠️",
+        "holat": "Osonlashtirib, lekin jinoyat SODIR ETMAGAN",
+        "kvalifikatsiya": "JK 97-2(o) + JK 25 + boshqa jinoyat (tayyorgarlik)",
+        "misol": "Qorovulni o'ldirdi, lekin bosqinchilik qilMAdi (qo'rqdi) → JK 97-2(o) + JK 25, 164",
+        "sabab": "Jinoyat sodir etilmagan → tayyorgarlik"
+      }
+    }
+  },
+
+  "7_boshqa_maqsad": {
+    "emoji": "⚠️",
+    "sarlavha": "BOSHQA MAQSAD bilan birga - YO'L QO'YILMAYDI",
+
+    "qoida": {
+      "emoji": "📋",
+      "asosiy": "(o) boshqa og'irlashtiruvchi maqsadlar bilan BIRGA bo'lmaydi",
+      "sabab": "Faqat BITTA asosiy maqsad bo'lishi kerak"
+    },
+
+    "misollar": {
+      "1_tamagirlik_yashirish": {
+        "emoji": "💰",
+        "holat": "TAMAGIRLIK + yashirish",
+        "misol": "Pulni o'g'irladi, guvohni o'ldirdi (pul uchun)",
+        "savol": "Asosiy maqsad qaysi?",
+        "javob": "TAMAGIRLIK asosiy",
+        "kvalifikatsiya": "❌ (o) EMAS",
+        "togri": "✅ Faqat JK 97-2(i)",
+        "sabab": "Tamagirlik asosiy, yashirish - ikkinchi darajali"
+      },
+
+      "2_bezorilik_yashirish": {
+        "emoji": "😈",
+        "holat": "BEZORILIK + yashirish",
+        "misol": "Bezorilikda o'ldirdi, keyin yashirmoqchi",
+        "savol": "Asosiy maqsad qaysi?",
+        "javob": "BEZORILIK asosiy",
+        "kvalifikatsiya": "❌ (o) EMAS",
+        "togri": "✅ Faqat JK 97-2(l)",
+        "sabab": "Bezorilik asosiy, yashirish - natijaviy"
+      }
+    },
+
+    "muhim": {
+      "emoji": "❗",
+      "qoida": "Agar IKKI maqsad → faqat BITTA asosiy",
+      "yechim": "Asosiy maqsad qaysi? O'sha bilan kvalifikatsiya",
+      "misol": "Tamagirlik + yashirish → faqat (i)"
+    }
+  },
+
+  "8_amaliy_misollar": {
+    "emoji": "📚",
+    "sarlavha": "Amaliy misollar - to'liq tahlil",
+
+    "misol_1_guvoh": {
+      "emoji": "👁️",
+      "vaziyat": "A o'g'irlik qildi. B ko'rdi (guvoh). A B ni o'ldirdi (yashirish maqsadida).",
+      "tahlil": {
+        "jinoyat": "✅ O'g'irlik (avval)",
+        "guvoh": "✅ B guvoh",
+        "maqsad": "🙈 Yashirish (guvohni yo'q qilish)",
+        "ariza": "❌ Ariza yo'q"
+      },
+      "kvalifikatsiya": "JK 97-2(o) + JK 169 (o'g'irlik) - MAJMUI",
+      "jazo": "Majmui"
+    },
+
+    "misol_2_qorovul": {
+      "emoji": "🎯",
+      "vaziyat": "A bosqinchilik qilmoqchi. Qorovul (B) to'siq. A B ni o'ldirdi (osonlashtirish).",
+      "tahlil": {
+        "jinoyat": "Bosqinchilik (rejadagi)",
+        "tosiq": "✅ Qorovul to'siq",
+        "maqsad": "🎯 Osonlashtirish (to'siq olib tashlash)",
+        "keyin": "A bosqinchilik qildi"
+      },
+      "kvalifikatsiya": "JK 97-2(o) + JK 164 (bosqinchilik) - MAJMUI",
+      "jazo": "Majmui"
+    },
+
+    "misol_3_ariza": {
+      "emoji": "📋",
+      "vaziyat": "A zo'rladi. B guvoh, politsiyaga ARIZA berdi. A buni bildi va B ni o'ldirdi.",
+      "tahlil": {
+        "jinoyat": "✅ Zo'rlash (avval)",
+        "ariza": "✅ Politsiyaga ariza",
+        "aybdor": "✅ A xabardor",
+        "guvoh": "B xizmat bajarmoqda"
+      },
+      "kvalifikatsiya": "❌ JK 97-2(o) EMAS",
+      "togri": "✅ JK 97-2(g) + JK 118 (zo'rlash) - MAJMUI",
+      "sabab": "Ariza bor → xizmat burchi"
+    },
+
+    "misol_4_sodir_etmagan": {
+      "emoji": "⚠️",
+      "vaziyat": "A qorovul B ni o'ldirdi (bosqinchilik uchun). Lekin A qo'rqdi, bosqinchilik qilMAdi.",
+      "tahlil": {
+        "oldirish": "✅ O'ldirdi (osonlashtirish)",
+        "bosqinchilik": "❌ Sodir etMAdi",
+        "sabab": "Qo'rqdi, voz kechdi"
+      },
+      "kvalifikatsiya": "JK 97-2(o) + JK 25, 164 (tayyorgarlik)",
+      "sabab": "Bosqinchilik sodir etilmagan → tayyorgarlik"
+    },
+
+    "misol_5_tamagirlik": {
+      "emoji": "💰",
+      "vaziyat": "A B ni o'g'irladi (TAMAGIRLIK). C guvoh edi. A C ni o'ldirdi.",
+      "tahlil": {
+        "asosiy_maqsad": "💰 TAMAGIRLIK (o'g'irlik)",
+        "ikkinchi": "Guvohni yo'q qilish",
+        "savol": "Qaysi asosiy?"
+      },
+      "yechim": "TAMAGIRLIK asosiy (o'g'irlik uchun o'ldirdi, yashirish - qo'shimcha)",
+      "kvalifikatsiya": "❌ (o) EMAS",
+      "togri": "✅ Faqat JK 97-2(i) + JK 169",
+      "sabab": "Boshqa maqsad bilan birga bo'lmaydi"
+    }
+  },
+
+  "9_algoritm": {
+    "emoji": "🔢",
+    "sarlavha": "KVALIFIKATSIYA algoritmi",
+
+    "qadamlar": [
+      {
+        "qadam": "1️⃣ BOSHQA jinoyat bor mi?",
+        "tekshirish": "Qaysi jinoyat? Sodir etilgan yoki rejadagi?",
+        "javob": "Ha → 2-qadam. Yo'q → (o) yo'q"
+      },
+      {
+        "qadam": "2️⃣ MAQSAD: yashirish yoki osonlashtirish?",
+        "tekshirish": "Guvoh yo'q qilish? Sharoit yaratish?",
+        "javob": "Ha → 3-qadam. Yo'q → (o) yo'q"
+      },
+      {
+        "qadam": "3️⃣ ARIZA bor mi?",
+        "tekshirish": "Organlarga arz qilingan? Aybdor bilgan?",
+        "javob": {
+          "ha": "❌ (o) YO'Q → (g) ✅",
+          "yoq": "4-qadam"
+        }
+      },
+      {
+        "qadam": "4️⃣ BOSHQA maqsad yo'qmi?",
+        "tekshirish": "Tamagirlik? Bezorilik? Boshqa?",
+        "javob": {
+          "yoq": "JK 97-2(o) + boshqa jinoyat ✅",
+          "bor": "❌ (o) yo'q, boshqa belgi"
+        }
+      }
+    ]
+  },
+
+  "10_muhim_xulosa": {
+    "emoji": "❗",
+    "asosiy": [
+      "🙈 BOSHQA jinoyat bo'lishi SHART",
+      "🎯 2 tur: yashirish (guvoh) / osonlashtirish (sharoit)",
+      "❌ Erishish shart EMAS (maqsad yetarli)",
+      "📋 ARIZA bor → (g) ✅, (o) ❌",
+      "📊 MAJMUI: (o) + boshqa jinoyat",
+      "⚠️ BOSHQA maqsad bilan BIRGA bo'lmaydi"
+    ]
+  },
+
+  "tushuntirish": "JK 97-2(o): BOSHQA jinoyatni yashirish yoki osonlashtirish maqsadida o'ldirish. BOSHQA jinoyat bo'lishi SHART. 2 TUR: 1️⃣ YASHIRISH (sodir etilgan jinoyat) - guvoh/shohid yo'q qilish, dalil yo'q qilish, javobgarlikdan qutulish. 2️⃣ OSONLASHTIRISH (rejalashtirilgan jinoyat) - qulay sharoit yaratish, to'siqni olib tashlash, yengillashtirish. MAQSADGA ERISHISH shart EMAS (faqat maqsad yetarli). TO'G'RI QASD kerak. 📋 ARIZA: agar jinoyat haqida organlarga arz qilingan va aybdor xabardor → (o) YO'Q, (g) ✅ (xizmat/fuqarolik burchi). 📊 MAJMUI: JK 97-2(o) + boshqa jinoyat moddasi. Osonlashtirib, lekin sodir etmagan → (o) + tayyorgarlik (JK 25). ⚠️ BOSHQA og'irlashtiruvchi maqsad bilan BIRGA bo'lmaydi (tamagirlik+yashirish → faqat (i), bezorilik+yashirish → faqat (l)). Faqat BITTA asosiy maqsad. Jazo: 15-25 yil yoki umrbod.",
+
+  "translations": {
+    "uz": "JK 97-2(o): Yashirish/osonlashtirish. Guvoh/sharoit. Ariza bor → (g). Boshqa maqsad → (o) yo'q. Majmui.",
+    "ru": "УК 97-2(о): Сокрытие/облегчение. Свидетель/условия. Заявление есть → (г). Другая цель → (о) нет. Совокупность.",
+    "en": "CC 97-2(o): Concealment/facilitation. Witness/conditions. Report exists → (g). Other motive → (o) no. Aggregate."
+  }
+}
