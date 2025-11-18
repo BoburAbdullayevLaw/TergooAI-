@@ -1,0 +1,326 @@
+{
+  "id": "JK-097-SHARH-011",
+  "modda_raqam": "97",
+  "sharh_raqami": 11,
+  "tur": "ikki_yoki_ortiq",
+
+  "_izoh": "BO'LIM 11: JK 97-2(a) - Ikki yoki undan ortiq shaxsni o'ldirish",
+
+  "emoji_sarlavha": "👥 Ikki yoki undan ortiq shaxsni o'ldirish",
+
+  "asosiy_matn": "JK 97-moddasi 2-qismi (a) bandi bo'yicha ikki yoki undan ortiq shaxsni o'ldirish deganda, bir vaqtning o'zida yoki turli vaqtlarda, lekin yagona qasd bilan ikki yoki undan ortiq shaxsni o'ldirish tushuniladi. Muhim shart - barcha o'ldirishlar bitta qasd asosida amalga oshirilishi va aybdor oldingi o'ldirish uchun javobgarlikka tortilmagan bo'lishi kerak",
+
+  "sinonimlar": {
+    "ikki yoki ortiq": {
+      "variantlar": ["ikki yoki undan ortiq", "ko'p odam", "bir necha shaxs", "ko'plab kishilar"],
+      "og'irlik": 95,
+      "rasmiy": true,
+      "emoji": "👥"
+    },
+    "yagona qasd": {
+      "variantlar": ["yagona qasd", "bitta niyat", "umumiy maqsad", "bir qasd"],
+      "og'irlik": 90,
+      "rasmiy": true,
+      "emoji": "🎯"
+    }
+  },
+
+  "kontekstli_javoblar": {
+    "tergovchi": {
+      "uslub": "juda_rasmiy",
+      "emoji": "👮",
+      "qo'shimcha": [
+        "👮 Tergov yuritishda:",
+        "👥 Necha odam o'ldi? (2+)",
+        "🎯 Yagona qasd bo'lganmi?",
+        "📋 Har bir o'ldirishni isbotlang"
+      ],
+      "qo'shimcha_malumot": [
+        "1️⃣ SONI: 2 yoki undan ko'p odam o'lishi kerak",
+        "2️⃣ QASD: YAGONA qasd (bitta niyat)",
+        "3️⃣ VAQT: Bir vaqtda yoki turli vaqtda - farqi yo'q",
+        "4️⃣ JAVOBGARLIK: Oldingi o'ldirish uchun sudlanmagan",
+        "⚠️ Agar YAGONA QASD bo'lmasa → (a) belgi qo'llanilmaydi"
+      ]
+    },
+
+    "advokat": {
+      "uslub": "juda_rasmiy",
+      "emoji": "👔",
+      "qo'shimcha": [
+        "⚖️ Himoya strategiyasi:",
+        "❌ Yagona qasd yo'qligini dalillang",
+        "📉 Alohida jinoyatlar ekanligini isbotlang",
+        "🎯 JK 97-2(a) dan qochish"
+      ],
+      "qo'shimcha_malumot": [
+        "❓ YAGONA QASD YO'Q: Ikki alohida jinoyat",
+        "📋 Turli vaqt, turli sabab, turli qasd",
+        "🎯 Maqsad: (a) belgisiz JK 97-1 (10-15 yil)"
+      ]
+    },
+
+    "sudya": {
+      "uslub": "juda_rasmiy",
+      "emoji": "⚖️",
+      "qo'shimcha": [
+        "⚖️ Sud qarori chiqarishda:",
+        "👥 2+ odam o'ldimi? - ANIQ isbotlanganmi?",
+        "🎯 Yagona qasd bormi? - DALILLAR?",
+        "📝 Har bir holatni qarorga yozing"
+      ],
+      "qo'shimcha_malumot": [
+        "❗ QATIY BAHOLASH:",
+        "1️⃣ Har bir o'lim ANIQ isbotlangan (tibbiy ekspertiza)",
+        "2️⃣ YAGONA QASD isbotlangan (dalillar majmui)",
+        "❓ Shubha bo'lsa → (a) belgi QO'LLANILMAYDI",
+        "📊 Yagona qasd dalillari: usul, vaqt, so'zlar, harakatlar"
+      ]
+    },
+
+    "talaba": {
+      "uslub": "o'rtacha",
+      "emoji": "📚",
+      "qo'shimcha": [
+        "📚 Eslab qoling:",
+        "👥 2+ odam o'ldirish",
+        "🎯 YAGONA qasd - muhim!",
+        "📝 Bir vaqtda yoki turli vaqtda"
+      ],
+      "qo'shimcha_malumot": [
+        "📝 JK 97-2(a) SHARTLARI:",
+        "1️⃣ 2+ odam o'ldi",
+        "2️⃣ YAGONA qasd",
+        "3️⃣ Oldin sudlanmagan",
+        "✅ Barchasi bo'lsa → JK 97-2(a)"
+      ]
+    },
+
+    "oddiy_fuqaro": {
+      "uslub": "norasmiy",
+      "emoji": "👨",
+      "qo'shimcha": [
+        "💬 Oddiy qilib:",
+        "👥 Ko'p odam o'ldirdi",
+        "🎯 Bitta reja bilan",
+        "⛓️ 15-25 yil yoki umrbod"
+      ],
+      "qo'shimcha_malumot": [
+        "👥 2 yoki undan ko'p odam",
+        "🎯 Hammasi bitta reja bilan",
+        "⛓️ Juda og'ir jazo"
+      ]
+    }
+  },
+
+  "javob_uzunligi": {
+    "qisqa": {
+      "shablon": "👥 JK 97-2(a): 2+ odam o'ldirish + Yagona qasd"
+    },
+    "o'rtacha": {
+      "shablon": "JK 97-2(a) - ikki yoki undan ortiq shaxsni yagona qasd bilan o'ldirish. Bir vaqtda yoki turli vaqtda. Muhim: YAGONA qasd va oldin sudlanmagan."
+    },
+    "batafsil": {
+      "shablon": "👥 JK 97-2(a): Ikki yoki undan ortiq shaxsni o'ldirish - bir vaqtning o'zida yoki turli vaqtlarda, lekin YAGONA QASD bilan. 3 SHART: 1) 2+ odam o'lgan, 2) YAGONA qasd (bitta niyat), 3) Oldingi o'ldirish uchun sudlanmagan. Yagona qasd yo'q bo'lsa → alohida jinoyatlar. Jazo: 15-25 yil yoki umrbod."
+    }
+  },
+
+  "1_asosiy_tushuncha": {
+    "emoji": "👥",
+    "sarlavha": "Ikki yoki undan ortiq shaxsni o'ldirish",
+    "ta'rif": "Bir vaqtda yoki turli vaqtlarda, lekin YAGONA QASD bilan 2+ shaxsni o'ldirish",
+
+    "3_shart": {
+      "1_soni": {
+        "emoji": "2️⃣",
+        "shart": "Kamida 2 ta odam o'lgan",
+        "tushuntirish": "2, 3, 4 yoki undan ko'p",
+        "muhim": "Har bir o'lim aniq isbotlangan bo'lishi kerak"
+      },
+
+      "2_yagona_qasd": {
+        "emoji": "🎯",
+        "shart": "YAGONA qasd",
+        "ta'rif": "Barcha o'ldirishlar BITTA niyat bilan",
+        "muhim": "❗ Bu ENG MUHIM shart!"
+      },
+
+      "3_sudlanmagan": {
+        "emoji": "⚖️",
+        "shart": "Oldingi o'ldirish uchun sudlanmagan",
+        "tushuntirish": "Agar birinchi o'ldirish uchun sud bo'lgan bo'lsa → (a) emas",
+        "natija": "Ikkinchi o'ldirish → alohida jinoyat (takroran)"
+      }
+    }
+  },
+
+  "2_yagona_qasd": {
+    "emoji": "🎯",
+    "sarlavha": "YAGONA QASD - asosiy tushuncha",
+    "ta'rif": "Barcha o'ldirishlar BITTA UMUMIY NIYAT asosida",
+    "muhim": "❗ Bu (a) belgining ENG MUHIM elementi!",
+
+    "belgilari": [
+      "Bitta umumiy maqsad",
+      "Barcha o'ldirishlar bir rejaga kiradi",
+      "Oldindan bitta qaror qilingan",
+      "Barcha harakatlar bir niyatdan kelib chiqadi"
+    ],
+
+    "qanday_aniqlash": {
+      "emoji": "🔍",
+      "usullar": [
+        "Aybdorning so'zlari, bayonoti",
+        "Harakatlarning ketma-ketligi",
+        "Vaqt oralig'i",
+        "Sabab va maqsad birligi",
+        "Usul birligi"
+      ]
+    },
+
+    "bor": {
+      "emoji": "✅",
+      "holat": "YAGONA QASD BOR",
+      "misol": "Butun oilani o'ldirmoqchi edi, hammalarini o'ldirdi",
+      "natija": "JK 97-2(a)"
+    },
+
+    "yoq": {
+      "emoji": "❌",
+      "holat": "YAGONA QASD YO'Q",
+      "misol": "Birinchisini o'ldirdi, keyin boshqa sababga ko'ra ikkinchisini",
+      "natija": "2 ta alohida jinoyat (JK 97-1 + JK 97-1), jinoyatlar jamlanishi"
+    }
+  },
+
+  "3_bir_vaqtda": {
+    "emoji": "⏰",
+    "sarlavha": "BIR VAQTNING O'ZIDA o'ldirish",
+    "ta'rif": "Bir xil vaqtda, bir joyda, ketma-ket yoki bir vaqtda",
+
+    "misol_1": {
+      "emoji": "💥",
+      "holat": "A mashinaga bomba o'rnatdi. Mashinada 3 kishi bor edi. Bomba portladi, 3 kishi o'ldi.",
+      "tahlil": {
+        "soni": "3 kishi ✅",
+        "vaqt": "Bir vaqtda",
+        "qasd": "Yagona qasd (hammalarini o'ldirish)"
+      },
+      "natija": "✅ JK 97-2(a)"
+    },
+
+    "misol_2": {
+      "emoji": "🔫",
+      "holat": "A uyga kirib, ota-onani ketma-ket otib o'ldirdi (bir necha daqiqa ichida).",
+      "tahlil": {
+        "soni": "2 kishi ✅",
+        "vaqt": "Bir vaqtda (bir voqea)",
+        "qasd": "Yagona qasd (ikkalasini ham o'ldirish)"
+      },
+      "natija": "✅ JK 97-2(a)"
+    }
+  },
+
+  "4_turli_vaqtlarda": {
+    "emoji": "📅",
+    "sarlavha": "TURLI VAQTLARDA o'ldirish",
+    "ta'rif": "Har xil vaqtda, lekin YAGONA QASD bilan",
+    "muhim": "❗ Vaqt oralig'i muhim emas - YAGONA QASD muhim!",
+
+    "misol_1": {
+      "emoji": "🎯",
+      "holat": "A butun oilani o'ldirmoqchi edi. Bugun otani o'ldirdi, ertaga onani o'ldirdi.",
+      "tahlil": {
+        "soni": "2 kishi ✅",
+        "vaqt": "Turli vaqt (bugun va ertaga)",
+        "qasd": "YAGONA (butun oilani yo'q qilish)"
+      },
+      "natija": "✅ JK 97-2(a)"
+    },
+
+    "misol_2": {
+      "emoji": "✅",
+      "holat": "A bir hafta davomida 3 ta dushmanini birma-bir o'ldirdi. Hammasi bitta rejaga ko'ra.",
+      "tahlil": {
+        "soni": "3 kishi ✅",
+        "vaqt": "Turli vaqt (1 hafta)",
+        "qasd": "YAGONA (barcha dushmanlarni yo'q qilish)"
+      },
+      "natija": "✅ JK 97-2(a)"
+    }
+  },
+
+  "5_yagona_qasd_yoq": {
+    "emoji": "❌",
+    "sarlavha": "YAGONA QASD YO'Q - alohida jinoyatlar",
+
+    "misol_1": {
+      "emoji": "❌",
+      "holat": "A 2015 yilda B ni o'ldirdi (sud bo'ldi, jazo oldi). 2024 yilda qamoqdan chiqdi, yana boshqa sababdan C ni o'ldirdi.",
+      "tahlil": {
+        "soni": "2 kishi",
+        "vaqt": "Turli vaqt (9 yil oraliq)",
+        "qasd": "HAR XİL qasd (alohida sabablar)",
+        "sudlangan": "Birinchisi uchun sudlangan ✅"
+      },
+      "natija": "❌ (a) belgi YO'Q. Ikkinchi o'ldirish → JK 97-1 (takroran og'irlashtiruvchi holat)"
+    },
+
+    "misol_2": {
+      "emoji": "❌",
+      "holat": "A pul uchun janjallashib B ni o'ldirdi. Bir yildan keyin boshqa sabab (o'ch olish) bilan D ni o'ldirdi.",
+      "tahlil": {
+        "soni": "2 kishi",
+        "vaqt": "Turli vaqt (1 yil)",
+        "qasd": "HAR XIL qasd (har xil sabab)",
+        "sudlangan": "Sudlanmagan (lekin qasd har xil)"
+      },
+      "natija": "❌ (a) belgi YO'Q (yagona qasd yo'q). 2 ta alohida jinoyat"
+    }
+  },
+
+  "6_suiqasd_holati": {
+    "emoji": "⚠️",
+    "sarlavha": "Suiqasd holati - bir o'ldi, biri tirik qoldi",
+
+    "holat": {
+      "vaziyat": "A ikki odamni o'ldirmoqchi edi. Birinchisini o'ldirdi, ikkinchisiga suiqasd qildi (tirik qoldi).",
+      "savol": "❓ JK 97-2(a) bo'ladimi?"
+    },
+
+    "javob": {
+      "emoji": "❌",
+      "natija": "YO'Q, chunki 2+ odam O'LISHI kerak",
+      "kvalifikatsiya": "JK 97-1 (bitta o'lim) + JK 25, 97 (suiqasd)",
+      "tushuntirish": "(a) belgi uchun 2+ odam O'LGAN bo'lishi shart"
+    }
+  },
+
+  "7_jamlanish": {
+    "emoji": "➕",
+    "sarlavha": "Jinoyatlar jamlanishi",
+
+    "yagona_qasd_yoq_holat": {
+      "emoji": "📊",
+      "vaziyat": "Turli vaqtda, turli qasd bilan o'ldirish",
+      "natija": "Alohida jinoyatlar → Jamlanadi",
+      "misol": "2015: JK 97-1 (B ni o'ldirdi). 2024: JK 97-1 (C ni o'ldirdi).",
+      "jazo": "Har biri uchun alohida jazo, keyin jamlanadi (JK 54-55)"
+    }
+  },
+
+  "8_muhim_xulosa": {
+    "emoji": "❗",
+    "asosiy": "JK 97-2(a): 2+ odam + YAGONA qasd + Sudlanmagan",
+    "eng_muhim": "🎯 YAGONA QASD - asosiy element!",
+    "vaqt": "Bir vaqtda yoki turli vaqtda - farqi yo'q, qasd muhim"
+  },
+
+  "tushuntirish": "JK 97-2(a): Ikki yoki undan ortiq shaxsni o'ldirish - bir vaqtda yoki turli vaqtlarda, lekin YAGONA QASD bilan. 3 shart: 1) 2+ odam o'lgan, 2) YAGONA qasd (bitta niyat, bitta reja), 3) Oldingi o'ldirish uchun sudlanmagan. Yagona qasd yo'q bo'lsa → alohida jinoyatlar (jamlanadi). Vaqt oralig'i muhim emas, QASD muhim. Jazo: 15-25 yil yoki umrbod.",
+
+  "translations": {
+    "uz": "JK 97-2(a): 2+ shaxs + Yagona qasd. Vaqt farqi yo'q.",
+    "ru": "УК 97-2(а): 2+ лица + Единый умысел. Время не важно.",
+    "en": "CC 97-2(a): 2+ persons + Single intent. Time doesn't matter."
+  }
+}

@@ -1,0 +1,359 @@
+{
+  "id": "JK-097-SHARH-001",
+  "modda_raqam": "97",
+  "sharh_raqami": 1,
+  "tur": "umumiy_tushuncha",
+
+  "_izoh": "BO'LIM 1: Odam o'ldirish - umumiy ta'rif va asosiy elementlar",
+
+  "emoji_sarlavha": "⚖️ Odam o'ldirish - umumiy tushuncha",
+
+  "asosiy_matn": "Huquqqa xilof ravishda, qasddan boshqa kishini hayotdan mahrum qilish odam o'ldirish deb e'tirof etiladi",
+
+  "sinonimlar": {
+    "huquqqa xilof": {
+      "variantlar": ["huquqqa xilof", "qonunga qarshi", "noqonuniy", "qonunsiz"],
+      "og'irlik": 95,
+      "rasmiy": true,
+      "emoji": "🚫"
+    },
+    "hayotdan mahrum qilish": {
+      "variantlar": ["hayotdan mahrum qilish", "o'ldirish", "jonini olish", "hayotini yo'qotish"],
+      "og'irlik": 100,
+      "rasmiy": true,
+      "emoji": "💔"
+    },
+    "e'tirof etiladi": {
+      "variantlar": ["e'tirof etiladi", "hisoblanadi", "deb taniladi"],
+      "og'irlik": 70,
+      "rasmiy": true,
+      "emoji": "✅"
+    }
+  },
+
+  "kontekstli_javoblar": {
+    "_izoh": "Har xil foydalanuvchilar uchun javob uslublari",
+
+    "tergovchi": {
+      "uslub": "juda_rasmiy",
+      "emoji": "👮",
+      "qo'shimcha": [
+        "👮 Tergov boshlashda:",
+        "🔍 Birinchi aniqlash kerak bo'lgan elementlar:",
+        "⚖️ Huquqqa xiloflik mavjudligini tekshiring"
+      ],
+      "fokus": "elementlarni_aniqlash",
+      "qo'shimcha_malumot": [
+        "1️⃣ 🚫 HUQUQQA XILOF: Zaruriy mudofaa, hodisa, qonuniy asos yo'qligini aniqlang",
+        "2️⃣ 🎯 QASD: Ataylab, bilgan holda, iroda bilan harakat qilganligini tekshiring",
+        "3️⃣ 💔 O'LIM: Tibbiy ekspertiza orqali o'lim sababini aniqlang",
+        "⚠️ 3 ta element BARCHASI bo'lishi SHART!"
+      ]
+    },
+
+    "advokat": {
+      "uslub": "juda_rasmiy",
+      "emoji": "👔",
+      "qo'shimcha": [
+        "⚖️ Himoya strategiyasi:",
+        "❓ 3 ta elementdan birortasi yo'qligini isbotlang",
+        "🛡️ Zaruriy mudofaa yoki hodisa ekanligini dalillang",
+        "📉 Qasd emas, ehtiyotsizlik ekanligini ko'rsating"
+      ],
+      "fokus": "himoya",
+      "qo'shimcha_malumot": [
+        "❓ Element 1: Qonuniy asos bormi? (zaruriy mudofaa, hodisa)",
+        "❓ Element 2: Qasd yo'q, tasodif bo'lganmi?",
+        "❓ Element 3: O'lim aybdor harakatidan bo'lmaganmi?",
+        "🎯 Birorta element yo'q → JK 97 QO'LLANILMAYDI"
+      ]
+    },
+
+    "sudya": {
+      "_izoh": "Sudya uchun - elementlarni baholash",
+      "uslub": "juda_rasmiy",
+      "emoji": "⚖️",
+      "qo'shimcha": [
+        "⚖️ Sud qarori chiqarishda:",
+        "📋 3 ta elementning BARCHASI isbotlanganmi?",
+        "❓ Shubha bo'lsa - aybdor foydasiga",
+        "🔍 Har bir elementni alohida baholang"
+      ],
+      "fokus": "elementlar_bahosi",
+      "qo'shimcha_malumot": [
+        "1️⃣ HUQUQQA XILOF: Qonuniy asoslar yo'qligini tekshiring",
+        "2️⃣ QASD: Aybdorning niyati va irodasi isbotlanganmi?",
+        "3️⃣ O'LIM: Sabab-natija aloqasi bormi?",
+        "❗ Birorta element shubhali → aybdor foydasiga (JK 14)",
+        "📝 Qarorni to'liq motivatsiya qilish (har bir elementni alohida bayon qilish)"
+      ]
+    },
+
+    "talaba": {
+      "uslub": "o'rtacha",
+      "emoji": "📚",
+      "qo'shimcha": [
+        "📚 Eslab qoling:",
+        "🔢 Odam o'ldirish = 3 ta element",
+        "💡 Formulani yod oling"
+      ],
+      "fokus": "formula",
+      "qo'shimcha_malumot": [
+        "📝 FORMULA:",
+        "🚫 Element 1: Huquqqa xilof (zaruriy mudofaa emas)",
+        "🎯 Element 2: Qasddan (ataylab, bilgan holda)",
+        "💔 Element 3: Hayotdan mahrum qilish (o'lim yuz berdi)",
+        "✅ 1 + 2 + 3 = Odam o'ldirish (JK 97)"
+      ]
+    },
+
+    "oddiy_fuqaro": {
+      "uslub": "norasmiy",
+      "emoji": "👨",
+      "qo'shimcha": [
+        "💬 Oddiy qilib:",
+        "🔢 Odam o'ldirish uchun 3 narsa kerak:",
+        "❗ Bularning barchasi bo'lishi shart"
+      ],
+      "fokus": "sodda",
+      "qo'shimcha_malumot": [
+        "1️⃣ 🚫 QONUNGA QARSHI (mudofaa emas)",
+        "2️⃣ 🎯 ATAYLAB (tasodif emas)",
+        "3️⃣ 💔 ODAM O'LDI",
+        "❗ Bittasi bo'lmasa → odam o'ldirish EMAS"
+      ]
+    }
+  },
+
+  "savol_turlari": {
+    "_izoh": "Qanday savollarga qanday javob beriladi",
+
+    "ta'rif": {
+      "trigger_sozlar": ["nima", "ta'rif", "degani", "odam o'ldirish"],
+      "javob": "asosiy_matn",
+      "emoji": "❓"
+    },
+    "element": {
+      "trigger_sozlar": ["element", "qism", "shart", "nima kerak"],
+      "javob": "elementlar",
+      "emoji": "🔢"
+    },
+    "farq": {
+      "trigger_sozlar": ["farq", "qachon", "bo'ladi", "bo'lmaydi"],
+      "javob": "farqlash",
+      "emoji": "⚖️"
+    }
+  },
+
+  "javob_uzunligi": {
+    "_izoh": "Javob qanchalik batafsil bo'lishi kerak",
+
+    "qisqa": {
+      "shablon": "🚫 Noqonuniy + 🎯 Qasddan + 💔 Hayotdan mahrum qilish = Odam o'ldirish"
+    },
+    "o'rtacha": {
+      "shablon": "Odam o'ldirish - bu 🚫 huquqqa xilof, 🎯 qasddan, 💔 hayotdan mahrum qilish. 3 ta element BARCHASI bo'lishi kerak."
+    },
+    "batafsil": {
+      "shablon": "⚖️ Qonunga ko'ra odam o'ldirish uchun 3 ta element zarur: 1️⃣ 🚫 Huquqqa xilof (qonunga qarshi, zaruriy mudofaa emas), 2️⃣ 🎯 Qasddan (ataylab, bilgan holda, iroda bilan), 3️⃣ 💔 Hayotdan mahrum qilish (o'lim yuz berdi, sabab-natija aloqasi bor). Bularning BARCHASI bo'lishi SHART, aks holda JK 97 qo'llanilmaydi."
+    }
+  },
+
+  "emoji_format": {
+    "_izoh": "Tez ko'rish uchun emoji format",
+
+    "ta'rif": "📖 Odam o'ldirish = 🚫 Noqonuniy + 🎯 Qasddan + 💔 Hayotdan mahrum qilish",
+    "formula": "❗ 3 ta element = 1+2+3",
+    "element_1": "1️⃣ 🚫 Huquqqa XILOF (zaruriy mudofaa emas)",
+    "element_2": "2️⃣ 🎯 QASDDAN (tasodif emas, ataylab)",
+    "element_3": "3️⃣ 💔 HAYOTDAN mahrum qilish (o'lim yuz berdi)",
+    "muhim": "⚠️ BARCHA 3 ta bo'lishi SHART!"
+  },
+
+  "1_elementlar": {
+    "_izoh": "BO'LIM 1: 3 TA ASOSIY ELEMENT",
+
+    "umumiy": "Odam o'ldirish uchun 3 ta element BARCHASI bo'lishi kerak",
+
+    "element_1_huquqqa_xilof": {
+      "emoji": "🚫",
+      "nom": "1. HUQUQQA XILOF",
+      "ta'rif": "Qonunga qarshi, noqonuniy harakat",
+      "tushuntirish": "Odam o'ldirishning qonuniy asoslari BO'LMASLIGI kerak",
+
+      "qonuniy_asoslar": {
+        "_izoh": "Agar quyidagilar bo'lsa - huquqqa xilof EMAS",
+        "zaruriy_mudofaa": {
+          "emoji": "🛡️",
+          "modda": "JK 37",
+          "holat": "O'zini yoki boshqalarni himoya qilish",
+          "misol": "Hujumchi sizga hujum qildi, siz mudofaa qilib o'ldirdingiz",
+          "natija": "❌ Odam o'ldirish EMAS (qonuniy)"
+        },
+        "hodisa": {
+          "emoji": "🎲",
+          "modda": "JK 41",
+          "holat": "Tasodif, kutilmagan holat",
+          "misol": "Mashq paytida tasodifan to'p boshqa odamga tegib, o'ldi",
+          "natija": "❌ Odam o'ldirish EMAS (hodisa)"
+        },
+        "zarurat": {
+          "emoji": "⚠️",
+          "modda": "JK 39",
+          "holat": "Majburiyat holati",
+          "misol": "Samolyot qulayapti, uchuvchi birovning uyiga tushib, odam o'ldi",
+          "natija": "❌ Odam o'ldirish EMAS (zarurat)"
+        }
+      },
+
+      "asosiy_qoida": "Agar qonuniy asos BO'LSA → huquqqa xilof YO'Q → odam o'ldirish EMAS"
+    },
+
+    "element_2_qasd": {
+      "emoji": "🎯",
+      "nom": "2. QASDDAN",
+      "ta'rif": "Ataylab, bilgan holda, iroda bilan harakat qilish",
+      "tushuntirish": "Aybdor o'ldirishni XOHLAGAN yoki o'limni OLDINDAN KO'RGAN bo'lishi kerak",
+
+      "qasd_turlari": {
+        "to'g'ridan_to'g'ri": {
+          "emoji": "🎯",
+          "nom": "To'g'ridan-to'g'ri qasd",
+          "ta'rif": "O'ldirishni aniq MAQSAD qilib qo'ygan",
+          "misol": "Pichoq olib, o'ldirish niyatida hujum qildi"
+        },
+        "bilvosita": {
+          "emoji": "🔄",
+          "nom": "Bilvosita qasd",
+          "ta'rif": "O'limni oldindan ko'rgan va rozi bo'lgan",
+          "misol": "Uyni yoqdi, ichida odam borligini bilgan, o'lishi mumkinligini tushungan"
+        }
+      },
+
+      "qasd_emas": {
+        "_izoh": "Quyidagi holatlar qasd EMAS",
+        "ehtiyotsizlik": {
+          "emoji": "🤷",
+          "holat": "Xohlagan emas, ehtiyot bo'lmagan",
+          "misol": "Avtomashina haydab, ehtiyot bo'lmay, odamni urib o'ldirdi",
+          "natija": "JK 102 (ehtiyotsizlikdan) - JK 97 EMAS"
+        },
+        "tasodif": {
+          "emoji": "🎲",
+          "holat": "Kutilmagan, tasodifiy",
+          "misol": "Yo'lda ketayotgan odam sirpanib tushdi va boshqa odamni itarib yubordi, u o'ldi",
+          "natija": "Jinoyat EMAS (hodisa)"
+        }
+      },
+
+      "asosiy_qoida": "Qasd bo'lishi kerak: ataylab yoki oldindan ko'rgan holda"
+    },
+
+    "element_3_hayotdan_mahrum": {
+      "emoji": "💔",
+      "nom": "3. HAYOTDAN MAHRUM QILISH",
+      "ta'rif": "Aybdorning harakati natijasida jabrlanuvchi o'lishi",
+      "tushuntirish": "O'LIM yuz berishi va aybdor harakati bilan ALOQASI bo'lishi kerak",
+
+      "shartlar": {
+        "1_olim": {
+          "emoji": "☠️",
+          "shart": "Jabrlanuvchi O'LGAN bo'lishi kerak",
+          "tushuntirish": "O'lim faktini tibbiy ekspertiza aniqlaydi"
+        },
+        "2_aloqa": {
+          "emoji": "🔗",
+          "shart": "Aybdorning harakati va o'lim o'rtasida SABAB-NATIJA aloqasi",
+          "tushuntirish": "Aynan aybdorning harakati o'limga olib kelgan",
+          "misol": "Pichoq sanqdi → qon ketdi → o'ldi (aloqa bor)"
+        }
+      },
+
+      "aloqa_yoq": {
+        "_izoh": "Agar sabab-natija aloqasi yo'q bo'lsa",
+        "misol": "A B ni urdi, B kasalxonaga yotqizildi, shifokor xato davoladi, B o'ldi",
+        "savol": "Kimning aybi? A mi yoki shifokor mi?",
+        "javob": "Tekshirish kerak - agar shifokor xatosi asosiy sabab bo'lsa, A ga JK 97 emas"
+      },
+
+      "asosiy_qoida": "O'lim bo'lishi va aybdor harakati bilan bog'liq bo'lishi kerak"
+    }
+  },
+
+  "2_farqlash": {
+    "_izoh": "BO'LIM 2: ODAM O'LDIRISH VA BOSHQA HOLATLARNI FARQLASH",
+
+    "odam_oldirish_vs_boshqa": {
+      "emoji": "⚖️",
+      "sarlavha": "Qachon odam o'ldirish, qachon emas?",
+
+      "odam_oldirish": {
+        "emoji": "✅",
+        "shartlar": "3 ta element BARCHASI bor",
+        "misol": "Janjal qildi, pichoq oldi, ataylab o'ldirdi",
+        "natija": "JK 97 - Odam o'ldirish"
+      },
+
+      "zaruriy_mudofaa": {
+        "emoji": "🛡️",
+        "shartlar": "Huquqqa xilof YO'Q (mudofaa)",
+        "misol": "Hujumchi sizga hujum qildi, siz himoya qilib o'ldirdingiz",
+        "natija": "JK 37 - Jinoyat EMAS (qonuniy mudofaa)"
+      },
+
+      "ehtiyotsizlik": {
+        "emoji": "🤷",
+        "shartlar": "Qasd YO'Q (ehtiyotsizlik)",
+        "misol": "Avtomashina haydab, ehtiyotsizlikdan odamni urib o'ldirdi",
+        "natija": "JK 102 - Ehtiyotsizlikdan (JK 97 emas)"
+      },
+
+      "hodisa": {
+        "emoji": "🎲",
+        "shartlar": "Qasd YO'Q, tasodif",
+        "misol": "Sport o'yinida tasodifan odam o'ldi",
+        "natija": "JK 41 - Jinoyat EMAS (hodisa)"
+      }
+    }
+  },
+
+  "3_muhim_xulosa": {
+    "_izoh": "BO'LIM 3: MUHIM XULOSA",
+
+    "emoji": "❗",
+    "asosiy": "Odam o'ldirish = 3 ta element BARCHASI",
+    "formula": "🚫 Huquqqa xilof + 🎯 Qasddan + 💔 O'lim = JK 97",
+    "muhim": "Bitta element bo'lmasa → JK 97 QO'LLANILMAYDI"
+  },
+
+  "muhim_nuqta": "❗ BARCHA 3 ta element bo'lishi SHART, aks holda bu odam o'ldirish EMAS",
+
+  "tushuntirish": "Odam o'ldirish uchun 3 ta asosiy element kerak: 1) 🚫 Noqonuniy (qonunga xilof, zaruriy mudofaa emas), 2) 🎯 Qasddan (ataylab, bilgan holda), 3) 💔 Hayotdan mahrum qilish (o'lim yuz berdi, sabab-natija aloqasi bor). Bu elementlarning BARCHASI bo'lishi shart.",
+
+  "misollar": {
+    "to'g'ri": {
+      "emoji": "✅",
+      "holat": "Shaxsiy nizo tufayli ataylab pichoqlab o'ldirish",
+      "tahlil": "3 ta element bor: 🚫 qonunsiz + 🎯 qasddan + 💔 o'ldi",
+      "natija": "JK 97 - Odam o'ldirish"
+    },
+    "noto'g'ri_1": {
+      "emoji": "❌",
+      "holat": "Zaruriy mudofaada hujumchini o'ldirish",
+      "tahlil": "🚫 Huquqqa xilof YO'Q (qonuniy mudofaa)",
+      "natija": "JK 37 - Odam o'ldirish EMAS"
+    },
+    "noto'g'ri_2": {
+      "emoji": "❌",
+      "holat": "Avtomashina haydab, ehtiyotsizlikdan odam urib o'ldirdi",
+      "tahlil": "🎯 Qasd YO'Q (ehtiyotsizlik)",
+      "natija": "JK 102 - Odam o'ldirish EMAS (ehtiyotsizlikdan)"
+    }
+  },
+
+  "translations": {
+    "uz": "Huquqqa xilof, qasddan hayotdan mahrum qilish = 3 element",
+    "ru": "Противоправное, умышленное лишение жизни = 3 элемента",
+    "en": "Unlawful, intentional deprivation of life = 3 elements"
+  }
+}

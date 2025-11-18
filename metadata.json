@@ -1,0 +1,90 @@
+{
+  "modda_id": "JK-097",
+  "modda_raqam": "97",
+  "kod": "JK",
+  "kod_nomi": "O'zbekiston Respublikasi Jinoyat Kodeksi",
+
+  "qism": "MAXSUS QISM",
+  "bolim": "Birinchi bo'lim. SHAXSGA QARSHI JINOYATLAR",
+  "bob": "I bob. HAYOTGA QARSHI JINOYATLAR",
+
+  "modda_nomi": "Qasddan odam o'ldirish",
+  "emoji_sarlavha": "⚰️ Qasddan odam o'ldirish",
+
+  "jiddiylik": "og'ir jinoyat",
+  "kategoriya": "hayotga qarshi jinoyat",
+
+  "tuzilishi": {
+    "qismlar_soni": 2,
+    "qism_1": {
+      "nom": "Oddiy tarkib (JK 97-1)",
+      "jazo": "10-15 yil ozodlikdan mahrum qilish"
+    },
+    "qism_2": {
+      "nom": "Og'irlashtiruvchi holatlar (JK 97-2)",
+      "bandlar_soni": 18,
+      "bandlar": [
+        "a) ikki yoki undan ortiq shaxsni",
+        "b) homiladorligi ayon bo'lgan ayolni",
+        "v) ojiz ahvoldagi shaxsni",
+        "g) xizmat/fuqarolik burchi",
+        "d) ko'pchilik xavfli usul",
+        "ye) ommaviy tartibsizliklar",
+        "j) o'ta shafqatsizlik",
+        "z) nomusga tegish/zo'rlash",
+        "i) tamagirlik",
+        "k) milliy/irqiy adovat",
+        "l) bezorilik",
+        "m) diniy taassublar",
+        "n) transplantatsiya",
+        "o) yashirish/osonlashtirish",
+        "p) guruh/uyushgan guruh",
+        "r) takroran/xavfli retsidivist",
+        "s) o'ta xavfli retsidivist"
+      ],
+      "jazo": "15-25 yil yoki umrbod ozodlikdan mahrum qilish"
+    }
+  },
+
+  "asosiy_tushunchalar": [
+    "qasd",
+    "hayot",
+    "o'ldirish",
+    "og'irlashtiruvchi holatlar",
+    "umrbod qamoq"
+  ],
+
+  "aloqador_moddalar": {
+    "JK_25": "Suiqasd",
+    "JK_96": "Ehtiyotsizlikdan odam o'ldirish",
+    "JK_98": "Yangi tug'ilgan chaqaloqni onasi tomonidan o'ldirish",
+    "JK_99": "Shafqat hissidan kelib odam o'ldirish",
+    "JK_100": "Haddan oshgan zaruriy mudofaa",
+    "JK_155": "Terrorizm",
+    "JK_157": "Prezidentning hayotiga tajovuz"
+  },
+
+  "manbalar": {
+    "muallif": "M.X. Rustambayev",
+    "kitob": "MAXSUS QISM",
+    "nashr_sanasi": "2024-05-01",
+    "versiya": "Joriy"
+  },
+
+  "statistika": {
+    "sharxlar_soni": 31,
+    "misollar_soni": 50,
+    "sahifalar": "250-320"
+  },
+
+  "yaratilgan_sana": "2025-01-15",
+  "oxirgi_yangilangan": "2025-01-15",
+  "versiya": "2.0",
+
+  "metadata": {
+    "til": "uz",
+    "format": "JSON",
+    "encoding": "UTF-8",
+    "license": "Educational Use"
+  }
+}

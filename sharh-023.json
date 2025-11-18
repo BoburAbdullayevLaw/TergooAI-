@@ -1,0 +1,628 @@
+{
+  "id": "JK-097-SHARH-023",
+  "modda_raqam": "97",
+  "sharh_raqami": 23,
+  "tur": "ota_shafqatsizlik",
+
+  "_izoh": "BO'LIM 23: JK 97-2(j) - O'ta shafqatsizlik bilan o'ldirish",
+
+  "emoji_sarlavha": "😈 O'ta shafqatsizlik (qiynoq, azob)",
+
+  "asosiy_matn": "JK 97-2(j): O'ta shafqatsizlik bilan o'ldirish. 2 TUR: 1️⃣ USUL - o'ta azob berish (qiynoq, zahar, yoqish, ovqat/suv bermaslik, ko'p jarohat). 2️⃣ HOLAT - yaqin kishilari ko'z o'ngida (iztirob berish qasdida). QASD kerak: azob/iztirob berish maqsadi. Ko'p jarohat YETARLI EMAS (qasd bo'lmasa). O'limdan KEYIN - (j) EMAS (murda tahqirlash, bo'laklash → JK 134, majmui). ISHTIROKCHILAR: agar oldindan kelishmagan → bajaruvchi (j), boshqalar (j) yo'q. To'g'ri yoki egri qasd.",
+
+  "sinonimlar": {
+    "ota_shafqatsizlik": {
+      "variantlar": ["o'ta shafqatsizlik", "vahshiylik", "shafqatsizlik", "rahmatsizlik", "qattiq shafqatsizlik"],
+      "og'irlik": 95,
+      "rasmiy": true,
+      "emoji": "😈"
+    },
+    "qiynoq": {
+      "variantlar": ["qiynoq", "azob", "azob-uqubat", "ezilish", "ta'zir"],
+      "og'irlik": 90,
+      "rasmiy": true,
+      "emoji": "🔥"
+    },
+    "yaqin_kishi": {
+      "variantlar": ["yaqin kishi", "yaqin odam", "aziz kishi", "muhabbatli kishi"],
+      "og'irlik": 85,
+      "rasmiy": false,
+      "emoji": "❤️"
+    }
+  },
+
+  "kontekstli_javoblar": {
+    "tergovchi": {
+      "uslub": "juda_rasmiy",
+      "emoji": "👮",
+      "qo'shimcha": [
+        "👮 Tergov yuritishda:",
+        "😈 O'TA SHAFQATSIZLIK turini aniqlash (usul/holat)",
+        "🧠 QASD borligini isbotlash (azob/iztirob maqsadi)",
+        "⏰ VAQT: o'limdan OLDIN (keyin emas)"
+      ],
+      "qo'shimcha_malumot": [
+        "❗ ANIQLASH KERAK:",
+        "1️⃣ O'ta shafqatsizlik TURI?",
+        "   - Usul (qiynoq, azob)?",
+        "   - Holat (yaqinlar ko'z o'ngida)?",
+        "2️⃣ QASD bor edi mi?",
+        "   - Azob berish maqsadi?",
+        "   - Iztirob berish maqsadi?",
+        "3️⃣ VAQT?",
+        "   - O'limdan OLDIN?",
+        "   - Jarayonda?",
+        "   - (Keyin emas!)",
+        "",
+        "😈 O'TA SHAFQATSIZLIK USULLARI:",
+        "🔥 Qiynoq, azob",
+        "☠️ Zahar (kuchli og'riq)",
+        "🔥 Tiriklayin yoqish",
+        "🚫 Ovqat/suv bermaslik (uzoq)",
+        "🤕 Ko'p jarohat (azob uchun)",
+        "",
+        "❤️ YAQIN KISHILARI KO'Z O'NGIDA:",
+        "- Kim ko'rdi? (yaqin kishilari)",
+        "- Aybdor bilgan mi? (iztirob)",
+        "",
+        "⏰ O'LIMDAN KEYIN:",
+        "- Murda tahqirlash → JK 134",
+        "- Bo'laklash → JK 134",
+        "- MAJMUI: JK 97 + JK 134"
+      ]
+    },
+
+    "advokat": {
+      "uslub": "juda_rasmiy",
+      "emoji": "👔",
+      "qo'shimcha": [
+        "⚖️ Himoya strategiyasi:",
+        "❌ QASD yo'q edi (azob maqsadi emas)",
+        "⏰ Ko'p jarohat ≠ shafqatsizlik",
+        "📉 JK 97-2(j) dan JK 97-1 ga"
+      ],
+      "qo'shimcha_malumot": [
+        "🎯 MAQSAD: (j) belgini olib tashlash",
+        "❌ QASD YO'Q:",
+        "- Azob berish MAQSADI yo'q",
+        "- Tez o'ldirmoqchi edi",
+        "- Ko'p jarohat - tasodif",
+        "",
+        "⏰ KO'P JAROHAT:",
+        "- Faqat ko'p jarohat ≠ (j)",
+        "- QASD kerak (azob uchun)",
+        "- Agar yo'q → oddiy",
+        "",
+        "❤️ YAQINLAR:",
+        "- Bilmagan (ko'rinmagan)",
+        "- Iztirob MAQSADI yo'q",
+        "",
+        "📉 97-2(j) → 97-1:",
+        "15-25 yil → 8-15 yil"
+      ]
+    },
+
+    "sudya": {
+      "uslub": "juda_rasmiy",
+      "emoji": "⚖️",
+      "qo'shimcha": [
+        "⚖️ Sud qarori chiqarishda:",
+        "😈 O'ta shafqatsizlik ANIQ isbotlangan mi?",
+        "🧠 QASD (azob/iztirob maqsadi) bor mi?",
+        "⏰ VAQT: o'limdan oldin/jarayonda?"
+      ],
+      "qo'shimcha_malumot": [
+        "❗ TEKSHIRISH:",
+        "1️⃣ O'ta shafqatsizlik TURI?",
+        "   📋 USUL:",
+        "   - Qiynoq, azob?",
+        "   - Kuchli og'riq?",
+        "   - Uzoq azob?",
+        "   ❤️ HOLAT:",
+        "   - Yaqinlar ko'z o'ngida?",
+        "   - Aybdor iztirob maqsadi?",
+        "",
+        "2️⃣ QASD ANIQ mi?",
+        "   ✅ Azob berish MAQSADI",
+        "   ✅ Iztirob berish MAQSADI",
+        "   ❌ Tez o'ldirish → (j) yo'q",
+        "",
+        "3️⃣ VAQT?",
+        "   ✅ O'limdan OLDIN",
+        "   ✅ O'ldirish JARAYONIDA",
+        "   ❌ O'limdan KEYIN → JK 134",
+        "",
+        "⚠️ KO'P JAROHAT:",
+        "- Faqat ko'p jarohat ≠ (j)",
+        "- QASD kerak!",
+        "- Agar shubha → (j) yo'q",
+        "",
+        "📝 QARORGA YOZISH:",
+        "- Qanday shafqatsizlik (usul/holat)",
+        "- Qasd isboti (azob/iztirob)",
+        "- Nima uchun (j) / nima uchun yo'q"
+      ]
+    },
+
+    "talaba": {
+      "uslub": "o'rtacha",
+      "emoji": "📚",
+      "qo'shimcha": [
+        "📚 Eslab qoling:",
+        "😈 2 tur: usul (azob) / holat (yaqinlar)",
+        "🧠 Qasd kerak (azob/iztirob maqsadi)",
+        "⏰ O'limdan oldin (keyin emas)",
+        "⚠️ Ko'p jarohat ≠ shafqatsizlik (qasd yo'q bo'lsa)"
+      ],
+      "qo'shimcha_malumot": [
+        "📝 ASOSIY:",
+        "😈 2 TUR:",
+        "1️⃣ USUL - azob berish",
+        "2️⃣ HOLAT - yaqinlar ko'z o'ngida",
+        "",
+        "🧠 QASD:",
+        "- Azob berish",
+        "- Iztirob berish",
+        "",
+        "⏰ O'limdan KEYIN:",
+        "- Murda tahqir → JK 134",
+        "- Majmui"
+      ]
+    },
+
+    "oddiy_fuqaro": {
+      "uslub": "norasmiy",
+      "emoji": "👨",
+      "qo'shimcha": [
+        "💬 Oddiy qilib:",
+        "😈 Juda shafqatsiz o'ldirdi",
+        "🔥 Qiynoq, azob berdi",
+        "❤️ Yoki yaqinlari ko'z o'ngida",
+        "⛓️ Og'ir jazo (15-25 yil)"
+      ],
+      "qo'shimcha_malumot": [
+        "😈 Qiynoq qilib o'ldirdi",
+        "❤️ Oilasi ko'z o'ngida",
+        "⛓️ 15-25 yil"
+      ]
+    }
+  },
+
+  "javob_uzunligi": {
+    "qisqa": {
+      "shablon": "😈 JK 97-2(j): Usul (azob) / Holat (yaqinlar). 🧠 Qasd kerak. ⏰ Oldin (keyin emas)."
+    },
+    "o'rtacha": {
+      "shablon": "JK 97-2(j): O'ta shafqatsizlik. 2 TUR: Usul (qiynoq, azob, yoqish) / Holat (yaqinlar ko'z o'ngida). Qasd kerak (azob/iztirob maqsadi). Ko'p jarohat yetarli emas. O'limdan keyin - JK 134 (majmui). Ishtirokchilar: kelishmagan → bajaruvchi (j), boshqalar yo'q."
+    },
+    "batafsil": {
+      "shablon": "😈 JK 97-2(j): O'ta shafqatsizlik bilan o'ldirish. 2 TUR: 1️⃣ USUL - o'ta azob berish (qiynoq, zahar og'riq beruvchi, tiriklayin yoqish, ovqat/suv bermaslik uzoq, ko'p jarohat azob uchun). 2️⃣ HOLAT - yaqin kishilari ko'z o'ngida (iztirob berish qasdida). 🧠 QASD MAJBURIY: azob/iztirob berish MAQSADI. Ko'p jarohat YETARLI EMAS (qasd bo'lmasa). ⏰ O'limdan KEYIN - (j) EMAS (murda tahqirlash, bo'laklash → JK 134, majmui). ISHTIROKCHILAR: oldindan kelishmagan → bajaruvchi (j), boshqalar (j) yo'q. To'g'ri/egri qasd. Jazo: 15-25 yil yoki umrbod."
+    }
+  },
+
+  "1_asosiy_tushuncha": {
+    "emoji": "😈",
+    "sarlavha": "O'TA SHAFQATSIZLIK - asosiy tushuncha",
+
+    "tasnif": {
+      "modda": "JK 97-2(j)",
+      "nom": "O'ta shafqatsizlik bilan o'ldirish",
+      "og'irlashtiruvchi": "Maxsus vahshiylik",
+      "jazo": "⛓️ 15-25 yil yoki umrbod"
+    },
+
+    "ta_rif": {
+      "emoji": "📋",
+      "2_tur": "Ikki xil ko'rinish",
+
+      "1_usul": {
+        "emoji": "🔥",
+        "nom": "USUL - o'ta azob berish",
+        "ma'no": "Jabrlanuvchiga o'ta azob berish usulida o'ldirish"
+      },
+
+      "2_holat": {
+        "emoji": "❤️",
+        "nom": "HOLAT - yaqinlar ko'z o'ngida",
+        "ma'no": "Yaqin kishilari ko'z o'ngida o'ldirish (iztirob)"
+      }
+    },
+
+    "majburiy_shart": {
+      "emoji": "🧠",
+      "asosiy": "QASD bo'lishi KERAK",
+      "nima": "Azob yoki iztirob berish MAQSADI",
+      "agar_yoq": "Qasd yo'q → (j) belgi yo'q"
+    }
+  },
+
+  "2_usul_ota_azob": {
+    "emoji": "🔥",
+    "sarlavha": "USUL - O'ta azob berish",
+
+    "ta_rif": {
+      "nom": "O'ta azob berish usuli",
+      "ma'no": "Jabrlanuvchiga alohida qiynoq, azob yetkazish",
+      "vaqt": "O'lishidan OLDIN yoki jarayonida"
+    },
+
+    "usullar": {
+      "1_qiynoq": {
+        "emoji": "😈",
+        "nom": "Qiynoq, azob",
+        "tavsif": "Maxsus qiynoq usullari",
+        "misollar": [
+          "Kuchli og'riq berish",
+          "Uzoq vaqt azob berish",
+          "Jismoniy qiynoq"
+        ]
+      },
+
+      "2_zahar": {
+        "emoji": "☠️",
+        "nom": "Og'riq beruvchi zahar",
+        "tavsif": "Kuchli og'riq beruvchi zaharli moddalar",
+        "misol": "Zahar ichirish (kuchli og'riq bilan o'lish)"
+      },
+
+      "3_yoqish": {
+        "emoji": "🔥",
+        "nom": "Tiriklayin yoqish",
+        "tavsif": "Jonli holda o't qo'yish",
+        "misol": "Benzin quyib, yoqish"
+      },
+
+      "4_ochlik": {
+        "emoji": "🚫",
+        "nom": "Ovqat/suv bermaslik",
+        "tavsif": "Uzoq muddat ovqat/suv bermaslik",
+        "shart": "UZOQ muddat",
+        "misol": "Qamalab, ovqat bermaslik (bir necha kun/hafta)"
+      },
+
+      "5_kop_jarohat": {
+        "emoji": "🤕",
+        "nom": "Ko'p jarohat (azob uchun)",
+        "tavsif": "Ko'plab shikast (AZOB berish qasdida)",
+        "muhim": "❗ Faqat AZOB BERISH qasdida!",
+        "agar_yoq": "Qasd yo'q → oddiy ko'p jarohat (j) emas"
+      }
+    },
+
+    "qasd": {
+      "emoji": "🧠",
+      "majburiy": "QASD bo'lishi SHART",
+      "maqsad": "Jabrlanuvchiga AZOB berish",
+      "bilish": "Aybdor azob berayotganini biladi, xohlaydi"
+    }
+  },
+
+  "3_holat_yaqinlar": {
+    "emoji": "❤️",
+    "sarlavha": "HOLAT - Yaqin kishilari ko'z o'ngida",
+
+    "ta_rif": {
+      "nom": "Yaqin kishilari ko'z o'ngida o'ldirish",
+      "ma'no": "Yaqin kishilariga iztirob berish maqsadida",
+      "shartlar": [
+        "Yaqin kishilari ko'ryapti",
+        "Aybdor buni biladi",
+        "Ularga iztirob berish MAQSADI"
+      ]
+    },
+
+    "yaqin_kishilari": {
+      "emoji": "👥",
+      "ta_rif": "Jabrlanuvchining yaqin odamlari",
+
+      "1_qarindoshlar": {
+        "emoji": "👨‍👩‍👧‍👦",
+        "nom": "Yaqin qarindoshlar",
+        "misollar": [
+          "Ota-ona",
+          "Er-xotin",
+          "Farzandlar",
+          "Aka-uka, opa-singillar"
+        ]
+      },
+
+      "2_dostlar": {
+        "emoji": "🤝",
+        "nom": "Yaqin do'stlar",
+        "ta_rif": "Alohida shaxsiy do'stona munosabat",
+        "misollar": [
+          "Eng yaqin do'st",
+          "Sevgilisi",
+          "Juda yaqin odam"
+        ]
+      }
+    },
+
+    "qasd": {
+      "emoji": "🧠",
+      "majburiy": "QASD bo'lishi SHART",
+      "nima": [
+        "Yaqinlari BOR ekanini biladi",
+        "Ularga IZTIROB berayotganini biladi",
+        "Iztirob berish MAQSADI"
+      ],
+      "agar_yoq": "Bilmagan yoki maqsad yo'q → (j) yo'q"
+    },
+
+    "misol": {
+      "emoji": "❤️",
+      "holat": "A onaning ko'z o'ngida uning FARZANDINI o'ldirdi. A onaga iztirob berish MAQSADIDA qildi.",
+      "tahlil": {
+        "yaqin": "✅ Ona - yaqin kishi",
+        "kordi": "✅ Ko'z o'ngida",
+        "qasd": "✅ Iztirob berish maqsadi",
+        "iztirob": "✅ Ona kuchli iztirob chekdi"
+      },
+      "kvalifikatsiya": "JK 97-2(j)"
+    }
+  },
+
+  "4_kop_jarohat_muammo": {
+    "emoji": "⚠️",
+    "sarlavha": "KO'P JAROHAT - yetarli emas",
+
+    "qoida": {
+      "emoji": "📋",
+      "asosiy": "Faqat ko'p jarohat ≠ o'ta shafqatsizlik",
+      "sabab": "QASD kerak (azob berish maqsadi)"
+    },
+
+    "2_holat": {
+      "1_qasd_bor": {
+        "emoji": "✅",
+        "holat": "Ko'p jarohat + AZOB BERISH qasdida",
+        "natija": "JK 97-2(j) ✅",
+        "misol": "Aybdor azob berish uchun ko'p marta urdi, sekin o'ldirdi"
+      },
+
+      "2_qasd_yoq": {
+        "emoji": "❌",
+        "holat": "Ko'p jarohat + azob maqsadi YO'Q",
+        "natija": "JK 97-2(j) ❌ → JK 97-1",
+        "misol": "Aybdor tez o'ldirmoqchi, lekin ko'p urdi (tasodif, hissiyot)"
+      }
+    },
+
+    "farq": {
+      "emoji": "🔍",
+      "asosiy": "MAQSAD - azob berish yoki yo'q?",
+      "qasd_bor": "Azob berish MAQSADI → (j) ✅",
+      "qasd_yoq": "Tez o'ldirish → (j) ❌"
+    }
+  },
+
+  "5_olimdan_keyin": {
+    "emoji": "⏰",
+    "sarlavha": "O'LIMDAN KEYIN - (j) emas",
+
+    "qoida": {
+      "emoji": "📋",
+      "asosiy": "O'limdan KEYIN harakatlar → (j) EMAS",
+      "sabab": "O'ldirish o'lim bilan tugaydi",
+      "modda": "O'limdan keyin → JK 134 (murda tahqirlash)"
+    },
+
+    "misollar": {
+      "1_tahqir": {
+        "emoji": "😡",
+        "harakat": "Murdani tahqirlash",
+        "modda": "❌ JK 97-2(j) emas → ✅ JK 134",
+        "majmui": "JK 97 + JK 134"
+      },
+
+      "2_bolaklash": {
+        "emoji": "🔪",
+        "harakat": "Murdani bo'laklarga bo'lish",
+        "maqsad": "Qotillikni yashirish",
+        "modda": "❌ JK 97-2(j) emas → ✅ JK 134",
+        "majmui": "JK 97 + JK 134"
+      },
+
+      "3_yoqish": {
+        "emoji": "🔥",
+        "harakat": "Murdani yo'q qilish (yoqish)",
+        "maqsad": "Izni yo'q qilish",
+        "modda": "❌ JK 97-2(j) emas → ✅ JK 134",
+        "majmui": "JK 97 + JK 134"
+      }
+    },
+
+    "vaqt_chizigi": {
+      "emoji": "⏱️",
+      "1_oldin": "O'limdan OLDIN → (j) bo'lishi mumkin ✅",
+      "2_jarayonda": "O'ldirish JARAYONIDA → (j) bo'lishi mumkin ✅",
+      "3_keyin": "O'limdan KEYIN → (j) EMAS ❌ → JK 134"
+    }
+  },
+
+  "6_ishtirokchilar": {
+    "emoji": "👥",
+    "sarlavha": "ISHTIROKCHILAR - maxsus qoida",
+
+    "qoida": {
+      "emoji": "📋",
+      "holat": "Oldindan til biriktirilMAGAN",
+      "ma'no": "Shafqatsizlik haqida kelishmagan",
+
+      "bajaruvchi": {
+        "emoji": "😈",
+        "kim": "Bajaruvchi (o'zi o'ldirgan)",
+        "kvalifikatsiya": "JK 97-2(j) ✅",
+        "sabab": "O'zi shafqatsizlik qildi"
+      },
+
+      "boshqalar": {
+        "emoji": "🤝",
+        "kim": "Boshqa ishtirokchilar (tashabbuskor, yordamchi)",
+        "kvalifikatsiya": "❌ JK 97-2(j) yo'q",
+        "togri": "✅ JK 97-2 ((j) istisno)",
+        "sabab": "Shafqatsizlik haqida bilmagan"
+      }
+    },
+
+    "agar_kelishgan": {
+      "emoji": "🤝",
+      "holat": "Oldindan til biriktirilGAN",
+      "ma'no": "Shafqatsizlik haqida kelishgan",
+      "kvalifikatsiya": "Hammasi JK 97-2(j) ✅",
+      "sabab": "Barchasi bilgan, kelishgan"
+    },
+
+    "misol_kelishmagan": {
+      "emoji": "❌",
+      "holat": "A va B birgalikda C ni o'ldirmoqchi. A C ni qiynodi, azob berdi. B bilmagan edi (kelishmagan).",
+      "kvalifikatsiya": {
+        "A": "JK 97-2(j) ✅ (bajaruvchi, shafqatsizlik qildi)",
+        "B": "JK 97-2 ((j) yo'q) - tashabbuskor/yordamchi"
+      }
+    },
+
+    "misol_kelishgan": {
+      "emoji": "✅",
+      "holat": "A va B kelishdilar: C ni qiynab o'ldiramiz. A qiynodi, B yordam berdi.",
+      "kvalifikatsiya": {
+        "A": "JK 97-2(j) ✅",
+        "B": "JK 97-2(j) ✅",
+        "sabab": "Oldindan kelishgan"
+      }
+    }
+  },
+
+  "7_amaliy_misollar": {
+    "emoji": "📚",
+    "sarlavha": "Amaliy misollar - to'liq tahlil",
+
+    "misol_1_yoqish": {
+      "emoji": "🔥",
+      "vaziyat": "A B ni TIRIKLAYIN yoqib yubordi. B og'riq ichida o'ldi.",
+      "tahlil": {
+        "usul": "✅ Tiriklayin yoqish (o'ta azob)",
+        "qasd": "✅ Azob berish maqsadi",
+        "vaqt": "✅ O'lishidan oldin"
+      },
+      "kvalifikatsiya": "JK 97-2(j)",
+      "jazo": "15-25 yil"
+    },
+
+    "misol_2_yaqinlar": {
+      "emoji": "❤️",
+      "vaziyat": "A xotinning ko'z o'ngida uning ERIGA pichoq sanqdi. A xotinga iztirob berish maqsadida qildi.",
+      "tahlil": {
+        "holat": "✅ Yaqin kishi (xotin) ko'z o'ngida",
+        "qasd": "✅ Iztirob berish maqsadi",
+        "iztirob": "✅ Xotin kuchli iztirob"
+      },
+      "kvalifikatsiya": "JK 97-2(j)",
+      "jazo": "15-25 yil"
+    },
+
+    "misol_3_kop_jarohat_qasd": {
+      "emoji": "✅",
+      "vaziyat": "A B ni qiynash uchun ko'p marta (50 marta) urdi, sekin o'ldirdi. A azob berish MAQSADIDA qildi.",
+      "tahlil": {
+        "jarohat": "✅ Ko'p jarohat (50 marta)",
+        "qasd": "✅ AZOB berish maqsadi (sekin)",
+        "usul": "✅ Qiynoq"
+      },
+      "kvalifikatsiya": "JK 97-2(j)",
+      "sabab": "Qasd bor (azob maqsadi)"
+    },
+
+    "misol_4_kop_jarohat_yoq": {
+      "emoji": "❌",
+      "vaziyat": "A va B janjal qildi. A hissiylanib, B ni ko'p marta (30 marta) urdi. A tez o'ldirmoqchi edi (azob maqsadi yo'q).",
+      "tahlil": {
+        "jarohat": "✅ Ko'p jarohat (30 marta)",
+        "qasd": "❌ Azob maqsadi YO'Q (tez o'ldirish)",
+        "sabab": "Hissiyot, janjal"
+      },
+      "kvalifikatsiya": "❌ JK 97-2(j) EMAS",
+      "togri": "✅ JK 97-1",
+      "sabab": "Qasd yo'q (azob maqsadi yo'q)"
+    },
+
+    "misol_5_olimdan_keyin": {
+      "emoji": "⏰",
+      "vaziyat": "A B ni o'ldirdi (oddiy). Keyin murdani tahqirladi, bo'laklarga bo'ldi (yashirish uchun).",
+      "tahlil": {
+        "oldirish": "✅ Oddiy o'ldirish",
+        "keyin": "Murda tahqir, bo'laklash (o'limdan KEYIN)",
+        "qasd": "Yashirish (shafqatsizlik emas)"
+      },
+      "kvalifikatsiya": {
+        "j_yoq": "❌ JK 97-2(j) EMAS",
+        "togri": "✅ JK 97-1 + JK 134 (MAJMUI)"
+      },
+      "sabab": "O'limdan keyin → (j) emas, JK 134"
+    },
+
+    "misol_6_ishtirokchilar": {
+      "emoji": "👥",
+      "vaziyat": "A va B kelishdilar C ni o'ldirish. A C ni qiynodi (shafqatsizlik). B bilmagan edi (kelishmagan).",
+      "tahlil": {
+        "kelishish": "❌ Shafqatsizlik haqida kelishmagan",
+        "A": "Bajaruvchi, qiynodi",
+        "B": "Tashabbuskor, bilmagan"
+      },
+      "kvalifikatsiya": {
+        "A": "JK 97-2(j) ✅",
+        "B": "JK 97-2 ((j) yo'q) - tashabbuskor"
+      }
+    }
+  },
+
+  "8_algoritm": {
+    "emoji": "🔢",
+    "sarlavha": "KVALIFIKATSIYA algoritmi",
+
+    "qadamlar": [
+      {
+        "qadam": "1️⃣ O'ta shafqatsizlik BOR mi?",
+        "tekshirish": "Usul (azob) yoki Holat (yaqinlar)?",
+        "javob": "Ha → 2-qadam. Yo'q → (j) yo'q"
+      },
+      {
+        "qadam": "2️⃣ QASD bor mi?",
+        "tekshirish": "Azob yoki iztirob berish MAQSADI?",
+        "javob": "Ha → 3-qadam. Yo'q/shubha → (j) yo'q"
+      },
+      {
+        "qadam": "3️⃣ VAQT to'g'ri mi?",
+        "tekshirish": "O'limdan OLDIN yoki jarayonida?",
+        "javob": "Ha → 4-qadam. Keyin → JK 134 (majmui)"
+      },
+      {
+        "qadam": "4️⃣ ISHTIROKCHILAR?",
+        "tekshirish": "Oldindan kelishganmi?",
+        "javob": {
+          "kelishgan": "Hammasi JK 97-2(j)",
+          "kelishmagan": "Bajaruvchi (j), boshqalar yo'q"
+        }
+      }
+    ]
+  },
+
+  "9_muhim_xulosa": {
+    "emoji": "❗",
+    "asosiy": [
+      "😈 2 TUR: Usul (azob) / Holat (yaqinlar)",
+      "🧠 QASD majburiy (azob/iztirob maqsadi)",
+      "⚠️ Ko'p jarohat ≠ (j) (qasd yo'q bo'lsa)",
+      "⏰ O'limdan KEYIN → JK 134 (majmui)",
+      "👥 Kelishmagan → bajaruvchi (j), boshqalar yo'q"
+    ]
+  },
+
+  "tushuntirish": "JK 97-2(j): O'ta shafqatsizlik bilan o'ldirish. 2 TUR: 1️⃣ USUL - o'ta azob berish (qiynoq, zahar og'riq, tiriklayin yoqish, ovqat/suv yo'q uzoq, ko'p jarohat azob uchun). 2️⃣ HOLAT - yaqin kishilari (qarindosh, yaqin do'st) ko'z o'ngida (iztirob berish qasdida). 🧠 QASD MAJBURIY: azob/iztirob berish MAQSADI bo'lishi KERAK. ⚠️ Faqat ko'p jarohat YETARLI EMAS (qasd yo'q bo'lsa → oddiy). ⏰ O'limdan KEYIN harakatlar (murda tahqir, bo'laklash) → (j) EMAS, JK 134 (majmui). 👥 ISHTIROKCHILAR: oldindan kelishmagan → bajaruvchi JK 97-2(j), boshqalar (j) yo'q. To'g'ri yoki egri qasd. Jazo: 15-25 yil yoki umrbod.",
+
+  "translations": {
+    "uz": "JK 97-2(j): Shafqatsizlik. Usul/holat. Qasd kerak. Keyin - JK 134.",
+    "ru": "УК 97-2(ж): Жестокость. Способ/обстановка. Умысел нужен. После - УК 134.",
+    "en": "CC 97-2(j): Cruelty. Method/situation. Intent required. After - CC 134."
+  }
+}

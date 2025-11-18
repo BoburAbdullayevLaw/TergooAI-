@@ -1,0 +1,577 @@
+{
+  "id": "JK-097-SHARH-020",
+  "modda_raqam": "97",
+  "sharh_raqami": 20,
+  "tur": "maxsus_normalar_farqi",
+
+  "_izoh": "BO'LIM 20: JK 97-2(g) va maxsus normalar farqi - JK 219, JK 155-2, JK 158-1",
+
+  "emoji_sarlavha": "⚔️ Maxsus normalar (raqobat, jinoyatlar majmui)",
+
+  "asosiy_matn": "JK 97-2(g) va MAXSUS NORMALAR farqi. 1️⃣ JK 219 (qarshilik) + JK 97-2(g) = JINOYATLAR MAJMUI (ikkala modda ham). 2️⃣ JK 155-2 (davlat/jamoat arbobi suiqasdi) - MAXSUS norma, JK 97-2(g) dan USTUN (faqat JK 155-2). 3️⃣ JK 158-1 (Prezident suiqasdi) - MAXSUS norma, JK 97-2(g) dan USTUN (faqat JK 158-1). QOIDA: Maxsus va umumiy norma raqobati → MAXSUS norma qo'llanadi. JK 97-2(g) - UMUMIY norma. JK 155-2, 158-1 - MAXSUS normalar.",
+
+  "sinonimlar": {
+    "maxsus_norma": {
+      "variantlar": ["maxsus norma", "alohida norma", "spetsial norma", "tor doira norma"],
+      "og'irlik": 95,
+      "rasmiy": true,
+      "emoji": "🎯"
+    },
+    "umumiy_norma": {
+      "variantlar": ["umumiy norma", "keng norma", "general norma"],
+      "og'irlik": 90,
+      "rasmiy": true,
+      "emoji": "📋"
+    },
+    "raqobat": {
+      "variantlar": ["raqobat", "konkurentsiya", "to'qnashuv", "tanlov"],
+      "og'irlik": 85,
+      "rasmiy": true,
+      "emoji": "⚔️"
+    }
+  },
+
+  "kontekstli_javoblar": {
+    "tergovchi": {
+      "uslub": "juda_rasmiy",
+      "emoji": "👮",
+      "qo'shimcha": [
+        "👮 Tergov yuritishda:",
+        "🎯 MAXSUS norma bormi? (JK 155-2, 158-1)",
+        "📋 Agar yo'q → JK 97-2(g)",
+        "⚔️ JK 219 → majmui (ikkala modda)"
+      ],
+      "qo'shimcha_malumot": [
+        "❗ KVALIFIKATSIYA KETMA-KETLIGI:",
+        "1️⃣ Prezidentmi? → JK 158-1 (faqat)",
+        "2️⃣ Davlat/jamoat arbobimi? → JK 155-2 (faqat)",
+        "3️⃣ Hokimiyat vakili qarshilik? → JK 219 + 97-2(g) (majmui)",
+        "4️⃣ Oddiy xizmat/fuqarolik? → JK 97-2(g) (faqat)",
+        "",
+        "🎯 MAXSUS NORMALAR:",
+        "- JK 158-1: Prezident suiqasdi",
+        "- JK 155-2: Davlat/jamoat arbobi suiqasdi",
+        "",
+        "⚔️ JINOYATLAR MAJMUI:",
+        "- JK 219: Qarshilik ko'rsatish",
+        "- JK 97-2(g): O'ldirish",
+        "→ Ikkalasi ham (majmui)",
+        "",
+        "📋 UMUMIY NORMA:",
+        "- JK 97-2(g): Oddiy xizmat/fuqarolik"
+      ]
+    },
+
+    "advokat": {
+      "uslub": "juda_rasmiy",
+      "emoji": "👔",
+      "qo'shimcha": [
+        "⚖️ Himoya strategiyasi:",
+        "📉 MAXSUS normadan UMUMIY ga",
+        "❌ Maxsus belgilar yo'qligini dalillang",
+        "🎯 JK 155-2/158-1 → JK 97-2(g)"
+      ],
+      "qo'shimcha_malumot": [
+        "🎯 MAQSAD: Yengilroq modda",
+        "📉 STRATEGIYA:",
+        "- JK 158-1 → JK 97-2(g) (umrbod → 15-25)",
+        "- JK 155-2 → JK 97-2(g) (umrbod → 15-25)",
+        "",
+        "❌ MAXSUS BELGI YO'Q:",
+        "- Prezident emas",
+        "- Davlat arbobi emas",
+        "- Oddiy xodim",
+        "",
+        "⚠️ QARSHILIK:",
+        "- JK 219 + 97-2(g) → faqat 97-2(g)?",
+        "- Qarshilik yo'q edi?"
+      ]
+    },
+
+    "sudya": {
+      "uslub": "juda_rasmiy",
+      "emoji": "⚖️",
+      "qo'shimcha": [
+        "⚖️ Sud qarori chiqarishda:",
+        "🎯 Maxsus norma → USTUN (faqat maxsus)",
+        "⚔️ Majmui → ikkala modda ham",
+        "📋 Umumiy → oddiy kvalifikatsiya"
+      ],
+      "qo'shimcha_malumot": [
+        "❗ KVALIFIKATSIYA QOIDASI:",
+        "🎯 MAXSUS NORMA USTUN:",
+        "- Maxsus va umumiy raqobati",
+        "- Faqat MAXSUS qo'llanadi",
+        "- JK 155-2, 158-1 → maxsus",
+        "- JK 97-2(g) → umumiy",
+        "",
+        "⚔️ JINOYATLAR MAJMUI:",
+        "- Bir harakat, bir oqibat",
+        "- Lekin 2 modda",
+        "- Ikkala modda ham qo'llanadi",
+        "- JK 219 + 97-2(g)",
+        "",
+        "📊 TEKSHIRISH:",
+        "1️⃣ Jabrlanuvchi kim?",
+        "2️⃣ Maxsus belgi bormi?",
+        "3️⃣ Agar bor → maxsus norma",
+        "4️⃣ Agar yo'q → umumiy norma",
+        "5️⃣ Qarshilik bormi? → majmui",
+        "",
+        "📝 QARORGA YOZISH:",
+        "- Nima uchun maxsus/umumiy",
+        "- Nima uchun majmui/faqat biri"
+      ]
+    },
+
+    "talaba": {
+      "uslub": "o'rtacha",
+      "emoji": "📚",
+      "qo'shimcha": [
+        "📚 Eslab qoling:",
+        "🎯 Maxsus norma USTUN",
+        "⚔️ Majmui = ikkalasi ham",
+        "📋 Umumiy = oddiy"
+      ],
+      "qo'shimcha_malumot": [
+        "📝 QOIDALAR:",
+        "🎯 MAXSUS > UMUMIY",
+        "⚔️ MAJMUI = 2 modda",
+        "📋 UMUMIY = 1 modda",
+        "",
+        "🔢 MODULLAR:",
+        "- JK 158-1: Prezident",
+        "- JK 155-2: Arbobi",
+        "- JK 219: Qarshilik",
+        "- JK 97-2(g): Oddiy"
+      ]
+    },
+
+    "oddiy_fuqaro": {
+      "uslub": "norasmiy",
+      "emoji": "👨",
+      "qo'shimcha": [
+        "💬 Oddiy qilib:",
+        "👑 Prezident → alohida modda",
+        "👔 Katta mansab → alohida modda",
+        "👮 Politsiya qarshilik → 2 ta jinoyat",
+        "💼 Oddiy xodim → oddiy modda"
+      ],
+      "qo'shimcha_malumot": [
+        "👑 Prezident → eng og'ir",
+        "👔 Davlat arbobi → og'ir",
+        "👮 Politsiya → 2 jinoyat",
+        "💼 Oddiy → oddiy"
+      ]
+    }
+  },
+
+  "javob_uzunligi": {
+    "qisqa": {
+      "shablon": "🎯 Maxsus > Umumiy. ⚔️ JK 219 → majmui. 📋 JK 97-2(g) → umumiy."
+    },
+    "o'rtacha": {
+      "shablon": "JK 97-2(g) va maxsus normalar. Maxsus norma USTUN: JK 155-2 (arbobi), JK 158-1 (Prezident) → faqat maxsus. Majmui: JK 219 (qarshilik) + JK 97-2(g). Umumiy: JK 97-2(g) oddiy."
+    },
+    "batafsil": {
+      "shablon": "JK 97-2(g) va MAXSUS NORMALAR farqi. QOIDA: Maxsus norma USTUN. 🎯 MAXSUS: JK 155-2 (davlat/jamoat arbobi suiqasdi), JK 158-1 (Prezident suiqasdi) → faqat MAXSUS qo'llanadi (97-2(g) YO'Q). ⚔️ MAJMUI: JK 219 (qarshilik) + JK 97-2(g) → IKKALASI ham. 📋 UMUMIY: JK 97-2(g) oddiy xizmat/fuqarolik → faqat 97-2(g). Raqobat: maxsus va umumiy → MAXSUS ustun."
+    }
+  },
+
+  "1_asosiy_muammo": {
+    "emoji": "⚔️",
+    "sarlavha": "ASOSIY MUAMMO - bir xil holatlar, turli moddalar",
+
+    "vaziyat": {
+      "emoji": "❓",
+      "muammo": "Xizmat burchini bajargan shaxs o'ldirildi",
+      "savol": "Qaysi modda bo'yicha kvalifikatsiya qilish kerak?"
+    },
+
+    "tanlov": {
+      "emoji": "📊",
+      "variantlar": [
+        "JK 97-2(g) - Xizmat/fuqarolik burchi",
+        "JK 155-2 - Davlat/jamoat arbobi suiqasdi",
+        "JK 158-1 - Prezident suiqasdi",
+        "JK 219 + 97-2(g) - Qarshilik + o'ldirish"
+      ],
+      "qanday_tanlash": "Jabrlanuvchining MAQOMI va VAZIYAT"
+    }
+  },
+
+  "2_normalar_turlari": {
+    "emoji": "📋",
+    "sarlavha": "NORMALAR TURLARI - umumiy va maxsus",
+
+    "umumiy_norma": {
+      "emoji": "📋",
+      "nom": "UMUMIY norma",
+      "ta'rif": "Keng doiradagi holatlarni qamraydi",
+      "misol_modda": "JK 97-2(g)",
+      "qamrovi": "Barcha xizmat/fuqarolik burchini bajaruvchilar",
+      "qachon": "Maxsus norma yo'q bo'lsa"
+    },
+
+    "maxsus_norma": {
+      "emoji": "🎯",
+      "nom": "MAXSUS norma",
+      "ta'rif": "Tor, aniq holatlarni qamraydi",
+      "misol_moddalar": ["JK 155-2", "JK 158-1"],
+      "qamrovi": "Faqat ma'lum shaxslar (Prezident, arbobi)",
+      "qachon": "Maxsus belgilar mavjud bo'lsa"
+    },
+
+    "raqobat": {
+      "emoji": "⚔️",
+      "nom": "NORMALAR RAQOBATI",
+      "holat": "Bir jinoyat uchun 2 norma mos keladi",
+      "qoida": "MAXSUS norma USTUN",
+      "sabab": "Maxsus norma aniqroq, to'liqroq",
+      "natija": "Faqat MAXSUS norma qo'llanadi"
+    }
+  },
+
+  "3_jk_97_2g_umumiy": {
+    "emoji": "📋",
+    "sarlavha": "JK 97-2(g) - UMUMIY norma",
+
+    "tasnif": {
+      "modda": "JK 97-2(g)",
+      "nom": "Xizmat/fuqarolik burchini bajarish munosabati bilan o'ldirish",
+      "turi": "UMUMIY norma",
+      "jazo": "⛓️ 15-25 yil yoki umrbod"
+    },
+
+    "qamrovi": {
+      "emoji": "👥",
+      "keng": "Barcha xizmat/fuqarolik burchini bajaruvchilar",
+      "misollar": [
+        "Politsiya xodimlari",
+        "Sudyalar",
+        "Prokurorlar",
+        "Oddiy xodimlar",
+        "Guvohlar",
+        "Fuqarolar (ijtimoiy foydali)"
+      ]
+    },
+
+    "qachon_qollanadi": {
+      "emoji": "✅",
+      "1_maxsus_yoq": "MAXSUS norma yo'q (oddiy xodim)",
+      "2_yolg'iz": "Faqat o'ldirish (qarshilik yo'q)",
+      "3_majmui": "Qarshilik bilan (JK 219 + 97-2(g))"
+    }
+  },
+
+  "4_jk_155_2_maxsus": {
+    "emoji": "👔",
+    "sarlavha": "JK 155-2 - MAXSUS norma (Davlat/jamoat arbobi)",
+
+    "tasnif": {
+      "modda": "JK 155-2",
+      "nom": "Davlat yoki jamoat arbobiga suiqasd",
+      "turi": "MAXSUS norma",
+      "jazo": "⛓️ 15-20 yil yoki umrbod"
+    },
+
+    "kim": {
+      "emoji": "👔",
+      "nom": "Davlat yoki jamoat arbobi",
+      "ta'rif": "Yuqori mansabdor shaxslar",
+      "misollar": [
+        "Vazirlar",
+        "Hokimlar",
+        "Parlament a'zolari",
+        "Oliy sud raisi",
+        "Bosh prokuror",
+        "Yuqori lavozimli shaxslar"
+      ]
+    },
+
+    "farq_97_2g": {
+      "emoji": "⚔️",
+      "asosiy": "MAQOM - yuqori mansab",
+      "jk_155_2": "Davlat/jamoat ARBOBI",
+      "jk_97_2g": "Oddiy xizmatchi",
+      "raqobat": "Agar arbobi → faqat JK 155-2",
+      "sabab": "MAXSUS norma ustun"
+    },
+
+    "misol": {
+      "emoji": "👔",
+      "holat": "Hokim (davlat arbobi) vazifasini bajarish munosabati bilan o'ldirildi.",
+      "tanlov": ["JK 97-2(g)?", "JK 155-2?"],
+      "yechim": "🎯 JK 155-2 (MAXSUS norma)",
+      "sabab": "Hokim - davlat arbobi, maxsus norma ustun",
+      "noto_gri": "❌ JK 97-2(g) emas (umumiy norma)"
+    }
+  },
+
+  "5_jk_158_1_maxsus": {
+    "emoji": "👑",
+    "sarlavha": "JK 158-1 - MAXSUS norma (Prezident)",
+
+    "tasnif": {
+      "modda": "JK 158-1",
+      "nom": "O'zbekiston Respublikasi Prezidentiga tajovuz",
+      "turi": "ENG MAXSUS norma",
+      "jazo": "⛓️ 15-20 yil yoki umrbod"
+    },
+
+    "kim": {
+      "emoji": "👑",
+      "nom": "O'zbekiston Respublikasi Prezidenti",
+      "yagona": "Faqat BITTA shaxs",
+      "eng_yuqori": "Eng yuqori maqom"
+    },
+
+    "farq_boshqalar": {
+      "emoji": "⚔️",
+      "jk_158_1": "FAQAT Prezident",
+      "jk_155_2": "Davlat/jamoat arbobi (Prezident emas)",
+      "jk_97_2g": "Oddiy xizmatchi",
+      "raqobat": "Agar Prezident → faqat JK 158-1",
+      "sabab": "ENG MAXSUS norma"
+    },
+
+    "misol": {
+      "emoji": "👑",
+      "holat": "Prezident vazifasini bajarish munosabati bilan o'ldirildi.",
+      "tanlov": ["JK 97-2(g)?", "JK 155-2?", "JK 158-1?"],
+      "yechim": "👑 JK 158-1 (ENG MAXSUS)",
+      "sabab": "Prezident - eng maxsus norma",
+      "noto_gri": [
+        "❌ JK 97-2(g) emas",
+        "❌ JK 155-2 emas"
+      ]
+    }
+  },
+
+  "6_jk_219_majmui": {
+    "emoji": "⚔️",
+    "sarlavha": "JK 219 - JINOYATLAR MAJMUI",
+
+    "tasnif": {
+      "modda": "JK 219",
+      "nom": "Hokimiyat vakiliga qarshilik ko'rsatish",
+      "turi": "ALOHIDA jinoyat",
+      "jazo": "⛓️ 5-10 yil"
+    },
+
+    "majmui": {
+      "emoji": "🔢",
+      "nom": "JINOYATLAR MAJMUI",
+      "ta'rif": "Bir harakat - 2 jinoyat",
+      "moddalar": ["JK 219", "JK 97-2(g)"],
+      "sabab": "Qarshilik + o'ldirish - ikkalasi ham jinoyat"
+    },
+
+    "nima_majmui": {
+      "emoji": "❓",
+      "holat": "Hokimiyat vakiliga QARSHILIK ko'rsatib O'LDIRDI",
+      "2_jinoyat": [
+        "1️⃣ JK 219: Qarshilik ko'rsatish",
+        "2️⃣ JK 97-2(g): O'ldirish"
+      ],
+      "natija": "Ikkalasi ham qo'llanadi (majmui)",
+      "jazo": "Ikkalasining yig'indisi"
+    },
+
+    "farq_oddiy": {
+      "emoji": "🔍",
+      "jk_219_majmui": "QARSHILIK bilan o'ldirish → 219 + 97-2(g)",
+      "jk_97_2g_faqat": "O'CH olish (qarshilik yo'q) → faqat 97-2(g)",
+      "asosiy_farq": "QARSHILIK bor yoki yo'q"
+    },
+
+    "misol_majmui": {
+      "emoji": "⚔️",
+      "holat": "Politsiya xodimi jinoyatchini tutmoqchi bo'ldi. Jinoyatchi QARSHILIK ko'rsatib, politsiyachini o'ldirdi.",
+      "tahlil": {
+        "qarshilik": "✅ Tutishga qarshilik ko'rsatdi",
+        "oldirish": "✅ O'ldirdi"
+      },
+      "kvalifikatsiya": "JK 219 + JK 97-2(g) (MAJMUI)",
+      "jazo": "JK 219 (5-10) + JK 97-2(g) (15-25) = majmui"
+    },
+
+    "misol_faqat_97": {
+      "emoji": "📋",
+      "holat": "Politsiya jinoyatchini tutgan edi. Jinoyatchi qamoqdan qochdi va 1 yildan keyin politsiyachini o'ldirdi (O'CH olish).",
+      "tahlil": {
+        "qarshilik": "❌ Qarshilik yo'q (o'ch olish)",
+        "oldirish": "✅ O'ldirdi"
+      },
+      "kvalifikatsiya": "❌ JK 219 emas, ✅ faqat JK 97-2(g)",
+      "jazo": "15-25 yil"
+    }
+  },
+
+  "7_raqobat_qoidasi": {
+    "emoji": "⚖️",
+    "sarlavha": "RAQOBAT QOIDASI - maxsus ustun",
+
+    "qoida": {
+      "emoji": "📋",
+      "asosiy": "Maxsus va umumiy norma raqobati → MAXSUS ustun",
+      "sabab": "Maxsus norma aniqroq, to'liqroq",
+      "natija": "Faqat MAXSUS norma qo'llanadi"
+    },
+
+    "raqobat_turlari": {
+      "prezident_vs_umumiy": {
+        "emoji": "👑",
+        "norma": "JK 158-1 (Prezident) vs JK 97-2(g)",
+        "ustun": "🎯 JK 158-1",
+        "sabab": "Eng maxsus norma"
+      },
+
+      "arbobi_vs_umumiy": {
+        "emoji": "👔",
+        "norma": "JK 155-2 (Arbobi) vs JK 97-2(g)",
+        "ustun": "🎯 JK 155-2",
+        "sabab": "Maxsus norma"
+      }
+    },
+
+    "qachon_majmui": {
+      "emoji": "⚔️",
+      "holat": "JK 219 + JK 97-2(g)",
+      "sabab": "Majmui - raqobat emas",
+      "tushuntirish": "2 xil jinoyat, 2 modda kerak"
+    }
+  },
+
+  "8_algoritm": {
+    "emoji": "🔢",
+    "sarlavha": "KVALIFIKATSIYA ALGORITMI - bosqichma-bosqich",
+
+    "qadamlar": [
+      {
+        "qadam": "1️⃣ Jabrlanuvchi KIM?",
+        "tekshirish": "Maqom, lavozim?",
+        "variantlar": [
+          "👑 Prezident → 2-qadam",
+          "👔 Davlat/jamoat arbobi → 3-qadam",
+          "👮 Hokimiyat vakili → 4-qadam",
+          "💼 Oddiy xizmatchi → 5-qadam"
+        ]
+      },
+      {
+        "qadam": "2️⃣ PREZIDENT → JK 158-1",
+        "natija": "🎯 Faqat JK 158-1",
+        "tugadi": "✅ Kvalifikatsiya tugadi"
+      },
+      {
+        "qadam": "3️⃣ ARBOBI → JK 155-2",
+        "natija": "🎯 Faqat JK 155-2",
+        "tugadi": "✅ Kvalifikatsiya tugadi"
+      },
+      {
+        "qadam": "4️⃣ HOKIMIYAT VAKILI → Qarshilik bormi?",
+        "tekshirish": "Tutishga, ushlab turishga qarshilik?",
+        "variantlar": [
+          "✅ Bor → JK 219 + JK 97-2(g) (majmui)",
+          "❌ Yo'q → JK 97-2(g) (faqat)"
+        ]
+      },
+      {
+        "qadam": "5️⃣ ODDIY XIZMATCHI → JK 97-2(g)",
+        "natija": "📋 Faqat JK 97-2(g)",
+        "tugadi": "✅ Kvalifikatsiya tugadi"
+      }
+    ]
+  },
+
+  "9_amaliy_misollar": {
+    "emoji": "📚",
+    "sarlavha": "Amaliy misollar - to'liq tahlil",
+
+    "misol_1_prezident": {
+      "emoji": "👑",
+      "holat": "Prezident davlat ishlarini yuritish munosabati bilan o'ldirildi.",
+      "algoritm": {
+        "1_kim": "👑 Prezident",
+        "2_norma": "JK 158-1 (maxsus)"
+      },
+      "kvalifikatsiya": "👑 JK 158-1 (faqat)",
+      "noto_gri": [
+        "❌ JK 97-2(g) emas",
+        "❌ JK 155-2 emas"
+      ],
+      "sabab": "Eng maxsus norma ustun"
+    },
+
+    "misol_2_arbobi": {
+      "emoji": "👔",
+      "holat": "Vazir (davlat arbobi) vazifasini bajarish munosabati bilan o'ldirildi.",
+      "algoritm": {
+        "1_kim": "👔 Davlat arbobi",
+        "2_norma": "JK 155-2 (maxsus)"
+      },
+      "kvalifikatsiya": "👔 JK 155-2 (faqat)",
+      "noto_gri": "❌ JK 97-2(g) emas",
+      "sabab": "Maxsus norma ustun"
+    },
+
+    "misol_3_politsiya_qarshilik": {
+      "emoji": "⚔️",
+      "holat": "Politsiya jinoyatchini tutmoqchi. Jinoyatchi qarshilik ko'rsatib o'ldirdi.",
+      "algoritm": {
+        "1_kim": "👮 Hokimiyat vakili (politsiya)",
+        "2_qarshilik": "✅ Bor (tutishga qarshilik)",
+        "3_norma": "JK 219 + JK 97-2(g)"
+      },
+      "kvalifikatsiya": "⚔️ JK 219 + JK 97-2(g) (MAJMUI)",
+      "jazo": "Ikkalasining majmui"
+    },
+
+    "misol_4_politsiya_och": {
+      "emoji": "📋",
+      "holat": "Politsiya jinoyatchini tutgan. 1 yildan keyin jinoyatchi o'ch olib o'ldirdi.",
+      "algoritm": {
+        "1_kim": "👮 Hokimiyat vakili",
+        "2_qarshilik": "❌ Yo'q (o'ch olish)",
+        "3_norma": "JK 97-2(g) (faqat)"
+      },
+      "kvalifikatsiya": "📋 JK 97-2(g) (faqat)",
+      "noto_gri": "❌ JK 219 emas (qarshilik yo'q)"
+    },
+
+    "misol_5_oddiy": {
+      "emoji": "💼",
+      "holat": "Oddiy xodim (kassir) vazifasini bajarish munosabati bilan o'ldirildi.",
+      "algoritm": {
+        "1_kim": "💼 Oddiy xizmatchi",
+        "2_norma": "JK 97-2(g) (umumiy)"
+      },
+      "kvalifikatsiya": "📋 JK 97-2(g) (faqat)",
+      "sabab": "Maxsus norma yo'q"
+    }
+  },
+
+  "10_muhim_xulosa": {
+    "emoji": "❗",
+    "qoidalar": [
+      "🎯 MAXSUS norma USTUN (umumiydan)",
+      "⚔️ MAJMUI - ikkalasi ham (qarshilik + o'ldirish)",
+      "📋 UMUMIY - oddiy holatlar"
+    ],
+    "normalar": [
+      "👑 JK 158-1: Prezident (eng maxsus)",
+      "👔 JK 155-2: Arbobi (maxsus)",
+      "⚔️ JK 219 + 97-2(g): Qarshilik (majmui)",
+      "📋 JK 97-2(g): Oddiy (umumiy)"
+    ],
+    "algoritm": "1️⃣ Kim? 2️⃣ Maxsus norma? 3️⃣ Qarshilik? 4️⃣ Kvalifikatsiya"
+  },
+
+  "tushuntirish": "JK 97-2(g) va MAXSUS NORMALAR farqi. QOIDA: Maxsus norma USTUN (umumiydan). 🎯 MAXSUS NORMALAR: JK 158-1 (Prezident suiqasdi), JK 155-2 (davlat/jamoat arbobi suiqasdi) → faqat MAXSUS qo'llanadi, JK 97-2(g) YO'Q. ⚔️ JINOYATLAR MAJMUI: JK 219 (hokimiyat vakiliga qarshilik) + JK 97-2(g) → IKKALASI ham qo'llanadi. 📋 UMUMIY NORMA: JK 97-2(g) oddiy xizmat/fuqarolik → maxsus norma yo'q bo'lganda. ALGORITM: 1️⃣ Kim? (Prezident/arbobi/hokimiyat/oddiy) 2️⃣ Maxsus norma bormi? 3️⃣ Qarshilik bormi? 4️⃣ Kvalifikatsiya.",
+
+  "translations": {
+    "uz": "JK 97-2(g): Umumiy. JK 155-2, 158-1: Maxsus (ustun). JK 219: Majmui.",
+    "ru": "УК 97-2(г): Общая. УК 155-2, 158-1: Специальная (приоритет). УК 219: Совокупность.",
+    "en": "CC 97-2(g): General. CC 155-2, 158-1: Special (priority). CC 219: Aggregate."
+  }
+}

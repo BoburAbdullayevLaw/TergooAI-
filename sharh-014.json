@@ -1,0 +1,378 @@
+{
+  "id": "JK-097-SHARH-014",
+  "modda_raqam": "97",
+  "sharh_raqami": 14,
+  "tur": "organ_olish",
+
+  "_izoh": "BO'LIM 14: JK 97-2(g) - Organ yoki to'qimalarni olish maqsadida o'ldirish",
+
+  "emoji_sarlavha": "🫀 Organlarni olish maqsadida o'ldirish",
+
+  "asosiy_matn": "JK 97-moddasi 2-qismi (g) bandi bo'yicha jabrlanuvchining organ yoki to'qimalarini olish maqsadida odam o'ldirish deganda, aybdor tirik odamning a'zolarini, organlarini yoki to'qimalarini (buyrak, jigar, yurak, ko'z va boshqalar) olish maqsadida qasddan o'ldirganida tushuniladi. Bu juda og'ir, noinsoniy jinoyat hisoblanadi",
+
+  "sinonimlar": {
+    "organ": {
+      "variantlar": ["organ", "a'zo", "ichki organ", "to'qima"],
+      "og'irlik": 95,
+      "rasmiy": true,
+      "emoji": "🫀"
+    },
+    "maqsad": {
+      "variantlar": ["maqsad", "niyat", "reja", "qasd"],
+      "og'irlik": 90,
+      "rasmiy": false,
+      "emoji": "🎯"
+    }
+  },
+
+  "kontekstli_javoblar": {
+    "tergovchi": {
+      "uslub": "juda_rasmiy",
+      "emoji": "👮",
+      "qo'shimcha": [
+        "👮 Tergov yuritishda:",
+        "🫀 Organ olinganmi?",
+        "🎯 Maqsad organ olish bo'lganmi?",
+        "🏥 Tibbiy ekspertiza MAJBURIY"
+      ],
+      "qo'shimcha_malumot": [
+        "1️⃣ ORGAN OLISH: Tirik odamdan organ olindi",
+        "2️⃣ MAQSAD: Organ olish UCHUN o'ldirdi",
+        "3️⃣ EKSPERTIZA: Tibbiy ekspertiza (organ olinganini tasdiqlash)",
+        "4️⃣ DALILLAR: Uskunalar, joy, hamdastlar",
+        "⚠️ Juda og'ir jinoyat - qatiy tergov"
+      ]
+    },
+
+    "advokat": {
+      "uslub": "juda_rasmiy",
+      "emoji": "👔",
+      "qo'shimcha": [
+        "⚖️ Himoya strategiyasi:",
+        "❌ Organ olish maqsadi yo'qligini dalillang",
+        "📉 O'limdan KEYIN organ olindi (jinoyat emas)",
+        "🎯 (g) belgisiz JK 97-1 ga tushirish"
+      ],
+      "qo'shimcha_malumot": [
+        "❓ MAQSAD boshqa edi (organ olish emas)",
+        "❓ O'limdan KEYIN organ olindi (alohida jinoyat)",
+        "❓ Dalillar yetarli emas",
+        "🎯 Maqsad: (g) belgisiz JK 97-1"
+      ]
+    },
+
+    "sudya": {
+      "uslub": "juda_rasmiy",
+      "emoji": "⚖️",
+      "qo'shimcha": [
+        "⚖️ Sud qarori chiqarishda:",
+        "🫀 Organ ANIQ olinganmi? (ekspertiza)",
+        "🎯 Maqsad ISBOTLANGANMI?",
+        "⚠️ Juda qatiy baholash"
+      ],
+      "qo'shimcha_malumot": [
+        "❗ 2 TA SHART (barchasi kerak):",
+        "1️⃣ ORGAN OLISH (tibbiy ekspertiza tasdiqlasin)",
+        "2️⃣ MAQSAD isbotlangan (organ olish UCHUN o'ldirdi)",
+        "❓ Shubha → (g) belgi qo'llanilmaydi",
+        "🏥 Tibbiy ekspertiza MAJBURIY",
+        "⚖️ Juda og'ir jinoyat - maksimal jazo"
+      ]
+    },
+
+    "talaba": {
+      "uslub": "o'rtacha",
+      "emoji": "📚",
+      "qo'shimcha": [
+        "📚 Eslab qoling:",
+        "🫀 Organ olish",
+        "🎯 Maqsad: organ olish UCHUN o'ldirish",
+        "⚠️ Juda og'ir jinoyat"
+      ],
+      "qo'shimcha_malumot": [
+        "📝 JK 97-2(g) SHARTLARI:",
+        "1️⃣ Tirik odamdan organ olish",
+        "2️⃣ Maqsad: organ olish uchun",
+        "✅ Ikkalasi → (g) belgi"
+      ]
+    },
+
+    "oddiy_fuqaro": {
+      "uslub": "norasmiy",
+      "emoji": "👨",
+      "qo'shimcha": [
+        "💬 Oddiy qilib:",
+        "🫀 Organ olish uchun o'ldirdi",
+        "⚠️ Juda dahshatli jinoyat",
+        "⛓️ Eng og'ir jazo"
+      ],
+      "qo'shimcha_malumot": [
+        "🫀 ORGAN uchun o'ldirdi",
+        "💰 Ko'pincha pul uchun (organ savdosi)",
+        "⛓️ Umrbod yoki 25 yil"
+      ]
+    }
+  },
+
+  "javob_uzunligi": {
+    "qisqa": {
+      "shablon": "🫀 JK 97-2(g): Organ olish + Maqsad isbotlangan"
+    },
+    "o'rtacha": {
+      "shablon": "JK 97-2(g) - organ olish maqsadida o'ldirish. 2 shart: 1) Tirik odamdan organ olindi, 2) Maqsad organ olish uchun o'ldirish. Tibbiy ekspertiza majburiy. Juda og'ir jinoyat."
+    },
+    "batafsil": {
+      "shablon": "🫀 JK 97-2(g): Organ yoki to'qimalarni olish maqsadida o'ldirish. 2 TA SHART: 1) ORGAN OLISH (tirik odamdan buyrak, jigar, yurak, ko'z va h.k. olish, tibbiy ekspertiza tasdiqlasin), 2) MAQSAD (organ olish UCHUN o'ldirdi, organ olish asosiy maqsad). O'limdan keyin organ olish → (g) emas. Ko'pincha organ savdosi bilan bog'liq. Juda og'ir, noinsoniy jinoyat. Jazo: 15-25 yil yoki umrbod."
+    }
+  },
+
+  "1_asosiy_tushuncha": {
+    "emoji": "🫀",
+    "sarlavha": "Organ olish maqsadida o'ldirish",
+    "ta'rif": "TIRIK odamning organlarini olish UCHUN o'ldirish",
+    "tushuntirish": "Juda og'ir, noinsoniy jinoyat",
+
+    "xususiyatlari": [
+      "Tirik odamdan organ olish",
+      "Organ olish - ASOSIY maqsad",
+      "Ko'pincha pul uchun (organ savdosi)",
+      "Juda og'ir jinoyat"
+    ],
+
+    "farq_qonuniy": {
+      "qonuniy": {
+        "emoji": "✅",
+        "holat": "Qonuniy organ donorlik",
+        "shartlar": [
+          "Tirik donor ROZILIK bergan",
+          "O'limdan KEYIN (qalbaki o'lim)",
+          "Tibbiy ko'rsatma",
+          "Maxsus ruxsat"
+        ],
+        "natija": "Jinoyat EMAS"
+      },
+
+      "noqonuniy": {
+        "emoji": "❌",
+        "holat": "Noqonuniy organ olish (JK 97-2(g))",
+        "shartlar": [
+          "ROZILIK YO'Q",
+          "Organ olish UCHUN o'ldirish",
+          "Ko'pincha pul uchun"
+        ],
+        "natija": "JK 97-2(g)"
+      }
+    }
+  },
+
+  "2_organlar_royxati": {
+    "emoji": "🏥",
+    "sarlavha": "Qaysi organlar?",
+    "umumiy": "Har qanday organ yoki to'qima",
+
+    "royxat": {
+      "ichki_organlar": {
+        "emoji": "🫀",
+        "nom": "Ichki organlar",
+        "list": [
+          "Yurak",
+          "Buyrak",
+          "Jigar",
+          "O'pka",
+          "Oshqozon",
+          "Me'da-ichaklar"
+        ]
+      },
+
+      "sezgi_organlar": {
+        "emoji": "👁️",
+        "nom": "Sezgi organlari",
+        "list": [
+          "Ko'z (kornea)",
+          "Quloq"
+        ]
+      },
+
+      "toqimalar": {
+        "emoji": "🦴",
+        "nom": "To'qimalar",
+        "list": [
+          "Suyak iligi",
+          "Teri",
+          "Suyaklar",
+          "Qon tomirlari"
+        ]
+      }
+    },
+
+    "muhim": "Har qanday organ yoki to'qima - (g) belgiga kiradi"
+  },
+
+  "3_maqsad": {
+    "emoji": "🎯",
+    "sarlavha": "MAQSAD - organ olish uchun o'ldirish",
+    "ta'rif": "Aybdorning ASOSIY maqsadi organ olish bo'lgan",
+    "muhim": "❗ Bu (g) belgining ENG MUHIM elementi!",
+
+    "bor": {
+      "emoji": "✅",
+      "holat": "MAQSAD BOR",
+      "ta'rif": "Organ olish UCHUN o'ldirdi",
+      "belgilari": [
+        "Oldindan rejalashtirilgan",
+        "Tibbiy asboblar tayyorlangan",
+        "Maxsus joy (operatsiya xonasi)",
+        "Hamdastlar bor (shifokor, vositachi)",
+        "Organ savdosi uchun"
+      ],
+      "misol": "Buyrak sotish uchun odamni o'ldirdi, buyragini oldi",
+      "natija": "✅ JK 97-2(g)"
+    },
+
+    "yoq": {
+      "emoji": "❌",
+      "holat": "MAQSAD YO'Q",
+      "ta'rif": "Boshqa sababdan o'ldirdi, keyin organ oldi",
+      "misol": "O'ldirdi (shaxsiy sabab), keyin o'limdan keyin organ oldi",
+      "natija": "❌ (g) belgi YO'Q, JK 97-1 + alohida jinoyat (organ olish)"
+    }
+  },
+
+  "4_tirik_vs_olim": {
+    "emoji": "⚠️",
+    "sarlavha": "TIRIK odamdan vs O'limdan KEYIN",
+    "farq": "Bu muhim farq - kvalifikatsiyaga ta'sir qiladi",
+
+    "tirik": {
+      "emoji": "🫀",
+      "holat": "TIRIK odamdan organ olish",
+      "ta'rif": "Organ olish UCHUN o'ldirish",
+      "jarayon": "1) Tirik, 2) Organ olish uchun o'ldiradi, 3) Organ oladi",
+      "natija": "✅ JK 97-2(g)",
+      "misol": "Tirik odamni o'ldirdi, yuragini oldi"
+    },
+
+    "olimdan_keyin": {
+      "emoji": "⚰️",
+      "holat": "O'LIMDAN KEYIN organ olish",
+      "ta'rif": "Avval o'ldirdi (boshqa sabab), keyin organ oldi",
+      "jarayon": "1) Boshqa sababdan o'ldirdi, 2) O'limdan keyin organ oldi",
+      "natija": "❌ (g) belgi YO'Q",
+      "kvalifikatsiya": "JK 97-1 (o'ldirish) + Alohida modda (noqonuniy organ olish)",
+      "misol": "Dushmanni o'ldirdi, keyin buyragini oldi (sotish uchun)"
+    }
+  },
+
+  "5_misollar": {
+    "emoji": "📚",
+    "sarlavha": "Amaliy misollar",
+
+    "misol_1_bor": {
+      "emoji": "✅",
+      "holat": "A organ savdosi bilan shug'ullanadi. Mijoz buyrak so'radi. A tirik odamni o'g'irlab keldi, maxsus operatsiya xonasida o'ldirdi, buyragini oldi, sotdi.",
+      "tahlil": {
+        "organ": "🫀 Buyrak olindi (tirik odamdan) ✅",
+        "maqsad": "🎯 Organ olish UCHUN o'ldirdi ✅",
+        "reja": "📋 Oldindan rejalashtirilgan ✅",
+        "dalil": "🏥 Operatsiya xonasi, asboblar ✅"
+      },
+      "natija": "✅ JK 97-2(g)"
+    },
+
+    "misol_2_bor": {
+      "emoji": "✅",
+      "holat": "A boy bemor, yurak ko'chirish kerak. A pul berdi, B tirik odamni topdi, o'ldirdi, yuragini oldi, A ga berdi.",
+      "tahlil": {
+        "organ": "🫀 Yurak olindi ✅",
+        "maqsad": "🎯 Organ olish UCHUN ✅",
+        "guruh": "👥 Guruh (A buyurtma berdi, B bajardi) ✅"
+      },
+      "natija": "✅ A va B - JK 97-2(g)"
+    },
+
+    "misol_3_yoq": {
+      "emoji": "❌",
+      "holat": "A dushmanini o'ldirdi (o'ch olish). Keyin o'limdan keyin buyragini oldi (sotish uchun).",
+      "tahlil": {
+        "organ": "🫀 Buyrak olindi",
+        "maqsad": "❌ Organ uchun EMAS (o'ch olish uchun)",
+        "ketma_ketlik": "1) Avval o'ldirdi, 2) Keyin organ oldi",
+        "vaqt": "O'limdan KEYIN"
+      },
+      "natija": "❌ (g) belgi YO'Q",
+      "kvalifikatsiya": "JK 97-1 (o'ldirish) + Alohida modda (organ olish)"
+    }
+  },
+
+  "6_guruh_holati": {
+    "emoji": "👥",
+    "sarlavha": "Guruh halida sodir etilsa",
+
+    "rollar": {
+      "buyurtmachi": {
+        "emoji": "💰",
+        "rol": "Buyurtmachi (organ kerak)",
+        "javobgarlik": "JK 97-2(g) - sherik sifatida",
+        "misol": "Boy bemor, organ buyurtma qildi"
+      },
+
+      "ijrochi": {
+        "emoji": "🔪",
+        "rol": "Ijrochi (to'g'ridan-to'g'ri o'ldiruvchi)",
+        "javobgarlik": "JK 97-2(g) - asosiy aybdor",
+        "misol": "Tirik odamni o'ldirdi, organ oldi"
+      },
+
+      "vositachi": {
+        "emoji": "🤝",
+        "rol": "Vositachi (aloqa, uyushtiruvchi)",
+        "javobgarlik": "JK 97-2(g) - sherik sifatida",
+        "misol": "Buyurtmachi va ijrochi o'rtasida"
+      },
+
+      "shifokor": {
+        "emoji": "👨‍⚕️",
+        "rol": "Shifokor (organ oluvchi)",
+        "javobgarlik": "JK 97-2(g) - sherik sifatida",
+        "misol": "Operatsiya qildi, organ oldi"
+      }
+    },
+
+    "hammasi_javobgar": "👥 Barcha ishtirokchilar JK 97-2(g) bo'yicha javobgar"
+  },
+
+  "7_qoshimcha_jinoyatlar": {
+    "emoji": "➕",
+    "sarlavha": "Qo'shimcha jinoyatlar",
+
+    "organ_savdosi": {
+      "emoji": "💰",
+      "nom": "Organ savdosi",
+      "modda": "Alohida modda (organ savdosi)",
+      "kvalifikatsiya": "JK 97-2(g) + Organ savdosi moddasi"
+    },
+
+    "ogirlab_ketish": {
+      "emoji": "🚗",
+      "nom": "O'g'irlab ketish",
+      "modda": "JK 138 - Odam o'g'irlash",
+      "holat": "Agar organ olish uchun odamni o'g'irlagan bo'lsa",
+      "kvalifikatsiya": "JK 97-2(g) + JK 138"
+    }
+  },
+
+  "8_muhim_xulosa": {
+    "emoji": "❗",
+    "asosiy": "JK 97-2(g): Organ olish + Maqsad (organ uchun o'ldirish)",
+    "formula": "🫀 + 🎯 = (g) belgi",
+    "eng_muhim": "Tirik odamdan + Organ olish UCHUN o'ldirish"
+  },
+
+  "tushuntirish": "JK 97-2(g): Organ yoki to'qimalarni olish maqsadida o'ldirish. 2 shart: 1) TIRIK odamdan organ olish (buyrak, jigar, yurak, ko'z va h.k., tibbiy ekspertiza tasdiqlasin), 2) MAQSAD - organ olish UCHUN o'ldirish (organ olish asosiy maqsad). O'limdan KEYIN organ olish → (g) emas, alohida jinoyat. Ko'pincha organ savdosi bilan bog'liq. Juda og'ir, noinsoniy jinoyat. Jazo: 15-25 yil yoki umrbod.",
+
+  "translations": {
+    "uz": "JK 97-2(g): Organ olish uchun o'ldirish. Tirik odamdan + Maqsad.",
+    "ru": "УК 97-2(г): Убийство для изъятия органов. Из живого + Цель.",
+    "en": "CC 97-2(g): Murder for organ harvesting. From living + Purpose."
+  }
+}

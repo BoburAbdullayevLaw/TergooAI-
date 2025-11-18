@@ -1,0 +1,355 @@
+{
+  "id": "JK-097-SHARH-002",
+  "modda_raqam": "97",
+  "sharh_raqami": 2,
+  "tur": "sud_talablari",
+
+  "_izoh": "BO'LIM 2: Sudlar uchun qat'iy talablar - odam o'ldirish ishlarini ko'rishda",
+
+  "emoji_sarlavha": "�️ Sudlar uchun talablar",
+
+  "asosiy_matn": "Sudlar qasddan odam o'ldirishga oid ishlarni ko'rayotganda, ish holatlarini sinchkovlik bilan, har tomonlama, to'la va xolisona tekshirish lozimligi to'g'risidagi qonun talablariga qat'iy amal qilishlari shart",
+
+  "sinonimlar": {
+    "sinchkovlik bilan": {
+      "variantlar": ["sinchkovlik bilan", "diqqat bilan", "chuqur", "puxta"],
+      "og'irlik": 90,
+      "rasmiy": true,
+      "emoji": "🔍"
+    },
+    "har tomonlama": {
+      "variantlar": ["har tomonlama", "barcha jihatdan", "to'liq", "keng qamrovli"],
+      "og'irlik": 85,
+      "rasmiy": true,
+      "emoji": "🔄"
+    },
+    "xolisona": {
+      "variantlar": ["xolisona", "adolatli", "to'g'ri", "holislik bilan"],
+      "og'irlik": 95,
+      "rasmiy": true,
+      "emoji": "⚖️"
+    },
+    "tekshirish": {
+      "variantlar": ["tekshirish", "o'rganish", "ko'rib chiqish", "tahlil qilish"],
+      "og'irlik": 80,
+      "rasmiy": false,
+      "emoji": "🔎"
+    }
+  },
+
+  "kontekstli_javoblar": {
+    "_izoh": "Har xil foydalanuvchilar uchun javob uslublari",
+
+    "tergovchi": {
+      "uslub": "juda_rasmiy",
+      "emoji": "👮",
+      "qo'shimcha": [
+        "👮 Tergovni yuritishda:",
+        "📋 Barcha dalillarni to'plang",
+        "🔍 Hech narsa qoldirmaslik kerak",
+        "⚖️ Sud talablariga javob berishi kerak"
+      ],
+      "fokus": "to'liq_tergov",
+      "qo'shimcha_malumot": [
+        "1️⃣ SINCHKOVLIK: Har bir dalilni diqqat bilan tekshiring",
+        "2️⃣ HAR TOMONLAMA: Aybdor, jabrlanuvchi, guvohlar - barchasini",
+        "3️⃣ TO'LIQ: Barcha savollarga javob topilgan bo'lishi",
+        "4️⃣ XOLIS: Ikki tomonning ham dalillarini to'plang",
+        "⚠️ Agar kamchilik bo'lsa - sud qaytaradi!"
+      ]
+    },
+
+    "advokat": {
+      "uslub": "juda_rasmiy",
+      "emoji": "👔",
+      "qo'shimcha": [
+        "⚖️ Himoyada:",
+        "🔍 Tergov kamchiliklarini toping",
+        "📋 To'liq emasligi dalili",
+        "⚠️ Qayta tergov talabi"
+      ],
+      "fokus": "kamchiliklar",
+      "qo'shimcha_malumot": [
+        "❌ Tergov bir yoqlama bo'lsa - e'tiroz",
+        "❌ Dalillar to'liq emas - qaytarish talabi",
+        "❌ Xolis emas - yana tekshirish",
+        "🎯 Maqsad: Sud kamchiliklarni topishi"
+      ]
+    },
+
+    "sudya": {
+      "_izoh": "Sudya uchun - 4 ta asosiy talab",
+      "uslub": "juda_rasmiy",
+      "emoji": "⚖️",
+      "qo'shimcha": [
+        "⚖️ Sud qarori chiqarishda:",
+        "📋 4 ta talabga QATTIQ amal qiling",
+        "🔍 Tergov to'liq va xolismi - tekshiring",
+        "⚠️ Kamchilik bo'lsa - tergovga QAYTARING"
+      ],
+      "fokus": "qattiy_talablar",
+      "qo'shimcha_malumot": [
+        "1️⃣ SINCHKOVLIK: Har bir dalilni CHUQUR tekshiring",
+        "2️⃣ HAR TOMONLAMA: Ishning BARCHA jihatlarini ko'ring",
+        "3️⃣ TO'LIQ: Hech qanday savol qolmasligi kerak",
+        "4️⃣ XOLISONA: Aybdor ham, jabrlanuvchi ham teng baholang",
+        "❗ MUHIM: Agar tergov bir yoqlama yoki to'liq emas → QAYTARING",
+        "📝 Sud o'zi kamchilikni bartaraf eta OLMAYDI",
+        "⚖️ Sud faqat BAHOLAYDI, tergovchi TO'LDIRADI"
+      ],
+      "kamchiliklar_misollari": {
+        "_izoh": "Qaysi holatlarda tergovga qaytarish kerak",
+        "bir_yoqlama": {
+          "emoji": "❌",
+          "holat": "Faqat aybdor tomonning dalillari to'plangan",
+          "natija": "Tergovga qaytarish"
+        },
+        "toliq_emas": {
+          "emoji": "❌",
+          "holat": "Ba'zi guvohlar so'ralmagan",
+          "natija": "Tergovga qaytarish"
+        },
+        "xolis_emas": {
+          "emoji": "❌",
+          "holat": "Himoya dalillari e'tiborga olinmagan",
+          "natija": "Tergovga qaytarish"
+        }
+      }
+    },
+
+    "talaba": {
+      "uslub": "o'rtacha",
+      "emoji": "📚",
+      "qo'shimcha": [
+        "📚 Yod oling:",
+        "🔢 Sud 4 ta asosiy talab",
+        "💡 Bularni esda tuting",
+        "📝 1-2-3-4 formula"
+      ],
+      "fokus": "esda_saqlash",
+      "qo'shimcha_malumot": [
+        "📝 4 TA TALAB:",
+        "1️⃣ 🔍 SINCHKOVLIK (puxta)",
+        "2️⃣ 🔄 HAR TOMONLAMA (barcha jihat)",
+        "3️⃣ 📋 TO'LIQ (hamma narsa)",
+        "4️⃣ ⚖️ XOLISONA (adolatli)",
+        "⚠️ Agar bajarilmasa → tergovga qaytariladi"
+      ]
+    },
+
+    "oddiy_fuqaro": {
+      "uslub": "norasmiy",
+      "emoji": "👨",
+      "qo'shimcha": [
+        "💬 Oddiy tilda:",
+        "📌 Sud juda jiddiy qarashi kerak",
+        "❗ Hamma narsani tekshirishi shart",
+        "⚖️ Adolatli qaror chiqarishi kerak"
+      ],
+      "fokus": "sodda",
+      "qo'shimcha_malumot": [
+        "🔍 Sud DIQQAT bilan qarashi kerak",
+        "📋 HAMMA narsani tekshirishi kerak",
+        "⚖️ TO'G'RI va ADOLATLI bo'lishi kerak",
+        "❌ Agar xato bo'lsa - qaytariladi"
+      ]
+    }
+  },
+
+  "savol_turlari": {
+    "_izoh": "Qanday savollarga qanday javob beriladi",
+
+    "ta'rif": {
+      "trigger_sozlar": ["nima", "ta'rif", "degani", "talablar"],
+      "javob": "sud_talablari",
+      "emoji": "❓"
+    },
+    "protsedura": {
+      "trigger_sozlar": ["qanday", "jarayon", "tartib", "nima qiladi"],
+      "javob": "jarayon",
+      "emoji": "📋"
+    },
+    "natija": {
+      "trigger_sozlar": ["natija", "oqibat", "bo'lsa", "agar"],
+      "javob": "natijalar",
+      "emoji": "⚠️"
+    }
+  },
+
+  "javob_uzunligi": {
+    "_izoh": "Javob qanchalik batafsil bo'lishi kerak",
+
+    "qisqa": {
+      "shablon": "Sud: 🔍 sinchkil + 🔄 har tomonlama + 📋 to'liq + ⚖️ xolis"
+    },
+    "o'rtacha": {
+      "shablon": "Sud 4 ta asosiy talabga amal qilishi kerak: 1) 🔍 sinchkovlik, 2) 🔄 har tomonlama, 3) 📋 to'liq, 4) ⚖️ xolisona tekshirish"
+    },
+    "batafsil": {
+      "shablon": "⚖️ Sud qasddan odam o'ldirish ishlarini ko'rishda qat'iy talablarga amal qilishi shart: 1️⃣ 🔍 Sinchkovlik bilan - barcha dalillarni diqqat bilan tekshirish, 2️⃣ 🔄 Har tomonlama - ishning barcha jihatlarini ko'rib chiqish, 3️⃣ 📋 To'liq - hech qanday ma'lumot qoldirmaslik, 4️⃣ ⚖️ Xolisona - adolatli va to'g'ri qaror. ⚠️ Agar tergov bir yoqlama va to'liq bo'lmasa, ish qo'shimcha tergovga qaytariladi."
+    }
+  },
+
+  "emoji_format": {
+    "_izoh": "Tez ko'rish uchun emoji format",
+
+    "sarlavha": "�️ SUD TALABLARI",
+    "talab_1": "1️⃣ 🔍 SINCHKOVLIK - diqqat bilan",
+    "talab_2": "2️⃣ 🔄 HAR TOMONLAMA - barcha jihatdan",
+    "talab_3": "3️⃣ 📋 TO'LIQ - hamma narsa",
+    "talab_4": "4️⃣ ⚖️ XOLISONA - adolatli",
+    "ogohlantirish": "⚠️ Agar tergov noto'g'ri → QAYTARILADI"
+  },
+
+  "1_sud_talablari": {
+    "_izoh": "BO'LIM 1: 4 TA ASOSIY SUD TALABI",
+
+    "umumiy": "Sud qasddan odam o'ldirish ishlarini ko'rishda 4 ta qat'iy talabga amal qilishi SHART",
+
+    "1_sinchkovlik": {
+      "emoji": "🔍",
+      "nom": "1. SINCHKOVLIK bilan tekshirish",
+      "ta'rif": "Barcha dalillarni DIQQAT bilan, CHUQUR tekshirish",
+      "tavsif": "Har bir dalil, har bir guvoh so'rovi, har bir hujjat - barchasi puxta o'rganilishi kerak",
+
+      "nima_qilish": [
+        "📄 Har bir hujjatni o'qib chiqish",
+        "👁️ Har bir dalilni tekshirish",
+        "👂 Har bir guvohni diqqat bilan tinglash",
+        "🔬 Ekspertiza xulosalarini tahlil qilish",
+        "❓ Noaniq joylarni aniqlash"
+      ],
+
+      "misol": "Har bir guvoh so'rovini, har bir dalilni, har bir ekspertiza xulosasini puxta o'rganish kerak"
+    },
+
+    "2_har_tomonlama": {
+      "emoji": "🔄",
+      "nom": "2. HAR TOMONLAMA ko'rib chiqish",
+      "ta'rif": "Ishning BARCHA tomonlarini, BARCHA jihatlarini ko'rib chiqish",
+      "tavsif": "Faqat aybdor tomoni emas, balki jabrlanuvchi, guvohlar, dalillar - HAMMASI",
+
+      "nima_qilish": [
+        "👤 Aybdor tomonining dalillari",
+        "💔 Jabrlanuvchi tomonining dalillari",
+        "👥 Barcha guvohlarning ko'rsatmalari",
+        "📋 Hujjatlar va moddiy dalillar",
+        "🔍 Hodisa joyini tekshirish materiallari"
+      ],
+
+      "misol": "Aybdor, jabrlanuvchi, guvohlar, dalillar - hammasini ko'rib chiqish kerak",
+
+      "xato": "Faqat aybdor tomonining dalillarini ko'rib chiqish - bu BIR YOQLAMA!"
+    },
+
+    "3_toliq": {
+      "emoji": "📋",
+      "nom": "3. TO'LIQ tekshirish",
+      "ta'rif": "Hech qanday ma'lumot, hech qanday savol QOLDIRMASLIK",
+      "tavsif": "Ishning barcha savollari javob topgan bo'lishi kerak",
+
+      "nima_qilish": [
+        "❓ Barcha savollarga javob topish",
+        "🔍 Barcha guvohlarni so'rash",
+        "📋 Barcha dalillarni to'plash",
+        "📄 Barcha hujjatlarni olish",
+        "⚖️ Hech narsa qoldirmaslik"
+      ],
+
+      "misol": "Barcha guvohlar so'ralgan, barcha dalillar to'plangan, hech qanday savol qolmagan",
+
+      "xato": "Ba'zi guvohlar so'ralmagan yoki ba'zi dalillar to'planmagan - bu TO'LIQ EMAS!"
+    },
+
+    "4_xolisona": {
+      "emoji": "⚖️",
+      "nom": "4. XOLISONA baholash",
+      "ta'rif": "ADOLATLI va TO'G'RI, ikki tomonni ham TENG baholash",
+      "tavsif": "Aybdor ham, jabrlanuvchi ham teng huquqlarga ega",
+
+      "nima_qilish": [
+        "⚖️ Ikki tomonning dalillarini teng ko'rish",
+        "👁️ Xolis, adolatli baholash",
+        "📋 Barcha dalillarni objektiv tekshirish",
+        "❌ Bir tomonlama emas",
+        "✅ To'g'ri va adolatli qaror"
+      ],
+
+      "misol": "Ikki tomonning ham dalillarini teng ko'rib chiqish, adolatli baholash",
+
+      "xato": "Faqat aybdor tomonni tinglash, himoya dalillarini e'tiborga olmaslik - bu XOLIS EMAS!"
+    }
+  },
+
+  "2_muhim_ogohlantirish": {
+    "_izoh": "BO'LIM 2: MUHIM OGOHLANTIRISH - qachon tergovga qaytariladi",
+
+    "emoji": "⚠️",
+    "sarlavha": "Tergov kamchiliklari - tergovga QAYTARISH",
+    "matn": "Agar tergov bir yoqlama va to'liq bo'lmasa → ish qo'shimcha tergovga QAYTARILADI",
+
+    "qaytarish_sabablari": {
+      "_izoh": "Qaysi holatlarda ish tergovga qaytariladi",
+
+      "bir_yoqlama": {
+        "emoji": "❌",
+        "holat": "Tergov bir yoqlama (faqat aybdor tomoni)",
+        "misol": "Faqat aybdor tomonning dalillari to'plangan, himoya dalillari yo'q",
+        "natija": "Tergovga QAYTARISH"
+      },
+
+      "toliq_emas": {
+        "emoji": "❌",
+        "holat": "Ma'lumotlar to'liq emas",
+        "misol": "Ba'zi guvohlar so'ralmagan, ba'zi dalillar to'planmagan",
+        "natija": "Tergovga QAYTARISH"
+      },
+
+      "xolis_emas": {
+        "emoji": "❌",
+        "holat": "Xolis emas, adolatsiz",
+        "misol": "Himoya dalillari e'tiborga olinmagan",
+        "natija": "Tergovga QAYTARISH"
+      },
+
+      "kamchilik_bartaraf": {
+        "emoji": "❌",
+        "holat": "Sud o'zi kamchilikni bartaraf eta olmaydi",
+        "tushuntirish": "Sud faqat BAHOLAYDI, TERGOVCHI to'ldiradi",
+        "misol": "Agar guvoh so'ralmagan - sud o'zi so'ray olmaydi, tergovchiga qaytaradi"
+      }
+    },
+
+    "asosiy_qoida": "Sud o'zi tergov kamchiligini bartaraf eta OLMAYDI, faqat tergovga QAYTARADI"
+  },
+
+  "3_muhim_xulosa": {
+    "_izoh": "BO'LIM 3: MUHIM XULOSA",
+
+    "emoji": "❗",
+    "asosiy": "Sud 4 ta talabga QATTIQ rioya qilishi kerak",
+    "formula": "🔍 Sinchkovlik + 🔄 Har tomonlama + 📋 To'liq + ⚖️ Xolisona",
+    "natija": "Agar bajarilmasa → tergovga QAYTARILADI"
+  },
+
+  "tushuntirish": "Sud 4 ta asosiy talabga rioya qilishi kerak: 🔍 sinchkovlik (diqqat bilan), 🔄 har tomonlama (barcha jihatdan), 📋 to'liq (hamma narsa), ⚖️ xolisona (adolatli). Agar bu talablar bajarilmasa, ish tergovga qaytariladi. Sud o'zi kamchilikni bartaraf eta olmaydi.",
+
+  "misollar": {
+    "to'g'ri": {
+      "emoji": "✅",
+      "holat": "Sud barcha dalillarni tekshirdi, barcha guvohlarni tingladi, xolis qaror chiqardi",
+      "natija": "To'g'ri sud jarayoni - qaror qonuniy"
+    },
+    "noto'g'ri": {
+      "emoji": "❌",
+      "holat": "Tergov ba'zi guvohlarni so'ramadi, dalillar to'liq emas, bir yoqlama",
+      "natija": "Ish tergovga QAYTARILADI"
+    }
+  },
+
+  "translations": {
+    "uz": "Sud sinchkovlik, har tomonlama, to'liq va xolisona tekshirishi shart. Aks holda qaytariladi.",
+    "ru": "Суд обязан проверять тщательно, всесторонне, полно и объективно. Иначе возвращается.",
+    "en": "Court must examine carefully, comprehensively, fully and impartially. Otherwise returned."
+  }
+}

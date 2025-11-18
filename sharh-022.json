@@ -1,0 +1,532 @@
+{
+  "id": "JK-097-SHARH-022",
+  "modda_raqam": "97",
+  "sharh_raqami": 22,
+  "tur": "ommaviy_tartibsizlik",
+
+  "_izoh": "BO'LIM 22: JK 97-2(ye) - Ommaviy tartibsizliklar jarayonida o'ldirish",
+
+  "emoji_sarlavha": "🔥 Ommaviy tartibsizlik (to'polon, g'alayon)",
+
+  "asosiy_matn": "JK 97-2(ye): Ommaviy tartibsizliklar JARAYONIDA o'ldirish. AGAR tashkilotchi/faol ishtirokchi → JK 244 + JK 97-2(ye) (jami). AGAR oddiy ishtirokchi (tartibsizlik tashkilotchisi emas) + boshqa jinoyatlar (qirg'in, vayron, yong'in) → faqat shaxsga/mulkka qarshi jinoyatlar majmui (97-2(ye) YO'Q, JK 244 YO'Q). Farq: tashkilotchi/faol ishtirokchi vs oddiy jinoyatchi.",
+
+  "sinonimlar": {
+    "ommaviy_tartibsizlik": {
+      "variantlar": ["ommaviy tartibsizlik", "to'polon", "g'alayon", "ko'chma norozilik", "ommaviy bezovtalik"],
+      "og'irlik": 95,
+      "rasmiy": true,
+      "emoji": "🔥"
+    },
+    "faol_ishtirokchi": {
+      "variantlar": ["faol ishtirokchi", "faol qatnashuvchi", "aktiv ishtirokchi", "yetakchi ishtirokchi"],
+      "og'irlik": 90,
+      "rasmiy": true,
+      "emoji": "👊"
+    }
+  },
+
+  "kontekstli_javoblar": {
+    "tergovchi": {
+      "uslub": "juda_rasmiy",
+      "emoji": "👮",
+      "qo'shimcha": [
+        "👮 Tergov yuritishda:",
+        "🔥 Ommaviy tartibsizlik borligini aniqlash",
+        "👊 ROL: tashkilotchi/faol/oddiy?",
+        "📊 KVALIFIKATSIYA: rol asosida"
+      ],
+      "qo'shimcha_malumot": [
+        "❗ ANIQLASH KERAK:",
+        "1️⃣ Ommaviy tartibsizlik BOR edi mi?",
+        "2️⃣ O'ldirish JARAYONIDA sodir etildi mi?",
+        "3️⃣ Aybdorning ROLI?",
+        "   - Tashkilotchi?",
+        "   - Faol ishtirokchi?",
+        "   - Oddiy jinoyatchi?",
+        "4️⃣ Boshqa jinoyatlar bormi?",
+        "",
+        "🔥 OMMAVIY TARTIBSIZLIK:",
+        "- Ko'p odamlar (olomon)",
+        "- Tartibsizlik, bezovtalik",
+        "- Zo'ravonlik, vayron qilish",
+        "",
+        "👊 ROLLAR:",
+        "📋 TASHKILOTCHI:",
+        "- Tashkil qildi, boshqaradi",
+        "- → JK 244 + 97-2(ye)",
+        "",
+        "👊 FAOL ISHTIROKCHI:",
+        "- Zo'ravonlik, yetakchilik",
+        "- → JK 244 + 97-2(ye)",
+        "",
+        "🤷 ODDIY JINOYATCHI:",
+        "- Tartibsizlik ishtirokchisi EMAS",
+        "- Faqat jinoyat qildi",
+        "- → Faqat jinoyat moddalari (244, 97-2(ye) YO'Q)"
+      ]
+    },
+
+    "advokat": {
+      "uslub": "juda_rasmiy",
+      "emoji": "👔",
+      "qo'shimcha": [
+        "⚖️ Himoya strategiyasi:",
+        "🤷 ODDIY jinoyatchi (tashkilotchi emas)",
+        "❌ JK 244 va 97-2(ye) ni olib tashlash",
+        "📉 Faqat oddiy jinoyat moddalari"
+      ],
+      "qo'shimcha_malumot": [
+        "🎯 MAQSAD: (ye) va JK 244 ni olib tashlash",
+        "🤷 ODDIY JINOYATCHI:",
+        "- Tartibsizlik ishtirokchisi EMAS",
+        "- Tashkilotchi EMAS",
+        "- Faol ishtirokchi EMAS",
+        "- Faqat jinoyat qildi",
+        "",
+        "📉 KVALIFIKATSIYA:",
+        "❌ JK 244 YO'Q",
+        "❌ JK 97-2(ye) YO'Q",
+        "✅ Faqat JK 97-1 (yoki boshqa)",
+        "",
+        "💡 DALILLAR:",
+        "- Tartibsizlikda yo'q edi",
+        "- Boshqalar bilan aloqasi yo'q",
+        "- Alohida jinoyat"
+      ]
+    },
+
+    "sudya": {
+      "uslub": "juda_rasmiy",
+      "emoji": "⚖️",
+      "qo'shimcha": [
+        "⚖️ Sud qarori chiqarishda:",
+        "🔥 Ommaviy tartibsizlik ANIQ isbotlangan mi?",
+        "👊 ROL ANIQ aniqlangan mi?",
+        "📊 ROL asosida kvalifikatsiya"
+      ],
+      "qo'shimcha_malumot": [
+        "❗ TEKSHIRISH KETMA-KETLIGI:",
+        "1️⃣ Ommaviy tartibsizlik BOR edi mi?",
+        "   - Ko'p odamlar",
+        "   - Zo'ravonlik, vayron",
+        "2️⃣ O'ldirish JARAYONIDA mi?",
+        "   - Tartibsizlik davomida",
+        "3️⃣ Aybdorning ROLI?",
+        "   - Tashkilotchi → JK 244 + 97-2(ye)",
+        "   - Faol → JK 244 + 97-2(ye)",
+        "   - Oddiy → faqat jinoyat moddalari",
+        "",
+        "🔥 OMMAVIY TARTIBSIZLIK BELGILARI:",
+        "- Olomon (ko'p odamlar)",
+        "- Jamoat tartibi buzilishi",
+        "- Zo'ravonlik",
+        "- Mulk buzilishi",
+        "",
+        "👊 ROL DARAJALARI:",
+        "📋 TASHKILOTCHI:",
+        "- Tartibsizlikni tashkil qilgan",
+        "- Boshqargan, rahbarlik qilgan",
+        "",
+        "👊 FAOL ISHTIROKCHI:",
+        "- Zo'ravonlikda faol",
+        "- Yetakchilik qilgan",
+        "- Boshqalarni qo'zg'atgan",
+        "",
+        "🤷 ODDIY JINOYATCHI:",
+        "- Tartibsizlikda QATNASHMAGAN",
+        "- Alohida jinoyat qilgan",
+        "- Tartibsizlik bilan ALOQASI YO'Q",
+        "",
+        "📝 QARORGA YOZISH:",
+        "- Tartibsizlik tavsifi",
+        "- Aybdorning roli (dalillar)",
+        "- Nima uchun shu kvalifikatsiya"
+      ]
+    },
+
+    "talaba": {
+      "uslub": "o'rtacha",
+      "emoji": "📚",
+      "qo'shimcha": [
+        "📚 Eslab qoling:",
+        "🔥 Ommaviy tartibsizlik = to'polon",
+        "👊 Tashkilotchi/faol → JK 244 + 97-2(ye)",
+        "🤷 Oddiy jinoyatchi → faqat jinoyat moddalari"
+      ],
+      "qo'shimcha_malumot": [
+        "📝 ASOSIY:",
+        "🔥 TARTIBSIZLIK:",
+        "Olomon, zo'ravonlik, vayron",
+        "",
+        "👊 ROLLAR:",
+        "- Tashkilotchi → 244 + 97-2(ye)",
+        "- Faol → 244 + 97-2(ye)",
+        "- Oddiy → faqat jinoyat",
+        "",
+        "📊 JAMI vs MAJMUI:",
+        "- Jami = 244 + 97-2(ye)",
+        "- Majmui = shaxs/mulk jinoyatlari"
+      ]
+    },
+
+    "oddiy_fuqaro": {
+      "uslub": "norasmiy",
+      "emoji": "👨",
+      "qo'shimcha": [
+        "💬 Oddiy qilib:",
+        "🔥 To'polonda o'ldirdi",
+        "👊 Yetakchi → 2 jinoyat",
+        "🤷 Oddiy → 1 jinoyat"
+      ],
+      "qo'shimcha_malumot": [
+        "🔥 To'polonda o'ldirdi",
+        "👊 Yetakchi → 2 jinoyat",
+        "🤷 Oddiy → 1 jinoyat"
+      ]
+    }
+  },
+
+  "javob_uzunligi": {
+    "qisqa": {
+      "shablon": "🔥 JK 97-2(ye): To'polonda. 👊 Tashkilotchi/faol → 244 + 97-2(ye). 🤷 Oddiy → faqat jinoyat."
+    },
+    "o'rtacha": {
+      "shablon": "JK 97-2(ye): Ommaviy tartibsizlik jarayonida o'ldirish. Tashkilotchi/faol ishtirokchi → JK 244 + 97-2(ye) (jami). Oddiy jinoyatchi (tartibsizlik ishtirokchisi emas) → faqat shaxs/mulk jinoyatlari (244, 97-2(ye) yo'q)."
+    },
+    "batafsil": {
+      "shablon": "🔥 JK 97-2(ye): Ommaviy tartibsizliklar JARAYONIDA o'ldirish. TASHKILOTCHI/FAOL ishtirokchi bo'lsa → JK 244 (ommaviy tartibsizlik) + JK 97-2(ye) (JAMI). ODDIY jinoyatchi (tartibsizlik ishtirokchisi/tashkilotchisi EMAS) + boshqa jinoyatlar (qirg'in, vayron, yong'in) → faqat shaxsga/mulkka qarshi jinoyatlar MAJMUI (JK 244 YO'Q, JK 97-2(ye) YO'Q, faqat oddiy modda). Farq: tartibsizlikda ROLI. Jazo: 15-25 yil yoki umrbod."
+    }
+  },
+
+  "1_asosiy_tushuncha": {
+    "emoji": "🔥",
+    "sarlavha": "OMMAVIY TARTIBSIZLIK - asosiy tushuncha",
+
+    "tasnif": {
+      "modda": "JK 97-2(ye)",
+      "nom": "Ommaviy tartibsizliklar jarayonida o'ldirish",
+      "og'irlashtiruvchi": "Ijtimoiy xavf (jamoat tartibi)",
+      "jazo": "⛓️ 15-25 yil yoki umrbod"
+    },
+
+    "ommaviy_tartibsizlik": {
+      "emoji": "🔥",
+      "modda": "JK 244",
+      "nom": "Ommaviy tartibsizliklar",
+      "ta'rif": "Olomonning zo'ravonligi, vayron qilishi",
+      "belgilari": [
+        "Ko'p odamlar (olomon)",
+        "Jamoat tartibi buzilishi",
+        "Zo'ravonlik",
+        "Mulk buzilishi, vayron qilish",
+        "Hokimiyatga qarshilik"
+      ]
+    },
+
+    "jarayonida": {
+      "emoji": "⏰",
+      "ma'no": "Tartibsizlik DAVOMIDA",
+      "shart": "O'ldirish tartibsizlik JARAYONIDA sodir etilgan",
+      "muhim": "Tartibsizlik bilan BOG'LIQ"
+    }
+  },
+
+  "2_rollar": {
+    "emoji": "👥",
+    "sarlavha": "ROLLAR - 3 tur",
+
+    "1_tashkilotchi": {
+      "emoji": "📋",
+      "nom": "TASHKILOTCHI",
+      "ta'rif": "Tartibsizlikni tashkil qilgan, boshqargan",
+      "harakatlar": [
+        "Tartibsizlikni rejalashtirgan",
+        "Odamlarni to'plagan",
+        "Boshqargan, rahbarlik qilgan",
+        "Buyruqlar bergan"
+      ],
+      "kvalifikatsiya": "JK 244 + JK 97-2(ye) (JAMI)",
+      "jazo": "Ikkalasining JAMI"
+    },
+
+    "2_faol": {
+      "emoji": "👊",
+      "nom": "FAOL ISHTIROKCHI",
+      "ta'rif": "Tartibsizlikda faol, zo'ravonlikda yetakchi",
+      "harakatlar": [
+        "Zo'ravonlikda faol",
+        "Yetakchilik qilgan",
+        "Boshqalarni qo'zg'atgan",
+        "Vayron qilishda faol"
+      ],
+      "kvalifikatsiya": "JK 244 + JK 97-2(ye) (JAMI)",
+      "jazo": "Ikkalasining JAMI"
+    },
+
+    "3_oddiy_jinoyatchi": {
+      "emoji": "🤷",
+      "nom": "ODDIY JINOYATCHI",
+      "ta'rif": "Tartibsizlik ishtirokchisi EMAS, faqat jinoyat qilgan",
+      "harakatlar": [
+        "Tartibsizlikda QATNASHMAGAN",
+        "Tashkilotchi EMAS",
+        "Faol ishtirokchi EMAS",
+        "Faqat o'ldirish (yoki boshqa jinoyat)"
+      ],
+      "kvalifikatsiya": "❌ JK 244 YO'Q, ❌ JK 97-2(ye) YO'Q",
+      "togri": "✅ Faqat shaxs/mulk jinoyat moddalari",
+      "misol": "JK 97-1 (yoki boshqa oddiy modda)"
+    },
+
+    "farq": {
+      "emoji": "🔍",
+      "asosiy": "TARTIBSIZLIKDA ROLI",
+
+      "tashkilotchi_faol": {
+        "rol": "Tartibsizlik ishtirokchisi (tashkilotchi/faol)",
+        "kvalifikatsiya": "JK 244 + 97-2(ye)",
+        "sabab": "Tartibsizlik jinoyati HAM bor"
+      },
+
+      "oddiy": {
+        "rol": "Tartibsizlik ishtirokchisi EMAS",
+        "kvalifikatsiya": "Faqat oddiy jinoyat moddalari",
+        "sabab": "Tartibsizlik jinoyati YO'Q"
+      }
+    }
+  },
+
+  "3_kvalifikatsiya_qoidalari": {
+    "emoji": "📊",
+    "sarlavha": "KVALIFIKATSIYA qoidalari - rolga qarab",
+
+    "1_tashkilotchi_faol": {
+      "emoji": "👊",
+      "kim": "Tashkilotchi YOKI faol ishtirokchi",
+      "jinoyatlar": "2 ta jinoyat",
+
+      "1_tartibsizlik": {
+        "modda": "JK 244",
+        "nom": "Ommaviy tartibsizlik",
+        "jinoyat": "Tartibsizlikni tashkil qilgan/faol"
+      },
+
+      "2_oldirish": {
+        "modda": "JK 97-2(ye)",
+        "nom": "O'ldirish (tartibsizlik jarayonida)",
+        "jinoyat": "O'ldirish"
+      },
+
+      "kvalifikatsiya": "JK 244 + JK 97-2(ye) (JAMI)",
+      "tur": "Jinoyatlar JAMI",
+      "jazo": "Ikkalasining JAMI hisoblanadi"
+    },
+
+    "2_oddiy_jinoyatchi": {
+      "emoji": "🤷",
+      "kim": "Oddiy jinoyatchi (tartibsizlik ishtirokchisi EMAS)",
+
+      "holat": {
+        "tartibsizlik": "❌ Tartibsizlikda qatnashmagan",
+        "jinoyat": "✅ Faqat jinoyat qilgan (o'ldirish, qirg'in, vayron, yong'in)"
+      },
+
+      "kvalifikatsiya": {
+        "jk_244": "❌ YO'Q (tartibsizlik ishtirokchisi emas)",
+        "jk_97_2ye": "❌ YO'Q ((ye) belgi yo'q)",
+        "togri": "✅ Faqat shaxs/mulk jinoyat moddalari"
+      },
+
+      "misollar": [
+        "O'ldirish → JK 97-1 (oddiy)",
+        "Qirg'in → badanga shikast (JK 104-106)",
+        "Vayron → mulkka zarar (JK 167)",
+        "Yong'in → mulkka zarar (JK 167)",
+        "MAJMUI bo'yicha"
+      ],
+
+      "tur": "Jinoyatlar MAJMUI",
+      "jazo": "Har bir jinoyat uchun alohida"
+    }
+  },
+
+  "4_jami_vs_majmui": {
+    "emoji": "⚖️",
+    "sarlavha": "JAMI vs MAJMUI - farq",
+
+    "jami": {
+      "emoji": "📋",
+      "nom": "Jinoyatlar JAMI",
+      "qachon": "Tashkilotchi/faol ishtirokchi",
+      "moddalar": "JK 244 + JK 97-2(ye)",
+      "tushuntirish": "2 xil jinoyat - 2 modda",
+      "jazo": "Ikkalasining JAMI",
+      "misol": "JK 244 (10-15) + JK 97-2(ye) (15-25) = jami"
+    },
+
+    "majmui": {
+      "emoji": "📊",
+      "nom": "Jinoyatlar MAJMUI",
+      "qachon": "Oddiy jinoyatchi",
+      "moddalar": "Faqat shaxs/mulk jinoyat moddalari",
+      "tushuntirish": "Bir necha jinoyat - har biriga modda",
+      "jazo": "Har bir jinoyat uchun",
+      "misol": "JK 97-1 + JK 104 + JK 167 = majmui"
+    },
+
+    "farq": {
+      "emoji": "🔍",
+      "asosiy": "ROL - tartibsizlikda ishtirokchi yoki yo'q",
+      "jami": "Ishtirokchi (tashkilotchi/faol) → JAMI",
+      "majmui": "Ishtirokchi emas (oddiy) → MAJMUI"
+    }
+  },
+
+  "5_amaliy_misollar": {
+    "emoji": "📚",
+    "sarlavha": "Amaliy misollar - to'liq tahlil",
+
+    "misol_1_tashkilotchi": {
+      "emoji": "📋",
+      "vaziyat": "A ommaviy tartibsizlikni TASHKIL QILDI (odamlarni to'pladi, boshqardi). Tartibsizlik davomida B ni o'ldirdi.",
+      "tahlil": {
+        "tartibsizlik": "✅ Ommaviy tartibsizlik bor",
+        "rol": "📋 TASHKILOTCHI",
+        "oldirish": "✅ Jarayonida o'ldirdi"
+      },
+      "kvalifikatsiya": "JK 244 + JK 97-2(ye) (JAMI)",
+      "jazo": "Ikkalasining jami",
+      "sabab": "Tashkilotchi - tartibsizlik jinoyati ham bor"
+    },
+
+    "misol_2_faol": {
+      "emoji": "👊",
+      "vaziyat": "Ommaviy tartibsizlik bo'ldi. A FAOL ISHTIROKCHI (zo'ravonlikda yetakchi, boshqalarni qo'zg'atdi). Tartibsizlik davomida B ni o'ldirdi.",
+      "tahlil": {
+        "tartibsizlik": "✅ Ommaviy tartibsizlik bor",
+        "rol": "👊 FAOL ishtirokchi",
+        "oldirish": "✅ Jarayonida o'ldirdi"
+      },
+      "kvalifikatsiya": "JK 244 + JK 97-2(ye) (JAMI)",
+      "jazo": "Ikkalasining jami",
+      "sabab": "Faol ishtirokchi - tartibsizlik jinoyati ham bor"
+    },
+
+    "misol_3_oddiy": {
+      "emoji": "🤷",
+      "vaziyat": "Ommaviy tartibsizlik bo'ldi. A tartibsizlikda QATNASHMADI (yo'q edi, ishtirokchi emas). Tartibsizlik paytida A keldi va B ni o'ldirdi.",
+      "tahlil": {
+        "tartibsizlik": "✅ Tartibsizlik bor edi",
+        "rol": "🤷 ODDIY jinoyatchi (ishtirokchi emas)",
+        "oldirish": "✅ O'ldirdi (lekin tartibsizlik bilan aloqasi yo'q)"
+      },
+      "kvalifikatsiya": "❌ JK 244 YO'Q, ❌ JK 97-2(ye) YO'Q",
+      "togri": "✅ JK 97-1 (oddiy)",
+      "jazo": "8-15 yil",
+      "sabab": "Tartibsizlik ishtirokchisi emas - (ye) yo'q"
+    },
+
+    "misol_4_oddiy_kop": {
+      "emoji": "📊",
+      "vaziyat": "Ommaviy tartibsizlik bo'ldi. A tartibsizlikda QATNASHMADI. Tartibsizlik paytida A keldi va: B ni o'ldirdi, C ni yaraladi, do'konni buzdi, yoqqan.",
+      "tahlil": {
+        "tartibsizlik": "✅ Tartibsizlik bor",
+        "rol": "🤷 ODDIY jinoyatchi",
+        "jinoyatlar": [
+          "☠️ O'ldirish",
+          "🤕 Shikast",
+          "🏚️ Vayron",
+          "🔥 Yong'in"
+        ]
+      },
+      "kvalifikatsiya": "❌ JK 244 YO'Q, ❌ JK 97-2(ye) YO'Q",
+      "togri": "✅ JK 97-1 + JK 104 + JK 167 (MAJMUI)",
+      "sabab": "Tartibsizlik ishtirokchisi emas - faqat oddiy jinoyatlar majmui"
+    },
+
+    "misol_5_faol_kop": {
+      "emoji": "👊",
+      "vaziyat": "A ommaviy tartibsizlikni tashkil qildi (TASHKILOTCHI). Tartibsizlik davomida: B ni o'ldirdi, C ni yaraladi, do'kon buzdi.",
+      "tahlil": {
+        "tartibsizlik": "✅ Bor, tashkilotchi",
+        "rol": "📋 TASHKILOTCHI",
+        "jinoyatlar": [
+          "☠️ O'ldirish",
+          "🤕 Shikast",
+          "🏚️ Vayron"
+        ]
+      },
+      "kvalifikatsiya": "JK 244 + JK 97-2(ye) + JK 104 + JK 167 (JAMI)",
+      "tushuntirish": "244 va 97-2(ye) - jami. Boshqalari - qo'shimcha"
+    }
+  },
+
+  "6_algoritm": {
+    "emoji": "🔢",
+    "sarlavha": "KVALIFIKATSIYA algoritmi - bosqichma-bosqich",
+
+    "qadamlar": [
+      {
+        "qadam": "1️⃣ Ommaviy tartibsizlik BOR edi mi?",
+        "tekshirish": "Olomon, zo'ravonlik, vayron?",
+        "javob": "Ha → 2-qadam. Yo'q → (ye) yo'q, oddiy modda"
+      },
+      {
+        "qadam": "2️⃣ O'ldirish JARAYONIDA sodir etildi mi?",
+        "tekshirish": "Tartibsizlik davomida?",
+        "javob": "Ha → 3-qadam. Yo'q → (ye) yo'q"
+      },
+      {
+        "qadam": "3️⃣ Aybdorning ROLI?",
+        "tekshirish": "Tashkilotchi? Faol? Oddiy jinoyatchi?",
+        "variantlar": [
+          "📋 Tashkilotchi → 4-qadam (JAMI)",
+          "👊 Faol ishtirokchi → 4-qadam (JAMI)",
+          "🤷 Oddiy jinoyatchi → 5-qadam (MAJMUI)"
+        ]
+      },
+      {
+        "qadam": "4️⃣ TASHKILOTCHI/FAOL → JAMI",
+        "kvalifikatsiya": "JK 244 + JK 97-2(ye) (JAMI)",
+        "jazo": "Ikkalasining jami",
+        "tugadi": "✅ Boshqa jinoyatlar bormi? → qo'shimcha moddalar"
+      },
+      {
+        "qadam": "5️⃣ ODDIY JINOYATCHI → MAJMUI",
+        "kvalifikatsiya": "❌ JK 244 YO'Q, ❌ JK 97-2(ye) YO'Q",
+        "togri": "✅ Faqat shaxs/mulk jinoyat moddalari",
+        "misol": "JK 97-1 (+ boshqa jinoyatlar majmui)",
+        "tugadi": "✅ Kvalifikatsiya tugadi"
+      }
+    ]
+  },
+
+  "7_muhim_xulosa": {
+    "emoji": "❗",
+    "asosiy_farq": "ROL - tartibsizlikda ishtirokchi yoki yo'q",
+
+    "tashkilotchi_faol": {
+      "emoji": "👊",
+      "rol": "Tashkilotchi YOKI Faol ishtirokchi",
+      "kvalifikatsiya": "JK 244 + JK 97-2(ye) (JAMI)",
+      "sabab": "Tartibsizlik jinoyati ham bor"
+    },
+
+    "oddiy": {
+      "emoji": "🤷",
+      "rol": "Oddiy jinoyatchi (ishtirokchi emas)",
+      "kvalifikatsiya": "Faqat shaxs/mulk jinoyat moddalari (244, 97-2(ye) YO'Q)",
+      "sabab": "Tartibsizlik jinoyati yo'q"
+    },
+
+    "muhim": "❗ Tartibsizlikda ROLI ni aniq aniqlash kerak!"
+  },
+
+  "tushuntirish": "JK 97-2(ye): Ommaviy tartibsizliklar JARAYONIDA o'ldirish. Ommaviy tartibsizlik (JK 244): olomon, zo'ravonlik, vayron qilish. ROLLAR: 1️⃣ TASHKILOTCHI (tashkil qilgan, boshqargan) → JK 244 + JK 97-2(ye) (JAMI). 2️⃣ FAOL ISHTIROKCHI (zo'ravonlikda faol, yetakchi) → JK 244 + JK 97-2(ye) (JAMI). 3️⃣ ODDIY JINOYATCHI (tartibsizlik ishtirokchisi EMAS, faqat jinoyat qilgan) → ❌ JK 244 YO'Q, ❌ JK 97-2(ye) YO'Q, ✅ faqat shaxs/mulk jinoyat moddalari (JK 97-1 + boshqalar) MAJMUI. FARQ: tartibsizlikda ROLI. JAMI: tashkilotchi/faol uchun. MAJMUI: oddiy jinoyatchi uchun. Jazo: 15-25 yil yoki umrbod.",
+
+  "translations": {
+    "uz": "JK 97-2(ye): Tartibsizlikda. Tashkilotchi/faol → 244 + 97-2(ye). Oddiy → faqat jinoyat.",
+    "ru": "УК 97-2(е): При беспорядках. Организатор/активный → 244 + 97-2(е). Обычный → только преступление.",
+    "en": "CC 97-2(e): During riots. Organizer/active → 244 + 97-2(e). Regular → only crime."
+  }
+}

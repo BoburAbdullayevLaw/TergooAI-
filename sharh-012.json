@@ -1,0 +1,362 @@
+{
+  "id": "JK-097-SHARH-012",
+  "modda_raqam": "97",
+  "sharh_raqami": 12,
+  "tur": "umumxavfli_usul",
+
+  "_izoh": "BO'LIM 12: JK 97-2(b) - Umumxavfli usulda o'ldirish",
+
+  "emoji_sarlavha": "💥 Umumxavfli usulda o'ldirish",
+
+  "asosiy_matn": "JK 97-moddasi 2-qismi (b) bandi bo'yicha ko'pchilik uchun umumxavfli usulda odam o'ldirish deganda, aybdor o'ldirish qasdi bilan, lekin boshqa shaxslarning hayoti uchun ham xavf tug'diradigan usuldan foydalanib harakat qilganda tushuniladi. Umumxavfli usullar: yong'in qo'yish, portlatish, suv bosish, zaharli moddalar tarqatish va boshqalar. Muhim shart - aybdor bu usulning boshqalar uchun ham xavfli ekanligini bilgan bo'lishi kerak",
+
+  "sinonimlar": {
+    "umumxavfli": {
+      "variantlar": ["umumxavfli", "ko'pchilik uchun xavfli", "boshqalar uchun xavfli"],
+      "og'irlik": 95,
+      "rasmiy": true,
+      "emoji": "💥"
+    },
+    "usul": {
+      "variantlar": ["usul", "yo'l", "metod", "vosita"],
+      "og'irlik": 85,
+      "rasmiy": false,
+      "emoji": "🔧"
+    }
+  },
+
+  "kontekstli_javoblar": {
+    "tergovchi": {
+      "uslub": "juda_rasmiy",
+      "emoji": "👮",
+      "qo'shimcha": [
+        "👮 Tergov yuritishda:",
+        "💥 Usul umumxavfli bo'lganmi?",
+        "👥 Boshqalar uchun xavf bo'lganmi?",
+        "🧠 Aybdor xavfni bilganmi?"
+      ],
+      "qo'shimcha_malumot": [
+        "1️⃣ USUL: Portlatish, yong'in, zahar?",
+        "2️⃣ XAVF: Boshqalar uchun REAL xavf",
+        "3️⃣ ONGLILIK: Aybdor xavfni BILGAN",
+        "4️⃣ DALILLAR: Usul, joy, vaqt, atrofdagilar",
+        "⚠️ Agar xavf bo'lmasa → (b) belgi qo'llanilmaydi"
+      ]
+    },
+
+    "advokat": {
+      "uslub": "juda_rasmiy",
+      "emoji": "👔",
+      "qo'shimcha": [
+        "⚖️ Himoya strategiyasi:",
+        "❌ Usul umumxavfli emasligini dalillang",
+        "👥 Boshqalar uchun xavf yo'qligini isbotlang",
+        "🧠 Aybdor xavfni bilmaganligini ko'rsating"
+      ],
+      "qo'shimcha_malumot": [
+        "❓ Usul oddiy (umumxavfli emas)",
+        "❓ Boshqa odamlar yo'q edi (xavf yo'q)",
+        "❓ Aybdor xavfni bilmagan",
+        "🎯 Maqsad: (b) belgisiz JK 97-1"
+      ]
+    },
+
+    "sudya": {
+      "uslub": "juda_rasmiy",
+      "emoji": "⚖️",
+      "qo'shimcha": [
+        "⚖️ Sud qarori chiqarishda:",
+        "💥 Usul ANIQ umumxavfli ekanini isbotlang",
+        "👥 REAL xavf bo'lganligini tekshiring",
+        "🧠 Aybdor xavfni BILGANLIGINI aniqlang"
+      ],
+      "qo'shimcha_malumot": [
+        "❗ 3 TA ELEMENT (barchasi kerak):",
+        "1️⃣ UMUMXAVFLI USUL (portlatish, yong'in va h.k.)",
+        "2️⃣ REAL XAVF boshqalar uchun (potensial emas)",
+        "3️⃣ ONGLILIK (aybdor xavfni BILGAN)",
+        "❓ Shubha → (b) belgi qo'llanilmaydi",
+        "📝 Har bir elementni qarorga yozish"
+      ]
+    },
+
+    "talaba": {
+      "uslub": "o'rtacha",
+      "emoji": "📚",
+      "qo'shimcha": [
+        "📚 Eslab qoling:",
+        "💥 Umumxavfli usul",
+        "👥 Boshqalar uchun xavf",
+        "🧠 Aybdor bilgan"
+      ],
+      "qo'shimcha_malumot": [
+        "📝 JK 97-2(b) ELEMENTLARI:",
+        "1️⃣ Umumxavfli usul",
+        "2️⃣ Real xavf",
+        "3️⃣ Onglilik",
+        "✅ 3 tasi ham → (b) belgi"
+      ]
+    },
+
+    "oddiy_fuqaro": {
+      "uslub": "norasmiy",
+      "emoji": "👨",
+      "qo'shimcha": [
+        "💬 Oddiy qilib:",
+        "💥 Xavfli usul (portlatish, yong'in)",
+        "👥 Boshqalar ham zarar ko'rishi mumkin edi",
+        "⛓️ Og'ir jazo"
+      ],
+      "qo'shimcha_malumot": [
+        "💥 XAVFLI USUL ishlatdi",
+        "👥 Ko'p odamga zarar bo'lishi mumkin edi",
+        "⛓️ 15-25 yil yoki umrbod"
+      ]
+    }
+  },
+
+  "javob_uzunligi": {
+    "qisqa": {
+      "shablon": "💥 JK 97-2(b): Umumxavfli usul + Real xavf + Onglilik"
+    },
+    "o'rtacha": {
+      "shablon": "JK 97-2(b) - umumxavfli usulda o'ldirish. 3 element: 1) Umumxavfli usul (portlatish, yong'in), 2) Boshqalar uchun real xavf, 3) Aybdor xavfni bilgan. Hamma element bo'lishi kerak."
+    },
+    "batafsil": {
+      "shablon": "💥 JK 97-2(b): Ko'pchilik uchun umumxavfli usulda o'ldirish. 3 TA ELEMENT: 1) UMUMXAVFLI USUL (portlatish, yong'in, suv bosish, zahar tarqatish va h.k.), 2) REAL XAVF boshqa shaxslar uchun, 3) ONGLILIK (aybdor usulning xavfli ekanligini bilgan). Barcha elementlar isbotlanishi kerak. Jazo: 15-25 yil yoki umrbod."
+    }
+  },
+
+  "1_asosiy_tushuncha": {
+    "emoji": "💥",
+    "sarlavha": "Umumxavfli usul - bu nima?",
+    "ta'rif": "Faqat jabrlanuvchiga emas, balki BOSHQA SHAXSLARGA ham XAVF soluvchi usul",
+
+    "xususiyatlari": [
+      "Ko'pchilik uchun xavfli",
+      "Nazorat qilish qiyin",
+      "Tarqaluvchi (yong'in, portlatish)",
+      "Boshqalar ham zarar ko'rishi mumkin"
+    ],
+
+    "oddiy_vs_umumxavfli": {
+      "oddiy": {
+        "emoji": "🔪",
+        "nom": "Oddiy usul",
+        "ta'rif": "Faqat jabrlanuvchiga xavf",
+        "misollar": ["Pichoq", "Tayoq", "Bo'g'ish"],
+        "natija": "JK 97-1 (oddiy)"
+      },
+
+      "umumxavfli": {
+        "emoji": "💥",
+        "nom": "Umumxavfli usul",
+        "ta'rif": "Boshqalarga ham xavf",
+        "misollar": ["Portlatish", "Yong'in", "Zahar"],
+        "natija": "JK 97-2(b)"
+      }
+    }
+  },
+
+  "2_umumxavfli_usullar": {
+    "emoji": "🔥",
+    "sarlavha": "Umumxavfli usullar ro'yxati",
+    "umumiy": "Ro'yxat OCHIQ - boshqa xavfli usullar ham bo'lishi mumkin",
+
+    "royxat": {
+      "yongin": {
+        "emoji": "🔥",
+        "nom": "Yong'in qo'yish",
+        "ta'rif": "Uyni, binoni yoqish",
+        "xavfi": "Yong'in tarqaladi, boshqa uylar yonadi",
+        "misol": "Uyni yoqdi, qo'shni uylar ham yonish xavfi"
+      },
+
+      "portlatish": {
+        "emoji": "💣",
+        "nom": "Portlatish",
+        "ta'rif": "Bomba, portlovchi modda",
+        "xavfi": "Katta maydon, ko'p odam",
+        "misol": "Uyga bomba o'rnatdi, butun bino vayron bo'ldi"
+      },
+
+      "suv_bosish": {
+        "emoji": "🌊",
+        "nom": "Suv bosish",
+        "ta'rif": "To'g'onni buzish, suv oqizish",
+        "xavfi": "Katta hudud suv ostida",
+        "misol": "To'g'onni portlatdi, qishloq suv bosdi"
+      },
+
+      "zahar": {
+        "emoji": "☠️",
+        "nom": "Zaharli moddalar tarqatish",
+        "ta'rif": "Gaz, kimyoviy moddalar",
+        "xavfi": "Havo orqali tarqaladi",
+        "misol": "Gaz chiqardi, boshqalar ham zaharlanis hi mumkin"
+      },
+
+      "qurol_teskari_otish": {
+        "emoji": "🔫",
+        "nom": "Ommaviy joyda o'q uzish",
+        "ta'rif": "Ko'p odam bo'lgan joyda otish",
+        "xavfi": "Boshqalarga tegishi mumkin",
+        "misol": "Bozorda otdi, boshqa odamlarga ham tegdi"
+      },
+
+      "boshqalar": {
+        "emoji": "⚠️",
+        "nom": "Boshqa umumxavfli usullar",
+        "misollar": [
+          "Radioaktiv moddalar",
+          "Elektr toki (yuqori kuchlanish)",
+          "Transport vositasini ishlatish (ko'p odamga)",
+          "Bino yiqitish"
+        ]
+      }
+    }
+  },
+
+  "3_real_xavf": {
+    "emoji": "⚠️",
+    "sarlavha": "REAL XAVF - potensial emas",
+    "ta'rif": "Boshqalar uchun HAQIQIY, ANIQ xavf bo'lishi kerak",
+    "muhim": "❗ POTENSIAL (mumkin) xavf YETARLI EMAS!",
+
+    "real_xavf": {
+      "emoji": "✅",
+      "ta'rif": "HAQIQIY xavf - boshqa odamlar TA BIYDA edilar",
+      "shartlar": [
+        "Boshqa odamlar yaqin atrofda",
+        "Usul ular uchun xavfli",
+        "Zarar yetishi mumkin edi (real)",
+        "Faqat tasodif ular saqlab qoldi"
+      ],
+      "misol": "Ko'p kishili uyni yoqdi, hammaning hayoti xavfda edi",
+      "natija": "✅ JK 97-2(b)"
+    },
+
+    "potensial_xavf": {
+      "emoji": "❌",
+      "ta'rif": "POTENSIAL xavf - boshqa odamlar YO'Q edi",
+      "holat": "Usul xavfli, lekin boshqa odamlar yo'q",
+      "misol": "Bo'sh uyni yoqdi (boshqa odamlar yo'q edi)",
+      "natija": "❌ (b) belgi YO'Q, JK 97-1"
+    }
+  },
+
+  "4_onglilik": {
+    "emoji": "🧠",
+    "sarlavha": "ONGLILIK - aybdor xavfni bilgan",
+    "ta'rif": "Aybdor usulning boshqalar uchun xavfli ekanligini BILGAN bo'lishi kerak",
+
+    "2_holat": {
+      "bilgan": {
+        "emoji": "✅",
+        "holat": "Aybdor xavfni BILGAN",
+        "ta'rif": "Boshqa odamlar bor, xavfli usul ekanini tushungan",
+        "misol": "Ko'p kishili uyda bilgan holda yong'in qo'ydi",
+        "natija": "✅ JK 97-2(b)"
+      },
+
+      "bilmagan": {
+        "emoji": "❌",
+        "holat": "Aybdor xavfni BILMAGAN",
+        "ta'rif": "Boshqa odamlar borligini bilmagan",
+        "misol": "Uy bo'sh deb o'yladi, yoqdi, lekin ichida odam bor edi",
+        "natija": "❌ (b) belgi YO'Q (onglilik yo'q)"
+      }
+    },
+
+    "qanday_aniqlash": [
+      "Aybdorning so'zlari",
+      "Joy va vaqt (odamlar ko'p bo'ladigan joy)",
+      "Oldindan ko'rgan (uy ichiga qaragan)",
+      "Atrofdagilarning guvohliklarini"
+    ]
+  },
+
+  "5_misollar": {
+    "emoji": "📚",
+    "sarlavha": "Amaliy misollar",
+
+    "misol_1_bor": {
+      "emoji": "✅",
+      "holat": "A butun oilani o'ldirish uchun kechasi gazni ochdi (ko'p odam uxlab yotgan ko'p qavatli uyda). Gaz tarqaldi, butun uy xavfda.",
+      "tahlil": {
+        "usul": "💥 Gaz (umumxavfli) ✅",
+        "xavf": "⚠️ Butun uy (real xavf) ✅",
+        "onglilik": "🧠 Ko'p odam borligini bilgan ✅"
+      },
+      "natija": "✅ JK 97-2(b)"
+    },
+
+    "misol_2_bor": {
+      "emoji": "✅",
+      "holat": "A bozorda dushmanini o'ldirish uchun qurol bilan otdi. Bozorda 100+ odam bor edi. Boshqalarga ham tegishi mumkin edi.",
+      "tahlil": {
+        "usul": "🔫 Ommaviy joyda otish (umumxavfli) ✅",
+        "xavf": "⚠️ 100+ odam (real xavf) ✅",
+        "onglilik": "🧠 Bozorda ko'p odam borligini bilgan ✅"
+      },
+      "natija": "✅ JK 97-2(b)"
+    },
+
+    "misol_3_yoq": {
+      "emoji": "❌",
+      "holat": "A cho'l joyda alohida turgan bo'sh uyni yoqdi (ichida 1 kishi yashiringan edi, A bilmagan).",
+      "tahlil": {
+        "usul": "🔥 Yong'in (umumxavfli usul) ✅",
+        "xavf": "❌ Boshqa odamlar yo'q (potensial xavf)",
+        "onglilik": "❌ Ichida odam borligini bilmagan"
+      },
+      "natija": "❌ (b) belgi YO'Q, JK 97-1 yoki JK 102"
+    },
+
+    "misol_4_yoq": {
+      "emoji": "❌",
+      "holat": "A dushmanini pichoq bilan o'ldirdi (oddiy usul, boshqalar uchun xavf yo'q).",
+      "tahlil": {
+        "usul": "🔪 Pichoq (oddiy usul) ❌",
+        "xavf": "❌ Boshqalar uchun xavf yo'q",
+        "onglilik": "-"
+      },
+      "natija": "❌ (b) belgi YO'Q, JK 97-1"
+    }
+  },
+
+  "6_qoshimcha_oqibatlar": {
+    "emoji": "➕",
+    "sarlavha": "Boshqa odamlar zarar ko'rsa?",
+
+    "holat": "Umumxavfli usulda o'ldirish paytida boshqa odamlar ham o'lsa yoki zarar ko'rsa?",
+
+    "javob": {
+      "emoji": "📊",
+      "qoida": "Alohida javobgarlik",
+      "tushuntirish": "JK 97-2(b) + boshqa jinoyatlar",
+      "misol": "Uyni yoqdi: maqsad - A ni o'ldirish (o'ldi), natija - B, C ham o'ldi",
+      "kvalifikatsiya": [
+        "JK 97-2(b) - A ni o'ldirish",
+        "JK 97-1 - B ni o'ldirish (ehtiyotsizlik)",
+        "JK 97-1 - C ni o'ldirish (ehtiyotsizlik)",
+        "Yoki: JK 97-2(a) - bir necha shaxs, agar qasd bo'lsa"
+      ]
+    }
+  },
+
+  "7_muhim_xulosa": {
+    "emoji": "❗",
+    "asosiy": "JK 97-2(b): Umumxavfli usul + Real xavf + Onglilik",
+    "formula": "💥 + ⚠️ + 🧠 = (b) belgi",
+    "eng_muhim": "Real xavf (boshqalar tayda) va onglilik (aybdor bilgan)"
+  },
+
+  "tushuntirish": "JK 97-2(b): Ko'pchilik uchun umumxavfli usulda o'ldirish. 3 element: 1) UMUMXAVFLI USUL (yong'in, portlatish, zahar, ommaviy joyda otish), 2) REAL XAVF boshqa shaxslar uchun (potensial emas, ular tayda bo'lishi kerak), 3) ONGLILIK (aybdor xavfni bilgan). Barchasi isbotlanishi kerak. Potensial xavf yoki onglilik yo'q → (b) belgi qo'llanilmaydi. Jazo: 15-25 yil yoki umrbod.",
+
+  "translations": {
+    "uz": "JK 97-2(b): Umumxavfli usul + Real xavf + Onglilik. Potensial yetarli emas.",
+    "ru": "УК 97-2(б): Общеопасный способ + Реальная опасность + Осознание. Потенциальной недостаточно.",
+    "en": "CC 97-2(b): Publicly dangerous method + Real danger + Awareness. Potential is not enough."
+  }
+}

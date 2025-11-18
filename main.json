@@ -1,0 +1,258 @@
+{
+  "id": "JK-097-MAIN",
+  "modda_raqam": "97",
+  "modda_nomi": "Qasddan odam o'ldirish",
+  "tip": "asosiy_modda",
+  "_source": "JK",
+
+  "emoji_sarlavha": "⚰️ Qasddan odam o'ldirish",
+
+  "qonun_matni": {
+    "sarlavha": "97-modda. Qasddan odam o'ldirish",
+
+    "qism_1": {
+      "raqam": 1,
+      "matn": "Qasddan odam o'ldirish o'n yildan o'n besh yilgacha ozodlikdan mahrum qilish bilan jazolanadi.",
+      "jazo": {
+        "tur": "ozodlikdan mahrum qilish",
+        "minimal": "10 yil",
+        "maksimal": "15 yil"
+      }
+    },
+
+    "qism_2": {
+      "raqam": 2,
+      "kirish": "Javobgarlikni og'irlashtiradigan holatlarda qasddan odam o'ldirish, ya'ni:",
+
+      "bandlar": [
+        {
+          "banda": "a",
+          "matn": "ikki yoki undan ortiq shaxsni",
+          "qisqa": "Ikki+ odam",
+          "emoji": "👥"
+        },
+        {
+          "banda": "b",
+          "matn": "homiladorligi aybdorga ayon bo'lgan ayolni",
+          "qisqa": "Homilador ayol",
+          "emoji": "🤰"
+        },
+        {
+          "banda": "v",
+          "matn": "aybdorga ayon bo'lgan ojiz ahvoldagi shaxsni",
+          "qisqa": "Ojiz ahvol",
+          "emoji": "👴"
+        },
+        {
+          "banda": "g",
+          "matn": "o'z xizmat yoki fuqarolik burchini bajarishi munosabati bilan shaxsni yoki uning yaqin qarindoshlarini",
+          "qisqa": "Xizmat burchi",
+          "emoji": "👮"
+        },
+        {
+          "banda": "d",
+          "matn": "boshqa shaxslarning hayoti uchun xavfli bo'lgan usulda",
+          "qisqa": "Ko'pchilik xavfli usul",
+          "emoji": "💣"
+        },
+        {
+          "banda": "ye",
+          "matn": "ommaviy tartibsizliklar jarayonida",
+          "qisqa": "Ommaviy tartibsizlik",
+          "emoji": "🔥"
+        },
+        {
+          "banda": "j",
+          "matn": "o'ta shafqatsizlik bilan",
+          "qisqa": "O'ta shafqatsizlik",
+          "emoji": "😈"
+        },
+        {
+          "banda": "z",
+          "matn": "nomusga tegish yoki jinsiy ehtiyojni zo'rlik ishlatib g'ayritabiiy usulda qondirish bilan bog'liq holda",
+          "qisqa": "Nomusga tegish/Zo'rlash",
+          "emoji": "🚫"
+        },
+        {
+          "banda": "i",
+          "matn": "tamagirlik niyatida",
+          "qisqa": "Tamagirlik",
+          "emoji": "💰"
+        },
+        {
+          "banda": "k",
+          "matn": "milliy yoki irqiy adovat zamirida",
+          "qisqa": "Milliy/Irqiy adovat",
+          "emoji": "⚠️"
+        },
+        {
+          "banda": "l",
+          "matn": "bezorilik oqibatida",
+          "qisqa": "Bezorilik",
+          "emoji": "🔴"
+        },
+        {
+          "banda": "m",
+          "matn": "diniy taassublar zamirida",
+          "qisqa": "Diniy taassublar",
+          "emoji": "☪️"
+        },
+        {
+          "banda": "n",
+          "matn": "inson a'zolarini va (yoki) to'qimalarini olish yoki murdaning qismlaridan foydalanish maqsadida",
+          "qisqa": "Transplantatsiya",
+          "emoji": "🫀"
+        },
+        {
+          "banda": "o",
+          "matn": "boshqa biror jinoyatni yashirish yoki uning sodir etilishini osonlashtirish maqsadida",
+          "qisqa": "Yashirish/Osonlashtirish",
+          "emoji": "🙈"
+        },
+        {
+          "banda": "p",
+          "matn": "bir guruh shaxslar yoki uyushgan guruh a'zosi tomonidan yoki o'sha guruh manfaatlarini ko'zlagan holda",
+          "qisqa": "Guruh/Uyushgan guruh",
+          "emoji": "👥"
+        },
+        {
+          "banda": "r",
+          "matn": "takroran yoki xavfli retsidivist tomonidan",
+          "qisqa": "Takroran/Retsidivist",
+          "emoji": "🔄"
+        },
+        {
+          "banda": "s",
+          "matn": "o'ta xavfli retsidivist tomonidan qasddan odam o'ldirilishi",
+          "qisqa": "O'ta xavfli retsidivist",
+          "emoji": "⚫"
+        }
+      ],
+
+      "jazo": {
+        "matn": "o'n besh yildan yigirma besh yilgacha ozodlikdan mahrum qilish yoki umrbod ozodlikdan mahrum qilish jazosi bilan jazolanadi",
+        "tur": "ozodlikdan mahrum qilish yoki umrbod",
+        "minimal": "15 yil",
+        "maksimal": "25 yil yoki umrbod"
+      }
+    }
+  },
+
+  "qisqacha_tushuntirish": "JK 97-modda qasddan odam o'ldirishni 2 qismda tartibga soladi: 1) Oddiy tarkib (97-1) - 10-15 yil. 2) Og'irlashtiruvchi holatlar (97-2) - 18 ta band bilan, 15-25 yil yoki umrbod. Og'irlashtiruvchi holatlar: ikki+ odam, homilador, ojiz ahvol, xizmat burchi, ko'pchilik xavfli usul, ommaviy tartibsizlik, o'ta shafqatsizlik, nomusga tegish, tamagirlik, milliy adovat, bezorilik, diniy taassublar, transplantatsiya, yashirish, guruh, takroran, o'ta xavfli retsidivist.",
+
+  "kalit_sozlar": [
+    "qasddan o'ldirish",
+    "hayotga qarshi jinoyat",
+    "og'irlashtiruvchi holatlar",
+    "umrbod qamoq",
+    "10 yil",
+    "15 yil",
+    "25 yil",
+    "JK 97-1",
+    "JK 97-2",
+    "ikki odam",
+    "homilador",
+    "ojiz ahvol",
+    "tamagirlik",
+    "takroran"
+  ],
+
+  "tuzilishi": {
+    "qismlar": 2,
+    "bandlar": 18,
+    "og_irlashtiruvchi_holatlar": [
+      "a - ikki+ odam",
+      "b - homilador",
+      "v - ojiz ahvol",
+      "g - xizmat burchi",
+      "d - ko'pchilik xavfli",
+      "ye - ommaviy tartibsizlik",
+      "j - o'ta shafqatsizlik",
+      "z - nomusga tegish",
+      "i - tamagirlik",
+      "k - milliy adovat",
+      "l - bezorilik",
+      "m - diniy taassublar",
+      "n - transplantatsiya",
+      "o - yashirish",
+      "p - guruh",
+      "r - takroran",
+      "s - o'ta xavfli retsidivist"
+    ]
+  },
+
+  "jiddiylik_darajasi": "og'ir jinoyat",
+  "kategoriya": "hayotga qarshi jinoyat",
+
+  "manba": {
+    "muallif": "M.X. Rustambayev",
+    "kitob": "MAXSUS QISM",
+    "nashr_sanasi": "2024-05-01",
+    "sahifa": "250-320"
+  },
+
+  "sinonimlar": {
+    "oldirish": {
+      "variantlar": [
+        "o'ldirish",
+        "qotillik",
+        "joniga qasd qilish",
+        "hayotini yo'qotish",
+        "o'lim keltirish",
+        "jan olish"
+      ],
+      "og'irlik": 100,
+      "rasmiy": true,
+      "emoji": "⚰️"
+    },
+    "qasd": {
+      "variantlar": [
+        "qasd",
+        "maqsad",
+        "niyat",
+        "atay",
+        "bila turib"
+      ],
+      "og'irlik": 95,
+      "rasmiy": true,
+      "emoji": "🎯"
+    },
+    "ogirlashtiruvchi": {
+      "variantlar": [
+        "og'irlashtiruvchi",
+        "yomonlashtiruvchi",
+        "qo'shimcha holat",
+        "og'ir holat"
+      ],
+      "og'irlik": 90,
+      "rasmiy": true,
+      "emoji": "⚖️"
+    }
+  },
+
+  "aloqador_moddalar": [
+    "JK-025",
+    "JK-096",
+    "JK-098",
+    "JK-099",
+    "JK-100",
+    "JK-155",
+    "JK-157"
+  ],
+
+  "statistika": {
+    "sharxlar_soni": 31,
+    "bandlar_soni": 18,
+    "qismlar_soni": 2
+  },
+
+  "yaratilgan_sana": "2025-01-15",
+  "oxirgi_yangilangan": "2025-01-15",
+  "versiya": "2.0",
+
+  "translations": {
+    "uz": "Qasddan odam o'ldirish",
+    "ru": "Умышленное убийство",
+    "en": "Intentional murder"
+  }
+}
