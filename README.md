@@ -1,0 +1,2 @@
+# TergooAI-
+oxirga yetmagan loyham
