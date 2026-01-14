@@ -22,7 +22,7 @@ logger = logging.getLogger(__name__)
 # ============================================================================
 # 2. API SOZLAMALARI
 # ============================================================================
-os.environ["GOOGLE_API_KEY"] = "AIzaSyADMC4eNURgujDUM7IjjtT9N1Wi9O0iUuE"
+os.environ["GOOGLE_API_KEY"] = ""
 os.environ["KMP_DUPLICATE_LIB_OK"] = "TRUE"
 
 # ============================================================================
