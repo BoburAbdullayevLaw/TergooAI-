@@ -42,7 +42,7 @@ import numpy as np
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 logger = logging.getLogger(__name__)
 
-os.environ["GOOGLE_API_KEY"] = "AIzaSyADMC4eNURgujDUM7IjjtT9N1Wi9O0iUuE"
+os.environ["GOOGLE_API_KEY"] = ""
 os.environ["KMP_DUPLICATE_LIB_OK"] = "TRUE"
 
 
