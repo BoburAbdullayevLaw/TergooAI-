@@ -1,0 +1,618 @@
+{
+  "id": "JK-097-SHARH-029",
+  "modda_raqam": "97",
+  "sharh_raqami": 29,
+  "tur": "transplantatsiya",
+
+  "_izoh": "BO'LIM 29: JK 97-2(n) - Inson a'zolarini olish maqsadida o'ldirish",
+
+  "emoji_sarlavha": "🫀 Transplantatsiya (a'zolar, to'qimalar)",
+
+  "asosiy_matn": "JK 97-2(n): Inson a'zolarini/to'qimalarini olish yoki murdaning qismlaridan foydalanish MAQSADIDA o'ldirish. TO'G'RI QASD kerak (maqsad aniq). Maqsadga erishish SHART EMAS. MOTIV: har xil (yaqinni qutqarish, tamagirlik). HAQ evaziga → JK 97-2(i) + (n) (MAJMUI). QONUNIY transplantatsiya: retsipiyent ROZILIGI kerak (yozma, video). 18 yoshgacha yoki layoqatsiz → ota-ona roziligi. ROZILIK YO'Q → JK 133 (tirikdan).",
+
+  "sinonimlar": {
+    "azolar": {
+      "variantlar": ["a'zolar", "organlar", "ichki organlar", "tana qismlari"],
+      "og'irlik": 95,
+      "rasmiy": true,
+      "emoji": "🫀"
+    },
+    "toqimalar": {
+      "variantlar": ["to'qimalar", "hujayra", "biologik material"],
+      "og'irlik": 90,
+      "rasmiy": true,
+      "emoji": "🧬"
+    },
+    "transplantatsiya": {
+      "variantlar": ["transplantatsiya", "ko'chirish", "o'tkazish", "donorlik"],
+      "og'irlik": 95,
+      "rasmiy": true,
+      "emoji": "🏥"
+    }
+  },
+
+  "kontekstli_javoblar": {
+    "tergovchi": {
+      "uslub": "juda_rasmiy",
+      "emoji": "👮",
+      "qo'shimcha": [
+        "👮 Tergov yuritishda:",
+        "🫀 MAQSAD - a'zolar/to'qimalar olish",
+        "🎯 TO'G'RI QASD borligini aniqlash",
+        "💰 HAQ evaziga → (i) + (n)"
+      ],
+      "qo'shimcha_malumot": [
+        "❗ ISBOTLASH KERAK:",
+        "1️⃣ MAQSAD aniq mi?",
+        "   - A'zolar olish?",
+        "   - To'qimalar olish?",
+        "   - Murda qismlari?",
+        "2️⃣ TO'G'RI QASD bor edi mi?",
+        "   - Oldindan rejalashtirgan?",
+        "   - Aniq maqsad?",
+        "3️⃣ MOTIV nima?",
+        "   - Yaqinni qutqarish?",
+        "   - Tamagirlik (sotish)?",
+        "   - Haq olish?",
+        "",
+        "🫀 A'ZOLAR/TO'QIMALAR:",
+        "🫀 A'ZOLAR:",
+        "- Yurak, jigar, buyrak",
+        "- O'pka, oshqozon",
+        "- Ko'z (kornea)",
+        "",
+        "🧬 TO'QIMALAR:",
+        "- Qon, limfa",
+        "- Suyak iligi",
+        "- Teri, suyak",
+        "",
+        "💀 MURDA QISMLARI:",
+        "- A'zolar (murda)",
+        "- To'qimalar (murda)",
+        "",
+        "💰 HAQ EVAZIGA:",
+        "- Pul uchun",
+        "- Sotish",
+        "→ JK 97-2(i) + (n) (MAJMUI)",
+        "",
+        "📊 DALILLAR:",
+        "- Tibbiy asboblar",
+        "- Donor topish harakatlari",
+        "- Guvohlar",
+        "- Yozuvlar (kelishuvlar)"
+      ]
+    },
+
+    "advokat": {
+      "uslub": "juda_rasmiy",
+      "emoji": "👔",
+      "qo'shimcha": [
+        "⚖️ Himoya strategiyasi:",
+        "❌ Transplantatsiya MAQSADI yo'q",
+        "🎯 Qasd noaniq",
+        "📉 JK 97-2(n) dan JK 97-1 ga"
+      ],
+      "qo'shimcha_malumot": [
+        "🎯 MAQSAD: (n) belgini olib tashlash",
+        "❌ MAQSAD YO'Q:",
+        "- A'zolar olish maqsadi yo'q",
+        "- Boshqa sabab",
+        "- Keyin o'ylagan (oldindan emas)",
+        "",
+        "🤝 DALILLAR:",
+        "- Tibbiy bilim yo'q",
+        "- Asboblar yo'q",
+        "- Boshqa motiv aniq",
+        "",
+        "📉 97-2(n) → 97-1:",
+        "15-25 yil → 8-15 yil"
+      ]
+    },
+
+    "sudya": {
+      "uslub": "juda_rasmiy",
+      "emoji": "⚖️",
+      "qo'shimcha": [
+        "⚖️ Sud qarori chiqarishda:",
+        "🫀 Transplantatsiya MAQSADI ANIQ isbotlangan mi?",
+        "🎯 TO'G'RI QASD bor mi?",
+        "💰 HAQ evaziga → (i) + (n)?"
+      ],
+      "qo'shimcha_malumot": [
+        "❗ TEKSHIRISH:",
+        "1️⃣ MAQSAD ANIQ mi?",
+        "   🫀 A'zolar/to'qimalar olish?",
+        "   💀 Murda qismlari?",
+        "   ✅ Aniq dalil?",
+        "",
+        "2️⃣ TO'G'RI QASD?",
+        "   🎯 Oldindan rejalashtirgan?",
+        "   🎯 Aniq maqsad bor?",
+        "   → Qasd noaniq → (n) yo'q",
+        "",
+        "3️⃣ MOTIV?",
+        "   ❤️ Yaqinni qutqarish?",
+        "   💰 Tamagirlik (sotish)?",
+        "   💵 Haq olish?",
+        "",
+        "4️⃣ HAQ EVAZIGA?",
+        "   💰 Pul uchun?",
+        "   → Ha → (i) + (n) (MAJMUI)",
+        "",
+        "5️⃣ MAQSADGA ERISHDI mi?",
+        "   ❌ Erishish SHART EMAS",
+        "   ✅ Faqat maqsad yetarli",
+        "",
+        "📝 QARORGA YOZISH:",
+        "- Aniq maqsad (a'zolar olish)",
+        "- To'g'ri qasd (dalillar)",
+        "- Motiv (nima uchun)",
+        "- Haq evaziga → (i) + (n)"
+      ]
+    },
+
+    "talaba": {
+      "uslub": "o'rtacha",
+      "emoji": "📚",
+      "qo'shimcha": [
+        "📚 Eslab qoling:",
+        "🫀 Maqsad: a'zolar/to'qimalar olish",
+        "🎯 To'g'ri qasd kerak",
+        "💰 Haq uchun → (i) + (n)",
+        "❌ Erishish shart emas"
+      ],
+      "qo'shimcha_malumot": [
+        "📝 ASOSIY:",
+        "🫀 MAQSAD:",
+        "A'zolar/to'qimalar olish",
+        "",
+        "🎯 TO'G'RI QASD:",
+        "Aniq maqsad",
+        "",
+        "💰 HAQ:",
+        "(i) + (n) majmui"
+      ]
+    },
+
+    "oddiy_fuqaro": {
+      "uslub": "norasmiy",
+      "emoji": "👨",
+      "qo'shimcha": [
+        "💬 Oddiy qilib:",
+        "🫀 A'zolar olish uchun o'ldirdi",
+        "💰 Sotish yoki qutqarish",
+        "⛓️ Og'ir jazo (15-25 yil)"
+      ],
+      "qo'shimcha_malumot": [
+        "🫀 A'zolar olish uchun",
+        "💰 Pul yoki qutqarish",
+        "⛓️ 15-25 yil"
+      ]
+    }
+  },
+
+  "javob_uzunligi": {
+    "qisqa": {
+      "shablon": "🫀 JK 97-2(n): A'zolar/to'qimalar olish maqsadi. 🎯 To'g'ri qasd. 💰 Haq → (i)+(n). Erishish shart emas."
+    },
+    "o'rtacha": {
+      "shablon": "JK 97-2(n): Inson a'zolari/to'qimalari olish yoki murda qismlaridan foydalanish maqsadida o'ldirish. To'g'ri qasd kerak. Maqsadga erishish shart emas. Motiv: har xil (qutqarish, tamagirlik). Haq evaziga → JK 97-2(i)+(n) majmui. Qonuniy: retsipiyent roziligi, roziligi yo'q → JK 133."
+    },
+    "batafsil": {
+      "shablon": "🫀 JK 97-2(n): Inson a'zolarini/to'qimalarini olish yoki murdaning qismlaridan foydalanish MAQSADIDA o'ldirish. TO'G'RI QASD bo'lishi KERAK (maqsad aniq, oldindan). Maqsadga ERISHISH shart EMAS (faqat maqsad yetarli). MOTIV: har xil - yaqin kishini qutqarish, tamagirlik (sotish, pul). 💰 HAQ EVAZIGA (pul uchun) → JK 97-2(i) + (n) (MAJMUI - tamagirlik + transplantatsiya). QONUNIY transplantatsiya: retsipiyent ROZILIGI kerak (yozma, videoyozuv). 18 yoshgacha yoki layoqatsiz → ota-ona/qonuniy vakil roziligi. Rozilik YO'Q → JK 133 (tirikdan a'zo olish). Jazo: 15-25 yil yoki umrbod."
+    }
+  },
+
+  "1_asosiy_tushuncha": {
+    "emoji": "🫀",
+    "sarlavha": "TRANSPLANTATSIYA maqsadi - asosiy tushuncha",
+
+    "tasnif": {
+      "modda": "JK 97-2(n)",
+      "nom": "Inson a'zolarini olish maqsadida o'ldirish",
+      "og'irlashtiruvchi": "Maxsus jirkanch maqsad",
+      "jazo": "⛓️ 15-25 yil yoki umrbod"
+    },
+
+    "ta_rif": {
+      "nom": "Transplantatsiya maqsadi",
+      "ma_no": "A'zolar, to'qimalar yoki murda qismlarini olish"
+    },
+
+    "3_tur": {
+      "1_azolar": {
+        "emoji": "🫀",
+        "nom": "Inson A'ZOLARI",
+        "ta_rif": "Ichki organlar",
+        "misollar": [
+          "🫀 Yurak",
+          "🫁 Jigar",
+          "🫘 Buyrak",
+          "🫁 O'pka",
+          "🫃 Oshqozon",
+          "👁️ Ko'z (kornea)",
+          "🧠 Boshqa a'zolar"
+        ]
+      },
+
+      "2_toqimalar": {
+        "emoji": "🧬",
+        "nom": "TO'QIMALAR",
+        "ta_rif": "Biologik materiallar",
+        "misollar": [
+          "🩸 Qon",
+          "💧 Limfa",
+          "🦴 Suyak iligi",
+          "🧴 Teri",
+          "🦴 Suyak",
+          "🧬 Boshqa to'qimalar"
+        ]
+      },
+
+      "3_murda": {
+        "emoji": "💀",
+        "nom": "MURDA QISMLARI",
+        "ta_rif": "O'lgan odamdan qismlar",
+        "misollar": [
+          "💀 Murda a'zolari",
+          "💀 Murda to'qimalari",
+          "💀 Murda qismlari"
+        ]
+      }
+    }
+  },
+
+  "2_togri_qasd": {
+    "emoji": "🎯",
+    "sarlavha": "TO'G'RI QASD - zaruriy shart",
+
+    "ta_rif": {
+      "nom": "To'g'ri qasd",
+      "ma_no": "Aniq, oldindan o'ylangan maqsad",
+      "zaruriy": "❗ BO'LISHI KERAK - aks holda (n) yo'q"
+    },
+
+    "qoida": {
+      "emoji": "📋",
+      "asosiy": "Transplantatsiya MAQSADI oldindan bo'lishi kerak",
+      "agar_yoq": "Maqsad yo'q yoki keyin vujudga kelgan → (n) yo'q"
+    },
+
+    "belgilar": {
+      "emoji": "✅",
+      "royxat": [
+        "Oldindan rejalashtirgan",
+        "Aniq maqsad (qaysi a'zo)",
+        "Tayyorgarlik ko'rgan",
+        "Tibbiy bilim (asosiy)",
+        "Asboblar tayyorlagan"
+      ]
+    },
+
+    "misol_togri": {
+      "emoji": "✅",
+      "holat": "A o'z ukasining buyragini qutqarish uchun B ni o'ldirdi (buyrak olish maqsadida). Oldindan rejalashtirgan, shifokor bilan kelishgan.",
+      "tahlil": {
+        "maqsad": "✅ Aniq (buyrak olish)",
+        "oldindan": "✅ Rejalashtirgan",
+        "tayyorgarlik": "✅ Shifokor bilan kelishgan"
+      },
+      "qasd": "✅ To'g'ri qasd BOR",
+      "kvalifikatsiya": "JK 97-2(n)"
+    },
+
+    "misol_yoq": {
+      "emoji": "❌",
+      "holat": "A B ni o'ldirdi (o'ch uchun). Keyin A o'yladi: buyragini olsam bo'ladi. Lekin shifokor topilmadi.",
+      "tahlil": {
+        "maqsad": "❌ Oldin yo'q (keyin o'ylagan)",
+        "sabab": "O'ch (transplantatsiya emas)",
+        "keyin": "Keyin vujudga kelgan"
+      },
+      "qasd": "❌ To'g'ri qasd YO'Q",
+      "kvalifikatsiya": "❌ JK 97-2(n) EMAS",
+      "togri": "✅ JK 97-1 (oddiy o'ch)"
+    }
+  },
+
+  "3_maqsadga_erishish": {
+    "emoji": "❌",
+    "sarlavha": "MAQSADGA ERISHISH - shart emas",
+
+    "qoida": {
+      "emoji": "📋",
+      "asosiy": "Maqsadga erishish SHART EMAS",
+      "yetarli": "Faqat MAQSAD bo'lishi yetarli"
+    },
+
+    "2_holat": {
+      "1_erishgan": {
+        "emoji": "✅",
+        "holat": "O'ldirib, a'zolarni OLDI",
+        "natija": "Maqsadga erishdi",
+        "kvalifikatsiya": "JK 97-2(n) ✅"
+      },
+
+      "2_erishmagan": {
+        "emoji": "✅",
+        "holat": "O'ldirib, lekin a'zolarni OLMADI (politsiya to'sdi)",
+        "natija": "Maqsadga erishMAdi",
+        "kvalifikatsiya": "JK 97-2(n) ✅ (baribir)",
+        "sabab": "Faqat maqsad yetarli"
+      }
+    },
+
+    "misol": {
+      "emoji": "✅",
+      "holat": "A B ni o'ldirdi (buyrak olish maqsadida). Lekin politsiya keldi, A qochdi. Buyrakni ololmadi.",
+      "tahlil": {
+        "oldirish": "✅ O'ldirdi",
+        "maqsad": "✅ Buyrak olish maqsadi bor edi",
+        "natija": "❌ Buyrak ololmadi"
+      },
+      "kvalifikatsiya": "JK 97-2(n) ✅",
+      "sabab": "Maqsad yetarli, erishish shart emas"
+    }
+  },
+
+  "4_motiv": {
+    "emoji": "💭",
+    "sarlavha": "MOTIV - har xil bo'lishi mumkin",
+
+    "qoida": {
+      "emoji": "📋",
+      "asosiy": "Motiv (ichki sabab) HAR XIL bo'lishi mumkin",
+      "muhim": "MAQSAD muhim, motiv emas"
+    },
+
+    "turlar": {
+      "1_qutqarish": {
+        "emoji": "❤️",
+        "nom": "Yaqinni QUTQARISH",
+        "ta_rif": "Yaqin kishining hayotini asrab qolish",
+        "misollar": [
+          "Farzandni qutqarish",
+          "Ukani qutqarish",
+          "Yaqin kishini qutqarish"
+        ],
+        "kvalifikatsiya": "Faqat JK 97-2(n)"
+      },
+
+      "2_tamagirlik": {
+        "emoji": "💰",
+        "nom": "TAMAGIRLIK (boylik)",
+        "ta_rif": "A'zolarni sotish, pul olish",
+        "misollar": [
+          "Buyrakni sotish",
+          "Jigarni sotish",
+          "Pul topish"
+        ],
+        "kvalifikatsiya": "JK 97-2(i) + (n) (MAJMUI)"
+      },
+
+      "3_haq": {
+        "emoji": "💵",
+        "nom": "HAQ EVAZIGA",
+        "ta_rif": "Buyurtma asosida, haq uchun",
+        "misollar": [
+          "Buyurtmachi pul to'ladi",
+          "Yollanma",
+          "Haq olish"
+        ],
+        "kvalifikatsiya": "JK 97-2(i) + (n) (MAJMUI)"
+      }
+    }
+  },
+
+  "5_majmui_i_n": {
+    "emoji": "📊",
+    "sarlavha": "MAJMUI (i) + (n) - haq evaziga",
+
+    "qoida": {
+      "emoji": "📋",
+      "asosiy": "HAQ EVAZIGA → 2 ta belgi",
+      "1_tamagirlik": "(i) - tamagirlik",
+      "2_transplantatsiya": "(n) - transplantatsiya",
+      "natija": "JK 97-2(i) + (n) (MAJMUI)"
+    },
+
+    "holat": {
+      "emoji": "💰",
+      "vaziyat": "Pul yoki moddiy naf uchun a'zolar olish",
+      "misollar": [
+        "A'zolarni SOTISH",
+        "Buyurtmachi pul to'ladi",
+        "Haq olish uchun"
+      ]
+    },
+
+    "misol": {
+      "emoji": "💰",
+      "holat": "A buyurtmachi C uchun buyrak kerak. A B ga 100 million pul va'da qildi. B D ni o'ldirib, buyragini oldi, C ga berdi.",
+      "tahlil": {
+        "maqsad": "✅ Buyrak olish (transplantatsiya)",
+        "haq": "✅ 100 million (tamagirlik)",
+        "ikkalasi": "Ikkalasi ham bor"
+      },
+      "kvalifikatsiya": "JK 97-2(i) + (n) (MAJMUI)",
+      "sabab": "Haq evaziga → ikkalasi"
+    }
+  },
+
+  "6_qonuniy_transplantatsiya": {
+    "emoji": "🏥",
+    "sarlavha": "QONUNIY transplantatsiya - qoidalar",
+
+    "asosiy_qoida": {
+      "emoji": "📋",
+      "nom": "Retsipiyent ROZILIGI kerak",
+      "yozma": "Yozma rozilik",
+      "video": "Videoyozuv majburiy",
+      "ogohlanish": "Asoratlar haqida ogohlanish"
+    },
+
+    "retsipiyent": {
+      "emoji": "👤",
+      "ta_rif": "A'zo oluvchi shaxs",
+      "shartlar": [
+        "18 yoshdan katta",
+        "Muomalaga layoqatli",
+        "Yozma roziligi",
+        "Videoyozuv",
+        "Ogohlanish"
+      ]
+    },
+
+    "maxsus_holatlar": {
+      "emoji": "👶",
+      "nom": "18 yoshgacha yoki layoqatsiz",
+      "qoida": "Ota-ona yoki qonuniy vakil roziligi",
+
+      "3_holat": {
+        "1_voyaga_yetmagan": {
+          "emoji": "👶",
+          "nom": "18 yoshgacha",
+          "rozilik": "Ota-ona yozma roziligi"
+        },
+
+        "2_layoqatsiz": {
+          "emoji": "🤕",
+          "nom": "Muomalaga layoqatsiz",
+          "rozilik": "Qonuniy vakil roziligi"
+        },
+
+        "3_imkon_yoq": {
+          "emoji": "😵",
+          "nom": "Rozilikning imkoni yo'q",
+          "rozilik": "Qonuniy vakil roziligi",
+          "misol": "Koma, behushlik"
+        }
+      }
+    },
+
+    "rozilik_yoq": {
+      "emoji": "❌",
+      "holat": "Rozilik YO'Q, tirikdan a'zo olindi",
+      "modda": "JK 133 - Tirikdan a'zo olish",
+      "kvalifikatsiya": "❌ (n) EMAS",
+      "togri": "✅ JK 133"
+    }
+  },
+
+  "7_amaliy_misollar": {
+    "emoji": "📚",
+    "sarlavha": "Amaliy misollar - to'liq tahlil",
+
+    "misol_1_qutqarish": {
+      "emoji": "❤️",
+      "vaziyat": "A ning farzandi og'ir kasallikda (buyrak kerak). A B ni o'ldirib, buyragini oldi (farzandni qutqarish).",
+      "tahlil": {
+        "maqsad": "✅ Buyrak olish (aniq)",
+        "qasd": "✅ To'g'ri qasd (oldindan)",
+        "motiv": "❤️ Farzandni qutqarish",
+        "haq": "❌ Haq yo'q (tamagirlik emas)"
+      },
+      "kvalifikatsiya": "Faqat JK 97-2(n)",
+      "jazo": "15-25 yil"
+    },
+
+    "misol_2_sotish": {
+      "emoji": "💰",
+      "vaziyat": "A buyrak sotish uchun B ni o'ldirdi. Buyrakni qora bozorda sotdi (pul oldi).",
+      "tahlil": {
+        "maqsad": "✅ Buyrak olish",
+        "qasd": "✅ To'g'ri qasd",
+        "motiv": "💰 Pul (tamagirlik)",
+        "sotish": "✅ Sotdi"
+      },
+      "kvalifikatsiya": "JK 97-2(i) + (n) (MAJMUI)",
+      "sabab": "Tamagirlik + transplantatsiya",
+      "jazo": "Majmui"
+    },
+
+    "misol_3_haq": {
+      "emoji": "💵",
+      "vaziyat": "Buyurtmachi C A ga 50 million pul va'da qildi (B ni o'ldirib, buyragini olish uchun). A B ni o'ldirib, buyragini oldi.",
+      "tahlil": {
+        "maqsad": "✅ Buyrak olish",
+        "qasd": "✅ To'g'ri qasd",
+        "haq": "✅ 50 million (tamagirlik)",
+        "yollanma": "Yollanma qotillik"
+      },
+      "kvalifikatsiya": "JK 97-2(i) + (n) (MAJMUI)",
+      "sabab": "Haq evaziga → ikkalasi"
+    },
+
+    "misol_4_erishmadi": {
+      "emoji": "✅",
+      "vaziyat": "A B ni o'ldirdi (jigar olish maqsadida). Lekin politsiya keldi, A qochdi. Jigarni ololmadi.",
+      "tahlil": {
+        "maqsad": "✅ Jigar olish maqsadi bor",
+        "qasd": "✅ To'g'ri qasd",
+        "natija": "❌ Jigar ololmadi (qochdi)"
+      },
+      "kvalifikatsiya": "JK 97-2(n) ✅",
+      "sabab": "Maqsad yetarli, erishish shart emas",
+      "jazo": "15-25 yil"
+    },
+
+    "misol_5_keyin": {
+      "emoji": "❌",
+      "vaziyat": "A B ni o'ldirdi (o'ch uchun). Keyin A o'yladi: buyragini olsam yaxshi bo'lardi. Lekin tibbiy bilim yo'q, ololmadi.",
+      "tahlil": {
+        "sabab": "O'ch (transplantatsiya emas)",
+        "maqsad": "❌ Oldin yo'q (keyin o'ylagan)",
+        "bilim": "❌ Tibbiy bilim yo'q"
+      },
+      "kvalifikatsiya": "❌ JK 97-2(n) EMAS",
+      "togri": "✅ JK 97-1 (oddiy o'ch)",
+      "sabab": "To'g'ri qasd yo'q (keyin vujudga kelgan)"
+    }
+  },
+
+  "8_algoritm": {
+    "emoji": "🔢",
+    "sarlavha": "KVALIFIKATSIYA algoritmi",
+
+    "qadamlar": [
+      {
+        "qadam": "1️⃣ MAQSAD bor mi?",
+        "tekshirish": "A'zolar/to'qimalar olish maqsadi?",
+        "javob": "Ha → 2-qadam. Yo'q → (n) yo'q"
+      },
+      {
+        "qadam": "2️⃣ TO'G'RI QASD bor mi?",
+        "tekshirish": "Oldindan rejalashtirgan? Aniq maqsad?",
+        "javob": "Ha → 3-qadam. Yo'q (keyin) → (n) yo'q"
+      },
+      {
+        "qadam": "3️⃣ HAQ EVAZIGA mi?",
+        "tekshirish": "Pul, tamagirlik?",
+        "javob": {
+          "ha": "JK 97-2(i) + (n) (MAJMUI)",
+          "yoq": "Faqat JK 97-2(n)"
+        }
+      }
+    ]
+  },
+
+  "9_muhim_xulosa": {
+    "emoji": "❗",
+    "asosiy": [
+      "🫀 MAQSAD: a'zolar/to'qimalar/murda qismlari",
+      "🎯 TO'G'RI QASD kerak (oldindan, aniq)",
+      "❌ Erishish SHART EMAS (maqsad yetarli)",
+      "💭 MOTIV: har xil (qutqarish, tamagirlik)",
+      "💰 HAQ evaziga → (i) + (n) (MAJMUI)",
+      "🏥 QONUNIY: retsipiyent roziligi kerak"
+    ]
+  },
+
+  "tushuntirish": "JK 97-2(n): Inson a'zolarini (yurak, jigar, buyrak, o'pka, ko'z) va/yoki to'qimalarini (qon, suyak iligi, teri) olish yoki murdaning qismlaridan foydalanish MAQSADIDA o'ldirish. TO'G'RI QASD bo'lishi KERAK (aniq, oldindan rejalashtirgan). Maqsadga ERISHISH shart EMAS (faqat maqsad bo'lishi yetarli). MOTIV: har xil - yaqin kishini qutqarish uchun, tamagirlik (a'zolarni sotish, boylik ortish). 💰 HAQ EVAZIGA (pul, moddiy naf uchun) → JK 97-2(i) + (n) (MAJMUI - tamagirlik ham, transplantatsiya ham). QONUNIY transplantatsiya: retsipiyent ROZILIGI kerak (yozma, videoyozuv, asoratlar haqida ogohlanish). 18 yoshgacha yoki layoqatsiz → ota-ona/qonuniy vakil roziligi. Rozilik YO'Q, tirikdan a'zo olindi → JK 133. Jazo: 15-25 yil yoki umrbod.",
+
+  "translations": {
+    "uz": "JK 97-2(n): Transplantatsiya. A'zolar olish. To'g'ri qasd. Haq → (i)+(n). Erishish shart emas.",
+    "ru": "УК 97-2(н): Трансплантация. Изъятие органов. Прямой умысел. Вознаграждение → (и)+(н). Достижение не обязательно.",
+    "en": "CC 97-2(n): Transplantation. Organ removal. Direct intent. Reward → (i)+(n). Achievement not required."
+  }
+}

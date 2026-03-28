@@ -1,0 +1,525 @@
+{
+  "id": "JK-097-SHARH-007",
+  "modda_raqam": "97",
+  "sharh_raqami": 7,
+  "tur": "subyekt",
+
+  "_izoh": "BO'LIM 7: Jinoyat subyekti - kim javobgar bo'ladi",
+
+  "emoji_sarlavha": "👤 Jinoyat subyekti - 14 yosh, aqli raso",
+
+  "asosiy_matn": "JKning 97-moddasida javobgarlik belgilangan qasddan odam o'ldirishning subyekti 14 yoshga to'lgan aqli raso jismoniy shaxsdir. Odam o'ldirish bo'yicha jinoyat ishlari ko'rilganida aybdor shaxsini, uning shaxsiga oid xususiyatlarini va jabrlanuvchining xulq-atvorini chuqur o'rganish zarur. Ayblanuvchining (sudlanuvchining) ruhiy jihatdan sog'lomligiga shubha tug'ilgan taqdirda, ambulatoriya yoki statsionar sharoitda sud-psixiatriya ekspertizasi o'tkazilishi kerak. Aybdor tomonidan JK 97-moddasi ikkinchi qismida nazarda tutilgan harakatlar sodir etilgan hollarda sud-psixiatriya ekspertizasi statsionar sharoitda o'tkazilishi shart",
+
+  "sinonimlar": {
+    "subyekt": {
+      "variantlar": ["subyekt", "aybdor", "jinoyatchi", "javobgar shaxs"],
+      "og'irlik": 95,
+      "rasmiy": true,
+      "emoji": "👤"
+    },
+    "aqli raso": {
+      "variantlar": ["aqli raso", "aqliy sog'lom", "ongida", "normal"],
+      "og'irlik": 90,
+      "rasmiy": true,
+      "emoji": "🧠"
+    },
+    "sud-psixiatriya ekspertizasi": {
+      "variantlar": ["sud-psixiatriya ekspertizasi", "psixiatriya tekshiruvi", "aqliy holat ekspertizasi"],
+      "og'irlik": 85,
+      "rasmiy": true,
+      "emoji": "🏥"
+    }
+  },
+
+  "kontekstli_javoblar": {
+    "_izoh": "Har xil foydalanuvchilar uchun javob uslublari",
+
+    "tergovchi": {
+      "uslub": "juda_rasmiy",
+      "emoji": "👮",
+      "qo'shimcha": [
+        "👮 Tergov yuritishda:",
+        "👤 Subyektni aniqlang (yosh, aqliy holat)",
+        "📋 Yosh: 14 ga to'lganligini tekshiring",
+        "🧠 Aqli raso: shubha bo'lsa ekspertiza"
+      ],
+      "fokus": "tekshirish",
+      "qo'shimcha_malumot": [
+        "1️⃣ YOSH: Hujjat orqali aniqlang (passport, guvohnoma)",
+        "2️⃣ AQLIY HOLAT: Oldingi kasallik tarixi, xatti-harakati",
+        "3️⃣ SHUBHA: Agar shubha bo'lsa → ekspertiza MAJBURIY",
+        "4️⃣ JK 97-2: Og'irlashtirilgan bo'lsa → STATSIONAR ekspertiza",
+        "⚠️ Ekspertizasiz sud jarayoni BO'LMAYDI (agar shubha bo'lsa)"
+      ]
+    },
+
+    "advokat": {
+      "uslub": "juda_rasmiy",
+      "emoji": "👔",
+      "qo'shimcha": [
+        "⚖️ Himoya strategiyasi:",
+        "❓ Yoshga yetmaganligini tekshiring",
+        "🧠 Aqliy holatini tekshiring",
+        "🏥 Ekspertiza o'tkazishni talab qiling"
+      ],
+      "fokus": "tekshirish_talabi",
+      "qo'shimcha_malumot": [
+        "❓ Yosh: 14 ga to'lmaganmi? → Javobgar emas",
+        "❓ Aqliy holat: Kasallik bormi? → Ekspertiza talab qiling",
+        "🏥 Ekspertiza: Agar shubha bo'lsa MAJBURIY",
+        "🎯 Maqsad: Aybdor javobgar emasligini isbotlash"
+      ]
+    },
+
+    "sudya": {
+      "_izoh": "Sudya uchun - subyektni tekshirish",
+      "uslub": "juda_rasmiy",
+      "emoji": "⚖️",
+      "qo'shimcha": [
+        "⚖️ Sud qarori chiqarishda:",
+        "👤 Subyekt belgilari borligini tekshiring",
+        "🏥 Ekspertiza o'tkazilganmi (agar kerak bo'lsa)?",
+        "⚠️ JK 97-2: STATSIONAR ekspertiza SHART"
+      ],
+      "fokus": "majburiy_talablar",
+      "qo'shimcha_malumot": [
+        "1️⃣ YOSH: 14 yoshga to'lganligini tekshiring",
+        "2️⃣ AQLIY HOLAT: Aqli raso ekanligini tekshiring",
+        "3️⃣ SHUBHA: Agar shubha bo'lsa ekspertiza MAJBURIY",
+        "❗ MAJBURIY: JK 97-2 bo'yicha STATSIONAR ekspertiza SHART!",
+        "🏥 Ekspertiza turlari: Ambulatoriya (oddiy) yoki Statsionar (og'ir)",
+        "⚠️ JK 97-2 uchun faqat STATSIONAR",
+        "📝 Agar ekspertiza bo'lmasa → qaror BEKOR qilinadi",
+        "❓ Aqli raso emas → Javobgar emas (JK 17)"
+      ]
+    },
+
+    "talaba": {
+      "uslub": "o'rtacha",
+      "emoji": "📚",
+      "qo'shimcha": [
+        "📚 Eslab qoling:",
+        "👤 Subyekt = 14 yosh + Aqli raso",
+        "🏥 JK 97-2: Statsionar ekspertiza SHART",
+        "📝 2 ta shart BARCHASI kerak"
+      ],
+      "fokus": "formula",
+      "qo'shimcha_malumot": [
+        "📝 SUBYEKT (2 shart):",
+        "1️⃣ 👶 14 YOSHGA TO'LGAN",
+        "2️⃣ 🧠 AQLI RASO (aqliy sog'lom)",
+        "❗ Ikkalasi ham bo'lishi SHART",
+        "🏥 JK 97-2 → STATSIONAR ekspertiza MAJBURIY"
+      ]
+    },
+
+    "oddiy_fuqaro": {
+      "uslub": "norasmiy",
+      "emoji": "👨",
+      "qo'shimcha": [
+        "💬 Oddiy qilib:",
+        "👶 14 yoshdan kichikmi? → Javobgar emas",
+        "🧠 Aqliy kasal mi? → Javobgar emas",
+        "✅ 14+ va sog'lom → Javobgar"
+      ],
+      "fokus": "sodda",
+      "qo'shimcha_malumot": [
+        "👶 YOSH: 14 yoshdan kichik → sud olmaydi",
+        "🧠 AQLI KASAL: Aqliy bemor → sud olmaydi",
+        "✅ 14+ va SOG'LOM → Javobgar bo'ladi",
+        "⛓️ Jazo oladi (10-25 yil yoki umrbod)"
+      ]
+    }
+  },
+
+  "savol_turlari": {
+    "_izoh": "Qanday savollarga qanday javob beriladi",
+
+    "ta'rif": {
+      "trigger_sozlar": ["nima", "ta'rif", "subyekt", "kim"],
+      "javob": "asosiy_matn",
+      "emoji": "❓"
+    },
+    "yosh": {
+      "trigger_sozlar": ["yosh", "14", "necha yosh", "yoshga yetmagan"],
+      "javob": "yosh_talabi",
+      "emoji": "👶"
+    },
+    "ekspertiza": {
+      "trigger_sozlar": ["ekspertiza", "psixiatriya", "tekshirish", "statsionar"],
+      "javob": "ekspertiza_talabi",
+      "emoji": "🏥"
+    }
+  },
+
+  "javob_uzunligi": {
+    "_izoh": "Javob qanchalik batafsil bo'lishi kerak",
+
+    "qisqa": {
+      "shablon": "👤 Subyekt = 14 yosh + Aqli raso. JK 97-2 → Statsionar ekspertiza SHART."
+    },
+    "o'rtacha": {
+      "shablon": "Subyekt - 14 yoshga to'lgan aqli raso jismoniy shaxs. Shubha bo'lsa sud-psixiatriya ekspertizasi (ambulatoriya yoki statsionar). JK 97-2 uchun STATSIONAR MAJBURIY."
+    },
+    "batafsil": {
+      "shablon": "👤 Odam o'ldirish subyekti - 14 YOSHGA TO'LGAN va AQLI RASO jismoniy shaxs. Aqliy holatga shubha bo'lsa sud-psixiatriya ekspertizasi o'tkaziladi (ambulatoriya yoki statsionar). ❗ MAJBURIY: JK 97-2 (og'irlashtirilgan) bo'yicha STATSIONAR sharoitda ekspertiza o'tkazish SHART. Aqli raso bo'lmasa → javobgar emas (JK 17). 14 yoshdan kichik → javobgar emas."
+    }
+  },
+
+  "1_subyekt_tushunchasi": {
+    "_izoh": "BO'LIM 1: SUBYEKT - bu kim?",
+
+    "emoji": "👤",
+    "sarlavha": "Jinoyat subyekti",
+    "ta'rif": "Jinoyatni SODIR ETGAN va uning uchun JAVOBGAR BO'LADIGAN shaxs",
+    "tushuntirish": "Har kim emas, faqat ma'lum talablarga javob beradigan shaxs",
+
+    "umumiy_talablar": {
+      "_izoh": "Har qanday jinoyat uchun umumiy talablar (JK 16)",
+      "1": "Jismoniy shaxs (odam, yuridik shaxs emas)",
+      "2": "Ma'lum yoshga yetgan",
+      "3": "Aqli raso (aqliy sog'lom)"
+    },
+
+    "odam_oldirish_uchun": {
+      "_izoh": "Odam o'ldirish uchun maxsus talablar",
+      "emoji": "🎯",
+      "yosh": "14 yoshga to'lgan",
+      "aql": "Aqli raso",
+      "formula": "Subyekt = 14 yosh + Aqli raso"
+    }
+  },
+
+  "2_yosh_talabi": {
+    "_izoh": "BO'LIM 2: YOSH TALABI - 14 yosh",
+
+    "emoji": "👶",
+    "sarlavha": "Yosh talabi - 14 yoshga to'lgan",
+    "qoida": "Odam o'ldirish uchun jinoiy javobgarlik 14 YOSHDAN boshlanadi",
+
+    "nima_uchun_14": {
+      "emoji": "❓",
+      "savol": "Nega aynan 14 yosh?",
+      "javob": "14 yoshda bola o'z harakatlarining xavfli ekanligini tushuna boshlaydi",
+      "tushuntirish": "Odam o'ldirish - juda og'ir jinoyat, shuning uchun yosh pastroq"
+    },
+
+    "boshqa_jinoyatlar": {
+      "_izoh": "Boshqa jinoyatlar uchun yosh",
+      "16_yosh": "Ko'pchilik jinoyatlar - 16 yoshdan (JK 16)",
+      "14_yosh": "Og'ir jinoyatlar - 14 yoshdan (odam o'ldirish, talon-taroj va h.k.)"
+    },
+
+    "qanday_aniqlash": {
+      "emoji": "📋",
+      "nom": "Yoshni qanday aniqlash",
+      "usullar": [
+        "📄 Passport",
+        "📄 Tug'ilganlik haqida guvohnoma",
+        "📄 Boshqa hujjat"
+      ],
+      "qoida": "Tug'ilgan KUNI navbatdagi kunda 14 yoshga to'lgan hisoblanadi",
+      "misol": "2010 yil 15-yanvarda tug'ilgan → 2024 yil 15-yanvarda 14 yoshga to'ldi"
+    },
+
+    "14_yoshdan_kichik": {
+      "emoji": "❌",
+      "holat": "13 yosh yoki undan kichik",
+      "natija": "JAVOBGAR EMAS - jinoiy javobgarlikka tortilmaydi",
+      "nima_qilish": "Voyaga yetmaganlar komissiyasi (tarbiyaviy choralar)",
+      "misol": "12 yoshli bola odam o'ldirdi → sud olmaydi, faqat tarbiya"
+    },
+
+    "14_yoshga_tolgan": {
+      "emoji": "✅",
+      "holat": "14 yosh yoki undan katta",
+      "natija": "JAVOBGAR - jinoiy javobgarlikka tortiladi",
+      "jazo": "Jazo oladi (voyaga yetmaganlar uchun maxsus qoidalar - JK 82)"
+    }
+  },
+
+  "3_aqli_raso": {
+    "_izoh": "BO'LIM 3: AQLI RASO - aqliy sog'lom",
+
+    "emoji": "🧠",
+    "sarlavha": "Aqli raso talabi",
+    "ta'rif": "O'z harakatlarini TUSHUNISH va BOSHQARISH qobiliyati",
+    "tushuntirish": "Aqliy sog'lom, kasalliksiz, o'z xatti-harakatini anglaydi",
+
+    "2_qobiliyat": {
+      "_izoh": "Aqli raso bo'lish uchun 2 ta qobiliyat",
+
+      "1_tushunish": {
+        "emoji": "👁️",
+        "nom": "1. TUSHUNISH qobiliyati (intellektual)",
+        "ta'rif": "O'z harakatlarining xavfli ekanligini TUSHUNISH",
+        "misol": "Pichoq bilan urishning o'ldirishi mumkinligini bilish",
+        "savol": "Aybdor o'z harakatini tushundimi?"
+      },
+
+      "2_boshqarish": {
+        "emoji": "🎮",
+        "nom": "2. BOSHQARISH qobiliyati (irodaviy)",
+        "ta'rif": "O'z harakatlarini BOSHQARISH, to'xtatish",
+        "misol": "O'ldirmaslik, to'xtatish imkoniyati bor edi",
+        "savol": "Aybdor o'z harakatini boshqara oldimi?"
+      }
+    },
+
+    "aqli_raso": {
+      "emoji": "✅",
+      "holat": "Aqli raso (normal)",
+      "xususiyat": "Tushunadi va boshqaradi",
+      "natija": "JAVOBGAR bo'ladi",
+      "misol": "Oddiy, sog'lom odam"
+    },
+
+    "aqli_raso_emas": {
+      "emoji": "❌",
+      "holat": "Aqli raso EMAS (aqliy kasal)",
+      "xususiyat": "Tushunmaydi yoki boshqara olmaydi",
+      "natija": "JAVOBGAR EMAS (JK 17)",
+      "nima_qilish": "Majburiy tibbiy choralar (JK 90-94)",
+      "misollar": [
+        "Shizofreniya",
+        "Aqldan ozish",
+        "Og'ir ruhiy kasallik"
+      ]
+    }
+  },
+
+  "4_sud_psixiatriya_ekspertizasi": {
+    "_izoh": "BO'LIM 4: SUD-PSIXIATRIYA EKSPERTIZASI",
+
+    "emoji": "🏥",
+    "sarlavha": "Sud-psixiatriya ekspertizasi",
+    "ta'rif": "Aybdorning aqliy holatini tibbiy tekshirish",
+    "maqsad": "Aybdor aqli raso yoki emas - buni aniqlash",
+
+    "qachon_otkaziladi": {
+      "emoji": "❓",
+      "shart": "Aybdorning aqliy holatiga SHUBHA tug'ilsa",
+      "tushuntirish": "Agar aqliy kasallik belgilari bo'lsa",
+
+      "shubha_belgilari": [
+        "🏥 Oldin psixiatriya kasalxonasida bo'lgan",
+        "💊 Psixiatriya davolari qabul qilgan",
+        "🎭 G'alati xatti-harakatlar (normal emas)",
+        "💬 Noto'g'ri gapirish (mantiqsiz)",
+        "👁️ Haqiqatni tushunmaslik"
+      ]
+    },
+
+    "2_tur": {
+      "_izoh": "Ekspertizaning 2 turi",
+
+      "ambulatoriya": {
+        "emoji": "🏥",
+        "nom": "1. AMBULATORIYA ekspertizasi",
+        "ta'rif": "Kasalxonaga yotqizilmasdan tekshirish",
+        "qanday": "Bir necha kun, shifoxonaga borib kelish",
+        "qachon": "Oddiy holatlar, og'ir emas",
+        "davomiyligi": "1-2 hafta",
+        "misol": "JK 97-1 (oddiy odam o'ldirish) uchun"
+      },
+
+      "statsionar": {
+        "emoji": "🏨",
+        "nom": "2. STATSIONAR ekspertizasi",
+        "ta'rif": "Kasalxonaga yotqizib chuqur tekshirish",
+        "qanday": "1-2 oy kasalxonada",
+        "qachon": "Og'ir holatlar, chuqur tekshirish kerak",
+        "davomiyligi": "1-2 oy",
+        "misol": "JK 97-2 (og'irlashtirilgan) uchun MAJBURIY"
+      }
+    },
+
+    "majburiy_holatlar": {
+      "emoji": "❗",
+      "sarlavha": "Qachon ekspertiza MAJBURIY?",
+
+      "jk_97_2": {
+        "emoji": "🔴",
+        "holat": "JK 97-2 (og'irlashtirilgan odam o'ldirish)",
+        "talab": "STATSIONAR ekspertiza MAJBURIY",
+        "nima_uchun": "Juda og'ir jinoyat, chuqur tekshirish kerak",
+        "muhim": "❗ Bu SHART - agar o'tkazilmasa, qaror bekor qilinadi"
+      },
+
+      "shubha_bor": {
+        "emoji": "❓",
+        "holat": "Aqliy holatga shubha bor (JK 97-1 yoki 97-2)",
+        "talab": "Ambulatoriya yoki Statsionar ekspertiza",
+        "tanlov": "Holat og'irligiga qarab"
+      }
+    },
+
+    "natija": {
+      "emoji": "📋",
+      "xulosalar": {
+        "aqli_raso": {
+          "emoji": "✅",
+          "xulosa": "Aqli raso",
+          "natija": "Javobgar bo'ladi, sud davom etadi"
+        },
+        "aqli_raso_emas": {
+          "emoji": "❌",
+          "xulosa": "Aqli raso emas",
+          "natija": "Javobgar emas, ish to'xtatiladi (JK 17), majburiy tibbiy choralar (JK 90-94)"
+        },
+        "cheklangan": {
+          "emoji": "⚠️",
+          "xulosa": "Cheklangan aqli raso",
+          "natija": "Javobgar, lekin jazoni engillashtiruvchi holat (JK 57)",
+          "tushuntirish": "To'liq tushunmagan, lekin javobgar"
+        }
+      }
+    }
+  },
+
+  "5_shaxsni_organish": {
+    "_izoh": "BO'LIM 5: AYBDOR SHAXSINI O'RGANISH",
+
+    "emoji": "🔍",
+    "sarlavha": "Aybdor shaxsini chuqur o'rganish",
+    "zaruriylik": "Sud qarori chiqarishda aybdor shaxsini bilish muhim",
+
+    "nima_organiladi": {
+      "1_shaxsiy": {
+        "emoji": "👤",
+        "nom": "1. Shaxsiy xususiyatlar",
+        "royx at": [
+          "Yoshi",
+          "Ta'limi",
+          "Oilasi",
+          "Ishi",
+          "Yashash joyi",
+          "Ijtimoiy holati"
+        ]
+      },
+
+      "2_xarakter": {
+        "emoji": "🎭",
+        "nom": "2. Xarakter va fe'l-atvor",
+        "royxat": [
+          "Xulq-atvori",
+          "Odatlari",
+          "Atrofdagilar fikri",
+          "Oldingi xatti-harakatlari"
+        ]
+      },
+
+      "3_sogliq": {
+        "emoji": "🏥",
+        "nom": "3. Sog'liq holati",
+        "royxat": [
+          "Aqliy kasalliklar tarixi",
+          "Jismoniy kasalliklar",
+          "Davolanish tarixi",
+          "Psixiatriya hisobida bormi"
+        ]
+      },
+
+      "4_oldingi_jinoyat": {
+        "emoji": "📋",
+        "nom": "4. Oldingi jinoyatlar",
+        "royxat": [
+          "Avval sudlanganmi",
+          "Qanday jinoyat",
+          "Qamoqda bo'lganmi",
+          "Shartli ozod qilinganmi"
+        ]
+      },
+
+      "5_munosabat": {
+        "emoji": "💭",
+        "nom": "5. Jinoyatga munosabati",
+        "royxat": [
+          "Tan oldimi yoki inkор qildimi",
+          "Pushaymon bo'ldimi",
+          "Jabrlanuvchiga munosabati",
+          "Jazoga tayyormi"
+        ]
+      },
+
+      "6_jabrlanuvchi_munosabati": {
+        "emoji": "💔",
+        "nom": "6. Jabrlanuvchi bilan munosabat",
+        "royxat": [
+          "Oldingi munosabat qanday edi",
+          "Sababi nima edi",
+          "Jabrlanuvchi xulq-atvori",
+          "Kim birinchi boshlagan"
+        ]
+      }
+    },
+
+    "nima_uchun": {
+      "emoji": "❓",
+      "sabab": "Jazo tayinlashda e'tiborga olinadi",
+      "tushuntirish": "Aybdor shaxsi jazoni engillashtirishi yoki og'irlashtirishi mumkin (JK 57, 58)"
+    }
+  },
+
+  "6_jazo_tayinlash": {
+    "_izoh": "BO'LIM 6: JAZO TAYINLASHDA E'TIBORGA OLINADI",
+
+    "emoji": "⚖️",
+    "sarlavha": "Jazo tayinlashda e'tiborga olinadigan holatlar",
+
+    "barcha_holatlar": [
+      "🎯 Qasd turi (to'g'ri yoki egri)",
+      "💭 Qotillik sabablari",
+      "🎯 Maqsadi",
+      "🔧 Usuli",
+      "🌍 Jinoyat sodir etilgan vaziyat",
+      "⏱️ Jinoyat bosqichi (tugallangan yoki suiqasd)",
+      "👤 Aybdorning shaxsi",
+      "💭 O'z qilmishiga munosabati",
+      "✅ Jazoni yengillashtiruvchi holatlar (JK 57)",
+      "🔴 Jazoni og'irlashtiruvchi holatlar (JK 58)",
+      "💔 Jabrlanuvchining shaxsi",
+      "🤝 Aybdor va jabrlanuvchi munosabati",
+      "🎭 Jabrlanuvchining oldingi xulq-atvori"
+    ]
+  },
+
+  "7_muhim_xulosa": {
+    "_izoh": "BO'LIM 7: MUHIM XULOSA",
+
+    "emoji": "❗",
+    "asosiy": "Subyekt = 14 yosh + Aqli raso",
+    "ekspertiza": "🏥 Shubha bo'lsa → ekspertiza. JK 97-2 → STATSIONAR MAJBURIY.",
+    "yosh": "👶 14 yoshdan kichik → Javobgar emas",
+    "aql": "🧠 Aqli raso emas → Javobgar emas (JK 17)"
+  },
+
+  "tushuntirish": "Odam o'ldirish subyekti - 14 yoshga to'lgan va aqli raso jismoniy shaxs. Aqliy holatga shubha bo'lsa sud-psixiatriya ekspertizasi o'tkaziladi. JK 97-2 uchun statsionar ekspertiza MAJBURIY. 14 yoshdan kichik yoki aqli raso bo'lmasa → javobgar emas. Jazo tayinlashda aybdor shaxsi, jabrlanuvchi xulq-atvori, barcha holatlar e'tiborga olinadi.",
+
+  "misollar": {
+    "javobgar": {
+      "emoji": "✅",
+      "holat": "A - 16 yoshli o'spirinmir. Aqliy sog'lom. B ni o'ldirdi.",
+      "tahlil": "Yosh: 14+ ✅, Aqli raso: ha ✅",
+      "natija": "Javobgar bo'ladi → JK 97"
+    },
+    "yosh_yetmagan": {
+      "emoji": "❌",
+      "holat": "A - 13 yoshli bola. B ni o'ldirdi.",
+      "tahlil": "Yosh: 14 yo'q ❌",
+      "natija": "Javobgar emas → voyaga yetmaganlar komissiyasi (tarbiya)"
+    },
+    "aqli_kasal": {
+      "emoji": "❌",
+      "holat": "A - 20 yoshli, lekin og'ir aqliy kasallikka chalingan (shizofreniya). B ni o'ldirdi. Ekspertiza: aqli raso emas.",
+      "tahlil": "Yosh: 14+ ✅, Aqli raso: yo'q ❌",
+      "natija": "Javobgar emas → JK 17, majburiy tibbiy choralar"
+    }
+  },
+
+  "translations": {
+    "uz": "Subyekt: 14 yosh + Aqli raso. JK 97-2 → Statsionar ekspertiza MAJBURIY.",
+    "ru": "Субъект: 14 лет + Вменяемый. УК 97-2 → Стационарная экспертиза ОБЯЗАТЕЛЬНА.",
+    "en": "Subject: 14 years + Sane. CC 97-2 → Inpatient examination MANDATORY."
+  }
+}

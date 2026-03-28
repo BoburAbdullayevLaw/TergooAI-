@@ -1,0 +1,709 @@
+{
+  "id": "JK-097-SHARH-008",
+  "modda_raqam": "97",
+  "sharh_raqami": 8,
+  "tur": "jazo_tayinlash",
+
+  "_izoh": "BO'LIM 8: Jazo tayinlash - barcha holatlarni e'tiborga olish",
+
+  "emoji_sarlavha": "⚖️ Jazo tayinlash - to'liq baholash",
+
+  "asosiy_matn": "Qasddan odam o'ldirish uchun jazo tayinlashda ushbu jinoyat sodir etilishidagi barcha holatlar: qasd turi, qotillik sabablari, maqsadi, usuli, jinoyat sodir etilgan vaziyat va jinoyat bosqichi, shuningdek, aybdorning shaxsi, uning o'z qilmishiga munosabati, jazoni yengillashtiruvchi va og'irlashtiruvchi holatlar e'tiborga olinishi zarur. Ayni paytda jabrlanuvchining shaxsiga oid ma'lumotlar, uning sudlanuvchi bilan o'zaro munosabatlari, shuningdek, qotillik sodir etilmasdan oldingi xulq-atvori o'rganilishi lozim",
+
+  "sinonimlar": {
+    "jazo tayinlash": {
+      "variantlar": ["jazo tayinlash", "jazo belgilash", "hukm chiqarish", "jazo o'lchovi"],
+      "og'irlik": 95,
+      "rasmiy": true,
+      "emoji": "⚖️"
+    },
+    "yengillashtiruvchi": {
+      "variantlar": ["yengillashtiruvchi", "engillovchi", "yumshatuvchi", "yengil qiluvchi"],
+      "og'irlik": 90,
+      "rasmiy": true,
+      "emoji": "✅"
+    },
+    "ogirlashtiruvchi": {
+      "variantlar": ["og'irlashtiruvchi", "og'irlovchi", "qattiqlashtiruvchi", "og'ir qiluvchi"],
+      "og'irlik": 90,
+      "rasmiy": true,
+      "emoji": "🔴"
+    }
+  },
+
+  "kontekstli_javoblar": {
+    "_izoh": "Har xil foydalanuvchilar uchun javob uslublari",
+
+    "tergovchi": {
+      "uslub": "juda_rasmiy",
+      "emoji": "👮",
+      "qo'shimcha": [
+        "👮 Tergov xulosasida:",
+        "📋 Barcha holatlarni yozing",
+        "✅ Yengillashtiruvchi holatlarni ko'rsating",
+        "🔴 Og'irlashtiruvchi holatlarni aniqlang"
+      ],
+      "fokus": "to'liq_malumot",
+      "qo'shimcha_malumot": [
+        "1️⃣ JINOYAT: Qasd turi, sabab, maqsad, usul, vaziyat",
+        "2️⃣ AYBDOR: Shaxsi, munosabati, xulq-atvori",
+        "3️⃣ JABRLANUVCHI: Shaxsi, xulq-atvori, provokatsiya",
+        "4️⃣ HOLATLAR: Yengillashtiruvchi (JK 57), Og'irlashtiruvchi (JK 58)",
+        "⚠️ Hammasi tergov xulosasida bo'lishi kerak - sud shunga qaraydi"
+      ]
+    },
+
+    "advokat": {
+      "uslub": "juda_rasmiy",
+      "emoji": "👔",
+      "qo'shimcha": [
+        "⚖️ Himoya nutqida:",
+        "✅ Yengillashtiruvchi holatlarni ta'kidlang",
+        "❌ Og'irlashtiruvchi holatlar yo'qligini dalillang",
+        "💔 Jabrlanuvchi provokatsiyasini ko'rsating"
+      ],
+      "fokus": "engillashtirish",
+      "qo'shimcha_malumot": [
+        "✅ Yengillashtiruvchi: Pushaymon, birinchi marta, oila bor",
+        "💔 Provokatsiya: Jabrlanuvchi birinchi boshlagan",
+        "❌ Og'irlashtiruvchi yo'q: Ichkilik emas, takroran emas",
+        "🎯 Maqsad: Minimal jazo (JK 97-1 uchun 10 yil)"
+      ]
+    },
+
+    "sudya": {
+      "_izoh": "Sudya uchun - jazo tayinlash metodikasi",
+      "uslub": "juda_rasmiy",
+      "emoji": "⚖️",
+      "qo'shimcha": [
+        "⚖️ Sud qarori chiqarishda:",
+        "📊 BARCHA holatlarni baholang",
+        "⚖️ Yengillashtiruvchi va og'irlashtiruvchi balans",
+        "📝 Har bir holatni qarorga yozing"
+      ],
+      "fokus": "balans_va_adolat",
+      "qo'shimcha_malumot": [
+        "📋 BARCHA HOLATLAR ro'yxati (JK 56):",
+        "1️⃣ Jinoyat xarakteri va xavflilik darajasi",
+        "2️⃣ Aybdorning shaxsi",
+        "3️⃣ Jazoni yengillashtiruvchi holatlar (JK 57)",
+        "4️⃣ Jazoni og'irlashtiruvchi holatlar (JK 58)",
+        "5️⃣ Jazo oilaga ta'siri",
+        "❗ MUHIM: Hamma holatni e'tiborga olish SHART (JK 56)",
+        "⚖️ BALANS: Yengillashtiruvchi vs Og'irlashtiruvchi",
+        "📝 MOTIVATSIYA: Har bir holatni qarorga yozish",
+        "❓ SHUBHA: Agar noaniq → aybdor foydasiga",
+        "⛓️ CHEGARALAR: Minimal va maksimal o'rtasida"
+      ]
+    },
+
+    "talaba": {
+      "uslub": "o'rtacha",
+      "emoji": "📚",
+      "qo'shimcha": [
+        "📚 Eslab qoling:",
+        "⚖️ Jazo = Barcha holatlar majmui",
+        "✅ JK 57 - Yengillashtiruvchi",
+        "🔴 JK 58 - Og'irlashtiruvchi"
+      ],
+      "fokus": "asosiy_moddalar",
+      "qo'shimcha_malumot": [
+        "📝 ASOSIY MODDALAR:",
+        "⚖️ JK 56 - Jazo tayinlash umumiy printsiplari",
+        "✅ JK 57 - Yengillashtiruvchi holatlar",
+        "🔴 JK 58 - Og'irlashtiruvchi holatlar",
+        "📊 FORMULA: Jazo = Jinoyat + Shaxs + JK 57 - JK 58"
+      ]
+    },
+
+    "oddiy_fuqaro": {
+      "uslub": "norasmiy",
+      "emoji": "👨",
+      "qo'shimcha": [
+        "💬 Oddiy qilib:",
+        "⚖️ Sud hamma narsani ko'radi",
+        "✅ Yaxshi narsa bor → jazo kamroq",
+        "🔴 Yomon narsa bor → jazo ko'proq"
+      ],
+      "fokus": "sodda",
+      "qo'shimcha_malumot": [
+        "✅ YAXSHI: Pushaymon, birinchi marta, yaxshi odam → jazo kam",
+        "🔴 YOMON: Shafqatsiz, takroran, ichkilik → jazo ko'p",
+        "⚖️ Sud ikkalasini ham qaraydi va o'rtasini topadi"
+      ]
+    }
+  },
+
+  "savol_turlari": {
+    "_izoh": "Qanday savollarga qanday javob beriladi",
+
+    "umumiy": {
+      "trigger_sozlar": ["jazo", "qancha", "necha yil", "hukm"],
+      "javob": "jazo_olchovi",
+      "emoji": "⚖️"
+    },
+    "yengillashtiruvchi": {
+      "trigger_sozlar": ["yengillashtiruvchi", "yengil", "kamaytirish", "jk 57"],
+      "javob": "yengillashtiruvchi_holatlar",
+      "emoji": "✅"
+    },
+    "ogirlashtiruvchi": {
+      "trigger_sozlar": ["og'irlashtiruvchi", "og'ir", "oshirish", "jk 58"],
+      "javob": "ogirlashtiruvchi_holatlar",
+      "emoji": "🔴"
+    }
+  },
+
+  "javob_uzunligi": {
+    "_izoh": "Javob qanchalik batafsil bo'lishi kerak",
+
+    "qisqa": {
+      "shablon": "⚖️ Jazo = Jinoyat + Shaxs + Yengillashtiruvchi - Og'irlashtiruvchi"
+    },
+    "o'rtacha": {
+      "shablon": "Jazo tayinlashda barcha holatlar e'tiborga olinadi: jinoyat (qasd, sabab, usul), aybdor shaxsi, jabrlanuvchi xulqi, ✅ yengillashtiruvchi (JK 57), 🔴 og'irlashtiruvchi (JK 58)."
+    },
+    "batafsil": {
+      "shablon": "⚖️ Jazo tayinlash: BARCHA holatlar majmuini baholash (JK 56). E'tiborga olinadi: 1) Jinoyat xarakteri (qasd turi, sabab, maqsad, usul, vaziyat, bosqich), 2) Aybdor shaxsi (yoshi, xulqi, munosabati), 3) Jabrlanuvchi (shaxsi, xulqi, provokatsiya), 4) ✅ Yengillashtiruvchi holatlar (JK 57), 5) 🔴 Og'irlashtiruvchi holatlar (JK 58). Sud barchasini balanslashtiradi va adolatli jazo belgilaydi."
+    }
+  },
+
+  "1_umumiy_prinsiplar": {
+    "_izoh": "BO'LIM 1: JAZO TAYINLASH UMUMIY PRINTSIPLARI",
+
+    "emoji": "⚖️",
+    "sarlavha": "Jazo tayinlash umumiy printsiplari (JK 56)",
+    "asosiy_modda": "JK 56 - Jazo tayinlashning umumiy asoslari",
+
+    "printsiplar": {
+      "1_qonuniylik": {
+        "emoji": "📜",
+        "nom": "1. Qonuniylik",
+        "ta'rif": "Jazo faqat JK belgilagan chegaralarda",
+        "tushuntirish": "Sud o'zi ixtiyoriy jazo qo'ya olmaydi",
+        "misol": "JK 97-1: 10-15 yil → Sud 8 yoki 20 yil qo'ya olmaydi"
+      },
+
+      "2_individuallik": {
+        "emoji": "👤",
+        "nom": "2. Individuallik",
+        "ta'rif": "Har bir ish alohida, individual",
+        "tushuntirish": "Bir xil jinoyat, lekin har xil shaxs → har xil jazo",
+        "misol": "Ikki odam bir xil jinoyat qilsa ham, jazo turlicha bo'lishi mumkin"
+      },
+
+      "3_adolatlilik": {
+        "emoji": "⚖️",
+        "nom": "3. Adolatlilik",
+        "ta'rif": "Jazo adolatli bo'lishi kerak",
+        "tushuntirish": "Juda og'ir ham, juda yengil ham emas",
+        "misol": "Og'ir jinoyat → og'ir jazo, yengil jinoyat → yengil jazo"
+      },
+
+      "4_gumanizm": {
+        "emoji": "❤️",
+        "nom": "4. Gumanizm",
+        "ta'rif": "Inson qadr-qimmatini hurmat qilish",
+        "tushuntirish": "Jazo - qasos emas, tuzatish",
+        "misol": "Zarur bo'lgandagina og'ir jazo"
+      }
+    }
+  },
+
+  "2_etiborga_olinadigan_holatlar": {
+    "_izoh": "BO'LIM 2: E'TIBORGA OLINADIGAN BARCHA HOLATLAR",
+
+    "emoji": "📊",
+    "sarlavha": "Jazo tayinlashda e'tiborga olinadigan holatlar",
+    "umumiy": "JK 56: Sud BARCHA holatlarni e'tiborga olishi SHART",
+
+    "1_jinoyat_xarakteri": {
+      "emoji": "🎯",
+      "nom": "1. JINOYAT XARAKTERI",
+
+      "a_qasd_turi": {
+        "emoji": "🎯",
+        "nom": "a) Qasd turi",
+        "togri_qasd": "🎯 To'g'ri qasd → og'irroq",
+        "egri_qasd": "🔄 Egri qasd → yengilroq",
+        "misol": "To'g'ri qasdda maqsad o'ldirish edi → og'irroq jazo"
+      },
+
+      "b_sabab": {
+        "emoji": "💭",
+        "nom": "b) Qotillik sabablari",
+        "yomon": "😤 O'ch, bezorilik, tamagirlik → og'ir",
+        "yaxshi": "😊 Provokatsiya, kuchli hayajon → yengil",
+        "misol": "Jabrlanuvchi provokatsiya qilgan → yengilroq jazo"
+      },
+
+      "c_maqsad": {
+        "emoji": "🎯",
+        "nom": "v) Maqsadi",
+        "yomon": "💰 Pul uchun, yashirish uchun → og'ir",
+        "yaxshi": "💔 Hissiy, ixtiyorsiz → yengil",
+        "misol": "Tamagirlik maqsadida → og'irroq jazo"
+      },
+
+      "d_usul": {
+        "emoji": "🔧",
+        "nom": "g) Usuli",
+        "yomon": "😈 Shafqatsiz, umumxavfli → og'ir",
+        "oddiy": "👊 Oddiy usul → yengil",
+        "misol": "O'ta shafqatsiz usul → og'irroq jazo"
+      },
+
+      "e_vaziyat": {
+        "emoji": "🌍",
+        "nom": "d) Jinoyat vaziyati",
+        "rejali": "📋 Oldindan rejalashtirilgan → og'ir",
+        "tasodifiy": "🤷 Kutilmagan holat → yengil",
+        "misol": "Oldindan rejalashtirgan → og'irroq jazo"
+      },
+
+      "f_bosqich": {
+        "emoji": "⏱️",
+        "nom": "e) Jinoyat bosqichi",
+        "tugallangan": "✅ Tugallangan → to'liq jazo",
+        "suiqasd": "⚠️ Suiqasd → kamroq (JK 25: ×3/4)",
+        "misol": "Suiqasd qilgan (o'lmagan) → yengilroq jazo"
+      }
+    },
+
+    "2_aybdor_shaxsi": {
+      "emoji": "👤",
+      "nom": "2. AYBDOR SHAXSI",
+
+      "a_yosh": {
+        "emoji": "👶",
+        "nom": "a) Yoshi",
+        "yosh": "14-18 yosh → voyaga yetmagan (yengil)",
+        "katta": "18+ → katta (oddiy)",
+        "keksa": "60+ → keksa (yengil)",
+        "misol": "16 yoshli o'smir → yengilroq jazo (JK 82)"
+      },
+
+      "b_xulq_atvor": {
+        "emoji": "🎭",
+        "nom": "b) Xulq-atvori",
+        "yaxshi": "😊 Yaxshi, mehnatsevar → yengil",
+        "yomon": "😤 Yomon, parazit → og'ir",
+        "misol": "Yaxshi mehnatsevar odam bo'lgan → yengilroq"
+      },
+
+      "c_oila": {
+        "emoji": "👨‍👩‍👧‍👦",
+        "nom": "v) Oilasi",
+        "bor": "✅ Oila bor, bolalar bor → yengil",
+        "yoq": "❌ Yolg'iz, oila yo'q → oddiy",
+        "misol": "3 ta bolasi bor → yengilroq jazo"
+      },
+
+      "d_sogliq": {
+        "emoji": "🏥",
+        "nom": "g) Sog'lig'i",
+        "kasal": "🤒 Og'ir kasal → yengil",
+        "soglom": "💪 Sog'lom → oddiy",
+        "misol": "Og'ir kasal (saraton) → yengilroq"
+      },
+
+      "e_munosabat": {
+        "emoji": "💭",
+        "nom": "d) O'z qilmishiga munosabati",
+        "pushaymon": "😔 Pushaymon, tan oldi → yengil",
+        "pushaymon_emas": "😤 Pushaymon emas, inkor → og'ir",
+        "misol": "Pushaymon bo'ldi, tan oldi → yengilroq"
+      }
+    },
+
+    "3_jabrlanuvchi": {
+      "emoji": "💔",
+      "nom": "3. JABRLANUVCHI",
+
+      "a_shaxsi": {
+        "emoji": "👤",
+        "nom": "a) Jabrlanuvchining shaxsi",
+        "yaxshi": "😊 Yaxshi odam, xizmatchan → og'ir jazo",
+        "yomon": "😤 Yomon odam, jinoyatchi → yengil jazo",
+        "misol": "Jabrlanuvchi politsiyachi edi → og'irroq"
+      },
+
+      "b_munosabat": {
+        "emoji": "🤝",
+        "nom": "b) Aybdor bilan munosabat",
+        "dushman": "😤 Dushman edilar → tushunarliroq",
+        "yaqin": "😊 Yaqin edilar → tushunarsizroq",
+        "misol": "Do'st edilar, sababsiz o'ldirdi → og'irroq"
+      },
+
+      "c_xulq_atvor": {
+        "emoji": "🎭",
+        "nom": "v) Qotillikdan oldingi xulq-atvori",
+        "provokatsiya": "😤 Provokatsiya qilgan → yengil jazo",
+        "provokatsiya_yoq": "😊 Hech narsa qilmagan → og'ir jazo",
+        "misol": "Jabrlanuvchi haqorat qildi → yengilroq (provokatsiya)",
+        "muhim": "❗ Provokatsiya - yengillashtiruvchi holat (JK 57)"
+      }
+    }
+  },
+
+  "3_yengillashtiruvchi_holatlar": {
+    "_izoh": "BO'LIM 3: YENGILLASHTIRUVCHI HOLATLAR (JK 57)",
+
+    "emoji": "✅",
+    "sarlavha": "Jazoni yengillashtiruvchi holatlar (JK 57)",
+    "modda": "JK 57 - ro'yxat bor, lekin cheklanmagan",
+    "muhim": "❗ Ro'yxat TO'LIQ EMAS - sud boshqa holatni ham e'tiborga olishi mumkin",
+
+    "royxat": {
+      "a_birinchi_marta": {
+        "emoji": "1️⃣",
+        "kod": "JK 57-1(a)",
+        "nom": "Birinchi marta yengil yoki o'rtacha og'irlikdagi jinoyat",
+        "tushuntirish": "Avval sudlanmagan, birinchi marta",
+        "misol": "Avval hech qanday jinoyat qilmagan",
+        "eslatma": "⚠️ Og'ir jinoyat (odam o'ldirish) uchun bu holat kam qo'llanadi"
+      },
+
+      "b_voyaga_yetmagan": {
+        "emoji": "👶",
+        "kod": "JK 57-1(b)",
+        "nom": "Voyaga yetmagan tomonidan",
+        "tushuntirish": "18 yoshdan kichik",
+        "misol": "16 yoshli o'smir",
+        "qoshimcha": "Voyaga yetmaganlar uchun maxsus jazo (JK 82)"
+      },
+
+      "v_homilador_ona": {
+        "emoji": "🤰",
+        "kod": "JK 57-1(v)",
+        "nom": "Homilador ayol tomonidan",
+        "tushuntirish": "Homiladorlik paytida jinoyat qilgan",
+        "misol": "5 oy homilador edi"
+      },
+
+      "g_kichik_bolali": {
+        "emoji": "👶",
+        "kod": "JK 57-1(g)",
+        "nom": "Kichik yoshdagi bolalari bor ota-ona",
+        "tushuntirish": "14 yoshdan kichik bolalar bor",
+        "misol": "3 yoshli bolasi bor"
+      },
+
+      "d_og'ir_vaziyat": {
+        "emoji": "⚠️",
+        "kod": "JK 57-1(d)",
+        "nom": "Og'ir shaxsiy yoki oilaviy vaziyat",
+        "tushuntirish": "Og'ir holat, majburiyat",
+        "misollar": [
+          "Oila a'zosi og'ir kasal",
+          "Iqtisodiy og'ir holat",
+          "Boshqa og'ir vaziyat"
+        ]
+      },
+
+      "ye_fizik_majburlash": {
+        "emoji": "💪",
+        "kod": "JK 57-1(ye)",
+        "nom": "Jismoniy majburlash",
+        "tushuntirish": "Majbur qilishdi, qarshilik ko'rsata olmadi",
+        "misol": "Urdi, majbur qildi"
+      },
+
+      "j_psixik_majburlash": {
+        "emoji": "😰",
+        "kod": "JK 57-1(j)",
+        "nom": "Ruhiy majburlash, itoatsizlik",
+        "tushuntirish": "Qo'rqitdi, tahdid qildi",
+        "misol": "Oilasini o'ldirish bilan tahdid qildi"
+      },
+
+      "z_provokatsiya": {
+        "emoji": "😤",
+        "kod": "JK 57-1(z)",
+        "nom": "Jabrlanuvchi provokatsiyasi",
+        "tushuntirish": "Jabrlanuvchi o'zi sabab bo'ldi",
+        "misollar": [
+          "Haqorat qildi",
+          "Zo'ravonlik qildi",
+          "Noqonuniy xatti-harakatlar"
+        ],
+        "muhim": "❗ Bu ENG KO'P uchraydigan holat odam o'ldirishda"
+      },
+
+      "i_qonuniy_himoya": {
+        "emoji": "🛡️",
+        "kod": "JK 57-1(i)",
+        "nom": "Qonuniy himoyadan chiqib ketish",
+        "tushuntirish": "Zaruriy mudofaa chegarasidan oshib ketdi (JK 37, 39)",
+        "misol": "Hujumchidan himoyalanayotganda haddan oshdi"
+      },
+
+      "k_majburiyat": {
+        "emoji": "⚠️",
+        "kod": "JK 57-1(k)",
+        "nom": "Majburiy holat",
+        "tushuntirish": "Oxirgi zarurat (JK 38)",
+        "misol": "Boshqa yo'l yo'q edi"
+      },
+
+      "l_tan_olish": {
+        "emoji": "💬",
+        "kod": "JK 57-1(l)",
+        "nom": "Ixtiyoriy tan olish, hamkorlik",
+        "tushuntirish": "O'zi tan oldi, tergov bilan hamkorlik qildi",
+        "misollar": [
+          "Darhol tan oldi",
+          "Dalillar ko'rsatdi",
+          "Jinoyatni ochishga yordam berdi"
+        ]
+      },
+
+      "m_tibbiy_yordam": {
+        "emoji": "🏥",
+        "kod": "JK 57-1(m)",
+        "nom": "Jabrlanuvchiga tibbiy yordam",
+        "tushuntirish": "Jinoyatdan keyin yordam berdi",
+        "misollar": [
+          "Tez yordam chaqirdi",
+          "Kasalxonaga olib bordi",
+          "Yordam ko'rsatdi"
+        ]
+      },
+
+      "n_zararni_qoplash": {
+        "emoji": "💰",
+        "kod": "JK 57-1(n)",
+        "nom": "Zararni ixtiyoriy qoplash",
+        "tushuntirish": "Moddiy va ma'naviy zararni qopladi",
+        "misol": "Oilaga pul berdi, uzr so'radi"
+      },
+
+      "o_pushaymonlik": {
+        "emoji": "😔",
+        "kod": "JK 57-1(o)",
+        "nom": "Pushaymonlik",
+        "tushuntirish": "Chin dildan pushaymon",
+        "misollar": [
+          "Sudda pushaymon bo'ldi",
+          "Yig'ladi",
+          "Kechirim so'radi"
+        ]
+      },
+
+      "p_boshqalar": {
+        "emoji": "📋",
+        "kod": "JK 57-2",
+        "nom": "Boshqa holatlar",
+        "tushuntirish": "Ro'yxatda yo'q, lekin yengillash tuvchi bo'lgan har qanday holat",
+        "muhim": "❗ Ro'yxat OCHIQ - sud boshqa holatni ham e'tiborga oladi"
+      }
+    }
+  },
+
+  "4_ogirlashtiruvchi_holatlar": {
+    "_izoh": "BO'LIM 4: OG'IRLASHTIRUVCHI HOLATLAR (JK 58)",
+
+    "emoji": "🔴",
+    "sarlavha": "Jazoni og'irlashtiruvchi holatlar (JK 58)",
+    "modda": "JK 58 - ro'yxat YOPIQ (faqat shu ro'yxatdagilar)",
+    "muhim": "❗ Ro'yxat TO'LIQ - boshqa holat og'irlashtiruvchi bo'lishi mumkin emas",
+
+    "royxat": {
+      "a_takroran": {
+        "emoji": "🔁",
+        "kod": "JK 58-1(a)",
+        "nom": "Takroran jinoyat sodir etish",
+        "tushuntirish": "Ikkinchi marta yoki undan ko'p",
+        "misol": "Avval ham odam o'ldirgan, yana o'ldirdi"
+      },
+
+      "b_og'ir_oqibat": {
+        "emoji": "💔",
+        "kod": "JK 58-1(b)",
+        "nom": "Og'ir oqibatlar",
+        "tushuntirish": "Juda katta zarar",
+        "misol": "Ko'p odamga zarar"
+      },
+
+      "v_guruh": {
+        "emoji": "👥",
+        "kod": "JK 58-1(v)",
+        "nom": "Guruh tomonidan",
+        "tushuntirish": "Bir necha kishi birgalikda",
+        "misol": "3 kishi birgalikda o'ldirdi"
+      },
+
+      "g_milliy_irqiy": {
+        "emoji": "⚔️",
+        "kod": "JK 58-1(g)",
+        "nom": "Milliy, irqiy, mahalliy, diniy nafrat",
+        "tushuntirish": "Millati yoki dini uchun",
+        "misol": "O'zbekligini yomon ko'radi, shuning uchun o'ldirdi"
+      },
+
+      "d_qasos": {
+        "emoji": "😤",
+        "kod": "JK 58-1(d)",
+        "nom": "Qasos olish",
+        "tushuntirish": "O'ch olish, qasos",
+        "misol": "Oldin janjal bo'lgan, endi o'ch oldi"
+      },
+
+      "ye_ojiz": {
+        "emoji": "😵",
+        "kod": "JK 58-1(ye)",
+        "nom": "Ojiz holatdagini bilgan holda",
+        "tushuntirish": "Himoyasiz, qarshilik ko'rsata olmaydigan",
+        "misol": "Keksa, harakatsiz odam edi"
+      },
+
+      "j_shafqatsiz": {
+        "emoji": "😈",
+        "kod": "JK 58-1(j)",
+        "nom": "O'ta shafqatsizlik",
+        "tushuntirish": "Juda yomon, shafqatsiz usul",
+        "misol": "Azob berdi, qiynadi"
+      },
+
+      "z_umumxavfli": {
+        "emoji": "💥",
+        "kod": "JK 58-1(z)",
+        "nom": "Umumxavfli usul",
+        "tushuntirish": "Ko'p odamga xavf",
+        "misol": "Portlatish, yong'in"
+      },
+
+      "i_ichkilik_giyohvandlik": {
+        "emoji": "🍺",
+        "kod": "JK 58-1(i)",
+        "nom": "Ichkilik, giyohvandlik holatida",
+        "tushuntirish": "Mast holda yoki giyohvand moddalar ta'sirida",
+        "misol": "Ichib olgan holda o'ldirdi",
+        "eslatma": "⚠️ Bu holat shartli - har doim og'irlashtiruvchi bo'lavermaydi"
+      }
+    }
+  },
+
+  "5_jazo_olchovi": {
+    "_izoh": "BO'LIM 5: JAZO O'LCHOVI",
+
+    "emoji": "⚖️",
+    "sarlavha": "Jazo o'lchovi - qancha yil?",
+
+    "jk_97_1": {
+      "emoji": "⚠️",
+      "modda": "JK 97-1 qism",
+      "nom": "Oddiy odam o'ldirish",
+      "jazo": "⛓️ 10 yildan 15 yilgacha ozodlikdan mahrum qilish",
+      "minimal": "10 yil",
+      "maksimal": "15 yil",
+      "ortacha": "12-13 yil"
+    },
+
+    "jk_97_2": {
+      "emoji": "🔴",
+      "modda": "JK 97-2 qism",
+      "nom": "Og'irlashtirilgan odam o'ldirish",
+      "jazo": "⛓️ 15 yildan 25 yilgacha yoki umrbod ozodlikdan mahrum qilish",
+      "minimal": "15 yil",
+      "maksimal": "25 yil yoki umrbod",
+      "ortacha": "18-20 yil"
+    },
+
+    "qanday_aniqlanadi": {
+      "emoji": "📊",
+      "formula": "Boshlang'ich jazo + Yengillashtiruvchi - Og'irlashtiruvchi = Oxirgi jazo",
+
+      "1_qism": "1. Oddiy holat uchun o'rtacha (JK 97-1: 12-13 yil)",
+      "2_yengillashtiruvchi": "2. Yengillashtiruvchi bor → kamayadi (1-3 yil)",
+      "3_ogirlashtiruvchi": "3. Og'irlashtiruvchi bor → oshadi (2-5 yil)",
+      "4_balans": "4. Balans: ko'p yengillashtiruvchi → minimal, ko'p og'irlashtiruvchi → maksimal"
+    }
+  },
+
+  "6_amaliy_misollar": {
+    "_izoh": "BO'LIM 6: AMALIY MISOLLAR",
+
+    "emoji": "📚",
+    "sarlavha": "Jazo tayinlash amaliy misollari",
+
+    "misol_1_minimal": {
+      "emoji": "✅",
+      "holat": "A (17 yosh) birinchi marta jinoyat qildi. Jabrlanuvchi provokatsiya qilgan (haqorat). A pushaymon, tan oldi, tez yordam chaqirdi. Oilasi bor (2 ta bola).",
+
+      "tahlil": {
+        "jinoyat": "JK 97-1 (oddiy) - 10-15 yil",
+        "yengillashtiruvchi": [
+          "✅ Voyaga yetmagan (17 yosh)",
+          "✅ Birinchi marta",
+          "✅ Provokatsiya",
+          "✅ Pushaymon",
+          "✅ Tan oldi",
+          "✅ Yordam berdi",
+          "✅ Bolalar bor"
+        ],
+        "ogirlashtiruvchi": "❌ Yo'q"
+      },
+
+      "jazo": "⛓️ 10 yil (MINIMAL)",
+      "tushuntirish": "Ko'p yengillashtiruvchi, og'irlashtiruvchi yo'q → minimal jazo"
+    },
+
+    "misol_2_ortacha": {
+      "emoji": "⚖️",
+      "holat": "A (25 yosh) o'ch olish uchun B ni o'ldirdi. Pushaymon, tan oldi. Avval sudlanmagan. Oilasi yo'q.",
+
+      "tahlil": {
+        "jinoyat": "JK 97-1 (oddiy) - 10-15 yil",
+        "yengillashtiruvchi": [
+          "✅ Birinchi marta",
+          "✅ Pushaymon",
+          "✅ Tan oldi"
+        ],
+        "ogirlashtiruvchi": [
+          "🔴 Qasos (o'ch olish)"
+        ]
+      },
+
+      "jazo": "⛓️ 12-13 yil (O'RTACHA)",
+      "tushuntirish": "Yengillashtiruvchi bor, lekin og'irlashtiruvchi ham bor → o'rtacha"
+    },
+
+    "misol_3_maksimal": {
+      "emoji": "🔴",
+      "holat": "A (30 yosh) o'ta shafqatsiz usulda, ichkilik holatida, takroran (avval ham o'ldirgan) o'ldirdi. Pushaymon emas, inkor qilmoqda.",
+
+      "tahlil": {
+        "jinoyat": "JK 97-1 (oddiy) - 10-15 yil",
+        "yengillashtiruvchi": "❌ Yo'q",
+        "ogirlashtiruvchi": [
+          "🔴 Takroran",
+          "🔴 O'ta shafqatsiz",
+          "🔴 Ichkilik holatida",
+          "🔴 Pushaymon emas"
+        ]
+      },
+
+      "jazo": "⛓️ 15 yil (MAKSIMAL)",
+      "tushuntirish": "Ko'p og'irlashtiruvchi, yengillashtiruvchi yo'q → maksimal"
+    }
+  },
+
+  "7_muhim_xulosa": {
+    "_izoh": "BO'LIM 7: MUHIM XULOSA",
+
+    "emoji": "❗",
+    "asosiy": "Jazo = Barcha holatlar majmui",
+    "formula": "📊 Jinoyat + Shaxs + JK 57 - JK 58",
+    "balans": "⚖️ Ko'p yengillashtiruvchi → minimal, Ko'p og'irlashtiruvchi → maksimal"
+  },
+
+  "tushuntirish": "Jazo tayinlashda BARCHA holatlar e'tiborga olinadi: jinoyat xarakteri (qasd, sabab, usul), aybdor shaxsi, jabrlanuvchi xulqi, yengillashtiruvchi (JK 57), og'irlashtiruvchi (JK 58). Sud barchasini balanslashtiradi: ko'p yengillashtiruvchi → minimal jazo, ko'p og'irlashtiruvchi → maksimal jazo. JK 97-1: 10-15 yil, JK 97-2: 15-25 yil yoki umrbod.",
+
+  "translations": {
+    "uz": "Jazo = Jinoyat + Shaxs + JK 57 - JK 58. Ko'p yengillashtiruvchi → kam, ko'p og'irlashtiruvchi → ko'p.",
+    "ru": "Наказание = Преступление + Личность + УК 57 - УК 58. Много смягчающих → мало, много отягчающих → много.",
+    "en": "Punishment = Crime + Person + CC 57 - CC 58. Many mitigating → less, many aggravating → more."
+  }
+}

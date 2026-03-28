@@ -1,0 +1,601 @@
+{
+  "id": "JK-097-SHARH-025",
+  "modda_raqam": "97",
+  "sharh_raqami": 25,
+  "tur": "tamagirlik",
+
+  "_izoh": "BO'LIM 25: JK 97-2(i) - Tamagirlik niyatida o'ldirish",
+
+  "emoji_sarlavha": "💰 Tamagirlik (mol-mulk, pul)",
+
+  "asosiy_matn": "JK 97-2(i): Tamagirlik niyatida o'ldirish. 2 TUR: 1️⃣ NAF OLISH (pul, mulk, huquqlar). 2️⃣ XARAJATDAN QUTULISH (qarz, aliment, majburiyat). Jabrlanuvchi: egasi, saqlovchi, merosxo'r. Manfaat: o'zi yoki boshqalar. VAQT MUHIM: tamagirlik OLDIN yoki PAYTIDA (keyin emas). Keyin mulk olsa → JK 97 + JK 169 (o'g'irlik, majmui). YOLLANMA qotil (haq uchun) → (i) ✅. BOSQINCHILIK bilan → JK 97-2(i) + JK 164 (majmui). TOVLAMACHILIK bilan → JK 97-2(i) + JK 165 (majmui).",
+
+  "sinonimlar": {
+    "tamagirlik": {
+      "variantlar": ["tamagirlik", "ochko'zlik", "mol-mulk istagich", "boylik istagich", "materialistik"],
+      "og'irlik": 95,
+      "rasmiy": true,
+      "emoji": "💰"
+    },
+    "moddiy_naf": {
+      "variantlar": ["moddiy naf", "moddiy manfaat", "mol-mulk", "boylik", "foyda"],
+      "og'irlik": 90,
+      "rasmiy": true,
+      "emoji": "💵"
+    }
+  },
+
+  "kontekstli_javoblar": {
+    "tergovchi": {
+      "uslub": "juda_rasmiy",
+      "emoji": "👮",
+      "qo'shimcha": [
+        "👮 Tergov yuritishda:",
+        "💰 TAMAGIRLIK niyatini isbotlash",
+        "⏰ VAQT: oldin/paytida (keyin emas)",
+        "📊 MAJMUI: bosqinchilik, tovlamachilik?"
+      ],
+      "qo'shimcha_malumot": [
+        "❗ ISBOTLASH KERAK:",
+        "1️⃣ TAMAGIRLIK niyati bor edi mi?",
+        "   💵 Naf olish?",
+        "   🚫 Xarajatdan qutulish?",
+        "2️⃣ VAQT?",
+        "   ✅ Oldin yoki paytida?",
+        "   ❌ Keyin emas!",
+        "3️⃣ BOSHQA JINOYAT?",
+        "   - Bosqinchilik (JK 164)?",
+        "   - Tovlamachilik (JK 165)?",
+        "",
+        "💰 TAMAGIRLIK TURLARI:",
+        "💵 NAF OLISH:",
+        "- Pul, mol-mulk",
+        "- Mulkiy huquqlar",
+        "- Uy-joy, yer",
+        "- Meros",
+        "",
+        "🚫 XARAJATDAN QUTULISH:",
+        "- Qarz",
+        "- Aliment",
+        "- Majburiyatlar",
+        "- Haq to'lash",
+        "",
+        "⏰ VAQT MUHIM:",
+        "✅ OLDIN: o'ldirib, mulk olish",
+        "✅ PAYTIDA: o'ldirish jarayonida",
+        "❌ KEYIN: o'ldirib, keyin o'yladi",
+        "→ Keyin → JK 97 + JK 169 (majmui)",
+        "",
+        "📊 MAJMUI:",
+        "- Bosqinchilik → JK 164 + 97-2(i)",
+        "- Tovlamachilik → JK 165 + 97-2(i)"
+      ]
+    },
+
+    "advokat": {
+      "uslub": "juda_rasmiy",
+      "emoji": "👔",
+      "qo'shimcha": [
+        "⚖️ Himoya strategiyasi:",
+        "❌ Tamagirlik niyati YO'Q edi",
+        "⏰ Mulk KEYIN olgan (oldin emas)",
+        "📉 JK 97-2(i) dan JK 97-1 ga"
+      ],
+      "qo'shimcha_malumot": [
+        "🎯 MAQSAD: (i) belgini olib tashlash",
+        "❌ TAMAGIRLIK YO'Q:",
+        "- Boshqa sabab (o'ch, rashk)",
+        "- Mulk maqsadi yo'q",
+        "- Keyin mulk topdi (oldin o'ylamagan)",
+        "",
+        "⏰ KEYIN:",
+        "- O'ldirdi (boshqa sabab)",
+        "- Keyin mulk ko'rdi, oldi",
+        "→ JK 97-1 + JK 169 (majmui)",
+        "",
+        "📉 97-2(i) → 97-1:",
+        "15-25 yil → 8-15 yil"
+      ]
+    },
+
+    "sudya": {
+      "uslub": "juda_rasmiy",
+      "emoji": "⚖️",
+      "qo'shimcha": [
+        "⚖️ Sud qarori chiqarishda:",
+        "💰 Tamagirlik niyati ANIQ isbotlangan mi?",
+        "⏰ VAQT: oldin/paytida mi?",
+        "📊 MAJMUI kerakmi? (bosqinchilik, tovlamachilik)"
+      ],
+      "qo'shimcha_malumot": [
+        "❗ TEKSHIRISH:",
+        "1️⃣ TAMAGIRLIK niyati ANIQ mi?",
+        "   💵 Moddiy naf?",
+        "   🚫 Xarajatdan qutulish?",
+        "   ✅ Aniq dalil?",
+        "",
+        "2️⃣ VAQT TO'G'RI mi?",
+        "   ✅ OLDIN: mulk uchun o'ldirdi",
+        "   ✅ PAYTIDA: o'ldirish jarayonida",
+        "   ❌ KEYIN: o'ldirib, keyin o'yladi",
+        "   → Keyin → JK 97 + 169",
+        "",
+        "3️⃣ JABRLANUVCHI?",
+        "   - Egasi?",
+        "   - Saqlovchi?",
+        "   - Merosxo'r?",
+        "   - Farqi yo'q!",
+        "",
+        "4️⃣ BOSHQA JINOYAT?",
+        "   📋 BOSQINCHILIK (JK 164):",
+        "   - Hujum",
+        "   - Mulkka egalik",
+        "   - Paytida yoki darhol keyin",
+        "   → JK 164 + 97-2(i) (MAJMUI)",
+        "",
+        "   🏚️ TOVLAMACHILIK (JK 165):",
+        "   - Mulkni buzish, yoqish",
+        "   - Mol-mulk zarar",
+        "   → JK 165 + 97-2(i) (MAJMUI)",
+        "",
+        "📝 QARORGA YOZISH:",
+        "- Tamagirlik niyati (dalillar)",
+        "- Vaqt (oldin/paytida)",
+        "- Nima uchun (i)",
+        "- Majmui kerakmi?"
+      ]
+    },
+
+    "talaba": {
+      "uslub": "o'rtacha",
+      "emoji": "📚",
+      "qo'shimcha": [
+        "📚 Eslab qoling:",
+        "💰 2 tur: naf olish / xarajatdan qutulish",
+        "⏰ Oldin/paytida (keyin emas)",
+        "📊 Majmui: bosqinchilik (164), tovlamachilik (165)",
+        "👤 Yollanma qotil → (i) ✅"
+      ],
+      "qo'shimcha_malumot": [
+        "📝 ASOSIY:",
+        "💰 TAMAGIRLIK:",
+        "1️⃣ Naf olish",
+        "2️⃣ Xarajatdan qutulish",
+        "",
+        "⏰ VAQT:",
+        "✅ Oldin/paytida → (i)",
+        "❌ Keyin → 97 + 169",
+        "",
+        "📊 MAJMUI:",
+        "164, 165"
+      ]
+    },
+
+    "oddiy_fuqaro": {
+      "uslub": "norasmiy",
+      "emoji": "👨",
+      "qo'shimcha": [
+        "💬 Oddiy qilib:",
+        "💰 Pul/mulk uchun o'ldirdi",
+        "⏰ Oldindan rejalashtirgan",
+        "⛓️ Og'ir jazo (15-25 yil)"
+      ],
+      "qo'shimcha_malumot": [
+        "💰 Mol-mulk uchun o'ldirdi",
+        "💵 Pul, meros olish",
+        "⛓️ 15-25 yil"
+      ]
+    }
+  },
+
+  "javob_uzunligi": {
+    "qisqa": {
+      "shablon": "💰 JK 97-2(i): Tamagirlik. Naf olish / xarajatdan qutulish. ⏰ Oldin/paytida. 📊 Majmui: 164, 165."
+    },
+    "o'rtacha": {
+      "shablon": "JK 97-2(i): Tamagirlik niyatida o'ldirish. 2 tur: naf olish (pul, mulk) / xarajatdan qutulish (qarz, aliment). Vaqt: oldin yoki paytida (keyin emas). Keyin mulk olsa → JK 97 + 169 (majmui). Yollanma qotil → (i). Majmui: bosqinchilik (164), tovlamachilik (165)."
+    },
+    "batafsil": {
+      "shablon": "💰 JK 97-2(i): Tamagirlik niyatida o'ldirish. 2 TUR: 1️⃣ NAF OLISH (pul, mol-mulk, mulkiy huquqlar, uy-joy, meros). 2️⃣ XARAJATDAN QUTULISH (qarz, aliment, majburiyatlar, haq to'lash). JABRLANUVCHI: egasi, saqlovchi, merosxo'r (farqi yo'q). MANFAAT: o'zi yoki boshqalar uchun. ⏰ VAQT MUHIM: tamagirlik OLDIN yoki PAYTIDA (keyin EMAS). Keyin mulk olsa → JK 97 + JK 169 (o'g'irlik, MAJMUI). 👤 YOLLANMA qotil (haq uchun) → JK 97-2(i) ✅. 📊 MAJMUI: Bosqinchilik → JK 164 + 97-2(i). Tovlamachilik → JK 165 + 97-2(i). Jazo: 15-25 yil yoki umrbod."
+    }
+  },
+
+  "1_asosiy_tushuncha": {
+    "emoji": "💰",
+    "sarlavha": "TAMAGIRLIK - asosiy tushuncha",
+
+    "tasnif": {
+      "modda": "JK 97-2(i)",
+      "nom": "Tamagirlik niyatida o'ldirish",
+      "og'irlashtiruvchi": "Jirkanch maqsad (mol-mulk)",
+      "jazo": "⛓️ 15-25 yil yoki umrbod"
+    },
+
+    "ta_rif": {
+      "nom": "Tamagirlik niyati",
+      "ma'no": "Moddiy manfaat ko'rish maqsadi",
+      "2_tur": "Ikki xil ko'rinish"
+    },
+
+    "1_naf_olish": {
+      "emoji": "💵",
+      "nom": "MODDIY NAF OLISH",
+      "ta_rif": "Har xil moddiy boylik olish",
+
+      "turlar": [
+        "💵 Pul",
+        "🏠 Mol-mulk",
+        "📜 Mulkiy huquqlar",
+        "🏡 Uy-joy maydoniga huquq",
+        "🌾 Yer, ferma",
+        "👑 Meros",
+        "💼 Biznes ulushi",
+        "🚗 Transport",
+        "💎 Qimmatbaho buyumlar"
+      ]
+    },
+
+    "2_xarajatdan_qutulish": {
+      "emoji": "🚫",
+      "nom": "MODDIY XARAJATDAN QUTULISH",
+      "ta_rif": "Moddiy majburiyatlardan xalos bo'lish",
+
+      "turlar": [
+        "💳 Qarzni to'lashdan",
+        "👶 Aliment to'lashdan",
+        "🏠 Ijara to'lashdan",
+        "💼 Xizmat haqini to'lashdan",
+        "📋 Mulkiy majburiyatlardan",
+        "🔄 Mulkni qaytarishdan",
+        "⚖️ Kompensatsiya to'lashdan"
+      ]
+    }
+  },
+
+  "2_jabrlanuvchi": {
+    "emoji": "👤",
+    "sarlavha": "JABRLANUVCHI - kim bo'lishi mumkin?",
+
+    "qoida": {
+      "emoji": "📋",
+      "asosiy": "FARQI YO'Q - kim bo'lishidan qat'i nazar",
+      "sabab": "Muhim - tamagirlik niyati, jabrlanuvchi emas"
+    },
+
+    "turlar": {
+      "1_egasi": {
+        "emoji": "👑",
+        "nom": "Mol-mulk EGASI",
+        "ta_rif": "Mulkning o'zi egasi",
+        "misol": "Boy odamni o'ldirib, mulkini olish"
+      },
+
+      "2_saqlovchi": {
+        "emoji": "🔐",
+        "nom": "Mol-mulk SAQLOVCHI",
+        "ta_rif": "Mulk yonida turgan, saqlovchi",
+        "misol": "Qorovulni o'ldirib, saqlovchi mulkni olish"
+      },
+
+      "3_merosxor": {
+        "emoji": "👨‍👩‍👧",
+        "nom": "MEROSXO'R",
+        "ta_rif": "O'limidan keyin meros qoldiradigan shaxs",
+        "misol": "Ota-onani o'ldirib, meros olish"
+      },
+
+      "4_kreditor": {
+        "emoji": "💳",
+        "nom": "KREDITOR (qarz beruvchi)",
+        "ta_rif": "Qarz berib turgan shaxs",
+        "misol": "Kreditorni o'ldirib, qarzdan qutulish"
+      }
+    }
+  },
+
+  "3_manfaat_kim_uchun": {
+    "emoji": "🎯",
+    "sarlavha": "MANFAAT - kim uchun?",
+
+    "qoida": {
+      "emoji": "📋",
+      "asosiy": "O'ZI yoki BOSHQALAR uchun",
+      "farq": "FARQI YO'Q - kim uchun bo'lishidan qat'i nazar"
+    },
+
+    "turlar": {
+      "1_ozi": {
+        "emoji": "🙋",
+        "nom": "O'ZI UCHUN",
+        "ta_rif": "Aybdorning o'zi naf ko'radi",
+        "misol": "Boyni o'ldirib, o'zi mulkini oldi"
+      },
+
+      "2_boshqalar": {
+        "emoji": "👥",
+        "nom": "BOSHQALAR UCHUN",
+        "ta_rif": "Boshqa shaxslar naf ko'radi",
+        "misollar": [
+          "Otasini o'ldirib, onasi meros olsin",
+          "Do'stini o'ldirib, ukasi meros olsin",
+          "Raqibni o'ldirib, hamkori foyda ko'rsin"
+        ]
+      }
+    }
+  },
+
+  "4_vaqt_muhim": {
+    "emoji": "⏰",
+    "sarlavha": "VAQT - eng muhim shart",
+
+    "qoida": {
+      "emoji": "📋",
+      "asosiy": "Tamagirlik OLDIN yoki PAYTIDA vujudga kelishi KERAK",
+      "agar_keyin": "KEYIN vujudga kelsa → (i) YO'Q"
+    },
+
+    "3_vaqt": {
+      "1_oldin": {
+        "emoji": "⏮️",
+        "vaqt": "O'ldirishdan OLDIN",
+        "ma'no": "Mulk uchun o'ldirish rejasi",
+        "misol": "Mulk olish uchun o'ldirish rejasi tuzdi",
+        "kvalifikatsiya": "JK 97-2(i) ✅"
+      },
+
+      "2_paytida": {
+        "emoji": "⏸️",
+        "vaqt": "O'ldirish PAYTIDA",
+        "ma'no": "O'ldirish jarayonida tamagirlik vujudga keldi",
+        "misol": "O'ldirish paytida mulkini ko'rdi, olishga qaror qildi",
+        "kvalifikatsiya": "JK 97-2(i) ✅"
+      },
+
+      "3_keyin": {
+        "emoji": "⏭️",
+        "vaqt": "O'ldirishdan KEYIN",
+        "ma'no": "Boshqa sabab o'ldirdi, keyin mulk ko'rdi",
+        "misol": "O'ch uchun o'ldirdi, keyin mulkini ko'rdi va oldi",
+        "kvalifikatsiya": "❌ JK 97-2(i) EMAS",
+        "togri": "✅ JK 97-1 + JK 169 (o'g'irlik, MAJMUI)",
+        "sabab": "Tamagirlik KEYIN vujudga keldi"
+      }
+    },
+
+    "misol_keyin": {
+      "emoji": "❌",
+      "holat": "A va B janjal qildi (o'ch, rashk). A B ni o'ldirdi. Keyin A B ning pulini ko'rdi va oldi.",
+      "tahlil": {
+        "oldirish_sababi": "O'ch, rashk (tamagirlik emas)",
+        "tamagirlik": "KEYIN vujudga keldi (pulni ko'rdi)",
+        "vaqt": "❌ Tamagirlik KEYIN"
+      },
+      "kvalifikatsiya": "❌ JK 97-2(i) EMAS",
+      "togri": "✅ JK 97-1 + JK 169 (MAJMUI)",
+      "sabab": "Tamagirlik keyin → (i) yo'q, o'g'irlik bor"
+    }
+  },
+
+  "5_yollanma_qotil": {
+    "emoji": "👤",
+    "sarlavha": "YOLLANMA QOTIL - maxsus holat",
+
+    "ta_rif": {
+      "nom": "Yollanma qotillik",
+      "ma'no": "Moddiy rag'batlantirish (haq) evaziga o'ldirish",
+      "turlar": [
+        "Pul uchun o'ldirish",
+        "Mulk uchun o'ldirish",
+        "Boshqa moddiy naf uchun"
+      ]
+    },
+
+    "ishtirokchilar": {
+      "emoji": "👥",
+
+      "1_qotil": {
+        "emoji": "🔪",
+        "kim": "QOTIL (yollanma)",
+        "sababi": "HAQ (pul, mulk) uchun o'ldiradi",
+        "kvalifikatsiya": "JK 97-2(i) ✅",
+        "sabab": "Tamagirlik niyati bor (haq)"
+      },
+
+      "2_buyurtmachi": {
+        "emoji": "💼",
+        "kim": "BUYURTMACHI (tashkilotchi)",
+        "sababi": "Turli (tamagirlik, o'ch, rashk...)",
+        "kvalifikatsiya": "JK 28, 97-2 (sababiga qarab)",
+        "tushuntirish": "Agar buyurtmachi tamagirlik uchun → 97-2(i). Agar boshqa sabab → boshqa belgi"
+      }
+    },
+
+    "misol": {
+      "emoji": "👤",
+      "holat": "A (buyurtmachi) B ni o'ldirish uchun C ga (qotilga) 10 million pul va'da qildi. C B ni o'ldirdi.",
+      "tahlil": {
+        "qotil_C": {
+          "sabab": "💰 HAQ (10 million)",
+          "tamagirlik": "✅ Bor (pul uchun)",
+          "kvalifikatsiya": "JK 97-2(i)"
+        },
+        "buyurtmachi_A": {
+          "sabab": "❓ Turli (o'ch, rashk, tamagirlik...)",
+          "kvalifikatsiya": "JK 28, 97-2 (sababiga qarab)",
+          "agar_tamagirlik": "JK 28, 97-2(i)",
+          "agar_och": "JK 28, 97-2 (boshqa belgi)"
+        }
+      }
+    }
+  },
+
+  "6_majmui": {
+    "emoji": "📊",
+    "sarlavha": "MAJMUI - boshqa jinoyatlar bilan",
+
+    "1_bosqinchilik": {
+      "emoji": "🏚️",
+      "modda": "JK 164",
+      "nom": "Bosqinchilik",
+      "ta_rif": "Hujum yo'li bilan mulkka ega bo'lish",
+
+      "shartlar": [
+        "1️⃣ HUJUM (zo'ravonlik)",
+        "2️⃣ Mulkka egalik MAQSADI",
+        "3️⃣ Egalik PAYTIDA yoki DARHOL KEYIN",
+        "4️⃣ To'g'ri sababiy bog'lanish"
+      ],
+
+      "kvalifikatsiya": "JK 97-2(i) + JK 164 (MAJMUI)",
+
+      "misol": {
+        "holat": "A uyga bosib kirdi (hujum). Uy egasini o'ldirdi. Mulkini oldi (darhol).",
+        "tahlil": {
+          "hujum": "✅ Uyga bosib kirdi",
+          "oldirish": "✅ O'ldirdi (tamagirlik)",
+          "mulk": "✅ Darhol oldi",
+          "aloqa": "✅ To'g'ri bog'lanish"
+        },
+        "kvalifikatsiya": "JK 97-2(i) + JK 164 (MAJMUI)"
+      }
+    },
+
+    "2_tovlamachilik": {
+      "emoji": "🔥",
+      "modda": "JK 165",
+      "nom": "Tovlamachilik",
+      "ta_rif": "Mulkni buzish, yoqish, zarar yetkazish",
+
+      "holat": "O'ldirish + mulkni buzish/yoqish",
+
+      "kvalifikatsiya": "JK 97-2(i) + JK 165 (MAJMUI)",
+
+      "misol": {
+        "holat": "A B ni o'ldirdi (tamagirlik). Keyin B ning mulkini yoqdi (tovlamachilik).",
+        "tahlil": {
+          "oldirish": "✅ Tamagirlik uchun",
+          "yoqish": "✅ Mulk buzildi",
+          "ikki_jinoyat": "2 ta alohida jinoyat"
+        },
+        "kvalifikatsiya": "JK 97-2(i) + JK 165 (MAJMUI)"
+      }
+    }
+  },
+
+  "7_amaliy_misollar": {
+    "emoji": "📚",
+    "sarlavha": "Amaliy misollar - to'liq tahlil",
+
+    "misol_1_meros": {
+      "emoji": "👑",
+      "vaziyat": "A otasini o'ldirdi (meros olish maqsadida).",
+      "tahlil": {
+        "maqsad": "✅ Meros olish (tamagirlik)",
+        "vaqt": "✅ Oldin rejalashtirgan",
+        "jabrlanuvchi": "Otasi (merosxo'r)"
+      },
+      "kvalifikatsiya": "JK 97-2(i)",
+      "jazo": "15-25 yil"
+    },
+
+    "misol_2_qarz": {
+      "emoji": "💳",
+      "vaziyat": "A kreditorni (B) o'ldirdi (qarzdan qutulish uchun).",
+      "tahlil": {
+        "maqsad": "✅ Qarzdan qutulish (tamagirlik)",
+        "tur": "Xarajatdan qutulish",
+        "vaqt": "✅ Oldin rejalashtirgan"
+      },
+      "kvalifikatsiya": "JK 97-2(i)",
+      "jazo": "15-25 yil"
+    },
+
+    "misol_3_yollanma": {
+      "emoji": "👤",
+      "vaziyat": "A (buyurtmachi) C ni (qotilni) B ni o'ldirish uchun yolladi (pul va'da qildi). C B ni o'ldirdi.",
+      "tahlil": {
+        "qotil_C": {
+          "maqsad": "💰 Pul (haq)",
+          "tamagirlik": "✅ Bor",
+          "kvalifikatsiya": "JK 97-2(i)"
+        },
+        "buyurtmachi_A": {
+          "sabab": "Turli (o'ch, rashk...)",
+          "kvalifikatsiya": "JK 28, 97-2 (sababiga qarab)"
+        }
+      }
+    },
+
+    "misol_4_bosqinchilik": {
+      "emoji": "🏚️",
+      "vaziyat": "A uyga bosib kirdi (hujum). Uy egasini o'ldirdi. Mulkini oldi (darhol).",
+      "tahlil": {
+        "hujum": "✅ Bosib kirdi",
+        "oldirish": "✅ Tamagirlik uchun",
+        "mulk": "✅ Darhol oldi",
+        "aloqa": "✅ To'g'ri bog'lanish"
+      },
+      "kvalifikatsiya": "JK 97-2(i) + JK 164 (MAJMUI)"
+    },
+
+    "misol_5_keyin": {
+      "emoji": "❌",
+      "vaziyat": "A va B janjal qildi (o'ch). A B ni o'ldirdi. Keyin A B ning pulini ko'rdi va oldi.",
+      "tahlil": {
+        "oldirish": "O'ch uchun (tamagirlik emas)",
+        "pul": "Keyin ko'rdi va oldi",
+        "vaqt": "❌ Tamagirlik KEYIN"
+      },
+      "kvalifikatsiya": "❌ JK 97-2(i) EMAS",
+      "togri": "✅ JK 97-1 + JK 169 (MAJMUI)",
+      "sabab": "Tamagirlik keyin vujudga keldi"
+    }
+  },
+
+  "8_algoritm": {
+    "emoji": "🔢",
+    "sarlavha": "KVALIFIKATSIYA algoritmi",
+
+    "qadamlar": [
+      {
+        "qadam": "1️⃣ TAMAGIRLIK niyati bor mi?",
+        "tekshirish": "Naf olish yoki xarajatdan qutulish?",
+        "javob": "Ha → 2-qadam. Yo'q → (i) yo'q"
+      },
+      {
+        "qadam": "2️⃣ VAQT to'g'ri mi?",
+        "tekshirish": "Oldin yoki paytida?",
+        "javob": "Ha → 3-qadam. Keyin → JK 97 + 169"
+      },
+      {
+        "qadam": "3️⃣ BOSHQA JINOYAT bor mi?",
+        "tekshirish": "Bosqinchilik (164)? Tovlamachilik (165)?",
+        "javob": {
+          "yoq": "Faqat JK 97-2(i)",
+          "bosqinchilik": "JK 97-2(i) + 164 (majmui)",
+          "tovlamachilik": "JK 97-2(i) + 165 (majmui)"
+        }
+      }
+    ]
+  },
+
+  "9_muhim_xulosa": {
+    "emoji": "❗",
+    "asosiy": [
+      "💰 2 TUR: naf olish / xarajatdan qutulish",
+      "⏰ VAQT MUHIM: oldin/paytida (keyin EMAS)",
+      "👤 Jabrlanuvchi: farqi yo'q",
+      "🎯 Manfaat: o'zi yoki boshqalar",
+      "👤 Yollanma qotil → (i) ✅",
+      "📊 MAJMUI: bosqinchilik (164), tovlamachilik (165)"
+    ]
+  },
+
+  "tushuntirish": "JK 97-2(i): Tamagirlik niyatida o'ldirish. 2 TUR: 1️⃣ NAF OLISH (pul, mol-mulk, mulkiy huquqlar, uy-joy, meros, boylik). 2️⃣ XARAJATDAN QUTULISH (qarz to'lash, aliment, majburiyatlar, haq to'lash, mulk qaytarish). JABRLANUVCHI: egasi, saqlovchi, merosxo'r, kreditor (FARQI YO'Q). MANFAAT: o'zi yoki boshqalar uchun (farqi yo'q). ⏰ VAQT MUHIM: tamagirlik OLDIN yoki PAYTIDA vujudga kelishi KERAK. Keyin → ❌ JK 97-2(i) EMAS, ✅ JK 97 + JK 169 (o'g'irlik, MAJMUI). 👤 YOLLANMA QOTIL (haq uchun) → JK 97-2(i) ✅. Buyurtmachi → sababiga qarab. 📊 MAJMUI: Bosqinchilik (hujum, egalik) → JK 164 + 97-2(i). Tovlamachilik (buzish, yoqish) → JK 165 + 97-2(i). Jazo: 15-25 yil yoki umrbod.",
+
+  "translations": {
+    "uz": "JK 97-2(i): Tamagirlik. Naf/xarajat. Oldin/paytida. Yollanma → (i). Majmui: 164, 165.",
+    "ru": "УК 97-2(и): Корысть. Выгода/расходы. До/во время. Наемный → (и). Совокупность: 164, 165.",
+    "en": "CC 97-2(i): Greed. Gain/expenses. Before/during. Hired → (i). Aggregate: 164, 165."
+  }
+}

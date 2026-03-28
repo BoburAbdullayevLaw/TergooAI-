@@ -1,0 +1,508 @@
+{
+  "id": "JK-097-SHARH-026",
+  "modda_raqam": "97",
+  "sharh_raqami": 26,
+  "tur": "milliy_irqiy_adovat",
+
+  "_izoh": "BO'LIM 26: JK 97-2(k) - Milliy yoki irqiy adovat zamirida o'ldirish",
+
+  "emoji_sarlavha": "🌍 Milliy/Irqiy adovat (nafrat, g'ayirlik)",
+
+  "asosiy_matn": "JK 97-2(k): Milliy yoki irqiy ADOVAT zamirida o'ldirish. ZARURIY belgi - MOTIV (sabab). ADOVAT: millat/irq, turmush tarzi, madaniyat, urf-odat, oila tutumiga nafrat yoki g'ayirlik. Yoki millatlararo/irqlararo NIFОQ solish maqsadi. MOTIV yo'q → (k) YO'Q. Boshqa motiv (o'ch, rashk, tamagirlik) → (k) EMAS, oddiy modda. Millat/irq vakiliga boshqa sabab → JK 97 (k yo'q).",
+
+  "sinonimlar": {
+    "adovat": {
+      "variantlar": ["adovat", "dushmanlik", "nafrat", "yomon ko'rish", "g'azab"],
+      "og'irlik": 95,
+      "rasmiy": true,
+      "emoji": "😡"
+    },
+    "gayirlik": {
+      "variantlar": ["g'ayirlik", "hasad", "rashk", "yomon ko'z", "kuyish"],
+      "og'irlik": 85,
+      "rasmiy": true,
+      "emoji": "😠"
+    },
+    "nifoq": {
+      "variantlar": ["nifoq", "ajratish", "ziddiyat", "nizo", "mojaro"],
+      "og'irlik": 90,
+      "rasmiy": true,
+      "emoji": "💥"
+    }
+  },
+
+  "kontekstli_javoblar": {
+    "tergovchi": {
+      "uslub": "juda_rasmiy",
+      "emoji": "👮",
+      "qo'shimcha": [
+        "👮 Tergov yuritishda:",
+        "😡 MOTIV (sabab) ni aniqlash - ASOSIY!",
+        "🌍 Milliy/irqiy ADOVAT borligini isbotlash",
+        "❌ Boshqa motiv yo'qligini tekshirish"
+      ],
+      "qo'shimcha_malumot": [
+        "❗ ISBOTLASH KERAK:",
+        "1️⃣ MOTIV - milliy/irqiy adovat",
+        "2️⃣ Nima uchun adovat?",
+        "   - Millat/irq?",
+        "   - Turmush tarzi?",
+        "   - Madaniyat?",
+        "   - Urf-odat?",
+        "   - Oila tutumi?",
+        "3️⃣ Yoki nifoq solish maqsadi?",
+        "4️⃣ BOSHQA motiv yo'q?",
+        "",
+        "🌍 ADOVAT TURLARI:",
+        "😡 NAFRAT:",
+        "- Millat/irqqa nafrat",
+        "- Turmush tarziga nafrat",
+        "- Madaniyatiga nafrat",
+        "- Urf-odatiga nafrat",
+        "",
+        "😠 G'AYIRLIK:",
+        "- Oila tutumiga g'ayirlik",
+        "- Yashash tarziga g'ayirlik",
+        "",
+        "💥 NIFOQ SOLISH:",
+        "- Millatlar o'rtasida nifoq",
+        "- Irqlar o'rtasida nifoq",
+        "- Ziddiyat yaratish",
+        "",
+        "📊 DALILLAR:",
+        "- Aybdorning so'zlari (milliy so'kinish)",
+        "- Guvohlar (sabab)",
+        "- Yozuvlar (SMS, chat)",
+        "- Oldingi xatti-harakatlar",
+        "- Guruh a'zoligi (ekstremistik)"
+      ]
+    },
+
+    "advokat": {
+      "uslub": "juda_rasmiy",
+      "emoji": "👔",
+      "qo'shimcha": [
+        "⚖️ Himoya strategiyasi:",
+        "❌ Milliy/irqiy MOTIV YO'Q",
+        "🤝 BOSHQA sabab bor (shaxsiy)",
+        "📉 JK 97-2(k) dan JK 97-1 ga"
+      ],
+      "qo'shimcha_malumot": [
+        "🎯 MAQSAD: (k) belgini olib tashlash",
+        "❌ MILLIY MOTIV YO'Q:",
+        "- Shaxsiy sabab (janjal, o'ch)",
+        "- Tasodif (millati emas)",
+        "- Boshqa motiv (tamagirlik, rashk)",
+        "",
+        "🤝 DALILLAR:",
+        "- Oldingi munosabat yaxshi",
+        "- Milliy so'kinish yo'q",
+        "- Shaxsiy janjal",
+        "- Boshqa sabab aniq",
+        "",
+        "📉 97-2(k) → 97-1:",
+        "15-25 yil → 8-15 yil"
+      ]
+    },
+
+    "sudya": {
+      "uslub": "juda_rasmiy",
+      "emoji": "⚖️",
+      "qo'shimcha": [
+        "⚖️ Sud qarori chiqarishda:",
+        "😡 Milliy/irqiy MOTIV ANIQ isbotlangan mi?",
+        "❓ Boshqa motiv yo'qmi?",
+        "🔍 SHUBHA → (k) yo'q"
+      ],
+      "qo'shimcha_malumot": [
+        "❗ TEKSHIRISH:",
+        "1️⃣ MOTIV ANIQ mi?",
+        "   😡 Milliy/irqiy adovat?",
+        "   💥 Nifoq solish?",
+        "   ✅ Aniq dalil?",
+        "",
+        "2️⃣ NIMA uchun adovat?",
+        "   - Millat/irq o'zi?",
+        "   - Turmush tarzi?",
+        "   - Madaniyat, urf-odat?",
+        "   - Oila tutumi?",
+        "",
+        "3️⃣ BOSHQA motiv yo'qmi?",
+        "   ❌ O'ch?",
+        "   ❌ Rashk?",
+        "   ❌ Tamagirlik?",
+        "   ❌ Shaxsiy janjal?",
+        "   → Agar boshqa motiv → (k) YO'Q",
+        "",
+        "4️⃣ SHUBHA?",
+        "   - Motiv noaniq?",
+        "   - Ikki motiv?",
+        "   → Shubha → (k) yo'q",
+        "",
+        "📝 QARORGA YOZISH:",
+        "- Qanday motiv (aniq)",
+        "- Nima uchun milliy/irqiy",
+        "- Dalillar (so'z, harakat)",
+        "- Nima uchun (k) / nima uchun yo'q"
+      ]
+    },
+
+    "talaba": {
+      "uslub": "o'rtacha",
+      "emoji": "📚",
+      "qo'shimcha": [
+        "📚 Eslab qoling:",
+        "😡 Asosiy - MOTIV (sabab)",
+        "🌍 Millat/irq, madaniyat, urf-odatga nafrat",
+        "💥 Yoki nifoq solish",
+        "❌ Boshqa motiv → (k) yo'q"
+      ],
+      "qo'shimcha_malumot": [
+        "📝 ASOSIY:",
+        "😡 MOTIV - zaruriy!",
+        "",
+        "🌍 ADOVAT:",
+        "- Millat/irq",
+        "- Turmush tarzi",
+        "- Madaniyat, urf-odat",
+        "- Oila tutumi",
+        "",
+        "💥 NIFOQ SOLISH:",
+        "Millatlar/irqlar o'rtasida",
+        "",
+        "❌ Boshqa motiv → (k) yo'q"
+      ]
+    },
+
+    "oddiy_fuqaro": {
+      "uslub": "norasmiy",
+      "emoji": "👨",
+      "qo'shimcha": [
+        "💬 Oddiy qilib:",
+        "😡 Millati uchun yomon ko'rdi",
+        "🌍 Irqi, madaniyati, urf-odati uchun",
+        "⛓️ Og'ir jazo (15-25 yil)"
+      ],
+      "qo'shimcha_malumot": [
+        "😡 Millati uchun nafrat",
+        "🌍 Madaniyati, urf-odati",
+        "⛓️ 15-25 yil"
+      ]
+    }
+  },
+
+  "javob_uzunligi": {
+    "qisqa": {
+      "shablon": "🌍 JK 97-2(k): Milliy/irqiy adovat - MOTIV. 😡 Nafrat. 💥 Nifoq. ❌ Boshqa motiv → (k) yo'q."
+    },
+    "o'rtacha": {
+      "shablon": "JK 97-2(k): Milliy/irqiy adovat zamirida o'ldirish. Zaruriy belgi - MOTIV. Adovat: millat/irq, turmush, madaniyat, urf-odat, oila tutumiga nafrat/g'ayirlik. Yoki nifoq solish. Motiv yo'q → (k) yo'q. Boshqa motiv → oddiy modda."
+    },
+    "batafsil": {
+      "shablon": "🌍 JK 97-2(k): Milliy yoki irqiy ADOVAT zamirida o'ldirish. ZARURIY belgi - MOTIV (sabab). ADOVAT TURLARI: 1️⃣ NAFRAT/G'AYIRLIK - millat/irq, turmush tarzi, madaniyat, urf-odat, oila tutumiga. 2️⃣ NIFOQ SOLISH - millatlararo/irqlararo ziddiyat yaratish. ❌ MOTIV yo'q → (k) YO'Q. Boshqa motiv (o'ch, rashk, tamagirlik, shaxsiy) → (k) EMAS, oddiy modda. Millat/irq vakiliga BOSHQA sabab → JK 97 ((k) yo'q). Jazo: 15-25 yil yoki umrbod."
+    }
+  },
+
+  "1_asosiy_tushuncha": {
+    "emoji": "🌍",
+    "sarlavha": "MILLIY/IRQIY ADOVAT - asosiy tushuncha",
+
+    "tasnif": {
+      "modda": "JK 97-2(k)",
+      "nom": "Milliy yoki irqiy adovat zamirida o'ldirish",
+      "og'irlashtiruvchi": "Maxsus jirkanch motiv",
+      "jazo": "⛓️ 15-25 yil yoki umrbod"
+    },
+
+    "zaruriy_belgi": {
+      "emoji": "❗",
+      "asosiy": "MOTIV - zaruriy belgi",
+      "ma'no": "Jinoyatning SABABI - milliy/irqiy adovat",
+      "agar_yoq": "Motiv yo'q → (k) belgi yo'q"
+    },
+
+    "ta_rif": {
+      "nom": "Milliy/irqiy adovat",
+      "ma'no": "Millat, irq, madaniyatga nafrat yoki nifoq"
+    }
+  },
+
+  "2_adovat_turlari": {
+    "emoji": "😡",
+    "sarlavha": "ADOVAT TURLARI - 2 yo'nalish",
+
+    "1_nafrat_gayirlik": {
+      "emoji": "😡",
+      "nom": "NAFRAT yoki G'AYIRLIK",
+      "ta_rif": "Millat, irq, madaniyatga yomon munosabat",
+
+      "6_obyekt": {
+        "1_millat_irq": {
+          "emoji": "🌍",
+          "nom": "Millat yoki irq",
+          "ta_rif": "Boshqa millatga/irqqa mansub bo'lgani uchun",
+          "misol": "O'zbek, rus, qozoq, arab... bo'lgani uchun nafrat"
+        },
+
+        "2_turmush": {
+          "emoji": "🏡",
+          "nom": "Turmush tarzi",
+          "ta_rif": "Yashash uslubi, hayot tarzi",
+          "misol": "Ko'chmanchi, o'troq, dehqon... turmush tarzi uchun nafrat"
+        },
+
+        "3_madaniyat": {
+          "emoji": "🎭",
+          "nom": "Madaniyat",
+          "ta_rif": "Milliy madaniyat, san'at, til",
+          "misol": "Milliy bayram, til, libos, ovqat uchun nafrat"
+        },
+
+        "4_urf_odat": {
+          "emoji": "🎪",
+          "nom": "Urf-odat",
+          "ta_rif": "Milliy an'ana, odat",
+          "misol": "To'y, dafn marosimi, milliy bayram uchun nafrat"
+        },
+
+        "5_oila": {
+          "emoji": "👨‍👩‍👧",
+          "nom": "Oila tutumi",
+          "ta_rif": "Oila tuzilishi, oila munosabatlari",
+          "misol": "Ko'p bolali oila, katta oila uchun g'ayirlik"
+        },
+
+        "6_din": {
+          "emoji": "🕌",
+          "nom": "Din (diniy)",
+          "ta_rif": "Diniy e'tiqod, ibodat",
+          "eslatma": "⚠️ Diniy adovat - ALOHIDA modda (JK 156)",
+          "farq": "Agar faqat din → JK 156, agar millat + din → (k) mumkin"
+        }
+      }
+    },
+
+    "2_nifoq_solish": {
+      "emoji": "💥",
+      "nom": "NIFOQ SOLISH maqsadi",
+      "ta_rif": "Millatlar/irqlar o'rtasida ziddiyat yaratish",
+
+      "maqsad": [
+        "Millatlararo nifoq",
+        "Irqlararo nifoq",
+        "Ziddiyat yaratish",
+        "Ajratish, buzish",
+        "Adovat uyg'otish"
+      ],
+
+      "misol": {
+        "holat": "A milliy sabab bilan B ni o'ldirdi. Maqsad: millatlar o'rtasida ziddiyat yaratish.",
+        "maqsad": "Nifoq solish",
+        "natija": "Millatlar janjallashishi"
+      }
+    }
+  },
+
+  "3_motiv_muhim": {
+    "emoji": "🎯",
+    "sarlavha": "MOTIV - asosiy shart",
+
+    "ta_rif": {
+      "nom": "Motiv (sabab)",
+      "ma'no": "Jinoyatning ichki sababi, maqsad",
+      "zaruriy": "❗ ZARURIY belgi - bo'lishi SHART"
+    },
+
+    "qoida": {
+      "emoji": "📋",
+      "asosiy": "Milliy/irqiy MOTIV bo'lishi KERAK",
+      "agar_yoq": "Motiv yo'q → (k) belgi YO'Q"
+    },
+
+    "isbotlash": {
+      "emoji": "📊",
+      "dalillar": [
+        "Aybdorning so'zlari",
+        "Milliy so'kinish",
+        "Oldingi xatti-harakatlar",
+        "Yozuvlar (SMS, chat, ijtimoiy tarmoq)",
+        "Guvohlar",
+        "Guruh a'zoligi (milliy ekstremizm)",
+        "Propaganda materiallari"
+      ]
+    }
+  },
+
+  "4_boshqa_motiv": {
+    "emoji": "❌",
+    "sarlavha": "BOSHQA MOTIV - (k) yo'q",
+
+    "qoida": {
+      "emoji": "📋",
+      "asosiy": "Agar BOSHQA motiv → (k) belgi YO'Q",
+      "sabab": "Milliy/irqiy motiv yo'q",
+      "natija": "Oddiy modda (JK 97-1 yoki boshqa belgi)"
+    },
+
+    "boshqa_motivlar": {
+      "emoji": "🔍",
+      "royxat": [
+        "🔥 O'ch olish",
+        "💔 Rashk",
+        "💰 Tamagirlik",
+        "😠 Janjal",
+        "🤝 Shaxsiy munosabat",
+        "🎲 Tasodif",
+        "😈 Shafqatsizlik",
+        "🔞 Jinsiy"
+      ]
+    },
+
+    "muhim": {
+      "emoji": "❗",
+      "qoida_1": "Jabrlanuvchi millat/irq vakiliga mansub ≠ milliy motiv",
+      "qoida_2": "Millat/irq vakilini o'ldirish ≠ milliy motiv",
+      "qoida_3": "MOTIV muhim, millat/irq emas!"
+    },
+
+    "misol": {
+      "emoji": "❌",
+      "holat": "A (o'zbek) va B (rus) do'st edilar. Janjal bo'ldi (shaxsiy). A B ni o'ldirdi.",
+      "tahlil": {
+        "jabrlanuvchi": "✅ B - rus (boshqa millat)",
+        "motiv": "❌ Shaxsiy janjal (milliy emas)",
+        "sabab": "Do'stlik buzildi"
+      },
+      "kvalifikatsiya": "❌ JK 97-2(k) EMAS",
+      "togri": "✅ JK 97-1 (oddiy)",
+      "sabab": "Milliy motiv yo'q (shaxsiy)"
+    }
+  },
+
+  "5_amaliy_misollar": {
+    "emoji": "📚",
+    "sarlavha": "Amaliy misollar - to'liq tahlil",
+
+    "misol_1_millat": {
+      "emoji": "🌍",
+      "vaziyat": "A B ni faqat o'zbek bo'lgani uchun yomon ko'radi (nafrat). A B ni o'ldirdi.",
+      "tahlil": {
+        "motiv": "✅ Milliy nafrat (o'zbek bo'lgani uchun)",
+        "dalil": "Milliy so'kinish, oldingi nafrat",
+        "qasd": "✅ O'ldirish qasdi"
+      },
+      "kvalifikatsiya": "JK 97-2(k)",
+      "jazo": "15-25 yil"
+    },
+
+    "misol_2_madaniyat": {
+      "emoji": "🎭",
+      "vaziyat": "A B ning milliy bayramini (Navruz) yomon ko'radi. Bayramda B ni o'ldirdi (madaniyatga nafrat).",
+      "tahlil": {
+        "motiv": "✅ Madaniyatga nafrat (milliy bayram)",
+        "sabab": "Navruzni yomon ko'rish",
+        "qasd": "✅ O'ldirish qasdi"
+      },
+      "kvalifikatsiya": "JK 97-2(k)",
+      "jazo": "15-25 yil"
+    },
+
+    "misol_3_nifoq": {
+      "emoji": "💥",
+      "vaziyat": "A B ni milliy sabab bilan o'ldirdi. Maqsad: o'zbeklar va ruslar o'rtasida nifoq solish.",
+      "tahlil": {
+        "motiv": "✅ Nifoq solish (millatlararo)",
+        "maqsad": "Ziddiyat yaratish",
+        "qasd": "✅ O'ldirish qasdi"
+      },
+      "kvalifikatsiya": "JK 97-2(k)",
+      "jazo": "15-25 yil"
+    },
+
+    "misol_4_shaxsiy": {
+      "emoji": "❌",
+      "vaziyat": "A (o'zbek) va B (rus) do'st edilar. Biznes borasida janjal. A B ni o'ldirdi (tamagirlik).",
+      "tahlil": {
+        "jabrlanuvchi": "✅ B - rus (boshqa millat)",
+        "motiv": "❌ TAMAGIRLIK (milliy emas)",
+        "sabab": "Biznes, pul"
+      },
+      "kvalifikatsiya": "❌ JK 97-2(k) EMAS",
+      "togri": "✅ JK 97-2(i) (tamagirlik)",
+      "sabab": "Milliy motiv yo'q"
+    },
+
+    "misol_5_janjal": {
+      "emoji": "❌",
+      "vaziyat": "A va B (boshqa millat) janjal qilishdi (shaxsiy). A hissiylanib, B ni o'ldirdi.",
+      "tahlil": {
+        "jabrlanuvchi": "✅ B - boshqa millat",
+        "motiv": "❌ Shaxsiy janjal (milliy emas)",
+        "sabab": "Hissiyot, g'azab"
+      },
+      "kvalifikatsiya": "❌ JK 97-2(k) EMAS",
+      "togri": "✅ JK 97-1 (oddiy)",
+      "sabab": "Milliy motiv yo'q"
+    },
+
+    "misol_6_guruh": {
+      "emoji": "👥",
+      "vaziyat": "A milliy ekstremistik guruh a'zosi. Guruh maqsadi - boshqa millatlarni o'ldirish. A B ni (boshqa millat) o'ldirdi.",
+      "tahlil": {
+        "motiv": "✅ Milliy nafrat (guruh maqsadi)",
+        "dalil": "Guruh a'zoligi, propaganda",
+        "qasd": "✅ O'ldirish qasdi"
+      },
+      "kvalifikatsiya": "JK 97-2(k) + ekstremizm moddalari (majmui)",
+      "jazo": "Majmui"
+    }
+  },
+
+  "6_algoritm": {
+    "emoji": "🔢",
+    "sarlavha": "KVALIFIKATSIYA algoritmi",
+
+    "qadamlar": [
+      {
+        "qadam": "1️⃣ MOTIV nima?",
+        "tekshirish": "Nima uchun o'ldirdi?",
+        "javob": "Milliy/irqiy → 2-qadam. Boshqa → (k) yo'q"
+      },
+      {
+        "qadam": "2️⃣ Milliy/irqiy MOTIV ANIQ mi?",
+        "tekshirish": "Dalillar bormi? (so'z, harakat)",
+        "javob": "Aniq → 3-qadam. Shubhali → (k) yo'q"
+      },
+      {
+        "qadam": "3️⃣ NIMA uchun adovat?",
+        "tekshirish": "Millat? Madaniyat? Urf-odat? Nifoq?",
+        "javob": {
+          "millat": "JK 97-2(k) ✅",
+          "madaniyat": "JK 97-2(k) ✅",
+          "urf_odat": "JK 97-2(k) ✅",
+          "nifoq": "JK 97-2(k) ✅"
+        }
+      }
+    ]
+  },
+
+  "7_muhim_xulosa": {
+    "emoji": "❗",
+    "asosiy": [
+      "🎯 MOTIV - ZARURIY belgi (bo'lishi shart)",
+      "😡 ADOVAT: millat/irq, madaniyat, urf-odat, oila tutumi",
+      "💥 Yoki NIFOQ solish maqsadi",
+      "❌ Motiv yo'q → (k) YO'Q",
+      "🔍 Boshqa motiv → (k) EMAS (oddiy modda)",
+      "❗ Jabrlanuvchi millati ≠ milliy motiv"
+    ]
+  },
+
+  "tushuntirish": "JK 97-2(k): Milliy yoki irqiy ADOVAT zamirida o'ldirish. ZARURIY belgi - MOTIV (sabab). ADOVAT TURLARI: 1️⃣ NAFRAT/G'AYIRLIK - boshqa millat/irq, turmush tarzi, madaniyat, urf-odat, oila tutumiga nisbatan. 2️⃣ NIFOQ SOLISH - millatlararo/irqlararo ziddiyat, adovat yaratish maqsadi. ❌ MOTIV yo'q → (k) YO'Q. Boshqa motiv (o'ch, rashk, tamagirlik, shaxsiy janjal) → (k) EMAS, oddiy modda. Jabrlanuvchi millat/irq vakiliga mansub ≠ milliy motiv. MOTIV muhim - millat emas! Dalillar: so'zlar (milliy so'kinish), xatti-harakatlar, yozuvlar, guruh a'zoligi. Jazo: 15-25 yil yoki umrbod.",
+
+  "translations": {
+    "uz": "JK 97-2(k): Milliy/irqiy adovat - MOTIV. Nafrat. Nifoq. Boshqa motiv → (k) yo'q.",
+    "ru": "УК 97-2(к): Национальная/расовая вражда - МОТИВ. Ненависть. Рознь. Другой мотив → (к) нет.",
+    "en": "CC 97-2(k): National/racial hatred - MOTIVE. Hate. Discord. Other motive → (k) no."
+  }
+}

@@ -1,0 +1,526 @@
+{
+  "id": "JK-097-SHARH-028",
+  "modda_raqam": "97",
+  "sharh_raqami": 28,
+  "tur": "diniy_taassublar",
+
+  "_izoh": "BO'LIM 28: JK 97-2(m) - Diniy taassublar zamirida o'ldirish",
+
+  "emoji_sarlavha": "🕌 Diniy taassublar (fanatizm, ekstremizm)",
+
+  "asosiy_matn": "JK 97-2(m): Diniy taassublar zamirida o'ldirish. TAASSUBLAR: diniy fanatizmga asoslangan g'oyalar, boshqalarga murosasizlik. HOLAT: jabrlanuvchining diniy e'tiqodi bilan bog'liq. MAQSAD: konfessiya qadr-qimmatini kamsitish, diniy adovat/nifoq. Aybdor: jabrlanuvchi PAST (konfessiya uchun), o'zi din ISTISNO. FARQ milliy (k): (m) - faqat DIN, (k) - millat/irq. Diniy taassublar: fanatizm, o'zgarmas amal qilish, murosasizlik.",
+
+  "sinonimlar": {
+    "taassublar": {
+      "variantlar": ["taassublar", "fanatizm", "ekstremizm", "haddan oshgan e'tiqod", "g'ayrat"],
+      "og'irlik": 95,
+      "rasmiy": true,
+      "emoji": "🕌"
+    },
+    "kamsitish": {
+      "variantlar": ["kamsitish", "past qilish", "kichraytirish", "haqorat qilish"],
+      "og'irlik": 90,
+      "rasmiy": true,
+      "emoji": "⬇️"
+    },
+    "murosasizlik": {
+      "variantlar": ["murosasizlik", "qat'iylik", "ikki yo'l yo'q", "o'zgarmaslik"],
+      "og'irlik": 85,
+      "rasmiy": true,
+      "emoji": "🚫"
+    }
+  },
+
+  "kontekstli_javoblar": {
+    "tergovchi": {
+      "uslub": "juda_rasmiy",
+      "emoji": "👮",
+      "qo'shimcha": [
+        "👮 Tergov yuritishda:",
+        "🕌 DINIY TAASSUBLAR ni aniqlash",
+        "🎯 Jabrlanuvchining DINIY E'TIQODI bilan bog'liq",
+        "⬇️ MAQSAD: kamsitish, adovat, nifoq"
+      ],
+      "qo'shimcha_malumot": [
+        "❗ ISBOTLASH KERAK:",
+        "1️⃣ DINIY TAASSUBLAR bor edi mi?",
+        "   - Diniy fanatizm?",
+        "   - Boshqalarga murosasizlik?",
+        "2️⃣ DINIY E'TIQOD bog'liq mi?",
+        "   - Jabrlanuvchining dini?",
+        "   - Konfessiyasi?",
+        "3️⃣ MAQSAD nima?",
+        "   - Kamsitish?",
+        "   - Adovat/nifoq?",
+        "",
+        "🕌 DINIY TAASSUBLAR:",
+        "📋 FANATIZM:",
+        "- Haddan oshgan e'tiqod",
+        "- Diniy ekstremizm",
+        "- Boshqalarga murosasiz",
+        "",
+        "⬇️ KAMSITISH:",
+        "- Jabrlanuvchi past",
+        "- Konfessiya past",
+        "- O'zi din istisno",
+        "",
+        "💥 ADOVAT/NIFOQ:",
+        "- Diniy adovat",
+        "- Dinlar o'rtasida nifoq",
+        "- Ziddiyat yaratish",
+        "",
+        "📊 DALILLAR:",
+        "- Diniy so'kinish",
+        "- Guruh a'zoligi (ekstremist)",
+        "- Yozuvlar (propaganda)",
+        "- Guvohlar",
+        "- Oldingi xatti-harakatlar"
+      ]
+    },
+
+    "advokat": {
+      "uslub": "juda_rasmiy",
+      "emoji": "👔",
+      "qo'shimcha": [
+        "⚖️ Himoya strategiyasi:",
+        "❌ Diniy taassublar YO'Q",
+        "🤝 BOSHQA sabab (shaxsiy)",
+        "📉 JK 97-2(m) dan JK 97-1 ga"
+      ],
+      "qo'shimcha_malumot": [
+        "🎯 MAQSAD: (m) belgini olib tashlash",
+        "❌ DINIY TAASSUBLAR YO'Q:",
+        "- Fanatizm yo'q",
+        "- Oddiy dindar",
+        "- Boshqa sabab (shaxsiy)",
+        "",
+        "🤝 DALILLAR:",
+        "- Diniy so'kinish yo'q",
+        "- Guruh a'zoligi yo'q",
+        "- Shaxsiy janjal",
+        "- Boshqa motiv",
+        "",
+        "📉 97-2(m) → 97-1:",
+        "15-25 yil → 8-15 yil"
+      ]
+    },
+
+    "sudya": {
+      "uslub": "juda_rasmiy",
+      "emoji": "⚖️",
+      "qo'shimcha": [
+        "⚖️ Sud qarori chiqarishda:",
+        "🕌 Diniy taassublar ANIQ isbotlangan mi?",
+        "🎯 Diniy e'tiqod bog'liq mi?",
+        "⬇️ Kamsitish/adovat maqsadi?"
+      ],
+      "qo'shimcha_malumot": [
+        "❗ TEKSHIRISH:",
+        "1️⃣ DINIY TAASSUBLAR ANIQ mi?",
+        "   🕌 Fanatizm?",
+        "   🚫 Murosasizlik?",
+        "   ✅ Aniq dalil?",
+        "",
+        "2️⃣ DINIY E'TIQOD?",
+        "   - Jabrlanuvchining dini?",
+        "   - Konfessiyasi?",
+        "   - Shu bilan bog'liq?",
+        "",
+        "3️⃣ MAQSAD?",
+        "   ⬇️ Kamsitish:",
+        "   - Jabrlanuvchi past",
+        "   - Konfessiya past",
+        "   - O'zi istisno",
+        "",
+        "   💥 Adovat/nifoq:",
+        "   - Diniy adovat",
+        "   - Dinlar o'rtasida nifoq",
+        "",
+        "4️⃣ FARQ (k) dan:",
+        "   (m) - faqat DIN",
+        "   (k) - millat/irq",
+        "   → Agar din + millat → (m)",
+        "",
+        "📝 QARORGA YOZISH:",
+        "- Diniy taassublar (dalillar)",
+        "- Diniy e'tiqod bog'liq",
+        "- Maqsad (kamsitish/adovat)",
+        "- Nima uchun (m)"
+      ]
+    },
+
+    "talaba": {
+      "uslub": "o'rtacha",
+      "emoji": "📚",
+      "qo'shimcha": [
+        "📚 Eslab qoling:",
+        "🕌 Diniy taassublar = fanatizm + murosasizlik",
+        "🎯 Jabrlanuvchining dini bilan bog'liq",
+        "⬇️ Maqsad: kamsitish, adovat, nifoq",
+        "🔍 Farq (k): (m) - din, (k) - millat"
+      ],
+      "qo'shimcha_malumot": [
+        "📝 ASOSIY:",
+        "🕌 TAASSUBLAR:",
+        "- Diniy fanatizm",
+        "- Murosasizlik",
+        "- Boshqalar past",
+        "",
+        "🎯 DINIY E'TIQOD:",
+        "Jabrlanuvchining dini",
+        "",
+        "⬇️ MAQSAD:",
+        "Kamsitish, adovat, nifoq"
+      ]
+    },
+
+    "oddiy_fuqaro": {
+      "uslub": "norasmiy",
+      "emoji": "👨",
+      "qo'shimcha": [
+        "💬 Oddiy qilib:",
+        "🕌 Dini uchun yomon ko'rdi",
+        "⬇️ Boshqa dinni past qildi",
+        "⛓️ Og'ir jazo (15-25 yil)"
+      ],
+      "qo'shimcha_malumot": [
+        "🕌 Dini uchun nafrat",
+        "⬇️ Past qilish",
+        "⛓️ 15-25 yil"
+      ]
+    }
+  },
+
+  "javob_uzunligi": {
+    "qisqa": {
+      "shablon": "🕌 JK 97-2(m): Diniy taassublar. Fanatizm. ⬇️ Kamsitish. 💥 Adovat/nifoq. Farq (k): (m) - din."
+    },
+    "o'rtacha": {
+      "shablon": "JK 97-2(m): Diniy taassublar zamirida o'ldirish. Taassublar: fanatizm, murosasizlik. Holat: jabrlanuvchining diniy e'tiqodi bilan bog'liq. Maqsad: konfessiya kamsitish, adovat/nifoq. Aybdor: jabrlanuvchi past, o'zi istisno. Farq (k): (m) - din, (k) - millat."
+    },
+    "batafsil": {
+      "shablon": "🕌 JK 97-2(m): Diniy taassublar zamirida o'ldirish. TAASSUBLAR: diniy fanatizmga asoslangan g'oyalar, boshqalarga murosasizlik, haddan oshgan e'tiqod. HOLAT: jabrlanuvchining DINIY E'TIQODI bilan bog'liq (konfessiya). MAQSAD: konfessiya qadr-qimmatini KAMSITISH, diniy ADOVAT/NIFOQ yaratish. Aybdor ko'rinishi: jabrlanuvchi PAST (konfessiya uchun), o'zi mansub din ISTISNO. FARQ milliy (k): (m) - faqat DIN sababi, (k) - millat/irq. Taassublar: diniy fanatizm, kundalik hayotda o'zgarmas amal, murosasizlik. Jazo: 15-25 yil yoki umrbod."
+    }
+  },
+
+  "1_diniy_taassublar_tushunchasi": {
+    "emoji": "🕌",
+    "sarlavha": "DINIY TAASSUBLAR - asosiy tushuncha",
+
+    "tasnif": {
+      "modda": "JK 97-2(m)",
+      "nom": "Diniy taassublar zamirida o'ldirish",
+      "og'irlashtiruvchi": "Diniy fanatizm",
+      "jazo": "⛓️ 15-25 yil yoki umrbod"
+    },
+
+    "ta_rif": {
+      "nom": "Diniy taassublar",
+      "ma_no": "Diniy fanatizmga asoslangan g'oyalar, murosasizlik",
+
+      "3_belgi": {
+        "1_fanatizm": {
+          "emoji": "🕌",
+          "nom": "Diniy fanatizm",
+          "ta_rif": "Haddan oshgan, ekstremistik diniy e'tiqod",
+          "misollar": [
+            "Diniy ekstremizm",
+            "Haddan oshgan e'tiqod",
+            "Boshqalarni qabul qilmaslik"
+          ]
+        },
+
+        "2_amal_qilish": {
+          "emoji": "📿",
+          "nom": "O'zgarmas amal qilish",
+          "ta_rif": "Kundalik hayotda qat'iy amal qilish",
+          "misollar": [
+            "Qat'iy urf-odat",
+            "Hech qanday o'zgarish yo'q",
+            "Faqat o'z yo'li"
+          ]
+        },
+
+        "3_murosasizlik": {
+          "emoji": "🚫",
+          "nom": "Murosasizlik",
+          "ta_rif": "Boshqa din e'tiqod qiluvchilarga murosasiz",
+          "misollar": [
+            "Boshqa din - yomon",
+            "Faqat o'zi to'g'ri",
+            "Boshqacha fikr - gunoh"
+          ]
+        }
+      }
+    }
+  },
+
+  "2_diniy_etiqod_bogliq": {
+    "emoji": "🎯",
+    "sarlavha": "DINIY E'TIQOD bilan bog'liq",
+
+    "qoida": {
+      "emoji": "📋",
+      "asosiy": "Jabrlanuvchining DINIY E'TIQODI bilan bog'liq",
+      "ma_no": "Din, konfessiya sabab bo'lgan"
+    },
+
+    "diniy_etiqod": {
+      "emoji": "🕌",
+      "nom": "Diniy e'tiqod",
+
+      "turlar": [
+        "🕌 Islam",
+        "✝️ Xristianlik",
+        "✡️ Yahudiylik",
+        "🕉️ Hinduizm",
+        "☸️ Buddizm",
+        "🔯 Boshqa dinlar"
+      ],
+
+      "konfessiya": {
+        "nom": "Konfessiya (oqim)",
+        "ta_rif": "Din ichidagi yo'nalish",
+        "misollar": [
+          "Sunniylik, shi'alik (Islam)",
+          "Pravoslav, katolik (Xristian)",
+          "Boshqa oqimlar"
+        ]
+      }
+    },
+
+    "muhim": {
+      "emoji": "❗",
+      "qoida": "O'ldirish DINIY E'TIQOD SABAB bo'lishi kerak",
+      "agar_yoq": "Din bilan bog'liq emas → (m) yo'q"
+    }
+  },
+
+  "3_maqsad": {
+    "emoji": "🎯",
+    "sarlavha": "MAQSAD - 2 tur",
+
+    "1_kamsitish": {
+      "emoji": "⬇️",
+      "nom": "Konfessiya qadr-qimmatini KAMSITISH",
+      "ta_rif": "Din, konfessiyani past qilish, kichraytirish",
+
+      "2_tomoni": {
+        "jabrlanuvchi": {
+          "emoji": "👤",
+          "nom": "Jabrlanuvchi PAST",
+          "ma_no": "Konfessiyaga mansub bo'lgani uchun past",
+          "misol": "Sen xristian bo'lgansan, sen pastsan"
+        },
+
+        "aybdor": {
+          "emoji": "👑",
+          "nom": "O'zi mansub din ISTISNO",
+          "ma_no": "Faqat o'z dini to'g'ri, boshqalar yomon",
+          "misol": "Faqat bizning dinimiz to'g'ri, boshqalar yolg'on"
+        }
+      }
+    },
+
+    "2_adovat_nifoq": {
+      "emoji": "💥",
+      "nom": "Diniy ADOVAT yoki NIFOQ",
+      "ta_rif": "Dinlar o'rtasida ziddiyat yaratish",
+
+      "turlar": {
+        "adovat": {
+          "emoji": "😡",
+          "nom": "Diniy adovat",
+          "ma_no": "Boshqa dinga nafrat",
+          "misol": "Xristianlarni yomon ko'rish"
+        },
+
+        "nifoq": {
+          "emoji": "💥",
+          "nom": "Diniy nifoq",
+          "ma_no": "Dinlar o'rtasida ziddiyat yaratish",
+          "misol": "Musulmon va xristianlar janjali"
+        }
+      }
+    }
+  },
+
+  "4_farq_k": {
+    "emoji": "🔍",
+    "sarlavha": "FARQ JK 97-2(k) dan - milliy vs diniy",
+
+    "jk_97_2m": {
+      "emoji": "🕌",
+      "modda": "JK 97-2(m)",
+      "nom": "Diniy taassublar",
+      "sabab": "FAQAT DIN",
+      "misollar": [
+        "Xristian bo'lgani uchun",
+        "Musulmon bo'lgani uchun",
+        "Yahudiy bo'lgani uchun",
+        "Konfessiya uchun"
+      ]
+    },
+
+    "jk_97_2k": {
+      "emoji": "🌍",
+      "modda": "JK 97-2(k)",
+      "nom": "Milliy/irqiy adovat",
+      "sabab": "Millat, irq, madaniyat",
+      "misollar": [
+        "O'zbek bo'lgani uchun",
+        "Rus bo'lgani uchun",
+        "Madaniyati uchun",
+        "Urf-odati uchun"
+      ]
+    },
+
+    "ikkalasi": {
+      "emoji": "🔀",
+      "holat": "Din + Millat BIRGA",
+      "misol": "Arab musulmon bo'lgani uchun",
+      "savol": "Qaysi modda?",
+      "javob": "Asosiy sabab qaysi?",
+
+      "yechim": {
+        "asosan_din": "Agar asosan DIN → (m) ✅",
+        "asosan_millat": "Agar asosan MILLAT → (k) ✅",
+        "ikkalasi_teng": "Agar teng → (m) ustun (diniy xavfliroq)"
+      }
+    }
+  },
+
+  "5_amaliy_misollar": {
+    "emoji": "📚",
+    "sarlavha": "Amaliy misollar - to'liq tahlil",
+
+    "misol_1_xristian": {
+      "emoji": "✝️",
+      "vaziyat": "A (diniy fanatik) B ni faqat xristian bo'lgani uchun yomon ko'radi. A B ni o'ldirdi (kamsitish maqsadida).",
+      "tahlil": {
+        "taassublar": "✅ Diniy fanatizm",
+        "sabab": "Xristian bo'lgani uchun (din)",
+        "maqsad": "⬇️ Kamsitish (xristian past)",
+        "dalil": "Diniy so'kinish, nafrat"
+      },
+      "kvalifikatsiya": "JK 97-2(m)",
+      "jazo": "15-25 yil"
+    },
+
+    "misol_2_nifoq": {
+      "emoji": "💥",
+      "vaziyat": "A (ekstremist) B ni o'ldirdi. Maqsad: musulmon va xristianlar o'rtasida nifoq solish.",
+      "tahlil": {
+        "taassublar": "✅ Diniy ekstremizm",
+        "sabab": "B xristian (din)",
+        "maqsad": "💥 Diniy nifoq yaratish",
+        "natija": "Dinlar janjali"
+      },
+      "kvalifikatsiya": "JK 97-2(m)",
+      "jazo": "15-25 yil"
+    },
+
+    "misol_3_konfessiya": {
+      "emoji": "🕌",
+      "vaziyat": "A (sunni fanatik) B ni (shia) faqat shi'a bo'lgani uchun o'ldirdi.",
+      "tahlil": {
+        "taassublar": "✅ Diniy fanatizm",
+        "sabab": "Konfessiya (shi'a)",
+        "maqsad": "⬇️ Kamsitish (shi'a past)",
+        "ikkalasi": "Ikkalasi ham musulmon, lekin konfessiya farqi"
+      },
+      "kvalifikatsiya": "JK 97-2(m)",
+      "jazo": "15-25 yil"
+    },
+
+    "misol_4_shaxsiy": {
+      "emoji": "❌",
+      "vaziyat": "A (musulmon) va B (xristian) biznes borasida janjal. A B ni o'ldirdi (tamagirlik).",
+      "tahlil": {
+        "dinlar": "✅ Har xil din",
+        "sabab": "❌ TAMAGIRLIK (din emas)",
+        "janjal": "Biznes, pul",
+        "din_bogliq": "❌ Din bilan bog'liq emas"
+      },
+      "kvalifikatsiya": "❌ JK 97-2(m) EMAS",
+      "togri": "✅ JK 97-2(i) (tamagirlik)",
+      "sabab": "Din sabab emas"
+    },
+
+    "misol_5_millat_din": {
+      "emoji": "🔀",
+      "vaziyat": "A B ni o'ldirdi. A aytdi: 'Sen arab musulmonsan, shuning uchun yomonsan'.",
+      "tahlil": {
+        "millat": "Arab (millat)",
+        "din": "Musulmon (din)",
+        "ikkalasi": "Ikkalasi ham sabab",
+        "asosiy": "❓ Qaysi asosiy?"
+      },
+      "yechim": {
+        "tekshirish": "So'zlar, xatti-harakatlar",
+        "agar_din": "(m) - asosan DIN",
+        "agar_millat": "(k) - asosan MILLAT"
+      },
+      "misol_yechim": "Agar 'musulmon' ko'proq ta'kidlangan → (m)"
+    },
+
+    "misol_6_guruh": {
+      "emoji": "👥",
+      "vaziyat": "A diniy ekstremist guruh a'zosi. Guruh maqsadi - boshqa dinlarni o'ldirish. A B ni (xristian) o'ldirdi.",
+      "tahlil": {
+        "taassublar": "✅ Diniy ekstremizm",
+        "guruh": "Ekstremist guruh",
+        "sabab": "Din (xristian)",
+        "maqsad": "Kamsitish, adovat"
+      },
+      "kvalifikatsiya": "JK 97-2(m) + ekstremizm moddalari (majmui)",
+      "jazo": "Majmui"
+    }
+  },
+
+  "6_algoritm": {
+    "emoji": "🔢",
+    "sarlavha": "KVALIFIKATSIYA algoritmi",
+
+    "qadamlar": [
+      {
+        "qadam": "1️⃣ DINIY TAASSUBLAR bor mi?",
+        "tekshirish": "Fanatizm? Murosasizlik?",
+        "javob": "Ha → 2-qadam. Yo'q → (m) yo'q"
+      },
+      {
+        "qadam": "2️⃣ DINIY E'TIQOD bilan bog'liq mi?",
+        "tekshirish": "Jabrlanuvchining dini sabab?",
+        "javob": "Ha → 3-qadam. Yo'q → (m) yo'q"
+      },
+      {
+        "qadam": "3️⃣ MAQSAD nima?",
+        "tekshirish": "Kamsitish? Adovat? Nifoq?",
+        "javob": {
+          "ha": "JK 97-2(m) ✅",
+          "yoq": "❓ Shubhali"
+        }
+      }
+    ]
+  },
+
+  "7_muhim_xulosa": {
+    "emoji": "❗",
+    "asosiy": [
+      "🕌 DINIY TAASSUBLAR: fanatizm + murosasizlik",
+      "🎯 DINIY E'TIQOD bilan bog'liq (shart)",
+      "⬇️ MAQSAD: kamsitish, adovat, nifoq",
+      "👑 O'zi istisno, boshqalar past",
+      "🔍 FARQ (k): (m) - din, (k) - millat",
+      "🔀 Din + Millat → asosiy sabab muhim"
+    ]
+  },
+
+  "tushuntirish": "JK 97-2(m): Diniy taassublar zamirida o'ldirish. TAASSUBLAR: diniy fanatizmga asoslangan g'oyalar, boshqalarga murosasizlik, haddan oshgan e'tiqod, kundalik hayotda o'zgarmas amal qilish. HOLAT: jabrlanuvchining DINIY E'TIQODI (din, konfessiya) bilan BOG'LIQ bo'lishi SHART. MAQSAD: 1️⃣ Konfessiya qadr-qimmatini KAMSITISH (jabrlanuvchi past, o'zi mansub din istisno). 2️⃣ Diniy ADOVAT/NIFOQ yaratish (dinlar o'rtasida ziddiyat). FARQ JK 97-2(k): (m) - FAQAT DIN sababi, (k) - millat/irq/madaniyat. Din + Millat birga → asosiy sabab muhim (asosan din → (m), asosan millat → (k)). Dalillar: diniy so'kinish, guruh a'zoligi (ekstremist), propaganda, murosasizlik. Jazo: 15-25 yil yoki umrbod.",
+
+  "translations": {
+    "uz": "JK 97-2(m): Diniy taassublar. Fanatizm. Kamsitish. Adovat/nifoq. Farq (k): (m) - din.",
+    "ru": "УК 97-2(м): Религиозный фанатизм. Унижение. Вражда/рознь. Отличие (к): (м) - религия.",
+    "en": "CC 97-2(m): Religious fanaticism. Humiliation. Hatred/discord. Difference (k): (m) - religion."
+  }
+}

@@ -1,0 +1,448 @@
+{
+  "id": "JK-097-SHARH-003",
+  "modda_raqam": "97",
+  "sharh_raqami": 3,
+  "tur": "jinoyat_obyekti",
+
+  "_izoh": "BO'LIM 3: Jinoyat obyekti - inson hayoti va uning himoyasi",
+
+  "emoji_sarlavha": "🎯 Jinoyat obyekti - inson hayoti",
+
+  "asosiy_matn": "Qasddan odam o'ldirish jinoyatining obyekti o'zga shaxsning hayoti hisoblanadi. Jinoyat qonuni barcha odamlarning hayotini bir xilda himoya qiladi",
+
+  "sinonimlar": {
+    "obyekt": {
+      "variantlar": ["obyekt", "nishon", "maqsad", "yo'nalish"],
+      "og'irlik": 90,
+      "rasmiy": true,
+      "emoji": "🎯"
+    },
+    "o'zga shaxsning hayoti": {
+      "variantlar": ["o'zga shaxsning hayoti", "boshqa odamning joni", "begona kishining umri", "birovning hayoti"],
+      "og'irlik": 100,
+      "rasmiy": true,
+      "emoji": "💔"
+    },
+    "himoya qiladi": {
+      "variantlar": ["himoya qiladi", "muhofaza qiladi", "saqlab qoladi", "qo'riqlab turadi"],
+      "og'irlik": 85,
+      "rasmiy": false,
+      "emoji": "🛡️"
+    },
+    "bir xilda": {
+      "variantlar": ["bir xilda", "teng", "barobar", "farqsiz"],
+      "og'irlik": 90,
+      "rasmiy": true,
+      "emoji": "⚖️"
+    }
+  },
+
+  "kontekstli_javoblar": {
+    "_izoh": "Har xil foydalanuvchilar uchun javob uslublari",
+
+    "tergovchi": {
+      "uslub": "juda_rasmiy",
+      "emoji": "👮",
+      "qo'shimcha": [
+        "👮 Tergov yuritishda muhim:",
+        "🎯 Obyekt - jabrlanuvchining hayoti",
+        "💔 Hayot qachon boshlanadi va tugaydi",
+        "⚖️ Barcha hayot teng himoyalangan"
+      ],
+      "fokus": "huquqiy",
+      "qo'shimcha_malumot": [
+        "👶 Hayot boshlanishi: tug'ilish jarayoni boshlanganida",
+        "☠️ Hayot tugashi: miyaning tuzalmas halokati",
+        "⚖️ Yosh, keksa, bemor - farqi yo'q",
+        "🚫 O'z joniga qasd - JK 103 (alohida modda)",
+        "❗ Jabrlanuvchining roziligining ahamiyati yo'q"
+      ]
+    },
+
+    "advokat": {
+      "uslub": "juda_rasmiy",
+      "emoji": "👔",
+      "qo'shimcha": [
+        "⚖️ Himoyada:",
+        "❓ Hayot boshlanganmi - tekshiring",
+        "🤰 Homila bo'lsa - JK 114 (alohida)",
+        "💔 O'lim sababi aniqlangan mi"
+      ],
+      "fokus": "farqlash",
+      "qo'shimcha_malumot": [
+        "❓ Hayot hali boshlanmagan - homila → JK 114",
+        "❓ Hayot tugagan - klinik o'lim → JK 97 emas",
+        "🔍 Tibbiy ekspertiza ko'rsatmasini tekshiring"
+      ]
+    },
+
+    "sudya": {
+      "_izoh": "Sudya uchun - obyektni aniqlash",
+      "uslub": "juda_rasmiy",
+      "emoji": "⚖️",
+      "qo'shimcha": [
+        "⚖️ Sud qarori chiqarishda:",
+        "🎯 Obyekt - inson hayoti ekanligini aniqlang",
+        "⚖️ Barcha inson TENG himoyalangan",
+        "❓ Evtanaziya roziligida ham - JINOYAT"
+      ],
+      "fokus": "teng_himoya",
+      "qo'shimcha_malumot": [
+        "⚖️ TENG HIMOYA printsipi - JUDA MUHIM:",
+        "👶 Chaqaloq = 👴 Keksa = 💪 Sog'lom = 🤒 Bemor",
+        "❗ Hech qanday farq YO'Q - barchasi TENG",
+        "🚫 Evtanaziya: hatto roziligida ham - JINOYAT (JK 97)",
+        "📋 Tibbiy ekspertiza: hayot va o'lim chegaralarini aniqlaydi",
+        "💔 Hayot qiymati: ABSOLYUT, shartli emas"
+      ]
+    },
+
+    "talaba": {
+      "uslub": "o'rtacha",
+      "emoji": "📚",
+      "qo'shimcha": [
+        "📚 Eslab qoling:",
+        "🎯 Obyekt = HAYOT",
+        "⚖️ Barcha hayot = TENG himoya",
+        "💡 Evtanaziya = TAQIQ"
+      ],
+      "fokus": "asosiy_tushunchalar",
+      "qo'shimcha_malumot": [
+        "👶 Chaqaloqdan 👴 keksagacha - barchasi teng",
+        "💪 Sog'lom ham, 🤒 bemor ham - farqi yo'q",
+        "🚫 Evtanaziya O'zbekistonda taqiqlangan",
+        "📝 Formula: Obyekt = Inson hayoti (hamma teng)"
+      ]
+    },
+
+    "oddiy_fuqaro": {
+      "uslub": "norasmiy",
+      "emoji": "👨",
+      "qo'shimcha": [
+        "💬 Oddiy tilda:",
+        "💔 Har qanday insonning hayoti muhim",
+        "⚖️ Hammaning joni bir xil qimmatli",
+        "❗ Yoshidan, sog'ligidan qat'i nazar"
+      ],
+      "fokus": "sodda",
+      "qo'shimcha_malumot": [
+        "👶 Bolami, 👴 keksami - farqi yo'q",
+        "💪 Sog'lommi, 🤒 kasal mi - baribir teng",
+        "🚫 Hatta roziligi bilan ham o'ldirish mumkin emas",
+        "❗ Har bir inson hayoti qimmatli"
+      ]
+    }
+  },
+
+  "savol_turlari": {
+    "_izoh": "Qanday savollarga qanday javob beriladi",
+
+    "ta'rif": {
+      "trigger_sozlar": ["nima", "ta'rif", "obyekt", "degani"],
+      "javob": "asosiy_matn",
+      "emoji": "❓"
+    },
+    "farq": {
+      "trigger_sozlar": ["farq", "teng", "bir xil", "farqi bormi"],
+      "javob": "teng_himoya",
+      "emoji": "⚖️"
+    },
+    "boshlanish": {
+      "trigger_sozlar": ["qachon", "boshlanadi", "boshlanishi", "tugaydi"],
+      "javob": "hayot_chegaralari",
+      "emoji": "⏱️"
+    },
+    "evtanaziya": {
+      "trigger_sozlar": ["evtanaziya", "roziligi", "o'zi istasa"],
+      "javob": "evtanaziya_info",
+      "emoji": "🚫"
+    }
+  },
+
+  "javob_uzunligi": {
+    "_izoh": "Javob qanchalik batafsil bo'lishi kerak",
+
+    "qisqa": {
+      "shablon": "🎯 Obyekt = 💔 Inson hayoti (barcha 👶👴💪🤒 teng)"
+    },
+    "o'rtacha": {
+      "shablon": "Jinoyat obyekti - 💔 inson hayoti. ⚖️ Barcha odamlarning hayoti bir xilda himoyalangan: 👶 yosh, 👴 keksa, 💪 sog'lom, 🤒 bemor."
+    },
+    "batafsil": {
+      "shablon": "🎯 Qasddan odam o'ldirish jinoyatining obyekti - 💔 o'zga shaxsning HAYOTI. ⚖️ Qonun BARCHA odamlarning hayotini BIR XILDA himoya qiladi: 👶 chaqaloqdan 👴 keksagacha, 💪 sog'lomdan 🤒 bemorgacha. 🚫 Evtanaziya (hatta jabrlanuvchi roziligida ham) O'zbekistonda TAQIQLANGAN. 👶 Hayot boshlanishi: tug'ilish jarayoni boshlanganida, ☠️ tugashi: miya faoliyati to'xtashi."
+    }
+  },
+
+  "1_obyekt_tushunchasi": {
+    "_izoh": "BO'LIM 1: OBYEKT - bu nima?",
+
+    "emoji": "🎯",
+    "nom": "Jinoyat obyekti",
+    "ta'rif": "Jinoyat bilan ZARARA yetkaziladigan yoki xavf tug'diriladi MUNOSABATLAR",
+
+    "odam_oldirish_obyekti": {
+      "emoji": "💔",
+      "ta'rif": "Odam o'ldirishning obyekti - INSON HAYOTI",
+      "tushuntirish": "Jinoyat inson hayotiga zarar yetkazadi, hayot himoyalangan munosabat",
+      "muhim": "❗ Obyekt - bu HAYOT, shaxs emas"
+    },
+
+    "ozga_shaxs": {
+      "_izoh": "O'zga shaxs - bu kim?",
+      "emoji": "👤",
+      "ta'rif": "Aybdordan BOSHQA har qanday odam",
+      "tushuntirish": "O'z joniga qasd - bu alohida jinoyat (JK 103)",
+
+      "kiradi": [
+        "👶 Chaqaloq",
+        "👦 Bola",
+        "👨 Kattalar",
+        "👴 Keksalar",
+        "💪 Sog'lomlar",
+        "🤒 Bemorlar"
+      ],
+
+      "kirmaydi": {
+        "emoji": "🚫",
+        "holat": "O'zining o'zi",
+        "tushuntirish": "O'z joniga qasd - JK 103 (alohida modda)"
+      }
+    }
+  },
+
+  "2_teng_himoya": {
+    "_izoh": "BO'LIM 2: TENG HIMOYA PRINTSIPI - ENG MUHIM!",
+
+    "emoji": "⚖️",
+    "sarlavha": "Barcha odamlarning hayoti BIR XILDA himoyalangan",
+    "asosiy_qoida": "❗ HECH QANDAY FARQ YO'Q - barchasi TENG",
+
+    "yosh": {
+      "emoji": "👶",
+      "tavsif": "Yangi tug'ilgan, kichik bola",
+      "himoya": "✅ To'liq himoyalangan",
+      "misol": "Chaqaloqni o'ldirish = odam o'ldirish",
+      "ahamiyat": "Yosh farq qilmaydi - 1 kunlik ham, 100 yoshlik ham teng"
+    },
+
+    "keksa": {
+      "emoji": "👴",
+      "tavsif": "Keksa, qari, 80+ yosh",
+      "himoya": "✅ To'liq himoyalangan",
+      "misol": "90 yoshli odamni o'ldirish = odam o'ldirish",
+      "ahamiyat": "Yosh farq qilmaydi - keksa ham teng himoyalangan"
+    },
+
+    "soglom": {
+      "emoji": "💪",
+      "tavsif": "Sog'lom, kuchli odam",
+      "himoya": "✅ To'liq himoyalangan",
+      "misol": "Sportchini o'ldirish = odam o'ldirish",
+      "ahamiyat": "Sog'lik farq qilmaydi"
+    },
+
+    "bemor": {
+      "emoji": "🤒",
+      "tavsif": "Bemor, og'ir kasallikka chalingan",
+      "himoya": "✅ To'liq himoyalangan",
+      "misol": "Saraton bilan og'rigan odamni o'ldirish = odam o'ldirish",
+      "ahamiyat": "Kasallik farq qilmaydi - bemor ham teng himoyalangan",
+
+      "tuzalmas_kasallik": {
+        "_izoh": "Hatto tuzalmaydigan kasallik bo'lsa ham",
+        "emoji": "🤒",
+        "holat": "Tuzalmaydigan kasallikdagi bemor",
+        "himoya": "✅ To'liq himoyalangan",
+        "misol": "Saraton 4-bosqich bemorni o'ldirish = odam o'ldirish",
+        "muhim": "❗ Kasallik tuzalmaydigan bo'lsa ham - farq yo'q!"
+      }
+    },
+
+    "asosiy_xulosa": "⚖️ BARCHASI TENG: 👶 = 👴 = 💪 = 🤒"
+  },
+
+  "3_hayot_boshlanishi": {
+    "_izoh": "BO'LIM 3: HAYOT QACHON BOSHLANADI?",
+
+    "emoji": "👶",
+    "sarlavha": "Hayotning boshlanishi",
+    "vaqt": "Ona qornidan chaqaloq tana a'zosining bir qismi chiqishi bilan",
+    "muhim": "❗ Shu vaqtdan e'tiboran HAYOT hisoblanadi",
+    "tushuntirish": "Tug'ilish jarayoni boshlanganida hayot boshlanadi",
+
+    "batafsil": {
+      "moment": "Tug'ilish jarayoni BOSHLANGANDA",
+      "belgi": "Chaqaloqning istalgan qismi (bosh, oyoq, qo'l) tashqariga chiqqanda",
+      "natija": "Shu momentdan HAYOT boshlanadi",
+      "misol": "✅ Tug'ilish paytida chaqaloqni o'ldirish = odam o'ldirish (JK 97)"
+    },
+
+    "homiladan_farqi": {
+      "_izoh": "Homila va chaqaloq - farqi",
+      "homila": {
+        "emoji": "🤰",
+        "holat": "Hali tug'ilmagan, ona qornida",
+        "himoya": "JK 114 (jinoiy homila tushirish)",
+        "muhim": "❗ Bu odam o'ldirish EMAS, alohida modda"
+      },
+      "chaqaloq": {
+        "emoji": "👶",
+        "holat": "Tug'ilish boshlangan",
+        "himoya": "JK 97 (odam o'ldirish)",
+        "muhim": "❗ Shu momentdan HAYOT boshlanadi"
+      }
+    }
+  },
+
+  "4_hayot_tugashi": {
+    "_izoh": "BO'LIM 4: HAYOT QACHON TUGAYDI?",
+
+    "emoji": "☠️",
+    "sarlavha": "Hayotning tugashi",
+    "vaqt": "Miyaning tuzalmas halokati (biologik o'lim)",
+    "muhim": "❗ Klinik o'lim emas, BIOLOGIK o'lim",
+    "tushuntirish": "Miya faoliyati to'xtashi bilan hayot tugaydi",
+
+    "batafsil": {
+      "biologik_olim": {
+        "emoji": "☠️",
+        "ta'rif": "Miyaning tuzalmas halokati",
+        "belgilari": [
+          "Miya faoliyati to'xtadi",
+          "Qaytarib bo'lmaydigan holat",
+          "Tibbiy ekspertiza tasdiqladi"
+        ],
+        "natija": "Hayot TUGADI"
+      },
+
+      "klinik_olim": {
+        "emoji": "⚠️",
+        "ta'rif": "Nafas va yurak to'xtashi (vaqtinchalik)",
+        "muhim": "❗ Bu hali hayot tugashi EMAS!",
+        "tushuntirish": "Qaytarish mumkin (reanimatsiya)",
+        "misol": "Klinik o'limda odamni o'ldirish = odam o'ldirish (hali tirik)"
+      }
+    }
+  },
+
+  "5_evtanaziya": {
+    "_izoh": "BO'LIM 5: EVTANAZIYA - O'ZBEKISTONDA TAQIQ!",
+
+    "emoji": "🚫",
+    "sarlavha": "Evtanaziya O'zbekistonda TAQIQLANGAN",
+    "holat": "Hatta jabrlanuvchining roziligida ham o'ldirish - JINOYAT",
+
+    "ta'rif": "Evtanaziya - bemor iltimosiga ko'ra yoki uning roziligida o'ldirish (azobdan qutqarish maqsadida)",
+
+    "turlar": {
+      "aktiv": {
+        "emoji": "💉",
+        "nom": "Aktiv evtanaziya",
+        "tavsif": "Bemor o'ldirish uchun faol harakat",
+        "misol": "Og'ir bemor so'rasa ham, zahar berish yoki ukol qilish",
+        "natija": "❌ TAQIQ - odam o'ldirish (JK 97)"
+      },
+      "passiv": {
+        "emoji": "🔌",
+        "nom": "Passiv evtanaziya",
+        "tavsif": "Davolashni to'xtatish, apparatni o'chirish",
+        "misol": "Bemor iltimosiga ko'ra sun'iy nafas olish apparatini o'chirish",
+        "natija": "❌ TAQIQ - odam o'ldirish (JK 97)"
+      }
+    },
+
+    "muhim": "⚠️ Hatta jabrlanuvchining ROZILIGIDA ham o'ldirish - JINOYAT!",
+
+    "sabab": {
+      "_izoh": "Nega evtanaziya taqiqlangan?",
+      "1": "💔 Hayot - eng oliy qadriyat",
+      "2": "⚖️ Barcha hayot teng himoyalangan",
+      "3": "🚫 Roziligi ahamiyatga ega emas",
+      "4": "❗ Odam o'z hayotidan voz kecha olmaydi"
+    },
+
+    "dunyo_amaliyoti": {
+      "_izoh": "Dunyoda evtanaziya",
+      "bazilar": {
+        "emoji": "🌍",
+        "davlatlar": "Ba'zi davlatlarda qonuniy (Gollandiya, Belgiya, Shveytsariya)",
+        "lekin": "O'zbekistonda TAQIQ!"
+      },
+      "ozbekiston": {
+        "emoji": "🇺🇿",
+        "holat": "O'zbekistonda har qanday evtanaziya TAQIQLANGAN",
+        "natija": "JK 97 - Odam o'ldirish"
+      }
+    }
+  },
+
+  "6_homila": {
+    "_izoh": "BO'LIM 6: HOMILA - ALOHIDA MODDA",
+
+    "emoji": "🤰",
+    "sarlavha": "Homilani sun'iy tushirish",
+    "muhim": "❗ Bu odam o'ldirish EMAS, alohida modda",
+
+    "qonuniy": {
+      "emoji": "✅",
+      "shart": "Homilador ayolning roziligida",
+      "natija": "Jinoyat EMAS (qonuniy asos bor)",
+      "tushuntirish": "Ma'lum muddatda va shartlarda qonuniy"
+    },
+
+    "qonunsiz": {
+      "emoji": "❌",
+      "shart": "Homilador ayolning roziligisiz",
+      "natija": "Jinoyat - JK 114 (jinoiy homila tushirish)",
+      "tushuntirish": "Lekin bu odam o'ldirish EMAS, alohida modda",
+      "farq": "Homila hali HAYOT boshlanmagan"
+    }
+  },
+
+  "7_muhim_xulosa": {
+    "_izoh": "BO'LIM 7: MUHIM XULOSA",
+
+    "emoji": "❗",
+    "asosiy": "Obyekt - INSON HAYOTI. Barcha hayot TENG himoyalangan.",
+    "teng_himoya": "👶 = 👴 = 💪 = 🤒 - HECH QANDAY FARQ YO'Q",
+    "evtanaziya": "🚫 Evtanaziya TAQIQ - hatta roziligida ham",
+    "hayot_chegaralari": "👶 Boshlanishi: tug'ilish boshlandi. ☠️ Tugashi: miya halokati"
+  },
+
+  "muhim_qoida": "⚖️ BARCHA odamlarning hayoti BIR XILDA himoyalangan: 👶 yosh, 👴 keksa, 💪 sog'lom, 🤒 bemor - FARQI YO'Q",
+
+  "tushuntirish": "Jinoyat obyekti - bu 💔 INSON HAYOTI. Qonun 👶 chaqaloqdan 👴 keksagacha, 💪 sog'lomdan 🤒 bemorgacha BARCHASINI bir xilda 🛡️ himoya qiladi. 🚫 Evtanaziya (hatta roziligi bilan ham) TAQIQLANGAN. 👶 Hayot tug'ilish boshlanganida boshlanadi, ☠️ miya halokati bilan tugaydi.",
+
+  "misollar": {
+    "teng_himoya": [
+      {
+        "emoji": "👶",
+        "holat": "3 kunlik chaqaloqni o'ldirish",
+        "natija": "✅ Odam o'ldirish (yoshi farq qilmaydi)"
+      },
+      {
+        "emoji": "👴",
+        "holat": "95 yoshli odamni o'ldirish",
+        "natija": "✅ Odam o'ldirish (yoshi farq qilmaydi)"
+      },
+      {
+        "emoji": "🤒",
+        "holat": "Og'ir kasallikdagi bemorni o'ldirish",
+        "natija": "✅ Odam o'ldirish (kasalligi farq qilmaydi)"
+      }
+    ],
+    "evtanaziya": [
+      {
+        "emoji": "🚫",
+        "holat": "Bemor azobdan qutulish uchun so'raydi, shifokor roziligi bilan o'ldiradi",
+        "natija": "❌ JINOYAT - odam o'ldirish (JK 97)"
+      }
+    ]
+  },
+
+  "translations": {
+    "uz": "Obyekt - inson hayoti. Barcha hayot teng himoyalangan. Evtanaziya taqiq.",
+    "ru": "Объект - жизнь человека. Все жизни защищены одинаково. Эвтаназия запрещена.",
+    "en": "Object - human life. All lives are equally protected. Euthanasia is prohibited."
+  }
+}

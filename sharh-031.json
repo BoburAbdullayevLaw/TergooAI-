@@ -1,0 +1,638 @@
+{
+  "id": "JK-097-SHARH-031",
+  "modda_raqam": "97",
+  "sharh_raqami": 31,
+  "tur": "takroran_xavfli_retsidivist",
+
+  "_izoh": "BO'LIM 31: JK 97-2(r) - Takroran yoki xavfli retsidivist tomonidan o'ldirish (32-bo'lim sharxi)",
+
+  "emoji_sarlavha": "🔄 Takroran/Xavfli retsidivist",
+
+  "asosiy_matn": "JK 97-2(r): Takroran yoki xavfli retsidivist tomonidan qasddan odam o'ldirish. 2 TUR: 1️⃣ TAKRORAN - oldin qasddan o'ldirgan, SUDLANMAGAN, javobgarlik muddati O'TMAGAN. 2️⃣ XAVFLI RETSIDIVIST - oldin qasddan o'ldirgan uchun SUDLANGAN, sudlanganlik holati TUGALLANMAGAN yoki OLIB TASHLANMAGAN. ❌ AHAMIYATI YO'Q: tamom bo'lgan qotillik yoki suiqasd, bajaruvchi yoki ishtirokchi. Terrorizm/Prezidentga tajovuz (o'ldirish bilan bog'liq) → (r) ✅. 🔍 FARQ (a) dan: (a) - ikki+ odam, YAGONA QASD. (r) - takror, YAGONA QASD YO'Q, har xil vaqt. Jazo: 15-25 yil yoki umrbod.",
+
+  "sinonimlar": {
+    "takroran": {
+      "variantlar": ["takroran", "qayta", "yana", "ikkinchi marta", "yana bir bor"],
+      "og'irlik": 95,
+      "rasmiy": true,
+      "emoji": "🔄"
+    },
+    "retsidivist": {
+      "variantlar": ["retsidivist", "xavfli retsidivist", "avval sudlangan", "jinoiy qaydnoma"],
+      "og'irlik": 90,
+      "rasmiy": true,
+      "emoji": "⚖️"
+    },
+    "sudlanganlik": {
+      "variantlar": ["sudlanganlik", "jinoiy javobgarlik", "sud qarori", "hukm", "jazoni o'tash"],
+      "og'irlik": 85,
+      "rasmiy": true,
+      "emoji": "📋"
+    }
+  },
+
+  "kontekstli_javoblar": {
+    "tergovchi": {
+      "uslub": "juda_rasmiy",
+      "emoji": "👮",
+      "qo'shimcha": [
+        "👮 Tergov yuritishda:",
+        "🔄 OLDINGI jinoyat borligini aniqlash",
+        "📋 SUDLANGANLIK holatini tekshirish",
+        "⏰ MUDDAT o'tgan yoki o'tmaganini aniqlash"
+      ],
+      "qo'shimcha_malumot": [
+        "❗ ANIQLASH KERAK:",
+        "1️⃣ OLDINGI JINOYAT bor mi?",
+        "   - Qasddan o'ldirish?",
+        "   - Qachon sodir etilgan?",
+        "   - Tamom yoki suiqasd?",
+        "",
+        "2️⃣ SUDLANGANLIK?",
+        "   - Sudlangan mi?",
+        "   - Sudlanmagan mi?",
+        "   - Sud qarori bor mi?",
+        "",
+        "3️⃣ MUDDAT?",
+        "   - Javobgarlik muddati o'tgan mi?",
+        "   - Sudlanganlik tugallangan mi?",
+        "   - Olib tashlangan mi?",
+        "",
+        "🔄 TAKRORAN (SUDLANMAGAN):",
+        "✅ Oldin qasddan o'ldirgan",
+        "❌ SUDLANMAGAN",
+        "⏰ Javobgarlik muddati O'TMAGAN",
+        "→ JK 97-2(r) ✅",
+        "",
+        "⚖️ XAVFLI RETSIDIVIST (SUDLANGAN):",
+        "✅ Oldin qasddan o'ldirgan",
+        "✅ SUDLANGAN",
+        "❌ Sudlanganlik tugallanmagan/olib tashlanmagan",
+        "→ JK 97-2(r) ✅",
+        "",
+        "📊 DALILLAR:",
+        "- Jinoiy ish materiallari",
+        "- Sud qarori (hukm)",
+        "- Sudlanganlik to'g'risida ma'lumotnoma",
+        "- Jazoni o'tagan/o'tamaganlik",
+        "- Rehabilitatsiya hujjatlari",
+        "",
+        "❌ AHAMIYATI YO'Q:",
+        "- Tamom yoki suiqasd",
+        "- Bajaruvchi yoki ishtirokchi",
+        "- JK 97 qaysi qismi"
+      ]
+    },
+
+    "advokat": {
+      "uslub": "juda_rasmiy",
+      "emoji": "👔",
+      "qo'shimcha": [
+        "⚖️ Himoya strategiyasi:",
+        "❌ Oldingi jinoyat YO'Q yoki BOSHQA jinoyat",
+        "⏰ MUDDAT o'tgan (javobgarlik)",
+        "📋 SUDLANGANLIK tugallangan/olib tashlangan",
+        "📉 JK 97-2(r) dan JK 97-1 ga"
+      ],
+      "qo'shimcha_malumot": [
+        "🎯 MAQSAD: (r) belgini olib tashlash",
+        "",
+        "❌ OLDINGI JINOYAT YO'Q:",
+        "- Qasddan o'ldirish yo'q",
+        "- Boshqa jinoyat (o'g'irlik, zo'rlash)",
+        "- Isbotlanmagan",
+        "→ (r) yo'q",
+        "",
+        "⏰ MUDDAT O'TGAN:",
+        "- Javobgarlik muddati o'tgan",
+        "- 10-15 yil o'tgan",
+        "→ (r) yo'q",
+        "",
+        "📋 SUDLANGANLIK TUGALLANGAN:",
+        "- Amnistiya",
+        "- Avf",
+        "- Muddat o'tdi",
+        "→ (r) yo'q",
+        "",
+        "📋 SUDLANGANLIK OLIB TASHLANGAN:",
+        "- Rehabilitatsiya",
+        "→ (r) yo'q",
+        "",
+        "📉 97-2(r) → 97-1:",
+        "15-25 yil → 10-15 yil"
+      ]
+    },
+
+    "sudya": {
+      "uslub": "juda_rasmiy",
+      "emoji": "⚖️",
+      "qo'shimcha": [
+        "⚖️ Sud qarori chiqarishda:",
+        "🔄 Oldingi jinoyat ANIQ tasdiqlanganmi?",
+        "📋 Sudlanganlik HOLATI qanday?",
+        "⏰ MUDDATLAR to'g'ri hisoblanganmi?"
+      ],
+      "qo'shimcha_malumot": [
+        "❗ TEKSHIRISH:",
+        "1️⃣ OLDINGI JINOYAT?",
+        "   - Qasddan o'ldirish?",
+        "   - Terrorizm (o'ldirish bilan)?",
+        "   - Prezidentga tajovuz?",
+        "   - Tamom yoki suiqasd?",
+        "   - Bajaruvchi yoki ishtirokchi?",
+        "",
+        "2️⃣ TAKRORAN yoki RETSIDIVIST?",
+        "   🔄 TAKRORAN:",
+        "   - ❌ Sudlanmagan",
+        "   - ⏰ Muddat o'tmagan",
+        "",
+        "   ⚖️ RETSIDIVIST:",
+        "   - ✅ Sudlangan",
+        "   - ❌ Tugallanmagan/olib tashlanmagan",
+        "",
+        "3️⃣ MUDDATLAR?",
+        "   📅 Javobgarlik muddati:",
+        "   - O'tgan mi?",
+        "   - Qachon boshlanadi?",
+        "   - Qancha?",
+        "",
+        "   📋 Sudlanganlik:",
+        "   - Tugallangan mi?",
+        "   - Olib tashlangan mi?",
+        "   - Qanday yo'l bilan?",
+        "",
+        "4️⃣ FARQ (a) dan?",
+        "   (a) - ikki+ odam, YAGONA QASD",
+        "   (r) - takror, YAGONA QASD YO'Q",
+        "",
+        "📝 QARORGA YOZISH:",
+        "- Oldingi jinoyat (aniq ma'lumot)",
+        "- Sudlanganlik holati",
+        "- Muddatlar hisoblash",
+        "- Nima uchun (r) belgi"
+      ]
+    },
+
+    "talaba": {
+      "uslub": "o'rtacha",
+      "emoji": "📚",
+      "qo'shimcha": [
+        "📚 Eslab qoling:",
+        "🔄 Takroran: sudlanmagan + muddat o'tmagan",
+        "⚖️ Retsidivist: sudlangan + tugallanmagan",
+        "❌ Ahamiyati yo'q: tamom/suiqasd, bajaruvchi/ishtirokchi",
+        "🔍 Farq (a): (r) - yagona qasd yo'q"
+      ],
+      "qo'shimcha_malumot": [
+        "📝 ASOSIY QOIDALAR:",
+        "",
+        "🔄 TAKRORAN:",
+        "1. Oldin o'ldirgan",
+        "2. Sudlanmagan",
+        "3. Muddat o'tmagan",
+        "",
+        "⚖️ XAVFLI RETSIDIVIST:",
+        "1. Oldin o'ldirgan",
+        "2. Sudlangan",
+        "3. Tugallanmagan",
+        "",
+        "🔍 FARQ JK 97-2(a):",
+        "(a) - YAGONA QASD",
+        "(r) - YAGONA QASD YO'Q",
+        "",
+        "❌ AHAMIYATI YO'Q:",
+        "- Tamom/suiqasd",
+        "- Bajaruvchi/ishtirokchi"
+      ]
+    },
+
+    "oddiy_fuqaro": {
+      "uslub": "norasmiy",
+      "emoji": "👨",
+      "qo'shimcha": [
+        "💬 Oddiy qilib:",
+        "🔄 Oldin ham o'ldirgan",
+        "⚖️ Sud jazosini olgan yoki olmagan",
+        "⛓️ Og'ir jazo (15-25 yil)"
+      ],
+      "qo'shimcha_malumot": [
+        "💬 Sodda tilda:",
+        "",
+        "🔄 IKKINCHI MARTA:",
+        "Agar odam oldin ham kimnidir o'ldirgan bo'lsa,",
+        "va yana o'ldirsa → og'ir jazo",
+        "",
+        "⚖️ 2 TUR:",
+        "1. Oldin sudlanmagan → takroran",
+        "2. Oldin sudlangan → retsidivist",
+        "",
+        "⛓️ JAZO:",
+        "15-25 yil yoki umrbod"
+      ]
+    }
+  },
+
+  "javob_uzunligi": {
+    "qisqa": {
+      "shablon": "🔄 JK 97-2(r): Takroran (sudlanmagan+muddat yo'q) yoki Xavfli retsidivist (sudlangan+tugallanmagan). Farq (a): yagona qasd yo'q."
+    },
+    "o'rtacha": {
+      "shablon": "JK 97-2(r): Takroran (oldin o'ldirgan, sudlanmagan, muddat o'tmagan) yoki xavfli retsidivist (sudlangan, tugallanmagan/olib tashlanmagan) tomonidan o'ldirish. Ahamiyati yo'q: tamom/suiqasd, bajaruvchi/ishtirokchi. Terrorizm → (r). Farq (a): (r) - yagona qasd yo'q, har xil vaqt."
+    },
+    "batafsil": {
+      "shablon": "🔄 JK 97-2(r): Takroran yoki xavfli retsidivist tomonidan qasddan odam o'ldirish. 2 TUR: 1️⃣ TAKRORAN - oldin qasddan o'ldirgan, SUDLANMAGAN, javobgarlik muddati O'TMAGAN. 2️⃣ XAVFLI RETSIDIVIST - oldin qasddan o'ldirgan uchun SUDLANGAN, sudlanganlik holati TUGALLANMAGAN yoki OLIB TASHLANMAGAN. ❌ AHAMIYATI YO'Q: tamom bo'lgan qotillik yoki suiqasd, bajaruvchi yoki ishtirokchi. Terrorizm/Prezidentga tajovuz (o'ldirish bilan bog'liq) → (r) ✅. 🔍 FARQ JK 97-2(a): (a) - ikki+ odam, YAGONA QASD, bir vaqtda. (r) - takror, YAGONA QASD YO'Q, har xil vaqtda, alohida qasdlar. Jazo: 15-25 yil yoki umrbod."
+    }
+  },
+
+  "1_asosiy_tushuncha": {
+    "emoji": "🔄",
+    "sarlavha": "TAKRORAN/RETSIDIVIST - asosiy tushuncha",
+
+    "tasnif": {
+      "modda": "JK 97-2(r)",
+      "nom": "Takroran yoki xavfli retsidivist tomonidan o'ldirish",
+      "og'irlashtiruvchi": "Oldin ham o'ldirgan",
+      "jazo": "⛓️ 15-25 yil yoki umrbod"
+    },
+
+    "asosiy_shart": {
+      "emoji": "❗",
+      "muhim": "OLDIN ham qasddan o'ldirish jinoyati sodir etgan",
+      "ma_no": "Ikkinchi (yoki undan ko'p) marta o'ldirish"
+    },
+
+    "2_tur": {
+      "emoji": "🔢",
+      "sarlavha": "2 TUR",
+
+      "tur_1_takroran": {
+        "emoji": "🔄",
+        "nom": "TAKRORAN (sudlanmagan)",
+        "shartlar": [
+          "✅ Oldin qasddan o'ldirgan",
+          "❌ SUDLANMAGAN (sud jarayoni bo'lmagan)",
+          "⏰ Javobgarlik muddati O'TMAGAN"
+        ],
+        "misol": "A 2020-yilda B ni o'ldirdi (aniqlangmagan). 2024-yilda C ni o'ldirdi. A ushlandi.",
+        "natija": "TAKRORAN ✅"
+      },
+
+      "tur_2_retsidivist": {
+        "emoji": "⚖️",
+        "nom": "XAVFLI RETSIDIVIST (sudlangan)",
+        "shartlar": [
+          "✅ Oldin qasddan o'ldirgan",
+          "✅ SUDLANGAN (sud qarori bor)",
+          "❌ Sudlanganlik TUGALLANMAGAN",
+          "❌ Sudlanganlik OLIB TASHLANMAGAN"
+        ],
+        "misol": "A 2010-yilda D ni o'ldirdi. Sudlangan, 12 yil jazo. 2018-yilda ozod etildi. 2022-yilda E ni o'ldirdi.",
+        "natija": "XAVFLI RETSIDIVIST ✅"
+      }
+    }
+  },
+
+  "2_takroran": {
+    "emoji": "🔄",
+    "sarlavha": "TAKRORAN - sudlanmagan",
+
+    "shartlar": {
+      "1_oldirish": {
+        "emoji": "✅",
+        "shart": "Oldin QASDDAN O'LDIRISH jinoyati sodir etgan",
+        "muhim": "Aniq qasddan o'ldirish bo'lishi kerak"
+      },
+
+      "2_sudlanmagan": {
+        "emoji": "❌",
+        "shart": "SUDLANMAGAN",
+        "ma_no": "Sud jarayoni bo'lmagan, hukm chiqarilmagan",
+        "sabab": [
+          "Aniqlangmagan",
+          "Qochib ketgan",
+          "Ushlangmagan",
+          "Sud bo'lmagan"
+        ]
+      },
+
+      "3_muddat": {
+        "emoji": "⏰",
+        "shart": "Javobgarlik muddati O'TMAGAN",
+        "muddat": "10-15 yil (jinoyatga qarab)",
+        "boshlanish": "Jinoyat sodir etilgan kundan",
+        "muhim": "Muddat o'tgan bo'lsa → (r) yo'q"
+      }
+    },
+
+    "misol": {
+      "emoji": "📚",
+      "holat": "2021-yilda A B ni o'ldirdi (aniqlangmagan). 2024-yilda A C ni o'ldirdi. A ushlandi.",
+      "tahlil": {
+        "1_oldirish": "✅ 2021 - B ni o'ldirdi",
+        "sudlanganlik": "❌ Sudlanmagan (aniqlangmagan)",
+        "muddat": "⏰ 3 yil (10 yildan kam) - o'tmagan",
+        "2_oldirish": "✅ 2024 - C ni o'ldirdi"
+      },
+      "natija": "TAKRORAN ✅",
+      "kvalifikatsiya": "JK 97-2(r)",
+      "jazo": "15-25 yil"
+    }
+  },
+
+  "3_xavfli_retsidivist": {
+    "emoji": "⚖️",
+    "sarlavha": "XAVFLI RETSIDIVIST - sudlangan",
+
+    "shartlar": {
+      "1_oldirish": {
+        "emoji": "✅",
+        "shart": "Oldin QASDDAN O'LDIRISH uchun jinoyat sodir etgan",
+        "muhim": "Qasddan o'ldirish bo'lishi kerak"
+      },
+
+      "2_sudlangan": {
+        "emoji": "✅",
+        "shart": "SUDLANGAN",
+        "ma_no": "Sud jarayoni bo'lgan, hukm chiqarilgan",
+        "dalil": [
+          "Sud qarori (hukm)",
+          "Jazoni o'tagan",
+          "Jinoiy ish materiallari"
+        ]
+      },
+
+      "3_tugallanmagan": {
+        "emoji": "❌",
+        "shart": "Sudlanganlik TUGALLANMAGAN",
+        "ma_no": "Sudlanganlik holati hali tugamagan",
+        "sabab": [
+          "Amnistiya yo'q",
+          "Avf yo'q",
+          "Muddat o'tmagan"
+        ]
+      },
+
+      "4_olib_tashlanmagan": {
+        "emoji": "❌",
+        "shart": "Sudlanganlik OLIB TASHLANMAGAN",
+        "ma_no": "Sudlanganlik qonuniy yo'l bilan olib tashlanmagan",
+        "sabab": [
+          "Rehabilitatsiya yo'q",
+          "Sud qarori yo'q"
+        ]
+      }
+    },
+
+    "misol": {
+      "emoji": "📚",
+      "holat": "2010-yilda A D ni o'ldirdi. Sudlangan, 12 yil jazo oldi. 2018-yilda ozod etildi. 2022-yilda A E ni o'ldirdi.",
+      "tahlil": {
+        "1_oldirish": "✅ 2010 - D ni o'ldirdi",
+        "sudlanganlik": "✅ Sudlangan (12 yil)",
+        "tugallash": "❌ Sudlanganlik tugallanmagan (2030 gacha)",
+        "2_oldirish": "✅ 2022 - E ni o'ldirdi"
+      },
+      "natija": "XAVFLI RETSIDIVIST ✅",
+      "kvalifikatsiya": "JK 97-2(r)",
+      "jazo": "15-25 yil"
+    }
+  },
+
+  "4_ahamiyati_yoq": {
+    "emoji": "❌",
+    "sarlavha": "AHAMIYATI YO'Q - qaysi jinoyat",
+
+    "qoidalar": {
+      "tamom_suiqasd": {
+        "emoji": "🎯",
+        "qoida": "Tamom bo'lgan qotillik yoki suiqasd - AHAMIYATI YO'Q",
+        "ma_no": "Oldingi jinoyat tamom yoki suiqasd bo'lishi farqi yo'q",
+        "misollar": [
+          "✅ Tamom bo'lgan o'ldirish → (r)",
+          "✅ Suiqasd (JK 25,97) → (r)"
+        ]
+      },
+
+      "bajaruvchi_ishtirokchi": {
+        "emoji": "👥",
+        "qoida": "Bajaruvchi yoki ishtirokchi - AHAMIYATI YO'Q",
+        "ma_no": "Oldingi jinoyatda rol farqi yo'q",
+        "misollar": [
+          "✅ Bajaruvchi bo'lgan → (r)",
+          "✅ Ishtirokchi bo'lgan → (r)",
+          "✅ Uyushtiruvchi bo'lgan → (r)"
+        ]
+      },
+
+      "qaysi_qism": {
+        "emoji": "📋",
+        "qoida": "JK 97 qaysi qismi - AHAMIYATI YO'Q",
+        "ma_no": "JK 97-1 yoki 97-2 farqi yo'q",
+        "misollar": [
+          "✅ JK 97-1 (oddiy) → (r)",
+          "✅ JK 97-2 (og'ir) → (r)"
+        ]
+      }
+    }
+  },
+
+  "5_terrorizm": {
+    "emoji": "💣",
+    "sarlavha": "TERRORIZM - maxsus holat",
+
+    "qoida": {
+      "emoji": "📋",
+      "asosiy": "Terrorizm yoki Prezidentga tajovuz (o'ldirish bilan bog'liq) → (r)",
+      "ma_no": "Bu jinoyatlar ham o'ldirish bilan bog'liq"
+    },
+
+    "2_jinoyat": {
+      "1_terrorizm": {
+        "emoji": "💣",
+        "modda": "JK 155 - Terrorizm",
+        "shart": "O'ldirish bilan bog'liq bo'lishi kerak",
+        "misol": "Terrorizm natijasida odam o'lgan",
+        "natija": "Agar keyin o'ldirsa → (r) ✅"
+      },
+
+      "2_prezident": {
+        "emoji": "👑",
+        "modda": "JK 157 - Prezidentning hayotiga tajovuz",
+        "shart": "O'ldirish maqsadi",
+        "misol": "Prezidentni o'ldirmoqchi bo'lgan",
+        "natija": "Agar keyin o'ldirsa → (r) ✅"
+      }
+    },
+
+    "misol": {
+      "emoji": "💣",
+      "holat": "2018-yilda A terrorizm sodir etdi (portlash, 5 odam o'ldi). Sudlangan, 15 yil jazo. 2023-yilda qamoqxonada F ni o'ldirdi.",
+      "tahlil": {
+        "terrorizm": "✅ 2018 - o'ldirish bilan bog'liq",
+        "sudlanganlik": "✅ Sudlangan",
+        "oldirish": "2023 - F ni o'ldirdi"
+      },
+      "natija": "XAVFLI RETSIDIVIST ✅",
+      "kvalifikatsiya": "JK 97-2(r)",
+      "sabab": "Terrorizm (o'ldirish bilan) → (r)"
+    }
+  },
+
+  "6_farq_a": {
+    "emoji": "🔍",
+    "sarlavha": "FARQ JK 97-2(a) dan - ikki+ odam",
+
+    "jk_97_2a": {
+      "emoji": "👥",
+      "modda": "JK 97-2(a)",
+      "nom": "Ikki yoki undan ortiq shaxsni o'ldirish",
+      "belgilari": [
+        "✅ YAGONA QASD",
+        "✅ BIR VAQTDA yoki qisqa muddat",
+        "✅ BIR JOY",
+        "✅ BIR MAQSAD"
+      ],
+      "misol": "A uyda ota-onani bir vaqtda o'ldirdi (ikkalasini ham o'ldirish qasdi)"
+    },
+
+    "jk_97_2r": {
+      "emoji": "🔄",
+      "modda": "JK 97-2(r)",
+      "nom": "Takroran o'ldirish",
+      "belgilari": [
+        "❌ YAGONA QASD YO'Q",
+        "✅ HAR XIL VAQT",
+        "✅ HAR XIL JOY",
+        "✅ HAR XIL MAQSAD (odatda)"
+      ],
+      "misol": "A 2020-yilda B ni o'ldirdi. 2024-yilda C ni o'ldirdi (alohida qasdlar)"
+    },
+
+    "asosiy_farq": {
+      "emoji": "🎯",
+      "farq": "YAGONA QASD",
+      "a": "(a) - YAGONA QASD bor (ikkalasini ham bir vaqtda)",
+      "r": "(r) - YAGONA QASD YO'Q (alohida, har xil vaqtda)"
+    }
+  },
+
+  "7_amaliy_misollar": {
+    "emoji": "📚",
+    "sarlavha": "Amaliy misollar - to'liq tahlil",
+
+    "misol_1_takroran": {
+      "emoji": "🔄",
+      "vaziyat": "2021-yilda A B ni o'ldirdi (aniqlangmagan). 2024-yilda A C ni o'ldirdi. A ushlandi.",
+      "tahlil": {
+        "1_oldirish": "✅ 2021 - B ni o'ldirdi",
+        "sudlanganlik": "❌ Sudlanmagan (aniqlangmagan)",
+        "muddat": "⏰ 3 yil (10 yildan kam) - o'tmagan",
+        "2_oldirish": "✅ 2024 - C ni o'ldirdi"
+      },
+      "natija": "TAKRORAN ✅",
+      "kvalifikatsiya": "JK 97-2(r)",
+      "jazo": "15-25 yil"
+    },
+
+    "misol_2_retsidivist": {
+      "emoji": "⚖️",
+      "vaziyat": "2010-yilda A D ni o'ldirdi. Sudlangan, 12 yil jazo oldi. 2018-yilda ozod etildi. 2022-yilda A E ni o'ldirdi.",
+      "tahlil": {
+        "1_oldirish": "✅ 2010 - D ni o'ldirdi",
+        "sudlanganlik": "✅ Sudlangan (12 yil)",
+        "tugallash": "❌ Sudlanganlik tugallanmagan (2030 gacha)",
+        "2_oldirish": "✅ 2022 - E ni o'ldirdi"
+      },
+      "natija": "XAVFLI RETSIDIVIST ✅",
+      "kvalifikatsiya": "JK 97-2(r)",
+      "jazo": "15-25 yil"
+    },
+
+    "misol_3_muddat_otgan": {
+      "emoji": "⏰",
+      "vaziyat": "2008-yilda A H ni o'ldirdi (aniqlangmagan). 2024-yilda A I ni o'ldirdi. A ushlandi.",
+      "tahlil": {
+        "1_oldirish": "2008 - H ni o'ldirdi",
+        "sudlanganlik": "❌ Sudlanmagan",
+        "muddat": "⏰ 16 yil (10 yildan ko'p) - O'TGAN ✅",
+        "2_oldirish": "2024 - I ni o'ldirdi"
+      },
+      "natija": "❌ TAKRORAN EMAS",
+      "kvalifikatsiya": "❌ JK 97-2(r) EMAS",
+      "togri": "✅ JK 97-1 (oddiy)",
+      "sabab": "Muddat o'tgan → (r) yo'q"
+    },
+
+    "misol_4_farq_a": {
+      "emoji": "🔍",
+      "vaziyat": "A uyga kirdi. Xonada J va K bor. A bir vaqtda ikkalasini ham o'ldirdi (yagona qasd - ikkalasini ham o'ldirish).",
+      "tahlil": {
+        "ikki_odam": "✅ J va K (2 ta)",
+        "vaqt": "✅ BIR VAQTDA",
+        "qasd": "✅ YAGONA QASD (ikkalasini ham)",
+        "joy": "✅ BIR JOY (xona)"
+      },
+      "natija": "❌ TAKRORAN EMAS",
+      "kvalifikatsiya": "❌ JK 97-2(r) EMAS",
+      "togri": "✅ JK 97-2(a) - ikki+ odam",
+      "sabab": "Yagona qasd, bir vaqtda"
+    }
+  },
+
+  "8_algoritm": {
+    "emoji": "🔢",
+    "sarlavha": "KVALIFIKATSIYA algoritmi",
+
+    "qadamlar": [
+      {
+        "qadam": "1️⃣ OLDIN o'ldirgan mi?",
+        "tekshirish": "Qasddan o'ldirish? Terrorizm? Prezident?",
+        "javob": "Ha → 2-qadam. Yo'q → (r) yo'q"
+      },
+      {
+        "qadam": "2️⃣ SUDLANGAN mi?",
+        "tekshirish": "Sud jarayoni bo'lgan? Hukm chiqarilgan?",
+        "javob": {
+          "ha": "3-qadam (RETSIDIVIST)",
+          "yoq": "4-qadam (TAKRORAN)"
+        }
+      },
+      {
+        "qadam": "3️⃣ RETSIDIVIST - Sudlanganlik tugallangan mi?",
+        "tekshirish": "Amnistiya? Avf? Muddat? Olib tashlangan?",
+        "javob": {
+          "yoq": "JK 97-2(r) ✅ (XAVFLI RETSIDIVIST)",
+          "ha": "❌ (r) yo'q → JK 97-1"
+        }
+      },
+      {
+        "qadam": "4️⃣ TAKRORAN - Muddat o'tgan mi?",
+        "tekshirish": "Javobgarlik muddati (10-15 yil)?",
+        "javob": {
+          "yoq": "JK 97-2(r) ✅ (TAKRORAN)",
+          "ha": "❌ (r) yo'q → JK 97-1"
+        }
+      }
+    ]
+  },
+
+  "9_muhim_xulosa": {
+    "emoji": "❗",
+    "asosiy": [
+      "🔄 2 TUR: takroran (sudlanmagan) / retsidivist (sudlangan)",
+      "⏰ MUDDAT muhim: o'tmagan bo'lishi kerak",
+      "❌ AHAMIYATI YO'Q: tamom/suiqasd, bajaruvchi/ishtirokchi",
+      "💣 TERRORIZM (o'ldirish bilan) → (r) ✅",
+      "🔍 FARQ (a): (r) - yagona qasd yo'q, har xil vaqt",
+      "📋 SUDLANGANLIK: tugallanmagan/olib tashlanmagan bo'lishi kerak"
+    ]
+  },
+
+  "tushuntirish": "JK 97-2(r): Takroran yoki xavfli retsidivist tomonidan qasddan odam o'ldirish. 2 TUR: 1️⃣ TAKRORAN - oldin qasddan o'ldirish jinoyatini sodir etgan, SUDLANMAGAN, javobgarlik muddati O'TMAGAN (10-15 yil). 2️⃣ XAVFLI RETSIDIVIST - oldin qasddan o'ldirish uchun SUDLANGAN, sudlanganlik holati tugallanmagan (amnistiya/avf/muddat yo'q) yoki olib tashlanmagan (rehabilitatsiya yo'q). ❌ AHAMIYATI YO'Q: tamom bo'lgan/suiqasd (JK 25,97), bajaruvchi/ishtirokchi roli, JK 97 qaysi qismi. Terrorizm (JK 155) yoki Prezidentga tajovuz (JK 157) - o'ldirish bilan bog'liq bo'lsa → (r) ✅. 🔍 FARQ JK 97-2(a): (a) - ikki+ odam, YAGONA QASD, bir vaqtda. (r) - takror, YAGONA QASD YO'Q, har xil vaqtda, alohida qasdlar. Jazo: 15-25 yil yoki umrbod.",
+
+  "translations": {
+    "uz": "JK 97-2(r): Takroran (sudlanmagan+muddat yo'q) / Retsidivist (sudlangan+tugallanmagan). Farq (a): yagona qasd yo'q.",
+    "ru": "УК 97-2(р): Повторно (не судим+срок не истек) / Рецидивист (судим+не погашена). Отличие (а): нет единого умысла.",
+    "en": "CC 97-2(r): Repeat (not convicted+period not expired) / Recidivist (convicted+not expunged). Difference (a): no single intent."
+  }
+}

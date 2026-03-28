@@ -1,0 +1,611 @@
+{
+  "id": "JK-097-SHARH-009",
+  "modda_raqam": "97",
+  "sharh_raqami": 9,
+  "tur": "normalar_raqobati",
+
+  "_izoh": "BO'LIM 9: Normalar raqobati - JK 97 va boshqa moddalar bir vaqtda",
+
+  "emoji_sarlavha": "⚔️ Normalar raqobati - qaysi modda ustun?",
+
+  "asosiy_matn": "Shaxsiy munosabatlar tufayli o'ch olish motivi bevosita o'ldirish sodir bo'lishidan avval paydo bo'lgan holatlarda, odam o'ldirish kuchli ruhiy hayajonlanish yoki zaruriy mudofaa chegarasidan chetga chiqish yoki ijtimoiy xavfli qilmishni sodir etgan shaxsni ushlash vaqtida zarar yetkazish tufayli sodir etilmaganligini ham aniqlash lozim. Mazkur holatlarning vujudga kelishi normalar raqobati mavjudligidan guvohlik beradi, uni hal qilish umumiy va maxsus normalar raqobatida kvalifikatsiya qoidalari bo'yicha amalga oshiriladi (JKning 33-moddasi sharhiga qarang)",
+
+  "sinonimlar": {
+    "normalar raqobati": {
+      "variantlar": ["normalar raqobati", "moddalar to'qnashuvi", "qonunlar raqobati", "moddalar raqobati"],
+      "og'irlik": 95,
+      "rasmiy": true,
+      "emoji": "⚔️"
+    },
+    "umumiy norma": {
+      "variantlar": ["umumiy norma", "umumiy modda", "keng modda"],
+      "og'irlik": 85,
+      "rasmiy": true,
+      "emoji": "📋"
+    },
+    "maxsus norma": {
+      "variantlar": ["maxsus norma", "maxsus modda", "tor modda", "aniq modda"],
+      "og'irlik": 85,
+      "rasmiy": true,
+      "emoji": "🎯"
+    }
+  },
+
+  "kontekstli_javoblar": {
+    "_izoh": "Har xil foydalanuvchilar uchun javob uslublari",
+
+    "tergovchi": {
+      "uslub": "juda_rasmiy",
+      "emoji": "👮",
+      "qo'shimcha": [
+        "👮 Tergov yuritishda:",
+        "⚔️ Bir necha modda mos kelsa - normalar raqobati",
+        "🎯 Maxsus norma USTUN (JK 33)",
+        "📋 Barcha holatlarni tekshiring"
+      ],
+      "fokus": "togri_kvalifikatsiya",
+      "qo'shimcha_malumot": [
+        "1️⃣ BIR NECHA MODDA: Ikki yoki undan ko'p modda mos keladi",
+        "2️⃣ MAXSUS NORMA: Eng aniq, tor modda ustun",
+        "3️⃣ JK 33: Normalar raqobati qoidasi",
+        "4️⃣ MISOL: JK 97 vs JK 98 → JK 98 maxsus",
+        "⚠️ Faqat BITTA modda bilan kvalifikatsiya qiling"
+      ]
+    },
+
+    "advokat": {
+      "uslub": "juda_rasmiy",
+      "emoji": "👔",
+      "qo'shimcha": [
+        "⚖️ Himoya strategiyasi:",
+        "🎯 Maxsus (yengilroq) modda borligini dalillang",
+        "📉 JK 97 dan JK 98 ga o'tkazish",
+        "⚔️ Normalar raqobati qoidasini ishlatish"
+      ],
+      "fokus": "maxsus_norma",
+      "qo'shimcha_malumot": [
+        "🎯 MAXSUS NORMA QIDIRING:",
+        "💢 Kuchli hayajon → JK 98 (3-10 yil)",
+        "🛡️ Zaruriy mudofaa → JK 100 (1-3 yil)",
+        "👮 Ushlashda → JK 101 (1-3 yil)",
+        "🎯 Maqsad: JK 97 (10-25 yil) dan qochish"
+      ]
+    },
+
+    "sudya": {
+      "_izoh": "Sudya uchun - normalar raqobatini hal qilish",
+      "uslub": "juda_rasmiy",
+      "emoji": "⚖️",
+      "qo'shimcha": [
+        "⚖️ Sud qarori chiqarishda:",
+        "⚔️ Normalar raqobati bormi - tekshiring",
+        "🎯 Maxsus norma USTUN (JK 33)",
+        "📝 Nima uchun shu modda - tushuntiring"
+      ],
+      "fokus": "togri_hal_qilish",
+      "qo'shimcha_malumot": [
+        "📋 NORMALAR RAQOBATI QOIDASI (JK 33):",
+        "1️⃣ Bir jinoyat - bir necha modda mos keladi",
+        "2️⃣ MAXSUS norma UMUMIY normadan ustun",
+        "3️⃣ Maxsus = Eng aniq, tor, konkret",
+        "4️⃣ Umumiy = Keng, umumiy",
+        "❗ MUHIM: Faqat BITTA modda qo'llanadi",
+        "📝 QAROR: Nima uchun maxsus norma - yozing",
+        "🔍 TEKSHIRISH: Barcha alomatlar bormi?",
+        "⚖️ MISOL: O'ch + Kuchli hayajon → JK 98 (maxsus)"
+      ]
+    },
+
+    "talaba": {
+      "uslub": "o'rtacha",
+      "emoji": "📚",
+      "qo'shimcha": [
+        "📚 Eslab qoling:",
+        "⚔️ Normalar raqobati = Ikki modda mos",
+        "🎯 Maxsus > Umumiy (JK 33)",
+        "📝 Formula: Maxsus ustun"
+      ],
+      "fokus": "qoida",
+      "qo'shimcha_malumot": [
+        "📝 ASOSIY QOIDA (JK 33):",
+        "⚔️ Normalar raqobati = Bir jinoyat, ikki modda",
+        "🎯 MAXSUS norma USTUN",
+        "📋 UMUMIY norma qo'llanilmaydi",
+        "✅ Faqat MAXSUS norma bilan kvalifikatsiya"
+      ]
+    },
+
+    "oddiy_fuqaro": {
+      "uslub": "norasmiy",
+      "emoji": "👨",
+      "qo'shimcha": [
+        "💬 Oddiy qilib:",
+        "⚔️ Ikki modda mos kelsa?",
+        "🎯 Eng aniq modda ishlatiladi",
+        "📋 Keng modda ishlatilmaydi"
+      ],
+      "fokus": "sodda",
+      "qo'shimcha_malumot": [
+        "⚔️ MUAMMO: Ikki modda mos kelmoqda",
+        "🎯 YECHIM: Eng aniq (maxsus) olinadi",
+        "📋 Keng (umumiy) tashlanadi",
+        "✅ Faqat BITTA modda"
+      ]
+    }
+  },
+
+  "savol_turlari": {
+    "_izoh": "Qanday savollarga qanday javob beriladi",
+
+    "ta'rif": {
+      "trigger_sozlar": ["nima", "normalar raqobati", "degani", "to'qnashuv"],
+      "javob": "asosiy_tushuncha",
+      "emoji": "❓"
+    },
+    "qoida": {
+      "trigger_sozlar": ["qoida", "qanday", "hal qilish", "jk 33"],
+      "javob": "hal_qilish_qoidasi",
+      "emoji": "⚖️"
+    },
+    "misollar": {
+      "trigger_sozlar": ["misol", "holat", "jk 97 va jk 98"],
+      "javob": "amaliy_misollar",
+      "emoji": "📚"
+    }
+  },
+
+  "javob_uzunligi": {
+    "_izoh": "Javob qanchalik batafsil bo'lishi kerak",
+
+    "qisqa": {
+      "shablon": "⚔️ Normalar raqobati: Maxsus > Umumiy (JK 33)"
+    },
+    "o'rtacha": {
+      "shablon": "Normalar raqobati - bir jinoyat ikki moddaga mos kelsa. Hal qilish: 🎯 MAXSUS norma 📋 UMUMIY normadan USTUN (JK 33). Misol: O'ch + Hayajon → JK 98 maxsus, JK 97 umumiy."
+    },
+    "batafsil": {
+      "shablon": "⚔️ NORMALAR RAQOBATI - bir jinoyat bir necha moddaga mos kelganda yuzaga keladi. HAL QILISH QOIDASI (JK 33): 🎯 MAXSUS norma (aniq, tor, konkret alomatlar) 📋 UMUMIY normadan (keng, umumiy) USTUN. Faqat MAXSUS norma qo'llanadi. MISOL: O'ch olish + Kuchli ruhiy hayajon → JK 98 (maxsus) ustun, JK 97 (umumiy) qo'llanilmaydi."
+    }
+  },
+
+  "1_asosiy_tushuncha": {
+    "_izoh": "BO'LIM 1: NORMALAR RAQOBATI - bu nima?",
+
+    "emoji": "⚔️",
+    "sarlavha": "Normalar raqobati",
+    "ta'rif": "BITTA jinoyat BIR NECHA moddaga mos kelganda",
+    "tushuntirish": "Bir xil jinoyat uchun ikki yoki undan ko'p modda qo'llanishi mumkin",
+
+    "sharti": {
+      "1_bitta_jinoyat": {
+        "emoji": "1️⃣",
+        "shart": "BITTA jinoyat (bir harakat)",
+        "tushuntirish": "Ikki xil jinoyat emas, bir xil jinoyat",
+        "misol": "Odam o'ldirish (bitta jinoyat)"
+      },
+
+      "2_bir_necha_modda": {
+        "emoji": "📋📋",
+        "shart": "BIR NECHA modda mos keladi",
+        "tushuntirish": "Ikki yoki undan ko'p modda shu jinoyatga to'g'ri keladi",
+        "misol": "JK 97 ham, JK 98 ham mos keladi"
+      }
+    },
+
+    "muammo": {
+      "emoji": "❓",
+      "savol": "Qaysi moddani qo'llash kerak?",
+      "javob": "MAXSUS normani (JK 33)",
+      "sabab": "Ikkalasini ham qo'llab bo'lmaydi - faqat BITTA"
+    },
+
+    "farq_jamlanishdan": {
+      "_izoh": "Normalar raqobati ≠ Jinoyatlar jamlanishi",
+      "emoji": "⚖️",
+
+      "normalar_raqobati": {
+        "emoji": "⚔️",
+        "holat": "BITTA jinoyat, bir necha modda",
+        "misol": "O'ch + Hayajon = Bitta o'ldirish → JK 98 (maxsus)",
+        "natija": "Faqat BITTA modda qo'llanadi"
+      },
+
+      "jamlanish": {
+        "emoji": "➕",
+        "holat": "BIR NECHA jinoyat, har biri alohida modda",
+        "misol": "O'g'irlash + O'ldirish = Ikki jinoyat → JK 169 + JK 97",
+        "natija": "Ikkalasi ham qo'llanadi (jamlanadi)"
+      }
+    }
+  },
+
+  "2_hal_qilish_qoidasi": {
+    "_izoh": "BO'LIM 2: HAL QILISH QOIDASI (JK 33)",
+
+    "emoji": "⚖️",
+    "sarlavha": "Normalar raqobatini hal qilish qoidasi",
+    "modda": "JK 33 - Normalar raqobati",
+
+    "asosiy_qoida": {
+      "emoji": "🎯",
+      "qoida": "MAXSUS norma UMUMIY normadan USTUN",
+      "formula": "Maxsus > Umumiy",
+      "natija": "Faqat MAXSUS norma qo'llanadi",
+      "tushuntirish": "Eng aniq, tor, konkret modda tanlanadi"
+    },
+
+    "maxsus_norma": {
+      "emoji": "🎯",
+      "nom": "MAXSUS norma",
+      "ta'rif": "Aniq, tor, konkret alomatlar bilan modda",
+      "xususiyatlari": [
+        "Aniq holat uchun",
+        "Tor doirada",
+        "Qo'shimcha alomatlar bor",
+        "Maxsus shartlar ko'rsatilgan"
+      ],
+      "misollar": [
+        "JK 98 - Kuchli hayajonda o'ldirish",
+        "JK 99 - Chaqaloqni onasi tomonidan",
+        "JK 100 - Zaruriy mudofaa chegarasidan chiqish"
+      ]
+    },
+
+    "umumiy_norma": {
+      "emoji": "📋",
+      "nom": "UMUMIY norma",
+      "ta'rif": "Keng, umumiy, maxsus shartlar yo'q",
+      "xususiyatlari": [
+        "Barcha holatlar uchun",
+        "Keng doirada",
+        "Umumiy alomatlar",
+        "Maxsus shartlar yo'q"
+      ],
+      "misol": "JK 97 - Qasddan odam o'ldirish (umumiy)"
+    },
+
+    "nima_uchun_maxsus": {
+      "emoji": "❓",
+      "savol": "Nega maxsus norma ustun?",
+      "javob": "Maxsus norma ANIQROQ va qonunchilik maxsus holatni alohida ko'zda tutgan",
+      "tushuntirish": "Qonunchi maxsus norma yaratgan, demak uni qo'llash kerak"
+    }
+  },
+
+  "3_jk97_va_jk98": {
+    "_izoh": "BO'LIM 3: JK 97 va JK 98 - ENG KO'P uchraydigan raqobat",
+
+    "emoji": "💢",
+    "sarlavha": "JK 97 vs JK 98 - Kuchli hayajon",
+    "eng_kop": "❗ Bu ENG KO'P uchraydigan normalar raqobati!",
+
+    "jk_97": {
+      "emoji": "📋",
+      "modda": "JK 97",
+      "nom": "Qasddan odam o'ldirish (UMUMIY)",
+      "ta'rif": "Oddiy odam o'ldirish",
+      "alomatlar": [
+        "Qasddan",
+        "Odam o'ldirish",
+        "Maxsus holat yo'q"
+      ],
+      "jazo": "⛓️ 10-15 yil"
+    },
+
+    "jk_98": {
+      "emoji": "🎯",
+      "modda": "JK 98",
+      "nom": "Kuchli ruhiy hayajonda o'ldirish (MAXSUS)",
+      "ta'rif": "Maxsus holat: kuchli hayajon + provokatsiya",
+      "alomatlar": [
+        "Qasddan",
+        "Odam o'ldirish",
+        "➕ KUCHLI RUHIY HAYAJON",
+        "➕ Jabrlanuvchi PROVOKATSIYASI"
+      ],
+      "jazo": "⛓️ 3-10 yil"
+    },
+
+    "farq": {
+      "emoji": "⚖️",
+      "asosiy": "JK 98 da QO'SHIMCHA alomatlar bor:",
+      "1": "💢 Kuchli ruhiy hayajon (to'satdan, kuchli)",
+      "2": "😤 Jabrlanuvchi provokatsiyasi (haqorat, zo'ravonlik, noqonuniy harakat)",
+      "natija": "Shuning uchun JK 98 MAXSUS, JK 97 UMUMIY"
+    },
+
+    "qachon_jk98": {
+      "emoji": "💢",
+      "shartlar": "Ikki shart BARCHASI bo'lishi kerak:",
+
+      "1_hayajon": {
+        "emoji": "💢",
+        "nom": "1. KUCHLI RUHIY HAYAJON",
+        "ta'rif": "To'satdan paydo bo'lgan kuchli hissiyot",
+        "belgilari": [
+          "To'satdan (kutilmagan)",
+          "Kuchli (nazoratdan chiqadi)",
+          "Qisqa muddat (bir lahza)",
+          "Aql-idrok zaiflanadi"
+        ],
+        "misollar": ["G'azab", "Qo'rquv", "Xafa bo'lish", "Hayajon"]
+      },
+
+      "2_provokatsiya": {
+        "emoji": "😤",
+        "nom": "2. JABRLANUVCHI PROVOKATSIYASI",
+        "ta'rif": "Jabrlanuvchi o'zi sabab bo'ldi",
+        "turlari": [
+          "Zo'ravonlik (urdi, haqorat qildi)",
+          "Og'ir haqorat",
+          "Noqonuniy harakat",
+          "Ahlоqsiz xatti-harakat"
+        ],
+        "muhim": "❗ BEVOSITA oldin bo'lishi kerak (o'sha paytda)"
+      }
+    },
+
+    "misol_jk98": {
+      "emoji": "✅",
+      "holat": "A uyiga keldi, xotinini boshqa erkak bilan ko'rdi (bevosita provokatsiya). Darhol kuchli hayajonlanib, ikkalasini ham o'ldirdi.",
+      "tahlil": {
+        "jk_97": "✅ Mos: Qasddan odam o'ldirish",
+        "jk_98": "✅ Mos: Qasddan + Hayajon + Provokatsiya",
+        "raqobat": "⚔️ Normalar raqobati bor",
+        "yechim": "🎯 JK 98 MAXSUS → JK 98 qo'llanadi"
+      },
+      "natija": "JK 98 (3-10 yil), JK 97 qo'llanilmaydi"
+    },
+
+    "misol_jk97": {
+      "emoji": "❌",
+      "holat": "A bir hafta oldin xotinini boshqa erkak bilan ko'rgan edi. Bugun rejalashtiriб, ikkalasini ham o'ldirdi.",
+      "tahlil": {
+        "jk_97": "✅ Mos: Qasddan odam o'ldirish",
+        "jk_98": "❌ Mos emas: Hayajon yo'q (bir hafta o'tdi, rejalashtirgan)",
+        "raqobat": "❌ Normalar raqobati YO'Q",
+        "yechim": "📋 Faqat JK 97"
+      },
+      "natija": "JK 97 (10-15 yil)"
+    }
+  },
+
+  "4_jk97_va_jk100": {
+    "_izoh": "BO'LIM 4: JK 97 va JK 100 - Zaruriy mudofaa chegarasidan chiqish",
+
+    "emoji": "🛡️",
+    "sarlavha": "JK 97 vs JK 100 - Zaruriy mudofaa",
+
+    "jk_97": {
+      "emoji": "📋",
+      "modda": "JK 97 (UMUMIY)",
+      "nom": "Qasddan odam o'ldirish",
+      "jazo": "⛓️ 10-15 yil"
+    },
+
+    "jk_100": {
+      "emoji": "🎯",
+      "modda": "JK 100 (MAXSUS)",
+      "nom": "Zaruriy mudofaa chegarasidan chiqish",
+      "ta'rif": "Mudofaa qildi, lekin haddan oshdi",
+      "alomatlar": [
+        "Hujum bo'lgan (haqiqiy xavf)",
+        "Mudofaa qilgan",
+        "➕ CHEGARADAN CHIQDI (haddan oshdi)"
+      ],
+      "jazo": "⛓️ 1-3 yil"
+    },
+
+    "qachon_jk100": {
+      "emoji": "🛡️",
+      "shartlar": "3 ta shart:",
+
+      "1_hujum": {
+        "emoji": "⚔️",
+        "nom": "1. HUJUM bo'lgan",
+        "ta'rif": "Haqiqiy xavf, hujum",
+        "misol": "Hujumchi pichoq bilan hujum qildi"
+      },
+
+      "2_mudofaa": {
+        "emoji": "🛡️",
+        "nom": "2. MUDOFAA qilgan",
+        "ta'rif": "O'zini yoki boshqalarni himoya qildi",
+        "misol": "O'zini himoya qilish uchun zarba berdi"
+      },
+
+      "3_haddan_oshish": {
+        "emoji": "⚠️",
+        "nom": "3. CHEGARADAN CHIQDI",
+        "ta'rif": "Mudofaa hujumdan HADDAN OSHIQ kuchli",
+        "misol": "Hujumchi qo'l bilan keldi, mudofaachi qurol bilan o'ldirdi",
+        "muhim": "❗ ANIQ haddan oshish bo'lishi kerak"
+      }
+    },
+
+    "misol": {
+      "emoji": "✅",
+      "holat": "A (hujumchi) B ga tayoq bilan hujum qildi. B o'zini himoya qilish uchun pichoq bilan bir necha marta sanqdi, A o'ldi.",
+      "tahlil": {
+        "jk_97": "✅ Mos: Qasddan odam o'ldirish",
+        "jk_100": "✅ Mos: Hujum + Mudofaa + Haddan oshdi",
+        "raqobat": "⚔️ Normalar raqobati bor",
+        "yechim": "🎯 JK 100 MAXSUS → JK 100 qo'llanadi"
+      },
+      "natija": "JK 100 (1-3 yil), JK 97 qo'llanilmaydi"
+    }
+  },
+
+  "5_jk97_va_jk101": {
+    "_izoh": "BO'LIM 5: JK 97 va JK 101 - Jinoyatchini ushlashda",
+
+    "emoji": "👮",
+    "sarlavha": "JK 97 vs JK 101 - Ushlashda zarar",
+
+    "jk_97": {
+      "emoji": "📋",
+      "modda": "JK 97 (UMUMIY)",
+      "jazo": "⛓️ 10-15 yil"
+    },
+
+    "jk_101": {
+      "emoji": "🎯",
+      "modda": "JK 101 (MAXSUS)",
+      "nom": "Jinoyatchini ushlashda zarar yetkazish chegarasidan chiqish",
+      "ta'rif": "Jinoyatchini ushladi, lekin haddan oshdi",
+      "alomatlar": [
+        "Jinoyatchi bo'lgan",
+        "Ushlashga harakat qilgan",
+        "➕ CHEGARADAN CHIQDI"
+      ],
+      "jazo": "⛓️ 1-3 yil"
+    },
+
+    "misol": {
+      "emoji": "✅",
+      "holat": "A o'g'irlik qildi, qochdi. Politsiyachi B quvib yetdi. A qarshilik ko'rsatdi. B haddan oshiq kuch ishlatib, A ni o'ldirdi.",
+      "tahlil": {
+        "jk_97": "✅ Mos: Qasddan odam o'ldirish",
+        "jk_101": "✅ Mos: Jinoyatchi + Ushlash + Haddan oshdi",
+        "raqobat": "⚔️ Normalar raqobati bor",
+        "yechim": "🎯 JK 101 MAXSUS → JK 101 qo'llanadi"
+      },
+      "natija": "JK 101 (1-3 yil), JK 97 qo'llanilmaydi"
+    }
+  },
+
+  "6_jk97_va_jk99": {
+    "_izoh": "BO'LIM 6: JK 97 va JK 99 - Chaqaloqni onasi tomonidan",
+
+    "emoji": "👶",
+    "sarlavha": "JK 97 vs JK 99 - Chaqaloqni onasi",
+
+    "jk_97": {
+      "emoji": "📋",
+      "modda": "JK 97 (UMUMIY)",
+      "jazo": "⛓️ 10-15 yil"
+    },
+
+    "jk_99": {
+      "emoji": "🎯",
+      "modda": "JK 99 (MAXSUS)",
+      "nom": "Yangi tug'ilgan chaqaloqni onasi tomonidan o'ldirish",
+      "ta'rif": "Ona o'z chaqalog'ini tug'ilish paytida yoki darhol keyin o'ldiradi",
+      "alomatlar": [
+        "Chaqaloq (yangi tug'ilgan)",
+        "Ona o'ldirgan",
+        "➕ TUG'ILISH PAYTIDA yoki DARHOL KEYIN"
+      ],
+      "jazo": "⛓️ 2-5 yil"
+    },
+
+    "qachon_jk99": {
+      "emoji": "👶",
+      "shartlar": [
+        "1️⃣ Yangi tug'ilgan chaqaloq",
+        "2️⃣ ONA o'ldirgan (boshqa odam emas)",
+        "3️⃣ Tug'ilish PAYTIDA yoki DARHOL KEYIN (24 soat ichida)"
+      ],
+      "muhim": "❗ Barcha 3 ta shart bo'lishi kerak"
+    },
+
+    "misol": {
+      "emoji": "✅",
+      "holat": "Ayol tug'di, darhol chaqaloqni o'ldirdi (psixologik stress holatida).",
+      "tahlil": {
+        "jk_97": "✅ Mos: Qasddan odam o'ldirish",
+        "jk_99": "✅ Mos: Chaqaloq + Ona + Tug'ilish paytida",
+        "raqobat": "⚔️ Normalar raqobati bor",
+        "yechim": "🎯 JK 99 MAXSUS → JK 99 qo'llanadi"
+      },
+      "natija": "JK 99 (2-5 yil), JK 97 qo'llanilmaydi"
+    }
+  },
+
+  "7_normalar_raqobati_jadvali": {
+    "_izoh": "BO'LIM 7: NORMALAR RAQOBATI JADVALI",
+
+    "emoji": "📊",
+    "sarlavha": "JK 97 bilan raqobatdagi moddalar",
+
+    "jadval": {
+      "jk_97": {
+        "emoji": "📋",
+        "modda": "JK 97",
+        "tur": "UMUMIY",
+        "jazo": "10-15 yil"
+      },
+
+      "raqobatdagilar": [
+        {
+          "modda": "JK 98",
+          "emoji": "🎯",
+          "nom": "Kuchli hayajonda",
+          "tur": "MAXSUS",
+          "jazo": "3-10 yil",
+          "ustun": "✅ JK 98"
+        },
+        {
+          "modda": "JK 99",
+          "emoji": "🎯",
+          "nom": "Chaqaloqni onasi",
+          "tur": "MAXSUS",
+          "jazo": "2-5 yil",
+          "ustun": "✅ JK 99"
+        },
+        {
+          "modda": "JK 100",
+          "emoji": "🎯",
+          "nom": "Zaruriy mudofaa chegarasidan",
+          "tur": "MAXSUS",
+          "jazo": "1-3 yil",
+          "ustun": "✅ JK 100"
+        },
+        {
+          "modda": "JK 101",
+          "emoji": "🎯",
+          "nom": "Ushlashda zarar",
+          "tur": "MAXSUS",
+          "jazo": "1-3 yil",
+          "ustun": "✅ JK 101"
+        }
+      ]
+    },
+
+    "qoida": "📋 JK 97 (umumiy) har doim maxsus normalarga yutqazadi"
+  },
+
+  "8_muhim_xulosa": {
+    "_izoh": "BO'LIM 8: MUHIM XULOSA",
+
+    "emoji": "❗",
+    "asosiy": "Normalar raqobati: Maxsus > Umumiy (JK 33)",
+    "formula": "🎯 Maxsus norma 📋 Umumiy normadan USTUN",
+    "misol": "O'ch + Hayajon → JK 98 (maxsus) ustun, JK 97 (umumiy) yo'q"
+  },
+
+  "tushuntirish": "Normalar raqobati - bir jinoyat bir necha moddaga mos kelganda. Hal qilish: MAXSUS norma (aniq, qo'shimcha alomatlar bor) UMUMIY normadan (keng) USTUN (JK 33). JK 97 - umumiy norma. Maxsus normalar: JK 98 (hayajon), JK 99 (ona), JK 100 (mudofaa), JK 101 (ushlash). Maxsus norma qo'llanadi, umumiy norma (JK 97) qo'llanilmaydi.",
+
+  "misollar": {
+    "jk_98_ustun": {
+      "emoji": "✅",
+      "holat": "O'ch + Provokatsiya + Kuchli hayajon → o'ldirdi",
+      "raqobat": "JK 97 ✅ vs JK 98 ✅",
+      "yechim": "JK 98 maxsus → ustun",
+      "natija": "JK 98 (3-10 yil)"
+    },
+    "jk_97_qollanadi": {
+      "emoji": "❌",
+      "holat": "O'ch + Provokatsiya YO'Q + Hayajon YO'Q → o'ldirdi",
+      "raqobat": "JK 97 ✅ vs JK 98 ❌",
+      "yechim": "JK 98 shartlari yo'q → raqobat yo'q",
+      "natija": "JK 97 (10-15 yil)"
+    }
+  },
+
+  "translations": {
+    "uz": "Normalar raqobati: Maxsus > Umumiy. JK 98, 99, 100, 101 > JK 97.",
+    "ru": "Конкуренция норм: Специальная > Общая. УК 98, 99, 100, 101 > УК 97.",
+    "en": "Competition of norms: Special > General. CC 98, 99, 100, 101 > CC 97."
+  }
+}

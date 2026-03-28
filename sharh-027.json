@@ -1,0 +1,619 @@
+{
+  "id": "JK-097-SHARH-027",
+  "modda_raqam": "97",
+  "sharh_raqami": 27,
+  "tur": "bezorilik",
+
+  "_izoh": "BO'LIM 27: JK 97-2(l) - Bezorilik oqibatida o'ldirish",
+
+  "emoji_sarlavha": "😈 Bezorilik (hurmatsizlik, shov-shuv)",
+
+  "asosiy_matn": "JK 97-2(l): Bezorilik oqibatida o'ldirish. BEZORILIK: jamiyat/axloqqa oshkora hurmatsizlik, jamoat tartibiga bo'ysunmaslik, qarshi qo'yish, bepisand munosabat. SABAB: sababsiz yoki ARZIMAGAN sabab (sigaret, qarash, e'tiroz). Odatda JAMOAT joyida, lekin majburiy emas (xonadonda ham mumkin). Aybdor ROHATLANADI (zavqlanadi). JK 277 (bezorilik) QO'SHIMCHA EMAS (faqat KEYIN sodir etilsa). FARQ janjal/urishishdan: agar jabrlanuvchi BOSHLAGAN yoki g'ayrihuquqiy → (l) YO'Q.",
+
+  "sinonimlar": {
+    "bezorilik": {
+      "variantlar": ["bezorilik", "tartibsizlik", "shov-shuv", "hurmatsizlik", "odob buzish"],
+      "og'irlik": 95,
+      "rasmiy": true,
+      "emoji": "😈"
+    },
+    "arzimagan": {
+      "variantlar": ["arzimagan", "ahamiyatsiz", "mayda", "kichik", "och-och"],
+      "og'irlik": 85,
+      "rasmiy": false,
+      "emoji": "🤏"
+    },
+    "rohatlanish": {
+      "variantlar": ["rohatlanish", "zavqlanish", "lazzatlanish", "mamnun bo'lish"],
+      "og'irlik": 80,
+      "rasmiy": false,
+      "emoji": "😏"
+    }
+  },
+
+  "kontekstli_javoblar": {
+    "tergovchi": {
+      "uslub": "juda_rasmiy",
+      "emoji": "👮",
+      "qo'shimcha": [
+        "👮 Tergov yuritishda:",
+        "😈 BEZORILIK belgilarini aniqlash",
+        "🤏 SABAB arzimagan ekanligini isbotlash",
+        "⚖️ JANJAL farqini tekshirish (kim boshlagan?)"
+      ],
+      "qo'shimcha_malumot": [
+        "❗ ANIQLASH KERAK:",
+        "1️⃣ BEZORILIK belgilari bor mi?",
+        "   - Oshkora hurmatsizlik?",
+        "   - Jamoat tartibiga qarshilik?",
+        "   - Bepisand munosabat?",
+        "2️⃣ SABAB arzimagan mi?",
+        "   - Sababsiz?",
+        "   - Kichik sabab?",
+        "3️⃣ KIM BOSHLAGAN?",
+        "   - Aybdor?",
+        "   - Jabrlanuvchi?",
+        "",
+        "😈 BEZORILIK BELGILARI:",
+        "🔥 Oshkora hurmatsizlik:",
+        "- Jamiyatga qarshi",
+        "- Axloq-odob buzish",
+        "- Ochiq-oydin shov-shuv",
+        "",
+        "🚫 Bo'ysunmaslik:",
+        "- Jamoat tartibiga qarshi",
+        "- Qoidalarni buzish",
+        "",
+        "😏 Rohatlanish:",
+        "- O'ldirishdan zavqlanish",
+        "- Tartibsizlikdan mamnun",
+        "",
+        "🤏 ARZIMAGAN SABAB:",
+        "- Sigaret bermadi",
+        "- Yoqimsiz qaradi",
+        "- E'tiroz qildi",
+        "- Kichik gap",
+        "",
+        "⚖️ JANJAL FARQI:",
+        "❌ JANJAL (l yo'q):",
+        "- Jabrlanuvchi boshlagan",
+        "- O'zaro janjal",
+        "- G'ayrihuquqiy xulq",
+        "",
+        "✅ BEZORILIK (l bor):",
+        "- Aybdor boshlagan",
+        "- Arzimagan sabab",
+        "- Hurmatsizlik",
+        "",
+        "📊 JK 277 (bezorilik):",
+        "❌ Qo'shimcha EMAS (o'ldirish bilan birga)",
+        "✅ Qo'shimcha (o'ldirishdan KEYIN)"
+      ]
+    },
+
+    "advokat": {
+      "uslub": "juda_rasmiy",
+      "emoji": "👔",
+      "qo'shimcha": [
+        "⚖️ Himoya strategiyasi:",
+        "❌ Bezorilik belgilari YO'Q",
+        "⚖️ JANJAL edi (o'zaro)",
+        "🛡️ Jabrlanuvchi BOSHLAGAN",
+        "📉 JK 97-2(l) dan JK 97-1 ga"
+      ],
+      "qo'shimcha_malumot": [
+        "🎯 MAQSAD: (l) belgini olib tashlash",
+        "❌ BEZORILIK YO'Q:",
+        "- Hurmatsizlik yo'q",
+        "- Sabab katta (muhim)",
+        "- Rohatlanmagan",
+        "",
+        "⚖️ JANJAL EDI:",
+        "- O'zaro janjal",
+        "- Ikkalasi ham xato",
+        "- Sabab katta",
+        "",
+        "🛡️ JABRLANUVCHI BOSHLAGAN:",
+        "- U hujum qildi",
+        "- U g'ayrihuquqiy",
+        "- Aybdor himoyalandi",
+        "→ (l) yo'q",
+        "",
+        "📉 97-2(l) → 97-1:",
+        "15-25 yil → 8-15 yil"
+      ]
+    },
+
+    "sudya": {
+      "uslub": "juda_rasmiy",
+      "emoji": "⚖️",
+      "qo'shimcha": [
+        "⚖️ Sud qarori chiqarishda:",
+        "😈 Bezorilik belgilari ANIQ isbotlangan mi?",
+        "🤏 Sabab ARZIMAGAN ekanligini baholash",
+        "⚖️ KIM BOSHLAGAN? (janjal farqi)"
+      ],
+      "qo'shimcha_malumot": [
+        "❗ TEKSHIRISH:",
+        "1️⃣ BEZORILIK belgilari?",
+        "   😈 Oshkora hurmatsizlik?",
+        "   🚫 Jamoat tartibiga qarshilik?",
+        "   😏 Qarshi qo'yish, bepisand?",
+        "   🎭 Rohatlanish?",
+        "",
+        "2️⃣ SABAB ARZIMAGAN mi?",
+        "   🤏 Kichik sabab?",
+        "   ❌ Sababsiz?",
+        "   ✅ Agar katta → (l) yo'q",
+        "",
+        "3️⃣ JOY?",
+        "   🏛️ Jamoat joyi (odatda)",
+        "   🏠 Xonadonda (ham mumkin)",
+        "   → Joy majburiy emas!",
+        "",
+        "4️⃣ KIM BOSHLAGAN?",
+        "   ⚖️ JANJAL FARQI:",
+        "   ❌ Jabrlanuvchi boshlagan:",
+        "   - G'ayrihuquqiy xulq",
+        "   - U hujum qildi",
+        "   → (l) YO'Q",
+        "",
+        "   ✅ Aybdor boshlagan:",
+        "   - Arzimagan sabab",
+        "   - Hurmatsizlik",
+        "   → (l) BOR",
+        "",
+        "5️⃣ JK 277?",
+        "   ❌ Qo'shimcha EMAS (o'ldirish bilan)",
+        "   ✅ Qo'shimcha (KEYIN sodir etilsa)",
+        "",
+        "📝 QARORGA YOZISH:",
+        "- Bezorilik belgilari (aniq)",
+        "- Sabab (arzimagan)",
+        "- Kim boshlagan",
+        "- Nima uchun (l) / nima uchun yo'q"
+      ]
+    },
+
+    "talaba": {
+      "uslub": "o'rtacha",
+      "emoji": "📚",
+      "qo'shimcha": [
+        "📚 Eslab qoling:",
+        "😈 Bezorilik = hurmatsizlik + arzimagan sabab",
+        "🤏 Sabab: sababsiz yoki kichik",
+        "⚖️ Jabrlanuvchi boshlagan → (l) yo'q",
+        "📊 JK 277 qo'shimcha emas"
+      ],
+      "qo'shimcha_malumot": [
+        "📝 ASOSIY:",
+        "😈 BEZORILIK:",
+        "- Oshkora hurmatsizlik",
+        "- Jamoat tartibiga qarshi",
+        "- Bepisand munosabat",
+        "- Rohatlanish",
+        "",
+        "🤏 SABAB:",
+        "Sababsiz yoki arzimagan",
+        "",
+        "⚖️ KIM BOSHLAGAN:",
+        "Aybdor → (l)",
+        "Jabrlanuvchi → (l) yo'q"
+      ]
+    },
+
+    "oddiy_fuqaro": {
+      "uslub": "norasmiy",
+      "emoji": "👨",
+      "qo'shimcha": [
+        "💬 Oddiy qilib:",
+        "😈 Shov-shuv qilib, sababsiz o'ldirdi",
+        "🤏 Kichik sabab (sigaret, qarash)",
+        "⛓️ Og'ir jazo (15-25 yil)"
+      ],
+      "qo'shimcha_malumot": [
+        "😈 Shov-shuv, bezorilik",
+        "🤏 Kichik sabab",
+        "⛓️ 15-25 yil"
+      ]
+    }
+  },
+
+  "javob_uzunligi": {
+    "qisqa": {
+      "shablon": "😈 JK 97-2(l): Bezorilik. 🤏 Arzimagan sabab. ⚖️ Jabrlanuvchi boshlagan → (l) yo'q. JK 277 qo'shimcha emas."
+    },
+    "o'rtacha": {
+      "shablon": "JK 97-2(l): Bezorilik oqibatida o'ldirish. Bezorilik: oshkora hurmatsizlik, jamoat tartibiga qarshilik, bepisand. Sabab: sababsiz yoki arzimagan (sigaret, qarash). Jamoat joyida (lekin majburiy emas). Rohatlanadi. JK 277 qo'shimcha emas. Janjal farqi: jabrlanuvchi boshlagan → (l) yo'q."
+    },
+    "batafsil": {
+      "shablon": "😈 JK 97-2(l): Bezorilik oqibatida o'ldirish. BEZORILIK: jamiyat/axloq-odob normalariga oshkora hurmatsizlik, jamoat tartibiga bo'ysunmaslik, qarshi qo'yish, bepisand munosabat. SABAB: sababsiz yoki ARZIMAGAN (sigaret bermadi, yoqimsiz qaradi, e'tiroz qildi). JOY: odatda jamoat joyida, lekin majburiy EMAS (xonada ham mumkin). ROHATLANISH: o'ldirishdan/tartibsizlikdan zavqlanadi. 📊 JK 277 (bezorilik) qo'shimcha EMAS (faqat KEYIN sodir etilsa). ⚖️ JANJAL FARQI: jabrlanuvchi BOSHLAGAN yoki g'ayrihuquqiy → (l) YO'Q. Aybdor boshlagan + arzimagan → (l) BOR. Jazo: 15-25 yil yoki umrbod."
+    }
+  },
+
+  "1_bezorilik_tushunchasi": {
+    "emoji": "😈",
+    "sarlavha": "BEZORILIK - asosiy tushuncha",
+
+    "tasnif": {
+      "modda": "JK 97-2(l)",
+      "nom": "Bezorilik oqibatida o'ldirish",
+      "og'irlashtiruvchi": "Maxsus jirkanch xulq",
+      "jazo": "⛓️ 15-25 yil yoki umrbod"
+    },
+
+    "ta_rif": {
+      "nom": "Bezorilik",
+      "ma'no": "Jamiyatga oshkora hurmatsizlik, jamoat tartibini buzish",
+      "modda": "JK 277 - Bezorilik (alohida jinoyat)"
+    },
+
+    "4_belgi": {
+      "1_hurmatsizlik": {
+        "emoji": "😈",
+        "nom": "Oshkora hurmatsizlik",
+        "ta_rif": "Jamiyat va axloq-odob normalariga ochiq-oydin qarshi",
+        "misollar": [
+          "Jamoat joyida shov-shuv",
+          "So'kinish, haqorat",
+          "Oshkora buzg'unchilik",
+          "Axloq-odobni buzish"
+        ]
+      },
+
+      "2_boysunmaslik": {
+        "emoji": "🚫",
+        "nom": "Bo'ysunmaslik",
+        "ta_rif": "Jamoat tartibiga oshkora qarshilik",
+        "misollar": [
+          "Tartib qoidalarini buzish",
+          "Politsiyaga qarshilik",
+          "Jamoat xavfsizligiga xavf"
+        ]
+      },
+
+      "3_qarshi_qoyish": {
+        "emoji": "🤬",
+        "nom": "Qarshi qo'yish",
+        "ta_rif": "O'zini atrofdagilarga qarshi qo'yish",
+        "misollar": [
+          "Hammaga qarshi",
+          "Jamiyatdan ajralib turish",
+          "Dushmanona munosabat"
+        ]
+      },
+
+      "4_bepisand": {
+        "emoji": "😏",
+        "nom": "Bepisand munosabat",
+        "ta_rif": "Atrofdagilarga yomon munosabat ko'rsatish istagi",
+        "misollar": [
+          "Tahqirlash",
+          "Kamsitish",
+          "Nafrat bildirish"
+        ]
+      }
+    }
+  },
+
+  "2_arzimagan_sabab": {
+    "emoji": "🤏",
+    "sarlavha": "ARZIMAGAN SABAB - asosiy xususiyat",
+
+    "qoida": {
+      "emoji": "📋",
+      "asosiy": "Sababsiz yoki ARZIMAGAN (kichik) sabab",
+      "ma'no": "O'ldirish uchun ahamiyatsiz, mayda sabab"
+    },
+
+    "2_tur": {
+      "1_sababsiz": {
+        "emoji": "❌",
+        "nom": "SABABSIZ",
+        "ta_rif": "Umuman sabab yo'q",
+        "misol": "Ko'chada ketayotgan odamni sababsiz o'ldirdi"
+      },
+
+      "2_arzimagan": {
+        "emoji": "🤏",
+        "nom": "ARZIMAGAN sabab",
+        "ta_rif": "Juda kichik, ahamiyatsiz sabab",
+        "misollar": [
+          "Sigaret yondirmadi",
+          "Yoqimsiz qaradi",
+          "E'tiroz qildi",
+          "Kichik gap",
+          "Jilmaydi",
+          "Yo'ldan o'tmadi",
+          "Ovoz chiqardi"
+        ]
+      }
+    },
+
+    "farq_katta_sabab": {
+      "emoji": "⚖️",
+      "arzimagan": "🤏 Sigaret bermadi → (l) ✅",
+      "katta": "💰 Katta qarz, jiddiy janjal → (l) ❌",
+      "muhim": "Sabab ARZIMAGAN bo'lishi kerak!"
+    }
+  },
+
+  "3_rohatlanish": {
+    "emoji": "😏",
+    "sarlavha": "ROHATLANISH - bezorilikning belgisi",
+
+    "ta_rif": {
+      "nom": "Rohatlanish, zavqlanish",
+      "ma'no": "O'ldirishdan yoki tartibsizlikdan mamnun bo'lish",
+      "2_tur": "Ikki xil zavqlanish"
+    },
+
+    "turlar": {
+      "1_oldirish": {
+        "emoji": "😈",
+        "nom": "O'ldirishdan rohatlanish",
+        "ta_rif": "Boshqa kishini o'ldirishdan zavqlanadi",
+        "misol": "O'ldirganidan mamnun, kuladi"
+      },
+
+      "2_tartibsizlik": {
+        "emoji": "🎭",
+        "nom": "Tartibsizlikdan rohatlanish",
+        "ta_rif": "Jamoat tartibini buzishdan zavqlanadi",
+        "misol": "Shov-shuv qilib, o'ldirishdan mamnun"
+      }
+    }
+  },
+
+  "4_joy": {
+    "emoji": "🏛️",
+    "sarlavha": "JOY - majburiy emas",
+
+    "qoida": {
+      "emoji": "📋",
+      "odatda": "Jamoat joyida sodir etiladi",
+      "lekin": "Joy MAJBURIY shart EMAS",
+      "yashirin": "Xonadonda ham mumkin"
+    },
+
+    "joylar": {
+      "jamoat": {
+        "emoji": "🏛️",
+        "nom": "Jamoat joylari (odatda)",
+        "misollar": [
+          "Ko'cha",
+          "Park",
+          "Transport",
+          "Do'kon",
+          "Restoran",
+          "Stadium"
+        ]
+      },
+
+      "yashirin": {
+        "emoji": "🏠",
+        "nom": "Yashirin joylar (ham mumkin)",
+        "misollar": [
+          "Xonado n",
+          "Dala",
+          "O'rmon",
+          "Yolg'iz joy"
+        ],
+        "muhim": "❗ Joy (l) uchun shart EMAS!"
+      }
+    }
+  },
+
+  "5_jk_277_munosabat": {
+    "emoji": "📊",
+    "sarlavha": "JK 277 (bezorilik) bilan munosabat",
+
+    "qoida": {
+      "emoji": "📋",
+      "asosiy": "JK 277 qo'shimcha kvalifikatsiya TALAB ETMAYDI",
+      "sabab": "O'ldirish bezorilikni o'z ichiga oladi"
+    },
+
+    "2_holat": {
+      "1_birga": {
+        "emoji": "❌",
+        "holat": "O'ldirish + bezorilik BIRGA",
+        "kvalifikatsiya": "Faqat JK 97-2(l)",
+        "jk_277": "❌ Qo'shimcha EMAS",
+        "sabab": "O'ldirish bezorilikni qamraydi",
+        "misol": "Shov-shuv qilib o'ldirdi → faqat 97-2(l)"
+      },
+
+      "2_keyin": {
+        "emoji": "✅",
+        "holat": "O'ldirish, KEYIN bezorilik",
+        "kvalifikatsiya": "JK 97-2(l) + JK 277 (MAJMUI)",
+        "jk_277": "✅ Qo'shimcha BOR",
+        "sabab": "Alohida bezorilik jinoyati",
+        "misol": "O'ldirib, keyin mulk buzdi, shov-shuv qildi → 97-2(l) + 277"
+      }
+    }
+  },
+
+  "6_janjal_farqi": {
+    "emoji": "⚖️",
+    "sarlavha": "JANJAL bilan FARQ - eng muhim!",
+
+    "qoida": {
+      "emoji": "📋",
+      "asosiy": "KIM BOSHLAGAN - muhim!",
+      "bezorilik": "Aybdor boshlagan → (l) ✅",
+      "janjal": "Jabrlanuvchi boshlagan → (l) ❌"
+    },
+
+    "tekshirish": {
+      "emoji": "🔍",
+      "savollar": [
+        "Kim janjalni boshladi?",
+        "Kim hujum qildi?",
+        "Sabab nima edi?",
+        "Jabrlanuvchi g'ayrihuquqiy edi mi?"
+      ]
+    },
+
+    "2_holat": {
+      "1_bezorilik": {
+        "emoji": "😈",
+        "nom": "BEZORILIK (l bor)",
+        "belgilari": [
+          "✅ Aybdor BOSHLAGAN",
+          "✅ Arzimagan sabab",
+          "✅ Hurmatsizlik",
+          "✅ Rohatlanish"
+        ],
+        "kvalifikatsiya": "JK 97-2(l) ✅",
+        "misol": "A sababsiz B ga shov-shuv qilib, o'ldirdi"
+      },
+
+      "2_janjal": {
+        "emoji": "⚖️",
+        "nom": "JANJAL (l yo'q)",
+        "belgilari": [
+          "❌ Jabrlanuvchi BOSHLAGAN",
+          "❌ O'zaro janjal",
+          "❌ Jabrlanuvchi g'ayrihuquqiy",
+          "❌ Sabab katta (jiddiy)"
+        ],
+        "kvalifikatsiya": "❌ JK 97-2(l) EMAS",
+        "togri": "✅ JK 97-1 (oddiy)",
+        "misol": "B A ga hujum qildi, A himoyalandi va o'ldirdi"
+      }
+    },
+
+    "muhim": {
+      "emoji": "❗",
+      "qoida": "Jabrlanuvchi boshlagan yoki g'ayrihuquqiy → (l) YO'Q!",
+      "sabab": "Bu bezorilik emas, o'zaro janjal"
+    }
+  },
+
+  "7_amaliy_misollar": {
+    "emoji": "📚",
+    "sarlavha": "Amaliy misollar - to'liq tahlil",
+
+    "misol_1_sigaret": {
+      "emoji": "🚬",
+      "vaziyat": "A ko'chada B dan sigaret yondirib olishni so'radi. B ruxsat bermadi. A shov-shuv qilib, B ni o'ldirdi.",
+      "tahlil": {
+        "sabab": "🤏 Arzimagan (sigaret)",
+        "kim_boshlagan": "✅ A boshlagan",
+        "hurmatsizlik": "✅ Shov-shuv (oshkora)",
+        "rohatlanish": "✅ Shov-shuvdan mamnun"
+      },
+      "kvalifikatsiya": "JK 97-2(l)",
+      "jazo": "15-25 yil"
+    },
+
+    "misol_2_qarash": {
+      "emoji": "👀",
+      "vaziyat": "A ko'chada B ga yoqimsiz qaradi. B shov-shuv qilib (bezorilik), A ni o'ldirdi.",
+      "tahlil": {
+        "sabab": "🤏 Arzimagan (qarash)",
+        "kim_boshlagan": "✅ B boshlagan (bezorilik)",
+        "hurmatsizlik": "✅ Oshkora shov-shuv",
+        "joy": "🏛️ Jamoat joyi (ko'cha)"
+      },
+      "kvalifikatsiya": "JK 97-2(l)",
+      "jazo": "15-25 yil"
+    },
+
+    "misol_3_janjal": {
+      "emoji": "⚖️",
+      "vaziyat": "A va B janjal qildi. B A ga HUJUM qildi (birinchi urdi). A himoyalanib, B ni o'ldirdi.",
+      "tahlil": {
+        "sabab": "Janjal (katta)",
+        "kim_boshlagan": "❌ B boshlagan (hujum)",
+        "gayrihuquqiy": "❌ B g'ayrihuquqiy (hujum)",
+        "himoya": "A himoyalandi"
+      },
+      "kvalifikatsiya": "❌ JK 97-2(l) EMAS",
+      "togri": "✅ JK 97-1 yoki JK 98 (haddan oshgan himoya)",
+      "sabab": "Jabrlanuvchi boshlagan → (l) yo'q"
+    },
+
+    "misol_4_xonada": {
+      "emoji": "🏠",
+      "vaziyat": "A uyda B ga sababsiz shov-shuv qildi (bezorilik). B ni o'ldirdi.",
+      "tahlil": {
+        "sabab": "❌ Sababsiz",
+        "joy": "🏠 Xonado (yashirin)",
+        "hurmatsizlik": "✅ Bezorilik",
+        "kim_boshlagan": "✅ A boshlagan"
+      },
+      "kvalifikatsiya": "JK 97-2(l) ✅",
+      "sabab": "Joy majburiy emas, bezorilik bor",
+      "jazo": "15-25 yil"
+    },
+
+    "misol_5_keyin_277": {
+      "emoji": "📊",
+      "vaziyat": "A sababsiz B ni o'ldirdi (bezorilik). KEYIN A do'kon oynasini buzdi, shov-shuv qildi (bezorilik).",
+      "tahlil": {
+        "oldirish": "✅ Bezorilik oqibatida",
+        "keyin": "KEYIN alohida bezorilik",
+        "ikkala_jinoyat": "2 ta alohida jinoyat"
+      },
+      "kvalifikatsiya": "JK 97-2(l) + JK 277 (MAJMUI)",
+      "sabab": "KEYIN bezorilik → qo'shimcha 277"
+    }
+  },
+
+  "8_algoritm": {
+    "emoji": "🔢",
+    "sarlavha": "KVALIFIKATSIYA algoritmi",
+
+    "qadamlar": [
+      {
+        "qadam": "1️⃣ BEZORILIK belgilari bor mi?",
+        "tekshirish": "Hurmatsizlik? Bo'ysunmaslik? Qarshi qo'yish?",
+        "javob": "Ha → 2-qadam. Yo'q → (l) yo'q"
+      },
+      {
+        "qadam": "2️⃣ SABAB arzimagan mi?",
+        "tekshirish": "Sababsiz yoki kichik sabab?",
+        "javob": "Ha → 3-qadam. Yo'q (katta) → (l) yo'q"
+      },
+      {
+        "qadam": "3️⃣ KIM BOSHLAGAN?",
+        "tekshirish": "Aybdor yoki jabrlanuvchi?",
+        "javob": {
+          "aybdor": "4-qadam",
+          "jabrlanuvchi": "❌ (l) YO'Q → JK 97-1"
+        }
+      },
+      {
+        "qadam": "4️⃣ ROHATLANISH bor mi?",
+        "tekshirish": "O'ldirishdan yoki tartibsizlikdan zavqlandi?",
+        "javob": {
+          "ha": "JK 97-2(l) ✅",
+          "yoq": "❓ Shubhali"
+        }
+      }
+    ]
+  },
+
+  "9_muhim_xulosa": {
+    "emoji": "❗",
+    "asosiy": [
+      "😈 BEZORILIK: oshkora hurmatsizlik + tartibsizlik",
+      "🤏 SABAB: sababsiz yoki arzimagan (kichik)",
+      "😏 ROHATLANISH: o'ldirishdan zavqlanadi",
+      "🏛️ JOY: majburiy emas (xonada ham mumkin)",
+      "⚖️ KIM BOSHLAGAN: jabrlanuvchi → (l) YO'Q",
+      "📊 JK 277: qo'shimcha emas (faqat KEYIN)"
+    ]
+  },
+
+  "tushuntirish": "JK 97-2(l): Bezorilik oqibatida o'ldirish. BEZORILIK: jamiyat/axloq-odob normalariga oshkora hurmatsizlik, jamoat tartibiga bo'ysunmaslik, qarshi qo'yish, atrofdagilarga bepisand munosabat. SABAB: sababsiz yoki ARZIMAGAN (sigaret bermadi, yoqimsiz qaradi, e'tiroz qildi, kichik gap). JOY: odatda jamoat joyida, lekin MAJBURIY EMAS (xonadonda ham mumkin). ROHATLANISH: o'ldirishdan yoki jamoat tartibini buzishdan zavqlanadi, mamnun. 📊 JK 277 (bezorilik) qo'shimcha EMAS (faqat KEYIN sodir etilsa → MAJMUI). ⚖️ JANJAL FARQI: KIM BOSHLAGAN muhim. Jabrlanuvchi BOSHLAGAN yoki g'ayrihuquqiy xulq → (l) YO'Q (o'zaro janjal). Aybdor boshlagan + arzimagan sabab → (l) BOR. Jazo: 15-25 yil yoki umrbod.",
+
+  "translations": {
+    "uz": "JK 97-2(l): Bezorilik. Arzimagan sabab. Jabrlanuvchi boshlagan → (l) yo'q. JK 277 qo'shimcha emas.",
+    "ru": "УК 97-2(л): Хулиганство. Незначительный повод. Потерпевший начал → (л) нет. УК 277 дополнительно нет.",
+    "en": "CC 97-2(l): Hooliganism. Trivial reason. Victim started → (l) no. CC 277 not additional."
+  }
+}

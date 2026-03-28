@@ -1,0 +1,540 @@
+{
+  "id": "JK-097-SHARH-005",
+  "modda_raqam": "97",
+  "sharh_raqami": 5,
+  "tur": "subyektiv_tomon",
+
+  "_izoh": "BO'LIM 5: Subyektiv tomon - aybdorning ichki holati, qasd va niyat",
+
+  "emoji_sarlavha": "🧠 Subyektiv tomon - qasd va niyat",
+
+  "asosiy_matn": "Qasddan odam o'ldirish jinoyatining subyektiv tomoni aybning qasd shakli bilan tavsiflanadi. Qasddan odam o'ldirish jinoyati ham to'g'ri, ham egri qasd bilan sodir etilishi mumkin. Qasddan odam o'ldirish jinoyatini sodir etayotganda aybdor jabrlanuvchini hayotdan mahrum etish qasdi bilan harakat qiladi, qilmishning ijtimoiy xavfli oqibatlariga ko'zi yetadi, o'lim yuz berishini istaydi (to'g'ri qasd) yoki bunga ongli ravishda yo'l qo'yib beradi (egri qasd)",
+
+  "sinonimlar": {
+    "subyektiv tomon": {
+      "variantlar": ["subyektiv tomon", "ichki tomon", "ruhiy holat", "psixologik tomon"],
+      "og'irlik": 90,
+      "rasmiy": true,
+      "emoji": "🧠"
+    },
+    "qasd": {
+      "variantlar": ["qasd", "ataylab", "bilgan holda", "istab"],
+      "og'irlik": 100,
+      "rasmiy": true,
+      "emoji": "🎯"
+    },
+    "kozi yetadi": {
+      "variantlar": ["ko'zi yetadi", "tushunadi", "anglaydi", "biladi"],
+      "og'irlik": 85,
+      "rasmiy": true,
+      "emoji": "👁️"
+    },
+    "istaydi": {
+      "variantlar": ["istaydi", "xohlaydi", "maqsad qiladi"],
+      "og'irlik": 90,
+      "rasmiy": false,
+      "emoji": "💭"
+    }
+  },
+
+  "kontekstli_javoblar": {
+    "_izoh": "Har xil foydalanuvchilar uchun javob uslublari",
+
+    "tergovchi": {
+      "uslub": "juda_rasmiy",
+      "emoji": "👮",
+      "qo'shimcha": [
+        "👮 Tergov yuritishda:",
+        "🧠 Qasdni aniqlang (to'g'ri yoki egri)",
+        "💭 Aybdorning niyatini tekshiring",
+        "🔍 O'limni istagan yoki yo'l qo'ygan?"
+      ],
+      "fokus": "qasd_aniqlash",
+      "qo'shimcha_malumot": [
+        "1️⃣ ANGLASH: Aybdor o'z harakatining xavfli ekanini tushundi mi?",
+        "2️⃣ OLDINDAN KO'RISH: O'lim mumkinligini bildi mi?",
+        "3️⃣ IRODA: O'limni istadi mi (to'g'ri) yoki yo'l qo'ydi mi (egri)?",
+        "4️⃣ DALILLAR: So'zlari, xatti-harakatlari, oldingi munosabat",
+        "⚠️ Qasd bo'lmasa → JK 102 (ehtiyotsizlik) yoki jinoyat emas"
+      ]
+    },
+
+    "advokat": {
+      "uslub": "juda_rasmiy",
+      "emoji": "👔",
+      "qo'shimcha": [
+        "⚖️ Himoya strategiyasi:",
+        "❌ Qasd yo'qligini isbotlang",
+        "🤷 Ehtiyotsizlik ekanligini dalillang",
+        "💭 O'limni istamagan, kutmagan"
+      ],
+      "fokus": "qasd_inkor",
+      "qo'shimcha_malumot": [
+        "❓ Qasd emas, ehtiyotsizlik → JK 102 (3-5 yil)",
+        "❓ To'g'ri qasd emas, egri qasd → engilroq",
+        "🔍 Aybdorning so'zlarini tekshiring",
+        "🎯 Maqsad: JK 97 dan JK 102 ga tushirish yoki qasdni engillashtirish"
+      ]
+    },
+
+    "sudya": {
+      "_izoh": "Sudya uchun - qasdni baholash",
+      "uslub": "juda_rasmiy",
+      "emoji": "⚖️",
+      "qo'shimcha": [
+        "⚖️ Sud qarori chiqarishda:",
+        "🧠 Qasd ANIQ isbotlanganmi?",
+        "❓ To'g'ri qasd yoki egri qasd?",
+        "⚠️ Shubha bo'lsa - aybdor foydasiga"
+      ],
+      "fokus": "qasd_baholash",
+      "qo'shimcha_malumot": [
+        "1️⃣ ANGLASH elementi: Aybdor xavfni tushunganmi?",
+        "2️⃣ OLDINDAN KO'RISH elementi: O'lim mumkinligini bilganmi?",
+        "3️⃣ IRODA elementi: O'limni istagan (to'g'ri) yoki yo'l qo'ygan (egri)?",
+        "❗ MUHIM: Qasd barcha elementlari isbotlanishi kerak",
+        "📋 Dalillar: so'zlari, harakatlari, usul, qurol, oldingi munosabat",
+        "❓ Shubha: Agar qasd shubhali → ehtiyotsizlik (JK 102)",
+        "⚖️ TO'G'RI vs EGRI: To'g'ri qasd og'irroq baholanadi"
+      ]
+    },
+
+    "talaba": {
+      "uslub": "o'rtacha",
+      "emoji": "📚",
+      "qo'shimcha": [
+        "📚 Eslab qoling:",
+        "🧠 Subyektiv tomon = QASD",
+        "💡 2 tur: to'g'ri va egri",
+        "📝 Formula: Anglash + Ko'rish + Iroda"
+      ],
+      "fokus": "formula",
+      "qo'shimcha_malumot": [
+        "📝 QASD (3 element):",
+        "1️⃣ 👁️ ANGLASH (xavfni tushunish)",
+        "2️⃣ 🔮 OLDINDAN KO'RISH (o'lim mumkin)",
+        "3️⃣ 💭 IRODA (istash yoki yo'l qo'yish)",
+        "🎯 TO'G'RI qasd: O'limni ISTADI",
+        "🔄 EGRI qasd: O'limga yo'l QO'YDI"
+      ]
+    },
+
+    "oddiy_fuqaro": {
+      "uslub": "norasmiy",
+      "emoji": "👨",
+      "qo'shimcha": [
+        "💬 Oddiy qilib:",
+        "🧠 Ataylab qildimi?",
+        "💭 O'ldirishni xohladimi?",
+        "❓ Yoki tasodif bo'ldimi?"
+      ],
+      "fokus": "sodda",
+      "qo'shimcha_malumot": [
+        "1️⃣ 🧠 BILDI: O'ldirishi mumkinligini tushundi",
+        "2️⃣ 💭 XOHLADI: O'limni istadi (to'g'ri qasd)",
+        "3️⃣ 🤷 YO'L QO'YDI: Bo'lsin, deb o'yladi (egri qasd)",
+        "❌ Bilmagan, xohlamagan → Tasodif (jinoyat emas)"
+      ]
+    }
+  },
+
+  "savol_turlari": {
+    "_izoh": "Qanday savollarga qanday javob beriladi",
+
+    "ta'rif": {
+      "trigger_sozlar": ["nima", "ta'rif", "subyektiv tomon", "qasd"],
+      "javob": "asosiy_matn",
+      "emoji": "❓"
+    },
+    "farq": {
+      "trigger_sozlar": ["farq", "togri", "egri", "turlar"],
+      "javob": "qasd_turlari",
+      "emoji": "⚖️"
+    },
+    "aniqlash": {
+      "trigger_sozlar": ["qanday", "aniqlash", "bilish", "tekshirish"],
+      "javob": "qasd_aniqlash",
+      "emoji": "🔍"
+    }
+  },
+
+  "javob_uzunligi": {
+    "_izoh": "Javob qanchalik batafsil bo'lishi kerak",
+
+    "qisqa": {
+      "shablon": "🧠 Subyektiv tomon = QASD (to'g'ri yoki egri)"
+    },
+    "o'rtacha": {
+      "shablon": "Subyektiv tomon - aybning QASD shakli. 2 tur: 🎯 to'g'ri qasd (o'limni istaydi) va 🔄 egri qasd (o'limga yo'l qo'yadi)."
+    },
+    "batafsil": {
+      "shablon": "🧠 Qasddan odam o'ldirish subyektiv tomoni QASD shakli bilan tavsiflanadi. Aybdor: 1) ijtimoiy xavfli harakat qilayotganini ANGLAYDI, 2) o'lim yuz berishi mumkinligini OLDINDAN KO'RADI, 3) o'limni ISTAYDI (🎯 to'g'ri qasd) yoki yo'l QO'YADI (🔄 egri qasd). Qasd bo'lmasa → ehtiyotsizlik (JK 102) yoki jinoyat emas."
+    }
+  },
+
+  "1_subyektiv_tomon_tushunchasi": {
+    "_izoh": "BO'LIM 1: SUBYEKTIV TOMON - bu nima?",
+
+    "emoji": "🧠",
+    "nom": "Subyektiv tomon",
+    "ta'rif": "Aybdorning ICHKI HOLATI, ruhiy munosabati jinoyatga",
+    "tushuntirish": "Aybdor nima o'yladi, nima istadi, nimani tushundi",
+
+    "obyektiv_vs_subyektiv": {
+      "_izoh": "Obyektiv va subyektiv tomonning farqi",
+      "obyektiv": {
+        "emoji": "🎬",
+        "ta'rif": "Nima qildi (tashqi)",
+        "misol": "Pichoqladi, otdi"
+      },
+      "subyektiv": {
+        "emoji": "🧠",
+        "ta'rif": "Nima o'yladi (ichki)",
+        "misol": "O'ldirmoqchi edi, bilgan edi"
+      }
+    },
+
+    "ahamiyati": "❗ Subyektiv tomon bo'lmasa → jinoyat YO'Q (masalan, hodisa)"
+  },
+
+  "2_qasd_tushunchasi": {
+    "_izoh": "BO'LIM 2: QASD - asosiy tushuncha",
+
+    "emoji": "🎯",
+    "sarlavha": "QASD - odam o'ldirish faqat QASDDAN",
+    "ta'rif": "Aybdor ATAYLAB, BILGAN HOLDA, ISTAB harakat qilishi",
+
+    "3_element": {
+      "_izoh": "Qasdning 3 ta elementi",
+      "emoji": "🔢",
+      "asosiy": "3 ta element BARCHASI bo'lishi SHART",
+
+      "1_anglash": {
+        "emoji": "👁️",
+        "nom": "1. ANGLASH (intellektual element)",
+        "ta'rif": "Aybdor o'z harakatining ijtimoiy XAVFLI ekanini tushunadi",
+        "tushuntirish": "Aybdor bu harakat O'LDIRISHI mumkinligini biladi",
+        "misol": "Pichoq bilan urishning xavfli ekanini tushunish",
+        "savol": "Aybdor o'z harakatining xavfli ekanini bildi mi?"
+      },
+
+      "2_oldindan_korish": {
+        "emoji": "🔮",
+        "nom": "2. OLDINDAN KO'RISH (intellektual element)",
+        "ta'rif": "Aybdor o'z harakati natijasida O'LIM yuz berishi MUMKINLIGINI oldindan ko'radi",
+        "tushuntirish": "Aybdor 'Bu odam o'lishi mumkin' deb tushunadi",
+        "misol": "Boshga pichoq sanqsam, o'ladi deb bilish",
+        "savol": "Aybdor o'lim yuz berishi mumkinligini bildi mi?"
+      },
+
+      "3_iroda": {
+        "emoji": "💭",
+        "nom": "3. IRODA (irodaviy element)",
+        "ta'rif": "Aybdor o'limni ISTAYDI yoki yo'l QO'YADI",
+        "tushuntirish": "Bu element qasdni 2 turga ajratadi",
+        "turlari": {
+          "istash": "O'limni ISTAYDI → To'g'ri qasd",
+          "yol_qoyish": "O'limga yo'l QO'YADI → Egri qasd"
+        },
+        "savol": "Aybdor o'limni istadi mi yoki shunchaki yo'l qo'ydi mi?"
+      }
+    },
+
+    "formula": "QASD = Anglash + Oldindan ko'rish + Iroda"
+  },
+
+  "3_qasd_turlari": {
+    "_izoh": "BO'LIM 3: QASD TURLARI - to'g'ri va egri",
+
+    "emoji": "⚖️",
+    "sarlavha": "2 TUR qasd: to'g'ri va egri",
+    "asosiy": "Farq faqat 3-elementda (iroda) - istash yoki yo'l qo'yish",
+
+    "togri_qasd": {
+      "emoji": "🎯",
+      "nom": "1. TO'G'RI QASD",
+      "ta'rif": "Aybdor o'limni ISTAYDI, o'ldirish - MAQSAD",
+
+      "elementlar": {
+        "1": "👁️ Anglash: Xavfli harakat ekanini biladi",
+        "2": "🔮 Oldindan ko'rish: O'lim mumkinligini biladi",
+        "3": "💭 Iroda: O'limni ISTAYDI, XOHLAYDI"
+      },
+
+      "belgilari": [
+        "O'ldirish - MAQSAD",
+        "O'limni ISTAYDI",
+        "Harakat o'limga QARATILGAN",
+        "O'lim - OXIRGI natija"
+      ],
+
+      "misollar": [
+        {
+          "emoji": "🎯",
+          "holat": "A o'ch olish uchun B ni o'ldirmoqchi. Pichoq oldi, B ni qidirdi, topdi, bir necha marta pichoqladi.",
+          "tahlil": "Maqsad - o'ldirish. Harakatlari o'limga qaratilgan. O'limni istadi.",
+          "natija": "To'g'ri qasd"
+        },
+        {
+          "emoji": "🎯",
+          "holat": "A B ni otib o'ldirmoqchi. Qurol oldi, nishon oldi, boshiga qaratdi, otdi.",
+          "tahlil": "Maqsad - o'ldirish. Boshga otdi (o'ldirish uchun). O'limni istadi.",
+          "natija": "To'g'ri qasd"
+        }
+      ],
+
+      "sudya_uchun": "To'g'ri qasd - eng og'ir tur. Jazo maksimal bo'lishi mumkin."
+    },
+
+    "egri_qasd": {
+      "emoji": "🔄",
+      "nom": "2. EGRI QASD (bilvosita qasd)",
+      "ta'rif": "Aybdor o'limni ISTAMAYDI, lekin o'limga ONGLI RAVISHDA YO'L QO'YADI",
+
+      "elementlar": {
+        "1": "👁️ Anglash: Xavfli harakat ekanini biladi",
+        "2": "🔮 Oldindan ko'rish: O'lim mumkinligini biladi",
+        "3": "💭 Iroda: O'limni istamaydi, lekin YO'L QO'YADI"
+      },
+
+      "belgilari": [
+        "O'ldirish - MAQSAD EMAS",
+        "O'limni ISTAMAYDI, lekin",
+        "O'limga YO'L QO'YADI",
+        "O'lim - QO'SHIMCHA natija",
+        "'Bo'lsin' degan munosabat"
+      ],
+
+      "tushuntirish": "Aybdor boshqa maqsad uchun harakat qiladi, lekin o'lim bo'lishi mumkinligini biladi va 'bo'lsin' deb o'ylaydi",
+
+      "misollar": [
+        {
+          "emoji": "🔄",
+          "holat": "A o'z mulkini o'g'irlash uchun uyni yoqdi. Uyda odam borligini bilardi. 'Qochib ketsin yoki o'lsin - menga farqi yo'q' deb o'yladi. Odam o'ldi.",
+          "tahlil": "Maqsad - o'g'irlash (o'ldirish emas). O'lim mumkinligini bilgan. Yo'l qo'ygan.",
+          "natija": "Egri qasd"
+        },
+        {
+          "emoji": "🔄",
+          "holat": "A ko'chada B ni kaltakladi. Odamlar to'xtata olmaydi, deb yo'lda turgan C ni urib yubordi. 'O'lsa ham bo'lsin' deb o'yladi. C o'ldi.",
+          "tahlil": "Maqsad - B ni urish (C ni o'ldirish emas). C o'lishi mumkinligini bilgan. Yo'l qo'ygan.",
+          "natija": "Egri qasd"
+        }
+      ],
+
+      "sudya_uchun": "Egri qasd - to'g'ri qasddan yengilroq. Lekin baribir JK 97 (qasddan o'ldirish)."
+    },
+
+    "farq_jadvali": {
+      "_izoh": "To'g'ri va egri qasd farqi",
+      "emoji": "📊",
+
+      "togri": {
+        "maqsad": "O'ldirish - MAQSAD",
+        "iroda": "O'limni ISTAYDI",
+        "munosabat": "O'lim kerak",
+        "natija": "O'lim - OXIRGI maqsad"
+      },
+
+      "egri": {
+        "maqsad": "Boshqa maqsad (o'ldirish emas)",
+        "iroda": "O'limga YO'L QO'YADI",
+        "munosabat": "'Bo'lsin' degan",
+        "natija": "O'lim - QO'SHIMCHA natija"
+      }
+    }
+  },
+
+  "4_suiqasd": {
+    "_izoh": "BO'LIM 4: SUIQASD - faqat to'g'ri qasd bilan",
+
+    "emoji": "⚠️",
+    "sarlavha": "Suiqasd - faqat TO'G'RI QASD",
+    "ta'rif": "O'ldirishga harakat qildi, lekin o'lim yuz bermadi",
+
+    "faqat_togri": {
+      "emoji": "🎯",
+      "qoida": "Suiqasd FAQAT to'g'ri qasd bilan bo'ladi",
+      "sabab": "Aybdor o'limni ISTAGAN bo'lishi kerak",
+      "tushuntirish": "Egri qasdda o'lim - qo'shimcha natija, shuning uchun suiqasd bo'lmaydi"
+    },
+
+    "shartlar": {
+      "1": "Aybdor o'z harakatining xavfli ekanini ANGLAGAN",
+      "2": "O'lim yuz berishini OLDINDAN KO'RGAN",
+      "3": "O'limni ISTAGAN (to'g'ri qasd)",
+      "4": "O'lim yuz BERMAGAN (aybdorga bog'liq bo'lmagan sabablar)"
+    },
+
+    "tugallanmaslik_sabablari": [
+      "Jabrlanuvchining faol qarshiligi",
+      "Boshqa shaxslarning aralashuvi",
+      "O'z vaqtida tibbiy yordam",
+      "Qurol noto'g'ri ishladi",
+      "Nishon xato olindi"
+    ],
+
+    "kvalifikatsiya": "JK 25, 97 - suiqasd",
+
+    "misol": {
+      "emoji": "⚠️",
+      "holat": "A B ni o'ldirmoqchi edi. Pichoq bilan bir necha marta urdi. Odamlar keldi, to'xtata oldi. B kasalxonaga olib borildi, tirik qoldi.",
+      "tahlil": "To'g'ri qasd bor (o'limni istagan). O'lim yuz bermagan (yordam berildi).",
+      "natija": "JK 25, 97 - suiqasd"
+    }
+  },
+
+  "5_ehtiyotsizlikdan_farq": {
+    "_izoh": "BO'LIM 5: QASD vs EHTIYOTSIZLIK - muhim farq!",
+
+    "emoji": "⚖️",
+    "sarlavha": "QASD va EHTIYOTSIZLIK farqi",
+    "muhim": "❗ Bu ENG MUHIM farq - jazo juda farqli!",
+
+    "qasd": {
+      "emoji": "🎯",
+      "nom": "QASD (JK 97)",
+      "iroda": "O'limni ISTAYDI yoki yo'l QO'YADI",
+      "anglash": "Xavfni BILADI",
+      "oldindan_korish": "O'lim mumkinligini BILADI",
+      "misol": "Pichoq bilan boshga urdi, o'lishi mumkinligini bilgan edi",
+      "jazo": "⛓️ 10-25 yil yoki umrbod"
+    },
+
+    "ehtiyotsizlik": {
+      "emoji": "🤷",
+      "nom": "EHTIYOTSIZLIK (JK 102)",
+      "iroda": "O'limni ISTAMAYDI va yo'l qo'ymaydi",
+      "anglash": "Xavfni bilmagan yoki umid qilgan",
+      "oldindan_korish": "O'lim bo'lmasligiga umid qilgan yoki bilmagan",
+      "misol": "Mashina haydab ketayotgan edi, ehtiyot bo'lmadi, odamni urib yubordi",
+      "jazo": "⛓️ 3-5 yil"
+    },
+
+    "asosiy_farq": "QASD - xohladi yoki yo'l qo'ydi. EHTIYOTSIZLIK - xohlamadi va kutmadi.",
+
+    "sudya_uchun": {
+      "qoida": "Agar qasd isbotlanmasa → ehtiyotsizlik (JK 102)",
+      "shubha": "❓ Qasd shubhali → ehtiyotsizlik foydasiga (aybdor foydasiga)"
+    }
+  },
+
+  "6_qasd_aniqlash": {
+    "_izoh": "BO'LIM 6: QASDNI QANDAY ANIQLASH?",
+
+    "emoji": "🔍",
+    "sarlavha": "Qasdni aniqlash usullari",
+    "umumiy": "Qasd ichki holat, shuning uchun tashqi belgilarga qarab aniqlanadi",
+
+    "dalillar": {
+      "1_sozlar": {
+        "emoji": "💬",
+        "nom": "1. Aybdorning SO'ZLARI",
+        "ta'rif": "Aybdor nima dedi (oldin, paytida, keyin)",
+        "misollar": [
+          "Oldin: 'Men seni o'ldiraman' dedi",
+          "Paytida: 'O'l!' dedi",
+          "Keyin: 'O'ldirishni xohlagan edim' dedi"
+        ],
+        "muhim": "So'zlari qasdni ko'rsatadi"
+      },
+
+      "2_usul": {
+        "emoji": "🔧",
+        "nom": "2. USUL va QUROL",
+        "ta'rif": "Qanday usul va qurol ishlatgan",
+        "misollar": [
+          "O'ldiruvchi qurol (pichoq, qurol)",
+          "Xavfli usul (bo'g'ish, otish)",
+          "Bir necha marta urish"
+        ],
+        "tushuntirish": "Xavfli usul → qasd ehtimoli yuqori"
+      },
+
+      "3_jarohatlari": {
+        "emoji": "💉",
+        "nom": "3. JAROHATLAR",
+        "ta'rif": "Qayerga urgan, qancha urgan",
+        "muhim_joylar": [
+          "Bosh (miya)",
+          "Ko'krak (yurak)",
+          "Bo'yin (tomirlar)",
+          "Qorin (ichki organlar)"
+        ],
+        "tushuntirish": "Muhim organlarga urish → o'ldirish qasdi",
+        "misol": "Boshga 5 marta pichoq sanqdi → o'ldirish qasdi aniq"
+      },
+
+      "4_oldingi_munosabat": {
+        "emoji": "📅",
+        "nom": "4. OLDINGI MUNOSABAT",
+        "ta'rif": "Aybdor va jabrlanuvchi oldin qanday munosabatda edilar",
+        "misollar": [
+          "O'ch olish maqsadi bor edi",
+          "Oldin janjal qilgan",
+          "Dushmanlik bor edi"
+        ],
+        "tushuntirish": "Oldingi dushmanlik → o'ch olish qasdi"
+      },
+
+      "5_keyingi_harakat": {
+        "emoji": "🏃",
+        "nom": "5. KEYINGI HARAKATLAR",
+        "ta'rif": "Jinoyatdan keyin nima qildi",
+        "misollar": [
+          "Qochib ketdi",
+          "Dalillarni yo'q qildi",
+          "Yordam chaqirmadi",
+          "Joyni tark etdi"
+        ],
+        "tushuntirish": "Yordam bermasa → qasd ehtimoli yuqori"
+      }
+    },
+
+    "majmua": {
+      "emoji": "📊",
+      "qoida": "BARCHA holatlar MAJMUIDA baholanadi",
+      "tushuntirish": "Bitta belgi emas, barchasi birgalikda",
+      "muhim": "❗ Sud barcha dalillarni birgalikda ko'rib chiqadi"
+    }
+  },
+
+  "7_muhim_xulosa": {
+    "_izoh": "BO'LIM 7: MUHIM XULOSA",
+
+    "emoji": "❗",
+    "asosiy": "Subyektiv tomon = QASD (to'g'ri yoki egri)",
+    "formula": "👁️ Anglash + 🔮 Oldindan ko'rish + 💭 Iroda = 🧠 Qasd",
+    "farq": "🎯 To'g'ri: o'limni istaydi. 🔄 Egri: yo'l qo'yadi.",
+    "ehtiyotsizlik": "🤷 Qasd yo'q → JK 102 (ehtiyotsizlik)"
+  },
+
+  "tushuntirish": "Subyektiv tomon - aybning QASD shakli. Aybdor: 1) xavfli harakat ekanini ANGLAYDI, 2) o'lim mumkinligini OLDINDAN KO'RADI, 3) o'limni ISTAYDI (to'g'ri qasd) yoki yo'l QO'YADI (egri qasd). Suiqasd faqat to'g'ri qasd bilan. Qasd bo'lmasa → ehtiyotsizlik (JK 102). Qasd dalillar majmuida aniqlanadi.",
+
+  "misollar": {
+    "togri_qasd": {
+      "emoji": "🎯",
+      "holat": "A B ni o'ch olish uchun o'ldirmoqchi edi. Pichoq oldi, B ni qidirdi, topdi, boshiga 5 marta pichoq sanqdi. B o'ldi.",
+      "tahlil": "Maqsad - o'ldirish. Xavfli qurol. Muhim joyga (bosh) urdi. Bir necha marta. O'limni istagan.",
+      "natija": "To'g'ri qasd → JK 97"
+    },
+    "egri_qasd": {
+      "emoji": "🔄",
+      "holat": "A o'g'irlash uchun uyni yoqdi. Ichida odam borligini bilgan edi. 'Qochib ketsin yoki o'lsin' deb o'ylagan. Odam o'ldi.",
+      "tahlil": "Maqsad - o'g'irlash. O'lim mumkinligini bilgan. Yo'l qo'ygan.",
+      "natija": "Egri qasd → JK 97"
+    },
+    "ehtiyotsizlik": {
+      "emoji": "🤷",
+      "holat": "A mashina haydab ketayotgan edi. Tezligini kamaytirmadi. Yo'lda ketayotgan odamni urib yubordi. Odam o'ldi.",
+      "tahlil": "O'ldirish qasdi yo'q. Ehtiyot bo'lmagan. Umid qilgan (odam qochadi deb).",
+      "natija": "Ehtiyotsizlik → JK 102"
+    }
+  },
+
+  "translations": {
+    "uz": "Subyektiv tomon: qasd (to'g'ri yoki egri). Ehtiyotsizlik - JK 102.",
+    "ru": "Субъективная сторона: умысел (прямой или косвенный). Неосторожность - УК 102.",
+    "en": "Subjective side: intent (direct or indirect). Negligence - CC 102."
+  }
+}

@@ -1,0 +1,315 @@
+{
+  "id": "JK-097-SHARH-010",
+  "modda_raqam": "97",
+  "sharh_raqami": 10,
+  "tur": "ogirlashtirish_umumiy",
+
+  "_izoh": "BO'LIM 10: JK 97-2 qismi - Og'irlashtirilgan holatlar (umumiy ko'rinish)",
+
+  "emoji_sarlavha": "🔴 Og'irlashtirilgan odam o'ldirish - JK 97-2",
+
+  "asosiy_matn": "JK 97-moddasi 2-qismi qasddan odam o'ldirishning og'irlashtirilgan holatlarini belgilaydi. Bu holatlar jinoyatning ayniqsa xavfli ekanligini, aybdorning yuqori darajadagi ijtimoiy xavfliligini yoki jinoyat oqibatlarining og'irligini ko'rsatadi. Og'irlashtirilgan holatlar mavjud bo'lganda jazo chegaralari yuqoriroq belgilanadi - 15 yildan 25 yilgacha yoki umrbod ozodlikdan mahrum qilish",
+
+  "sinonimlar": {
+    "ogirlashtirish": {
+      "variantlar": ["og'irlashtirilgan", "og'irroq", "yuqori xavfli", "ayniqsa og'ir"],
+      "og'irlik": 95,
+      "rasmiy": true,
+      "emoji": "🔴"
+    },
+    "kvalifitsirlovchi": {
+      "variantlar": ["kvalifitsirlovchi", "og'irlashtiruvchi belgi", "alohida holat"],
+      "og'irlik": 90,
+      "rasmiy": true,
+      "emoji": "⚠️"
+    }
+  },
+
+  "kontekstli_javoblar": {
+    "tergovchi": {
+      "uslub": "juda_rasmiy",
+      "emoji": "👮",
+      "qo'shimcha": [
+        "👮 Tergov yuritishda:",
+        "🔴 Og'irlashtirilgan belgilar bormi?",
+        "📋 Har bir belgini alohida isbotlang",
+        "⚠️ JK 97-2 → STATSIONAR ekspertiza MAJBURIY"
+      ],
+      "fokus": "belgilarni_aniqlash",
+      "qo'shimcha_malumot": [
+        "1️⃣ 5 TA BELGI: (a), (b), (v), (g), (d)",
+        "2️⃣ Har bir belgini ALOHIDA tekshiring",
+        "3️⃣ DALILLAR: Har bir belgi uchun",
+        "4️⃣ EKSPERTIZA: Statsionar (JK 97-2 uchun MAJBURIY)",
+        "⚠️ Noto'g'ri kvalifikatsiya → qaror bekor"
+      ]
+    },
+
+    "advokat": {
+      "uslub": "juda_rasmiy",
+      "emoji": "👔",
+      "qo'shimcha": [
+        "⚖️ Himoya strategiyasi:",
+        "❌ Og'irlashtirilgan belgilar yo'qligini dalillang",
+        "📉 JK 97-2 dan JK 97-1 ga tushirish",
+        "🎯 15-25 yil dan 10-15 yilga"
+      ],
+      "fokus": "belgilarni_inkor",
+      "qo'shimcha_malumot": [
+        "❓ Belgi YO'Q ekanligini isbotlang",
+        "📋 Dalillar yetarli emasligini ko'rsating",
+        "🎯 Maqsad: JK 97-1 (10-15 yil) ni olish"
+      ]
+    },
+
+    "sudya": {
+      "uslub": "juda_rasmiy",
+      "emoji": "⚖️",
+      "qo'shimcha": [
+        "⚖️ Sud qarori chiqarishda:",
+        "🔴 Har bir belgi ANIQ isbotlanganmi?",
+        "📋 Shubha bo'lsa → JK 97-1",
+        "⚠️ Statsionar ekspertiza o'tkazilganmi?"
+      ],
+      "fokus": "qatiy_baholash",
+      "qo'shimcha_malumot": [
+        "❗ Og'irlashtirilgan belgini qo'llash - QATIY",
+        "📋 Har bir belgi ANIQ isbotlanishi kerak",
+        "❓ Shubha bo'lsa → aybdor foydasiga (JK 97-1)",
+        "⚠️ Statsionar ekspertiza MAJBURIY (agar o'tkazilmagan → qaror bekor)",
+        "🔍 Har bir belgini qarorga ALOHIDA yozish",
+        "⚖️ Jazo: 15-25 yil yoki umrbod"
+      ]
+    },
+
+    "talaba": {
+      "uslub": "o'rtacha",
+      "emoji": "📚",
+      "qo'shimcha": [
+        "📚 Eslab qoling:",
+        "🔴 JK 97-2 = 5 ta belgi",
+        "⛓️ Jazo: 15-25 yil yoki umrbod",
+        "📝 Har birini alohida o'rganish"
+      ],
+      "fokus": "royxat",
+      "qo'shimcha_malumot": [
+        "📝 JK 97-2 BELGILARI (5 ta):",
+        "(a) Ikki yoki undan ortiq",
+        "(b) Umumxavfli usul",
+        "(v) Boshqa og'ir jinoyat bilan",
+        "(g) Organ olish maqsadi",
+        "(d) Og'ir shikast → o'lim"
+      ]
+    },
+
+    "oddiy_fuqaro": {
+      "uslub": "norasmiy",
+      "emoji": "👨",
+      "qo'shimcha": [
+        "💬 Oddiy qilib:",
+        "🔴 Juda og'ir holatlar",
+        "⛓️ Ko'p yil yoki umrbod",
+        "⚠️ Maxsus holatlar"
+      ],
+      "fokus": "sodda",
+      "qo'shimcha_malumot": [
+        "🔴 OG'IR HOLATLAR:",
+        "Ko'p odam o'ldirdi",
+        "Yomon usul ishlatdi",
+        "Boshqa jinoyat bilan",
+        "⛓️ JAZO: 15-25 yil yoki umrbod"
+      ]
+    }
+  },
+
+  "javob_uzunligi": {
+    "qisqa": {
+      "shablon": "🔴 JK 97-2: Og'irlashtirilgan holatlar. 5 ta belgi. Jazo: 15-25 yil yoki umrbod."
+    },
+    "o'rtacha": {
+      "shablon": "JK 97-2 - og'irlashtirilgan odam o'ldirish. 5 ta belgi: (a) ikki+, (b) umumxavfli, (v) boshqa jinoyat, (g) organ, (d) shikast→o'lim. Jazo: 15-25 yil yoki umrbod."
+    },
+    "batafsil": {
+      "shablon": "🔴 JK 97-2 qismi qasddan odam o'ldirishning OG'IRLASHTIRILGAN holatlarini belgilaydi. 5 TA BELGI: (a) ikki yoki undan ortiq shaxs, (b) umumxavfli usul, (v) boshqa og'ir jinoyat bilan, (g) organ olish maqsadi, (d) og'ir shikast natijasida o'lim. Har bir belgi ANIQ isbotlanishi kerak. Statsionar ekspertiza MAJBURIY. Jazo: 15-25 yil yoki umrbod ozodlikdan mahrum qilish."
+    }
+  },
+
+  "1_umumiy_tushuncha": {
+    "emoji": "🔴",
+    "sarlavha": "JK 97-2 - Og'irlashtirilgan holatlar",
+    "ta'rif": "Qasddan odam o'ldirishning AYNIQSA OG'IR, XAVFLI shakllari",
+    "tushuntirish": "Oddiy odam o'ldirishdan ko'ra og'irroq, xavfliroq",
+
+    "nima_uchun_ogir": [
+      "Jinoyat xavfliroq",
+      "Oqibatlar og'irroq",
+      "Aybdor xavfliroq",
+      "Jamiyat uchun katta zarar"
+    ],
+
+    "farq_jk97_1": {
+      "jk_97_1": {
+        "emoji": "⚠️",
+        "qism": "JK 97-1 qism",
+        "nom": "Oddiy odam o'ldirish",
+        "belgilar": "Maxsus belgilar yo'q",
+        "jazo": "⛓️ 10-15 yil"
+      },
+
+      "jk_97_2": {
+        "emoji": "🔴",
+        "qism": "JK 97-2 qism",
+        "nom": "Og'irlashtirilgan odam o'ldirish",
+        "belgilar": "5 ta maxsus belgi (a, b, v, g, d)",
+        "jazo": "⛓️ 15-25 yil yoki umrbod"
+      }
+    }
+  },
+
+  "2_belgilar_royxati": {
+    "emoji": "📋",
+    "sarlavha": "Og'irlashtirilgan belgilar ro'yxati (5 ta)",
+    "umumiy": "JK 97-2: 5 ta belgi, har biri alohida",
+
+    "royxat": {
+      "a": {
+        "emoji": "👥",
+        "harf": "(a)",
+        "nom": "Ikki yoki undan ortiq shaxsni o'ldirish",
+        "qisqacha": "Ko'p odam o'ldirish",
+        "sharh": "SHARH-011"
+      },
+
+      "b": {
+        "emoji": "💥",
+        "harf": "(b)",
+        "nom": "Ko'pchilik uchun umumxavfli usulda",
+        "qisqacha": "Xavfli usul (portlatish, yong'in)",
+        "sharh": "SHARH-012"
+      },
+
+      "v": {
+        "emoji": "⚔️",
+        "harf": "(v)",
+        "nom": "Boshqa og'ir jinoyat sodir etish bilan bog'liq",
+        "qisqacha": "Boshqa jinoyat + o'ldirish",
+        "sharh": "SHARH-013"
+      },
+
+      "g": {
+        "emoji": "🫀",
+        "harf": "(g)",
+        "nom": "Organ yoki to'qimalarni olish maqsadida",
+        "qisqacha": "Organ uchun o'ldirish",
+        "sharh": "SHARH-014"
+      },
+
+      "d": {
+        "emoji": "💪",
+        "harf": "(d)",
+        "nom": "Qasddan og'ir shikast, o'lim kelib chiqqan",
+        "qisqacha": "Shikast qasdi → o'lim",
+        "sharh": "SHARH-015"
+      }
+    },
+
+    "muhim": "❗ Har bir belgi ALOHIDA sharhlarda batafsil"
+  },
+
+  "3_jazo_olchovi": {
+    "emoji": "⚖️",
+    "sarlavha": "Jazo o'lchovi",
+
+    "asosiy_jazo": {
+      "emoji": "⛓️",
+      "minimal": "15 yil",
+      "maksimal": "25 yil",
+      "alternativ": "Umrbod ozodlikdan mahrum qilish",
+      "ortacha": "18-20 yil"
+    },
+
+    "qachon_umrbod": {
+      "emoji": "🔴",
+      "holatlar": [
+        "Juda og'ir holat",
+        "Ko'p belgilar birgalikda",
+        "Ayniqsa shafqatsiz",
+        "Ko'p odam o'ldi",
+        "Takroran (avval ham o'ldirgan)"
+      ],
+      "muhim": "Sud har bir holatni alohida baholaydi"
+    }
+  },
+
+  "4_isbotlash_talabi": {
+    "emoji": "📋",
+    "sarlavha": "Og'irlashtirilgan belgini isbotlash",
+
+    "qatiy_talab": {
+      "emoji": "❗",
+      "qoida": "Har bir belgi ANIQ va ISHONCHLI isbotlanishi SHART",
+      "tushuntirish": "Shubha bo'lsa → belgi qo'llanilmaydi",
+      "natija": "Agar isbotlanmasa → JK 97-1 (oddiy)"
+    },
+
+    "shubha_printsipi": {
+      "emoji": "❓",
+      "qoida": "Shubha - aybdor foydasiga (JK 14)",
+      "misol": "Ikki odam o'ldirgani shubhali → (a) belgi qo'llanilmaydi",
+      "natija": "JK 97-1 (10-15 yil)"
+    }
+  },
+
+  "5_statsionar_ekspertiza": {
+    "emoji": "🏥",
+    "sarlavha": "Statsionar ekspertiza - MAJBURIY",
+    "qoida": "JK 97-2 bo'yicha statsionar sud-psixiatriya ekspertizasi MAJBURIY",
+
+    "nima_uchun": [
+      "Juda og'ir jinoyat",
+      "Umrbod jazo bo'lishi mumkin",
+      "Chuqur tekshirish kerak",
+      "Aqliy holatni to'liq aniqlash"
+    ],
+
+    "agar_otkazilmasa": {
+      "emoji": "❌",
+      "natija": "Qaror BEKOR qilinadi",
+      "sabab": "Majburiy talab bajarilmagan",
+      "qayta_korish": "Sud qaytadan ko'radi"
+    }
+  },
+
+  "6_bir_necha_belgi": {
+    "emoji": "🔢",
+    "sarlavha": "Bir necha belgi birgalikda",
+
+    "mumkin": {
+      "emoji": "✅",
+      "holat": "Bir jinoyatda bir necha belgi bo'lishi mumkin",
+      "misol": "Ikki odam (a) + Umumxavfli usul (b) = 2 ta belgi",
+      "kvalifikatsiya": "Baribir JK 97-2, lekin har ikkisi ham ko'rsatiladi"
+    },
+
+    "jazo_tasiri": {
+      "emoji": "⚖️",
+      "qoida": "Ko'p belgi → jazo og'irroq",
+      "misol": "1 belgi → 15-18 yil, 3 belgi → 22-25 yil yoki umrbod"
+    }
+  },
+
+  "7_muhim_xulosa": {
+    "emoji": "❗",
+    "asosiy": "JK 97-2 = 5 ta og'irlashtirilgan belgi",
+    "jazo": "⛓️ 15-25 yil yoki umrbod",
+    "talab": "Har bir belgi ANIQ isbotlanishi + Statsionar ekspertiza MAJBURIY"
+  },
+
+  "tushuntirish": "JK 97-2 qismi odam o'ldirishning og'irlashtirilgan holatlarini belgilaydi. 5 ta belgi: (a) ikki yoki undan ortiq shaxs, (b) umumxavfli usul, (v) boshqa og'ir jinoyat bilan, (g) organ olish maqsadi, (d) og'ir shikast natijasida o'lim. Har bir belgi aniq isbotlanishi kerak, shubha bo'lsa → JK 97-1. Statsionar ekspertiza MAJBURIY. Jazo: 15-25 yil yoki umrbod.",
+
+  "translations": {
+    "uz": "JK 97-2: 5 ta belgi. Jazo: 15-25 yil yoki umrbod. Statsionar ekspertiza majburiy.",
+    "ru": "УК 97-2: 5 признаков. Наказание: 15-25 лет или пожизненно. Стационарная экспертиза обязательна.",
+    "en": "CC 97-2: 5 aggravating circumstances. Punishment: 15-25 years or life. Inpatient examination mandatory."
+  }
+}

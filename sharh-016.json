@@ -1,0 +1,454 @@
+{
+  "id": "JK-097-SHARH-016",
+  "modda_raqam": "97",
+  "sharh_raqami": 16,
+  "tur": "ikki_ortiq_qoshimcha",
+
+  "_izoh": "BO'LIM 16: JK 97-2(a) - Ikki yoki undan ortiq shaxs (qo'shimcha tushuntirishlar va murakkab holatlar)",
+
+  "emoji_sarlavha": "👥 Ikki+ shaxs - murakkab holatlar va kvalifikatsiya",
+
+  "asosiy_matn": "JK 97-2(a) bandida ikki yoki undan ortiq shaxsni qasddan o'ldirganlik uchun javobgarlik nazarda tutilgan. Bu belgi faqat aybdorning harakatlari YAGONA QASD bilan qamrab olingan hollardagina qo'llaniladi. Muhim: motivlar har xil bo'lishi mumkin, lekin NIYAT yagona bo'lishi shart. Turli vaqtlarda o'ldirish - faqat TO'G'RI qasd bilan. Bir vaqtda - to'g'ri yoki egri qasd. Agar yagona qasd bo'lmasa → takroran o'ldirish (JK 97-2(r)). Suiqasd holati: biri o'ldi, biri tirik → JK 25,97-2(a) + JK 97",
+
+  "sinonimlar": {
+    "yagona qasd": {
+      "variantlar": ["yagona qasd", "bitta niyat", "umumiy qasd", "bir maqsad"],
+      "og'irlik": 95,
+      "rasmiy": true,
+      "emoji": "🎯"
+    },
+    "togri qasd": {
+      "variantlar": ["to'g'ri qasd", "bevosita qasd", "to'g'ridan-to'g'ri qasd"],
+      "og'irlik": 90,
+      "rasmiy": true,
+      "emoji": "🎯"
+    },
+    "egri qasd": {
+      "variantlar": ["egri qasd", "bilvosita qasd", "yo'l qo'yish"],
+      "og'irlik": 90,
+      "rasmiy": true,
+      "emoji": "🔄"
+    }
+  },
+
+  "kontekstli_javoblar": {
+    "tergovchi": {
+      "uslub": "juda_rasmiy",
+      "emoji": "👮",
+      "qo'shimcha": [
+        "👮 Tergov yuritishda:",
+        "🎯 YAGONA QASD bormi? (eng muhim!)",
+        "⏰ Vaqt: Bir vaqtda yoki turli vaqtda?",
+        "💭 Qasd turi: To'g'ri yoki egri?",
+        "📋 Motivlar: Har xil bo'lishi mumkin"
+      ],
+      "qo'shimcha_malumot": [
+        "1️⃣ YAGONA QASD - asosiy shart!",
+        "2️⃣ BIR VAQTDA: To'g'ri yoki egri qasd ✅",
+        "3️⃣ TURLI VAQTDA: Faqat TO'G'RI qasd ✅",
+        "4️⃣ MOTIVLAR: Har xil bo'lishi mumkin (masalan: biri rashk, biri o'ch)",
+        "5️⃣ SUIQASD: Biri o'ldi, biri tirik → JK 25,97-2(a) + JK 97",
+        "6️⃣ EHTIYOTSIZLIK: Biri qasddan, biri ehtiyotsizlik → JK 97 + JK 102",
+        "⚠️ Yagona qasd yo'q → JK 97-2(r) (takroran)"
+      ]
+    },
+
+    "advokat": {
+      "uslub": "juda_rasmiy",
+      "emoji": "👔",
+      "qo'shimcha": [
+        "⚖️ Himoya strategiyasi:",
+        "❌ Yagona qasd yo'qligini dalillang",
+        "📉 Har xil motivlar, har xil vaqt → alohida jinoyatlar",
+        "🎯 JK 97-2(a) dan JK 97-2(r) ga yoki alohida JK 97-1 larga"
+      ],
+      "qo'shimcha_malumot": [
+        "❓ YAGONA QASD YO'Q:",
+        "- Har xil sabablar",
+        "- Har xil vaqt (uzoq oraliq)",
+        "- Har xil vaziyatlar",
+        "🎯 Maqsad: (a) belgidan qochish",
+        "📊 Natija: Alohida jinoyatlar yoki JK 97-2(r)"
+      ]
+    },
+
+    "sudya": {
+      "uslub": "juda_rasmiy",
+      "emoji": "⚖️",
+      "qo'shimcha": [
+        "⚖️ Sud qarori chiqarishda:",
+        "🎯 YAGONA QASD ANIQ isbotlanganmi?",
+        "⏰ Vaqt va qasd turi mosmi?",
+        "📊 Murakkab holatlarni to'g'ri kvalifikatsiya qiling"
+      ],
+      "qo'shimcha_malumot": [
+        "❗ ASOSIY QOIDALAR:",
+        "1️⃣ YAGONA QASD - majburiy shart",
+        "2️⃣ BIR VAQTDA: To'g'ri yoki egri ✅",
+        "3️⃣ TURLI VAQTDA: Faqat TO'G'RI ✅",
+        "4️⃣ MOTIVLAR: Har xil mumkin",
+        "📊 MURAKKAB HOLATLAR:",
+        "- Suiqasd (1 o'ldi, 1 tirik) → JK 25,97-2(a) + JK 97",
+        "- Ehtiyotsizlik (1 qasd, 1 ehtiyot) → JK 97 + JK 102",
+        "- Yagona qasd yo'q → JK 97-2(r) yoki alohida",
+        "❓ Shubha → yagona qasd yo'q"
+      ]
+    },
+
+    "talaba": {
+      "uslub": "o'rtacha",
+      "emoji": "📚",
+      "qo'shimcha": [
+        "📚 Eslab qoling:",
+        "🎯 YAGONA QASD - asosiy!",
+        "⏰ Vaqt va qasd turi muhim",
+        "📊 Murakkab holatlar bor"
+      ],
+      "qo'shimcha_malumot": [
+        "📝 ASOSIY QOIDALAR:",
+        "1️⃣ Bir vaqtda: to'g'ri/egri ✅",
+        "2️⃣ Turli vaqtda: faqat to'g'ri ✅",
+        "3️⃣ Motivlar: har xil mumkin",
+        "4️⃣ Suiqasd: 1 o'ldi, 1 tirik",
+        "5️⃣ Ehtiyotsizlik: majmua"
+      ]
+    },
+
+    "oddiy_fuqaro": {
+      "uslub": "norasmiy",
+      "emoji": "👨",
+      "qo'shimcha": [
+        "💬 Oddiy qilib:",
+        "🎯 Bitta reja bilan ko'p odam",
+        "⏰ Bir vaqtda yoki turli vaqtda",
+        "⛓️ Og'ir jazo"
+      ],
+      "qo'shimcha_malumot": [
+        "🎯 BITTA REJA bilan",
+        "👥 Ko'p odam o'ldirdi",
+        "⛓️ 15-25 yil yoki umrbod"
+      ]
+    }
+  },
+
+  "javob_uzunligi": {
+    "qisqa": {
+      "shablon": "👥 JK 97-2(a): Yagona qasd + Bir/turli vaqt + To'g'ri/egri qasd"
+    },
+    "o'rtacha": {
+      "shablon": "JK 97-2(a): Yagona qasd asosiy shart. Bir vaqtda - to'g'ri/egri qasd. Turli vaqtda - faqat to'g'ri qasd. Motivlar har xil bo'lishi mumkin. Suiqasd: JK 25,97-2(a)+97. Ehtiyotsizlik: JK 97+102."
+    },
+    "batafsil": {
+      "shablon": "👥 JK 97-2(a) qo'shimcha: YAGONA QASD - asosiy shart. BIR VAQTDA: to'g'ri yoki egri qasd. TURLI VAQTDA: faqat TO'G'RI qasd. Motivlar HAR XIL bo'lishi mumkin (rashk+o'ch). Yagona qasd yo'q → JK 97-2(r) (takroran). SUIQASD: 1 o'ldi, 1 tirik → JK 25,97-2(a) + JK 97. EHTIYOTSIZLIK: 1 qasd, 1 ehtiyot → JK 97 + JK 102 (majmua). Jazo: 15-25 yil yoki umrbod."
+    }
+  },
+
+  "1_yagona_qasd_chuqur": {
+    "emoji": "🎯",
+    "sarlavha": "YAGONA QASD - chuqur tahlil",
+    "ta'rif": "Barcha o'ldirishlar BITTA UMUMIY NIYAT ostida",
+    "muhim": "❗ Bu (a) belgining ENG ASOSIY elementi!",
+
+    "niyat_vs_motiv": {
+      "emoji": "⚖️",
+      "farq": "NIYAT va MOTIV - har xil!",
+
+      "niyat": {
+        "emoji": "🎯",
+        "nom": "NIYAT (qasd)",
+        "ta'rif": "Nimani XOHLAYDI (o'ldirish)",
+        "shart": "YAGONA bo'lishi SHART",
+        "misol": "Ikkalasini ham o'ldirish niyati"
+      },
+
+      "motiv": {
+        "emoji": "💭",
+        "nom": "MOTIV (sabab)",
+        "ta'rif": "NEGA qilmoqda (sabab)",
+        "shart": "HAR XIL bo'lishi MUMKIN",
+        "misol": "Biri rashk, biri o'ch"
+      }
+    },
+
+    "misol_har_xil_motiv": {
+      "emoji": "📚",
+      "holat": "A xotinini rashk tufayli o'ldirdi (rashk motivi). O'ynashini o'ch olish uchun o'ldirdi (o'ch motivi). Ikkalasini ham bir vaqtda.",
+      "tahlil": {
+        "niyat": "🎯 YAGONA: Ikkalasini ham o'ldirish",
+        "motivlar": "💭 HAR XIL: rashk + o'ch",
+        "vaqt": "⏰ Bir vaqtda",
+        "qasd": "🎯 To'g'ri qasd (ikkalasini ham istagan)"
+      },
+      "natija": "✅ JK 97-2(a) - chunki NIYAT yagona",
+      "tushuntirish": "Motivlar har xil, lekin NIYAT bir - ikkalasini ham o'ldirish"
+    }
+  },
+
+  "2_vaqt_va_qasd_turi": {
+    "emoji": "⏰",
+    "sarlavha": "VAQT va QASD TURI munosabati",
+    "qoida": "Vaqt va qasd turi o'zaro bog'liq",
+
+    "bir_vaqtda": {
+      "emoji": "⏰",
+      "nom": "BIR VAQTDA o'ldirish",
+      "vaqt": "Bir xil vaqt, bir joyda, ketma-ket",
+
+      "qasd_turlari": {
+        "togri": {
+          "emoji": "🎯",
+          "tur": "TO'G'RI QASD",
+          "ta'rif": "Ikkalasini ham o'ldirish ISTADI",
+          "mumkin": "✅ MUMKIN",
+          "misol": "Ikkala dushmanini ham o'ldirmoqchi edi, ikkalasini ham otdi"
+        },
+
+        "egri": {
+          "emoji": "🔄",
+          "tur": "EGRI QASD",
+          "ta'rif": "Birini o'ldirish istadi, ikkinchiga yo'l qo'ydi",
+          "mumkin": "✅ MUMKIN",
+          "misol": "Uyni yoqdi (xotinini o'ldirish uchun), ichida qo'shni ham bor edi, 'bo'lsin' deb o'yladi. Ikkalasi ham o'ldi."
+        }
+      },
+
+      "misol_togri": {
+        "emoji": "🎯",
+        "holat": "A ota-onani ikkalasini ham o'ldirmoqchi edi. Uyga kirib, ikkalasini ham ketma-ket otdi (bir necha daqiqa ichida).",
+        "qasd": "To'g'ri qasd (ikkalasini ham istadi)",
+        "natija": "✅ JK 97-2(a)"
+      },
+
+      "misol_egri": {
+        "emoji": "🔄",
+        "holat": "A xotinini o'ldirish uchun uyni yoqdi. Ichida xotinning onasi ham bor edi (A bilgan edi). 'Ikkalasi ham o'lsin' deb o'yladi. Ikkalasi o'ldi.",
+        "qasd": "Egri qasd (xotinga to'g'ri, onaga egri)",
+        "natija": "✅ JK 97-2(a)"
+      }
+    },
+
+    "turli_vaqtda": {
+      "emoji": "📅",
+      "nom": "TURLI VAQTDA o'ldirish",
+      "vaqt": "Har xil vaqt, har xil joy",
+
+      "qasd_turi": {
+        "faqat_togri": {
+          "emoji": "🎯",
+          "qoida": "Faqat TO'G'RI QASD",
+          "sabab": "Har xil vaqtda o'ldirish uchun ANIQ NIYAT kerak",
+          "mumkin": "✅ Faqat to'g'ri qasd",
+          "mumkin_emas": "❌ Egri qasd MUMKIN EMAS"
+        }
+      },
+
+      "misol_togri": {
+        "emoji": "✅",
+        "holat": "A butun oilani yo'q qilmoqchi edi (yagona niyat). Bugun otani o'ldirdi, ertaga onani o'ldirdi, indinga bolani o'ldirdi.",
+        "qasd": "To'g'ri qasd (barchasini o'ldirish istadi)",
+        "vaqt": "Turli vaqt (3 kun)",
+        "yagona_niyat": "✅ Butun oilani yo'q qilish",
+        "natija": "✅ JK 97-2(a)"
+      },
+
+      "misol_egri_mumkin_emas": {
+        "emoji": "❌",
+        "holat": "Turli vaqtda egri qasd bo'lishi mumkinmi?",
+        "javob": "YO'Q, MUMKIN EMAS",
+        "sabab": "Egri qasd - to'satdan, bir lahzada. Turli vaqtda bo'lmaydi.",
+        "tushuntirish": "Agar ikkinchi o'ldirishga 'yo'l qo'ydi' bo'lsa, bu yagona qasd emas"
+      }
+    }
+  },
+
+  "3_yagona_qasd_yoq": {
+    "emoji": "❌",
+    "sarlavha": "YAGONA QASD YO'Q - takroran o'ldirish",
+    "qoida": "Agar yagona qasd bo'lmasa → JK 97-2(r) (takroran)",
+
+    "jk_97_2r": {
+      "emoji": "🔁",
+      "modda": "JK 97-2(r)",
+      "nom": "Takroran qasddan odam o'ldirish",
+      "qachon": "Har xil qasd, har xil vaqt, har xil sabab",
+      "jazo": "⛓️ 15-25 yil yoki umrbod ((a) bilan bir xil)"
+    },
+
+    "misol": {
+      "emoji": "❌",
+      "holat": "A 2020 yilda dushmanini o'ldirdi (o'ch). 2024 yilda boshqa sababdan (janjal) boshqa odamni o'ldirdi.",
+      "tahlil": {
+        "soni": "2 kishi",
+        "vaqt": "Turli vaqt (4 yil oraliq)",
+        "sabab": "HAR XIL (o'ch va janjal)",
+        "niyat": "❌ YAGONA EMAS"
+      },
+      "natija": "❌ (a) belgi YO'Q",
+      "kvalifikatsiya": "JK 97-2(r) - takroran o'ldirish",
+      "tushuntirish": "Ikki alohida jinoyat, yagona niyat yo'q"
+    }
+  },
+
+  "4_suiqasd_holati": {
+    "emoji": "⚠️",
+    "sarlavha": "SUIQASD holati - biri o'ldi, biri tirik qoldi",
+    "muammo": "Ikki odamni o'ldirmoqchi edi, biri o'ldi, biri tirik qoldi",
+
+    "qoida": {
+      "emoji": "📋",
+      "savol": "JK 97-2(a) bo'ladimi?",
+      "javob": "YO'Q, chunki ikkalasi ham O'LMADI",
+      "to'g'ri": "JK 25,97-2(a) + JK 97"
+    },
+
+    "tushuntirish": {
+      "emoji": "💡",
+      "asosiy": "(a) belgi uchun 2+ odam O'LISHI kerak",
+      "holat": "Biri o'ldi, biri tirik → (a) shartlari to'liq emas",
+      "yechim": "Ikki alohida jinoyat:"
+    },
+
+    "kvalifikatsiya": {
+      "1_suiqasd": {
+        "emoji": "⚠️",
+        "modda": "JK 25, 97-2(a)",
+        "ta'rif": "Ikki+ odamni o'ldirishga SUIQASD",
+        "tushuntirish": "O'ldirmoqchi edi (ikkalasini), lekin biri tirik qoldi"
+      },
+
+      "2_tugallangan": {
+        "emoji": "☠️",
+        "modda": "JK 97-1 yoki 97-2",
+        "ta'rif": "Bittasini o'ldirish (tugallangan)",
+        "tushuntirish": "Biri o'ldi - bu alohida jinoyat"
+      }
+    },
+
+    "misol": {
+      "emoji": "📚",
+      "holat": "A ikki dushmanini o'ldirmoqchi edi. Birinchisini otdi, o'ldi. Ikkinchisiga ham otdi, lekin jarohat oldi, tirik qoldi (tez yordam keldi).",
+      "tahlil": {
+        "niyat": "🎯 Ikkalasini ham o'ldirish (yagona)",
+        "natija_1": "☠️ Biri o'ldi",
+        "natija_2": "❌ Biri tirik qoldi (suiqasd)",
+        "shart": "❌ Ikkalasi ham o'lmadi"
+      },
+      "kvalifikatsiya": [
+        "JK 25, 97-2(a) - Ikki odamni o'ldirishga suiqasd",
+        "JK 97-1 - Bitta odamni o'ldirish (tugallangan)"
+      ],
+      "natija": "Ikki alohida jinoyat (majmua)"
+    }
+  },
+
+  "5_ehtiyotsizlik_holati": {
+    "emoji": "🤷",
+    "sarlavha": "EHTIYOTSIZLIK holati - biri qasd, biri ehtiyotsizlik",
+    "muammo": "Birini o'ldirmoqchi edi, ehtiyotsizlik bilan boshqasini ham o'ldirdi",
+
+    "qoida": {
+      "emoji": "📋",
+      "holat": "Qasd + Ehtiyotsizlik = HAR XIL ayblilik shakli",
+      "natija": "YAGONA QASD YO'Q (biri qasd, biri ehtiyot)",
+      "yechim": "Jinoyatlar majmui (JK 97 + JK 102)"
+    },
+
+    "misol": {
+      "emoji": "📚",
+      "holat": "A dushmanini o'ldirish uchun otdi (qasd). O'q dushmaniga tegdi (o'ldi), ammo o'tib ketib yonidagi odamga ham tegdi (ehtiyotsizlik). U ham o'ldi.",
+      "tahlil": {
+        "niyat": "🎯 Faqat BITTA odamni o'ldirish",
+        "1_qasd": "🎯 Dushmanga - QASD",
+        "2_ehtiyotsizlik": "🤷 Yonidagiga - EHTIYOTSIZLIK",
+        "yagona_qasd": "❌ YO'Q (biri qasd, biri ehtiyot)"
+      },
+      "kvalifikatsiya": [
+        "JK 97-1 yoki 97-2 - Qasddan odam o'ldirish",
+        "JK 102 - Ehtiyotsizlik tufayli odam o'ldirish"
+      ],
+      "natija": "Jinoyatlar majmui (JK 97 + JK 102)",
+      "jazo": "Har ikkisi uchun, jamlanadi"
+    }
+  },
+
+  "6_murakkab_holatlar_jadvali": {
+    "emoji": "📊",
+    "sarlavha": "Murakkab holatlar jadvali",
+
+    "jadval": [
+      {
+        "holat": "2+ odam, yagona qasd, bir vaqtda",
+        "qasd": "To'g'ri yoki egri",
+        "natija": "✅ JK 97-2(a)"
+      },
+      {
+        "holat": "2+ odam, yagona qasd, turli vaqtda",
+        "qasd": "Faqat to'g'ri",
+        "natija": "✅ JK 97-2(a)"
+      },
+      {
+        "holat": "2+ odam, yagona qasd YO'Q",
+        "qasd": "Har xil",
+        "natija": "❌ JK 97-2(r) (takroran)"
+      },
+      {
+        "holat": "2 odam, 1 o'ldi, 1 tirik",
+        "qasd": "Yagona (ikkalasini)",
+        "natija": "JK 25,97-2(a) + JK 97"
+      },
+      {
+        "holat": "2 odam, 1 qasd, 1 ehtiyot",
+        "qasd": "Har xil ayblilik",
+        "natija": "JK 97 + JK 102 (majmua)"
+      }
+    ]
+  },
+
+  "7_sudya_uchun_algoritm": {
+    "emoji": "⚖️",
+    "sarlavha": "Sudya uchun kvalifikatsiya algoritmi",
+
+    "qadamlar": [
+      {
+        "qadam": "1️⃣ Necha odam o'ldi?",
+        "javob": "2+ → Davom et. 1 → JK 97-1 yoki 97-2 (boshqa belgilar)"
+      },
+      {
+        "qadam": "2️⃣ YAGONA QASD bormi?",
+        "javob": "Ha → 3-qadam. Yo'q → JK 97-2(r) yoki alohida"
+      },
+      {
+        "qadam": "3️⃣ Vaqt: Bir vaqtda yoki turli?",
+        "javob": "Bir vaqtda → 4-qadam. Turli → 5-qadam"
+      },
+      {
+        "qadam": "4️⃣ Bir vaqtda: Qasd turi?",
+        "javob": "To'g'ri yoki egri → ✅ JK 97-2(a)"
+      },
+      {
+        "qadam": "5️⃣ Turli vaqtda: Qasd turi?",
+        "javob": "To'g'ri → ✅ JK 97-2(a). Egri → ❌ Mumkin emas"
+      },
+      {
+        "qadam": "6️⃣ MAXSUS: Suiqasd yoki ehtiyotsizlik?",
+        "javob": "Suiqasd → JK 25,97-2(a)+97. Ehtiyot → JK 97+102"
+      }
+    ]
+  },
+
+  "8_muhim_xulosa": {
+    "emoji": "❗",
+    "asosiy": "YAGONA QASD - asosiy shart!",
+    "vaqt_qasd": "Bir vaqtda: to'g'ri/egri. Turli vaqtda: faqat to'g'ri.",
+    "motivlar": "Motivlar har xil bo'lishi mumkin, NIYAT yagona.",
+    "murakkab": "Suiqasd: JK 25,97-2(a)+97. Ehtiyotsizlik: JK 97+102."
+  },
+
+  "tushuntirish": "JK 97-2(a) qo'shimcha: YAGONA QASD - majburiy shart. BIR VAQTDA: to'g'ri yoki egri qasd mumkin. TURLI VAQTDA: faqat TO'G'RI qasd. Motivlar HAR XIL bo'lishi mumkin (rashk+o'ch), muhimi NIYAT yagona. Yagona qasd yo'q → JK 97-2(r) (takroran). SUIQASD (1 o'ldi, 1 tirik): JK 25,97-2(a) + JK 97. EHTIYOTSIZLIK (1 qasd, 1 ehtiyot): JK 97 + JK 102 (majmua). Jazo: 15-25 yil yoki umrbod.",
+
+  "translations": {
+    "uz": "JK 97-2(a) qo'shimcha: Yagona qasd. Bir vaqt: to'g'ri/egri. Turli vaqt: faqat to'g'ri.",
+    "ru": "УК 97-2(а) доп: Единый умысел. Одновременно: прямой/косвенный. Разновременно: только прямой.",
+    "en": "CC 97-2(a) add: Single intent. Simultaneous: direct/indirect. Different times: only direct."
+  }
+}

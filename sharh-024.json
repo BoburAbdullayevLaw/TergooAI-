@@ -1,0 +1,611 @@
+{
+  "id": "JK-097-SHARH-024",
+  "modda_raqam": "97",
+  "sharh_raqami": 24,
+  "tur": "jinsiy_jinoyat",
+
+  "_izoh": "BO'LIM 24: JK 97-2(z) - Jinsiy jinoyat bilan bog'liq o'ldirish",
+
+  "emoji_sarlavha": "🔞 Jinsiy jinoyat (zo'rlash, g'ayritabiiy)",
+
+  "asosiy_matn": "JK 97-2(z): Nomusga tegish (JK 118) yoki jinsiy ehtiyojni zo'rlik bilan g'ayritabiiy qondirish (JK 119) bilan BOG'LIQ holda o'ldirish. JARAYONIDA sodir etiladi (oldin, paytida, darhol keyin). 2 TA MUSTAQIL jinoyat → JK 97-2(z) + JK 118/119 (MAJMUI). MAXSUS HOLATLAR: qarshilikni sindirish, yengillashirish, sadizm, nekrofiliya, o'ch olish, YASHIRISH maqsadida → JK 118/119 + JK 97-2(o) (MAJMUI, (z) EMAS).",
+
+  "sinonimlar": {
+    "nomusga_tegish": {
+      "variantlar": ["nomusga tegish", "zo'rlash", "jinsiy zo'ravonlik", "izzat-nafosat buzish"],
+      "og'irlik": 95,
+      "rasmiy": true,
+      "emoji": "🔞"
+    },
+    "gayritabiiy": {
+      "variantlar": ["g'ayritabiiy", "sodomiya", "pederastiya", "lesbianlik"],
+      "og'irlik": 90,
+      "rasmiy": true,
+      "emoji": "⚠️"
+    }
+  },
+
+  "kontekstli_javoblar": {
+    "tergovchi": {
+      "uslub": "juda_rasmiy",
+      "emoji": "👮",
+      "qo'shimcha": [
+        "👮 Tergov yuritishda:",
+        "🔞 JINSIY JINOYAT turini aniqlash (JK 118/119)",
+        "⏰ VAQT: jarayonida (oldin, paytida, keyin)",
+        "🎯 MAQSAD: (z) yoki (o)?"
+      ],
+      "qo'shimcha_malumot": [
+        "❗ ANIQLASH KERAK:",
+        "1️⃣ JINSIY JINOYAT qaysi?",
+        "   - JK 118: Nomusga tegish (zo'rlash)",
+        "   - JK 119: G'ayritabiiy (zo'rlik bilan)",
+        "2️⃣ VAQT?",
+        "   - Oldin (jarayonida)?",
+        "   - Paytida?",
+        "   - Darhol keyin?",
+        "3️⃣ MAQSAD?",
+        "   - Jarayonida → (z) ✅",
+        "   - Yashirish → (o) ✅",
+        "",
+        "🔞 JINSIY JINOYATLAR:",
+        "📋 JK 118: Nomusga tegish",
+        "- Zo'rlik bilan jinsiy aloqa",
+        "",
+        "⚠️ JK 119: G'ayritabiiy",
+        "- Sodomiya (zo'rlik bilan)",
+        "- Lesbianlik (zo'rlik bilan)",
+        "",
+        "📊 KVALIFIKATSIYA:",
+        "🔞 JARAYONIDA:",
+        "- JK 97-2(z) + JK 118/119 (MAJMUI)",
+        "",
+        "🙈 YASHIRISH:",
+        "- JK 97-2(o) + JK 118/119 (MAJMUI)",
+        "- (z) EMAS!",
+        "",
+        "⏰ DARHOL KEYIN:",
+        "- Agar yashirish → (o)",
+        "- Agar jarayonida (qarshilik, sadizm) → (z)"
+      ]
+    },
+
+    "advokat": {
+      "uslub": "juda_rasmiy",
+      "emoji": "👔",
+      "qo'shimcha": [
+        "⚖️ Himoya strategiyasi:",
+        "❌ ALOQA yo'qligini dalillang",
+        "⏰ VAQT farqi (jarayonida emas)",
+        "📉 (z) yoki (o) ni olib tashlash"
+      ],
+      "qo'shimcha_malumot": [
+        "🎯 MAQSAD: (z) yoki (o) ni olib tashlash",
+        "❌ ALOQA YO'Q:",
+        "- Jinsiy jinoyat yo'q",
+        "- Alohida hodisalar",
+        "- Vaqt farqi katta",
+        "",
+        "⏰ JARAYONIDA EMAS:",
+        "- Uzoq vaqt o'tgan",
+        "- Boshqa sabab",
+        "",
+        "📉 KVALIFIKATSIYA:",
+        "- (z) yo'q → JK 97-1",
+        "- (o) yo'q → JK 97-1",
+        "- Faqat oddiy o'ldirish"
+      ]
+    },
+
+    "sudya": {
+      "uslub": "juda_rasmiy",
+      "emoji": "⚖️",
+      "qo'shimcha": [
+        "⚖️ Sud qarori chiqarishda:",
+        "🔞 Jinsiy jinoyat ANIQ isbotlangan mi?",
+        "⏰ VAQT: jarayonida mi?",
+        "🎯 MAQSAD: (z) yoki (o)?"
+      ],
+      "qo'shimcha_malumot": [
+        "❗ TEKSHIRISH:",
+        "1️⃣ JINSIY JINOYAT bor edi mi?",
+        "   - JK 118 (nomusga tegish)?",
+        "   - JK 119 (g'ayritabiiy)?",
+        "2️⃣ VAQT to'g'ri mi?",
+        "   - Oldin (jarayonida)?",
+        "   - Paytida?",
+        "   - Darhol keyin?",
+        "3️⃣ MAQSAD nima?",
+        "   📊 JARAYONIDA:",
+        "   - Qarshilikni sindirish",
+        "   - Yengillashirish",
+        "   - Sadizm",
+        "   - Nekrofiliya",
+        "   - O'ch (qarshilik uchun)",
+        "   → JK 97-2(z) + JK 118/119",
+        "",
+        "   🙈 YASHIRISH:",
+        "   - Jinsiy jinoyatni yashirish",
+        "   - Guvoh yo'q qilish",
+        "   → JK 97-2(o) + JK 118/119",
+        "   → (z) EMAS!",
+        "",
+        "📝 QARORGA YOZISH:",
+        "- Qanday jinsiy jinoyat",
+        "- Qachon o'ldirish (vaqt)",
+        "- Qanday maqsad",
+        "- Nima uchun (z) yoki (o)"
+      ]
+    },
+
+    "talaba": {
+      "uslub": "o'rtacha",
+      "emoji": "📚",
+      "qo'shimcha": [
+        "📚 Eslab qoling:",
+        "🔞 JK 118/119 + o'ldirish",
+        "⏰ Jarayonida → (z)",
+        "🙈 Yashirish → (o)",
+        "📊 Majmui (2 jinoyat)"
+      ],
+      "qo'shimcha_malumot": [
+        "📝 ASOSIY:",
+        "🔞 JINSIY JINOYAT:",
+        "- JK 118: Zo'rlash",
+        "- JK 119: G'ayritabiiy",
+        "",
+        "⏰ VAQT:",
+        "- Jarayonida → (z)",
+        "- Yashirish → (o)",
+        "",
+        "📊 2 jinoyat (majmui)"
+      ]
+    },
+
+    "oddiy_fuqaro": {
+      "uslub": "norasmiy",
+      "emoji": "👨",
+      "qo'shimcha": [
+        "💬 Oddiy qilib:",
+        "🔞 Zo'rlash + o'ldirish",
+        "⏰ Jarayonida → 1 modda",
+        "🙈 Yashirish → boshqa modda",
+        "⛓️ Og'ir jazo"
+      ],
+      "qo'shimcha_malumot": [
+        "🔞 Zo'rladi va o'ldirdi",
+        "⛓️ 2 ta jinoyat",
+        "Juda og'ir jazo"
+      ]
+    }
+  },
+
+  "javob_uzunligi": {
+    "qisqa": {
+      "shablon": "🔞 JK 97-2(z): JK 118/119 + o'ldirish (jarayonida). 🙈 Yashirish → (o)."
+    },
+    "o'rtacha": {
+      "shablon": "JK 97-2(z): Nomusga tegish (JK 118) yoki g'ayritabiiy (JK 119) bilan bog'liq o'ldirish. Jarayonida: oldin, paytida, darhol keyin. 2 mustaqil jinoyat → majmui. Maxsus: yashirish maqsadi → JK 97-2(o) (z emas)."
+    },
+    "batafsil": {
+      "shablon": "🔞 JK 97-2(z): Nomusga tegish (JK 118) yoki jinsiy ehtiyojni zo'rlik bilan g'ayritabiiy qondirish (JK 119) bilan BOG'LIQ holda o'ldirish. JARAYONIDA: oldin, paytida, darhol keyin. 2 TA MUSTAQIL jinoyat → JK 97-2(z) + JK 118/119 (MAJMUI). ⏰ MAXSUS HOLATLAR (darhol keyin): qarshilikni sindirish, yengillashirish, sadizm, nekrofiliya, o'ch (qarshilik uchun) → JK 97-2(z). 🙈 YASHIRISH maqsadi → JK 97-2(o) + JK 118/119 ((z) EMAS). Jazo: 15-25 yil yoki umrbod."
+    }
+  },
+
+  "1_asosiy_tushuncha": {
+    "emoji": "🔞",
+    "sarlavha": "JINSIY JINOYAT bilan bog'liq - asosiy tushuncha",
+
+    "tasnif": {
+      "modda": "JK 97-2(z)",
+      "nom": "Jinsiy jinoyat bilan bog'liq holda o'ldirish",
+      "og'irlashtiruvchi": "Maxsus jirkanch maqsad",
+      "jazo": "⛓️ 15-25 yil yoki umrbod"
+    },
+
+    "jinsiy_jinoyatlar": {
+      "emoji": "📋",
+      "2_tur": "Ikki xil jinsiy jinoyat",
+
+      "1_jk_118": {
+        "emoji": "🔞",
+        "modda": "JK 118",
+        "nom": "Nomusga tegish",
+        "tavsif": "Zo'rlik bilan jinsiy aloqa",
+        "elementlar": [
+          "Zo'rlik",
+          "Tahdid",
+          "Qarshilik",
+          "Jinsiy aloqa"
+        ]
+      },
+
+      "2_jk_119": {
+        "emoji": "⚠️",
+        "modda": "JK 119",
+        "nom": "G'ayritabiiy jinsiy ehtiyojni qondirish",
+        "tavsif": "Zo'rlik bilan g'ayritabiiy jinsiy aloqa",
+        "turlar": [
+          "Sodomiya (zo'rlik bilan)",
+          "Lesbianlik (zo'rlik bilan)"
+        ]
+      }
+    },
+
+    "2_jinoyat": {
+      "emoji": "📊",
+      "asosiy": "2 TA MUSTAQIL jinoyat",
+      "1_jinsiy": "Jinsiy jinoyat (JK 118 yoki 119)",
+      "2_oldirish": "O'ldirish (JK 97-2(z))",
+      "kvalifikatsiya": "MAJMUI - ikkalasi ham"
+    }
+  },
+
+  "2_jarayonida_tushunchasi": {
+    "emoji": "⏰",
+    "sarlavha": "JARAYONIDA - vaqt ko'rsatkichi",
+
+    "ta_rif": {
+      "nom": "Jarayonida",
+      "ma'no": "Jinsiy jinoyat bilan bog'liq vaqtda",
+      "keng": "Faqat o'sha paytda emas, oldin/keyin ham"
+    },
+
+    "3_vaqt": {
+      "1_oldin": {
+        "emoji": "⏮️",
+        "vaqt": "Jinsiy jinoyatdan OLDIN",
+        "maqsad": "Jinsiy jinoyatni sodir etish uchun",
+        "misollar": [
+          "Qarshilikni sindirish uchun",
+          "Qo'rqitish uchun",
+          "Yengillashirish uchun"
+        ],
+        "kvalifikatsiya": "JK 97-2(z) ✅"
+      },
+
+      "2_paytida": {
+        "emoji": "⏸️",
+        "vaqt": "Jinsiy jinoyat PAYTIDA",
+        "maqsad": "Jinoyat jarayonida",
+        "misollar": [
+          "Qarshilik ko'rsatganda",
+          "Sadizm (zevq olish)",
+          "Zo'ravonlik bilan"
+        ],
+        "kvalifikatsiya": "JK 97-2(z) ✅"
+      },
+
+      "3_darhol_keyin": {
+        "emoji": "⏭️",
+        "vaqt": "Jinsiy jinoyatdan DARHOL keyin",
+        "2_tur": "Maqsadga qarab",
+
+        "a_jarayonida": {
+          "maqsadlar": [
+            "Qarshilik uchun o'ch olish",
+            "Sadizm munosabati",
+            "Nekrofiliya maqsadi"
+          ],
+          "kvalifikatsiya": "JK 97-2(z) ✅",
+          "sabab": "Jarayonidaning davomi"
+        },
+
+        "b_yashirish": {
+          "maqsad": "Jinsiy jinoyatni YASHIRISH",
+          "kvalifikatsiya": "❌ JK 97-2(z) EMAS",
+          "togri": "✅ JK 97-2(o)",
+          "sabab": "Boshqa modda (o) - yashirish"
+        }
+      }
+    }
+  },
+
+  "3_z_holatlar": {
+    "emoji": "🔞",
+    "sarlavha": "(z) HOLATLAR - jarayonida",
+
+    "1_qarshilik_sindirish": {
+      "emoji": "💪",
+      "nom": "Qarshilikni sindirish",
+      "tavsif": "Jabrlanuvchi qarshilik ko'rsatmaslik uchun",
+      "vaqt": "Jinsiy jinoyatdan OLDIN",
+      "maqsad": "Jinsiy jinoyatni yengillashirish",
+      "misol": "Zo'rlashdan oldin qo'rqitish uchun o'ldirish tahdi",
+      "kvalifikatsiya": "JK 97-2(z)"
+    },
+
+    "2_yengillashtirish": {
+      "emoji": "🎯",
+      "nom": "Jinoyatni yengillashirish",
+      "tavsif": "Jinsiy jinoyatni oson sodir etish uchun",
+      "vaqt": "Oldin yoki paytida",
+      "maqsad": "Qarshiliksiz qilish",
+      "misol": "Behush qilish, o'ldirish",
+      "kvalifikatsiya": "JK 97-2(z)"
+    },
+
+    "3_sadizm": {
+      "emoji": "😈",
+      "nom": "Sadizmga moyillik",
+      "tavsif": "Boshqalarning azobidan zavq olish",
+      "vaqt": "Paytida yoki darhol keyin",
+      "maqsad": "Shafqatsizlik, zavq",
+      "misol": "Jinsiy aloqa paytida yoki keyin qiynoq, o'ldirish",
+      "kvalifikatsiya": "JK 97-2(z)"
+    },
+
+    "4_nekrofiliya": {
+      "emoji": "💀",
+      "nom": "Nekrofiliya maqsadi",
+      "tavsif": "Murda bilan jinsiy aloqa maqsadi",
+      "vaqt": "Darhol keyin",
+      "maqsad": "Murda bilan jinsiy aloqa",
+      "misol": "O'ldirish, keyin murda bilan",
+      "kvalifikatsiya": "JK 97-2(z)"
+    },
+
+    "5_och": {
+      "emoji": "😠",
+      "nom": "O'ch olish (qarshilik uchun)",
+      "tavsif": "Jabrlanuvchi qarshilik ko'rsatgani uchun",
+      "vaqt": "Paytida yoki darhol keyin",
+      "maqsad": "Jazolash, o'ch",
+      "misol": "Zo'rlash paytida qarshilik ko'rsatdi, o'ldirdi",
+      "kvalifikatsiya": "JK 97-2(z)"
+    }
+  },
+
+  "4_o_holat_yashirish": {
+    "emoji": "🙈",
+    "sarlavha": "(o) HOLAT - yashirish maqsadi",
+
+    "ta_rif": {
+      "nom": "Jinsiy jinoyatni yashirish",
+      "ma'no": "Jinsiy jinoyatni sir tutish, guvoh yo'q qilish",
+      "vaqt": "Jinsiy jinoyatdan KEYIN (darhol)"
+    },
+
+    "maqsadlar": {
+      "emoji": "🎯",
+      "1_yashirish": "Jinsiy jinoyatni sir tutish",
+      "2_guvoh": "Guvohni yo'q qilish",
+      "3_dalil": "Dalillarni yo'q qilish",
+      "4_jazo": "Jazoga duchor bo'lmaslik"
+    },
+
+    "kvalifikatsiya": {
+      "emoji": "📊",
+      "noto_gri": "❌ JK 97-2(z) EMAS",
+      "togri": "✅ JK 97-2(o) + JK 118/119",
+      "sabab": "Yashirish - BOSHQA modda (o)",
+      "majmui": "Ikkalasi ham (majmui)"
+    },
+
+    "farq_z": {
+      "emoji": "🔍",
+      "z": "Jarayonida (qarshilik, sadizm, nekrofiliya, o'ch)",
+      "o": "Yashirish maqsadi",
+      "asosiy": "MAQSAD farq qiladi"
+    },
+
+    "misol": {
+      "emoji": "🙈",
+      "holat": "A B ni zo'rladi (JK 118). Keyin A B ni o'ldirdi (zo'rlashni yashirish, guvoh yo'q qilish).",
+      "tahlil": {
+        "jinsiy": "✅ Zo'rlash (JK 118)",
+        "oldirish": "✅ O'ldirish",
+        "maqsad": "🙈 YASHIRISH (guvoh yo'q)"
+      },
+      "kvalifikatsiya": "❌ JK 97-2(z) EMAS",
+      "togri": "✅ JK 97-2(o) + JK 118",
+      "sabab": "Yashirish maqsadi → (o), (z) emas"
+    }
+  },
+
+  "5_z_vs_o": {
+    "emoji": "⚔️",
+    "sarlavha": "(z) vs (o) - farq",
+
+    "jk_97_2z": {
+      "emoji": "🔞",
+      "modda": "JK 97-2(z)",
+      "nom": "Jinsiy jinoyat bilan bog'liq",
+      "vaqt": "Jarayonida (oldin, paytida, darhol keyin)",
+      "maqsadlar": [
+        "Qarshilikni sindirish",
+        "Yengillashirish",
+        "Sadizm",
+        "Nekrofiliya",
+        "O'ch (qarshilik uchun)"
+      ],
+      "kvalifikatsiya": "JK 97-2(z) + JK 118/119"
+    },
+
+    "jk_97_2o": {
+      "emoji": "🙈",
+      "modda": "JK 97-2(o)",
+      "nom": "Jinoyatni yashirish",
+      "vaqt": "Keyin",
+      "maqsad": "Jinsiy jinoyatni YASHIRISH",
+      "kvalifikatsiya": "JK 97-2(o) + JK 118/119"
+    },
+
+    "farq": {
+      "emoji": "🔍",
+      "asosiy": "MAQSAD",
+      "z": "Jinsiy jinoyat jarayonida",
+      "o": "Jinsiy jinoyatni yashirish",
+      "vaqt": "Ikkalasi ham 'keyin' bo'lishi mumkin, MAQSAD muhim"
+    }
+  },
+
+  "6_majmui": {
+    "emoji": "📊",
+    "sarlavha": "MAJMUI - 2 mustaqil jinoyat",
+
+    "qoida": {
+      "emoji": "📋",
+      "asosiy": "2 TA MUSTAQIL jinoyat",
+      "sabab": "Har biri alohida jinoyat",
+      "natija": "Ikkalasi ham kvalifikatsiya qilinadi"
+    },
+
+    "z_majmui": {
+      "emoji": "🔞",
+      "moddalar": [
+        "JK 97-2(z) - O'ldirish",
+        "JK 118 yoki JK 119 - Jinsiy jinoyat"
+      ],
+      "jazo": "Har ikkalasi uchun (majmui)"
+    },
+
+    "o_majmui": {
+      "emoji": "🙈",
+      "moddalar": [
+        "JK 97-2(o) - O'ldirish (yashirish)",
+        "JK 118 yoki JK 119 - Jinsiy jinoyat"
+      ],
+      "jazo": "Har ikkalasi uchun (majmui)"
+    }
+  },
+
+  "7_amaliy_misollar": {
+    "emoji": "📚",
+    "sarlavha": "Amaliy misollar - to'liq tahlil",
+
+    "misol_1_sindirish": {
+      "emoji": "💪",
+      "vaziyat": "A B ni zo'rlamoqchi. B qarshilik ko'rsatdi. A B ni urdi, behush qildi, keyin zo'rladi.",
+      "tahlil": {
+        "oldirish": "✅ Urdi, behush (o'ldirish ehtimoli)",
+        "maqsad": "Qarshilikni sindirish",
+        "jinsiy": "✅ Zo'rladi (JK 118)",
+        "vaqt": "Oldin (jarayonida)"
+      },
+      "kvalifikatsiya": "JK 97-2(z) + JK 118 (MAJMUI)",
+      "sabab": "Jarayonida - qarshilik sindirish"
+    },
+
+    "misol_2_sadizm": {
+      "emoji": "😈",
+      "vaziyat": "A B ni zo'rladi. Zo'rlash PAYTIDA A B ni qiynodi, azob berdi, o'ldirdi (sadizm).",
+      "tahlil": {
+        "jinsiy": "✅ Zo'rladi (JK 118)",
+        "oldirish": "✅ O'ldirdi (paytida)",
+        "maqsad": "Sadizm (zavq olish)",
+        "vaqt": "Paytida (jarayonida)"
+      },
+      "kvalifikatsiya": "JK 97-2(z) + JK 118 (MAJMUI)",
+      "sabab": "Jarayonida - sadizm"
+    },
+
+    "misol_3_nekrofiliya": {
+      "emoji": "💀",
+      "vaziyat": "A B ni o'ldirdi, keyin DARHOL murda bilan jinsiy aloqa qildi (nekrofiliya).",
+      "tahlil": {
+        "oldirish": "✅ O'ldirdi",
+        "jinsiy": "✅ Murda bilan (nekrofiliya)",
+        "maqsad": "Nekrofiliya maqsadi",
+        "vaqt": "Darhol keyin"
+      },
+      "kvalifikatsiya": "JK 97-2(z) + JK 119 (MAJMUI)",
+      "sabab": "Jarayonida - nekrofiliya"
+    },
+
+    "misol_4_och": {
+      "emoji": "😠",
+      "vaziyat": "A B ni zo'rlamoqchi. B QARSHILIK ko'rsatdi. A hissiylanib, B ni o'ldirdi (o'ch olish).",
+      "tahlil": {
+        "jinsiy": "✅ Zo'rlamoqchi (suiqasd JK 118)",
+        "oldirish": "✅ O'ldirdi",
+        "maqsad": "O'ch (qarshilik uchun)",
+        "vaqt": "Paytida (jarayonida)"
+      },
+      "kvalifikatsiya": "JK 97-2(z) + JK 25, 118 (MAJMUI)",
+      "sabab": "Jarayonida - o'ch (qarshilik)"
+    },
+
+    "misol_5_yashirish": {
+      "emoji": "🙈",
+      "vaziyat": "A B ni zo'rladi (JK 118). Keyin A B ni o'ldirdi (zo'rlashni sir tutish, guvoh yo'q qilish).",
+      "tahlil": {
+        "jinsiy": "✅ Zo'rladi (JK 118)",
+        "oldirish": "✅ O'ldirdi",
+        "maqsad": "🙈 YASHIRISH (guvoh yo'q)",
+        "vaqt": "Keyin"
+      },
+      "kvalifikatsiya": "❌ JK 97-2(z) EMAS",
+      "togri": "✅ JK 97-2(o) + JK 118 (MAJMUI)",
+      "sabab": "Yashirish maqsadi → (o), (z) emas"
+    },
+
+    "misol_6_gayritabiiy": {
+      "emoji": "⚠️",
+      "vaziyat": "A B ni zo'rlik bilan sodomiya qildi (JK 119). Paytida B qarshilik ko'rsatdi. A B ni o'ldirdi.",
+      "tahlil": {
+        "jinsiy": "✅ Sodomiya (JK 119)",
+        "oldirish": "✅ O'ldirdi (paytida)",
+        "maqsad": "Qarshilik sindirish / o'ch",
+        "vaqt": "Paytida (jarayonida)"
+      },
+      "kvalifikatsiya": "JK 97-2(z) + JK 119 (MAJMUI)"
+    }
+  },
+
+  "8_algoritm": {
+    "emoji": "🔢",
+    "sarlavha": "KVALIFIKATSIYA algoritmi",
+
+    "qadamlar": [
+      {
+        "qadam": "1️⃣ JINSIY JINOYAT bor mi?",
+        "tekshirish": "JK 118 (zo'rlash) yoki JK 119 (g'ayritabiiy)?",
+        "javob": "Ha → 2-qadam. Yo'q → (z) yo'q"
+      },
+      {
+        "qadam": "2️⃣ VAQT to'g'ri mi?",
+        "tekshirish": "Jarayonida (oldin, paytida, darhol keyin)?",
+        "javob": "Ha → 3-qadam. Yo'q (uzoq keyin) → (z) yo'q"
+      },
+      {
+        "qadam": "3️⃣ MAQSAD nima?",
+        "tekshirish": "Jarayonida yoki yashirish?",
+        "variantlar": [
+          "🔞 Jarayonida (sindirish, sadizm, nekrofiliya, o'ch) → 4-qadam",
+          "🙈 Yashirish → 5-qadam"
+        ]
+      },
+      {
+        "qadam": "4️⃣ JARAYONIDA → (z)",
+        "kvalifikatsiya": "JK 97-2(z) + JK 118/119 (MAJMUI)",
+        "tugadi": "✅"
+      },
+      {
+        "qadam": "5️⃣ YASHIRISH → (o)",
+        "kvalifikatsiya": "JK 97-2(o) + JK 118/119 (MAJMUI)",
+        "noto_gri": "❌ (z) EMAS!",
+        "tugadi": "✅"
+      }
+    ]
+  },
+
+  "9_muhim_xulosa": {
+    "emoji": "❗",
+    "asosiy": [
+      "🔞 2 TA MUSTAQIL jinoyat (majmui)",
+      "⏰ Jarayonida: oldin, paytida, darhol keyin",
+      "🔞 (z): sindirish, sadizm, nekrofiliya, o'ch",
+      "🙈 (o): YASHIRISH maqsadi ((z) EMAS!)",
+      "📊 MAQSAD muhim - (z) yoki (o)"
+    ]
+  },
+
+  "tushuntirish": "JK 97-2(z): Nomusga tegish (JK 118) yoki jinsiy ehtiyojni zo'rlik bilan g'ayritabiiy qondirish (JK 119) bilan BOG'LIQ holda o'ldirish. JARAYONIDA sodir etiladi: OLDIN (qarshilikni sindirish, yengillashirish), PAYTIDA (sadizm, o'ch), DARHOL KEYIN (nekrofiliya, o'ch). 2 TA MUSTAQIL jinoyat → JK 97-2(z) + JK 118/119 (MAJMUI). ⏰ MAXSUS HOLATLAR (darhol keyin): qarshilikni sindirish, yengillashirish, sadizmga moyillik, nekrofiliya maqsadi, o'ch olish (qarshilik uchun) → JK 97-2(z). 🙈 YASHIRISH maqsadi (jinsiy jinoyatni sir tutish, guvoh yo'q qilish) → ❌ JK 97-2(z) EMAS, ✅ JK 97-2(o) + JK 118/119 (MAJMUI). FARQ: maqsad - jarayonida (z) yoki yashirish (o). Jazo: 15-25 yil yoki umrbod.",
+
+  "translations": {
+    "uz": "JK 97-2(z): Jinsiy jinoyat (118/119) + o'ldirish. Jarayonida → (z). Yashirish → (o).",
+    "ru": "УК 97-2(з): Половое преступление (118/119) + убийство. В процессе → (з). Сокрытие → (о).",
+    "en": "CC 97-2(z): Sexual crime (118/119) + murder. In process → (z). Concealment → (o)."
+  }
+}

@@ -1,0 +1,619 @@
+{
+  "id": "JK-097-SHARH-019",
+  "modda_raqam": "97",
+  "sharh_raqami": 19,
+  "tur": "xizmat_burchi",
+
+  "_izoh": "BO'LIM 19: JK 97-2(g) - Xizmat/fuqarolik burchini bajarish munosabati bilan o'ldirish",
+
+  "emoji_sarlavha": "⚖️ Xizmat burchi (o'ch olish, qarshilik)",
+
+  "asosiy_matn": "JK 97-2(g): Xizmat/fuqarolik burchini bajarish munosabati bilan shaxs yoki YAQIN qarindoshlarini o'ldirish. Sabab: O'CH OLISH yoki QARSHILIK ko'rsatish. Xizmat: xodim vazifasini bajarish (mansabdor, oddiy xizmatchi). Fuqarolik: qonuniy faoliyat (ijtimoiy foydali). Faqat QONUNIY faoliyat. Noqonuniy (suiiste'mol) → (g) belgi YO'Q. Yaqin qarindoshlar: ota-ona, aka-uka, opa-singil, er-xotin, farzand, bobo/buvi, nevara, qaynonalar. Vaqt: bajarish vaqti yoki boshqa vaqt - AHAMIYATSIZ.",
+
+  "sinonimlar": {
+    "xizmat_burchi": {
+      "variantlar": ["xizmat burchi", "xizmat vazifasi", "mehnat majburiyati", "lavozim vazifasi"],
+      "og'irlik": 95,
+      "rasmiy": true,
+      "emoji": "💼"
+    },
+    "fuqarolik_burchi": {
+      "variantlar": ["fuqarolik burchi", "fuqarolik vazifasi", "jamoa majburiyati", "ijtimoiy burch"],
+      "og'irlik": 90,
+      "rasmiy": true,
+      "emoji": "🏛️"
+    },
+    "och_olish": {
+      "variantlar": ["o'ch olish", "qasos olish", "jazolash", "intiqom"],
+      "og'irlik": 85,
+      "rasmiy": true,
+      "emoji": "😠"
+    }
+  },
+
+  "kontekstli_javoblar": {
+    "tergovchi": {
+      "uslub": "juda_rasmiy",
+      "emoji": "👮",
+      "qo'shimcha": [
+        "👮 Tergov yuritishda:",
+        "💼 Xizmat/fuqarolik burchi ANIQ aniqlash",
+        "🔗 ALOQANI isbotlash (burch ↔ o'ldirish)",
+        "⚖️ QONUNIY faoliyat ekanligini tekshirish"
+      ],
+      "qo'shimcha_malumot": [
+        "❗ ISBOTLASH KERAK:",
+        "1️⃣ Jabrlanuvchi xizmat/fuqarolik burchini BAJARGAN",
+        "2️⃣ O'ldirish SHU BURCH MUNOSABATI bilan",
+        "3️⃣ Faoliyat QONUNIY edi",
+        "4️⃣ Sabab: O'CH yoki QARSHILIK",
+        "",
+        "🔗 ALOQA ISBOTI:",
+        "- Aybdorning so'zlari",
+        "- Guvohlar",
+        "- Holatlar (sabab-oqibat)",
+        "- Vaqt yaqinligi",
+        "",
+        "⚖️ QONUNIY TEKSHIRISH:",
+        "- Vazifa doirasida",
+        "- Qonunga muvofiq",
+        "- Suiiste'mol yo'q"
+      ]
+    },
+
+    "advokat": {
+      "uslub": "juda_rasmiy",
+      "emoji": "👔",
+      "qo'shimcha": [
+        "⚖️ Himoya strategiyasi:",
+        "❌ ALOQA yo'qligini dalillang",
+        "⚠️ NOQONUNIY faoliyat edi (suiiste'mol)",
+        "📉 JK 97-2(g) dan JK 97-1 ga"
+      ],
+      "qo'shimcha_malumot": [
+        "🎯 MAQSAD: (g) belgini olib tashlash",
+        "❌ ALOQA YO'Q:",
+        "- Boshqa sabab (shaxsiy)",
+        "- Vaqt farqi katta",
+        "- Dalil yo'q",
+        "",
+        "⚠️ NOQONUNIY:",
+        "- Suiiste'mol qilgan",
+        "- Vakolat doirasidan chiqgan",
+        "- Noqonuniy buyruq",
+        "",
+        "📉 97-2(g) → 97-1:",
+        "15-25 yil → 8-15 yil"
+      ]
+    },
+
+    "sudya": {
+      "uslub": "juda_rasmiy",
+      "emoji": "⚖️",
+      "qo'shimcha": [
+        "⚖️ Sud qarori chiqarishda:",
+        "🔗 ALOQA ANIQ isbotlangan mi?",
+        "⚖️ Faoliyat QONUNIY edi mi?",
+        "❓ Shubha → (g) belgi YO'Q"
+      ],
+      "qo'shimcha_malumot": [
+        "❗ TEKSHIRISH KETMA-KETLIGI:",
+        "1️⃣ Xizmat/fuqarolik burchi BAR edi mi?",
+        "2️⃣ Jabrlanuvchi bajargan edi mi?",
+        "3️⃣ Faoliyat QONUNIY edi mi?",
+        "4️⃣ O'ldirish SHU BURCH bilan BOG'LIQ mi?",
+        "5️⃣ Agar SHUBHA → (g) yo'q",
+        "",
+        "🔗 ALOQA DARAJASI:",
+        "✅ ANIQ aloqa: vazifa → o'ch/qarshilik → o'ldirish",
+        "❓ SHUBHALI: boshqa sabablar ham bor",
+        "❌ YO'Q: umuman aloqasiz",
+        "",
+        "⚖️ QONUNIYLIK:",
+        "✅ Vazifa doirasida, qonunga muvofiq",
+        "❌ Suiiste'mol, noqonuniy → (g) yo'q",
+        "",
+        "📝 QARORGA YOZISH:",
+        "- Qanday burch",
+        "- Qanday bajargan",
+        "- Qanday aloqa",
+        "- Nima uchun (g)"
+      ]
+    },
+
+    "talaba": {
+      "uslub": "o'rtacha",
+      "emoji": "📚",
+      "qo'shimcha": [
+        "📚 Eslab qoling:",
+        "💼 Xizmat = ish vazifasi",
+        "🏛️ Fuqarolik = ijtimoiy foydali",
+        "🔗 Aloqa bo'lishi kerak",
+        "⚖️ Faqat qonuniy faoliyat"
+      ],
+      "qo'shimcha_malumot": [
+        "📝 ASOSIY:",
+        "💼 XIZMAT: ish, vazifa",
+        "🏛️ FUQAROLIK: ijtimoiy foydali",
+        "🔗 ALOQA: burch ↔ o'ldirish",
+        "⚖️ QONUNIY: halol ish",
+        "",
+        "👥 YAQIN QARINDOSH:",
+        "Ota-ona, aka-uka, opa-singil,",
+        "Er-xotin, farzand, bobo/buvi"
+      ]
+    },
+
+    "oddiy_fuqaro": {
+      "uslub": "norasmiy",
+      "emoji": "👨",
+      "qo'shimcha": [
+        "💬 Oddiy qilib:",
+        "💼 Ishini qilgani uchun o'ldirdi",
+        "😠 O'ch olish yoki to'siq qilish",
+        "⛓️ Og'ir jazo (15-25 yil)"
+      ],
+      "qo'shimcha_malumot": [
+        "💼 Ishini qilgani uchun",
+        "😠 O'ch olish",
+        "⛓️ 15-25 yil"
+      ]
+    }
+  },
+
+  "javob_uzunligi": {
+    "qisqa": {
+      "shablon": "⚖️ JK 97-2(g): Xizmat/fuqarolik burchi + 🔗 Aloqa. Faqat qonuniy."
+    },
+    "o'rtacha": {
+      "shablon": "JK 97-2(g): Xizmat/fuqarolik burchini bajarish munosabati bilan o'ldirish. Xizmat: ish vazifasi. Fuqarolik: ijtimoiy foydali. Sabab: o'ch/qarshilik. Faqat QONUNIY. Yaqin qarindoshlar ham. Vaqt: ahamiyatsiz."
+    },
+    "batafsil": {
+      "shablon": "⚖️ JK 97-2(g): Xizmat/fuqarolik burchini bajarish MUNOSABATI bilan shaxs/yaqin qarindoshlarini o'ldirish. XIZMAT: xodim vazifasi (mansabdor, oddiy). FUQAROLIK: qonuniy faoliyat (ijtimoiy foydali). Sabab: O'CH olish yoki QARSHILIK. Faqat QONUNIY faoliyat. Noqonuniy (suiiste'mol) → (g) YO'Q. YAQIN QARINDOSHLAR: ota-ona, aka-uka, er-xotin, farzand, bobo/buvi, nevara, qaynonalar. Vaqt: bajarish paytida yoki keyinroq - AHAMIYATSIZ. Jazo: 15-25 yil yoki umrbod."
+    }
+  },
+
+  "1_asosiy_tushuncha": {
+    "emoji": "⚖️",
+    "sarlavha": "Xizmat/fuqarolik burchi - asosiy tushuncha",
+
+    "tasnif": {
+      "modda": "JK 97-2(g)",
+      "nom": "Xizmat/fuqarolik burchini bajarish munosabati bilan o'ldirish",
+      "og'irlashtiruvchi": "Maxsus ijtimoiy xavf",
+      "jazo": "⛓️ 15-25 yil yoki umrbod"
+    },
+
+    "shartlar": {
+      "emoji": "📋",
+      "majburiy": [
+        "1️⃣ Xizmat yoki fuqarolik burchi",
+        "2️⃣ Jabrlanuvchi bajargan",
+        "3️⃣ ALOQA: burch ↔ o'ldirish",
+        "4️⃣ Qonuniy faoliyat",
+        "5️⃣ Sabab: o'ch yoki qarshilik"
+      ]
+    },
+
+    "jabrlanuvchilar": {
+      "emoji": "👥",
+      "2_tur": [
+        "1️⃣ O'ZI (burchni bajargan shaxs)",
+        "2️⃣ YAQIN qarindoshlari"
+      ]
+    }
+  },
+
+  "2_xizmat_burchi": {
+    "emoji": "💼",
+    "sarlavha": "XIZMAT BURCHI - tushuncha",
+
+    "tasnif": {
+      "nom": "Xizmat (mehnat) burchi",
+      "ta'rif": "Shaxsning o'z ish vazifalarini bajarishi",
+      "doira": "Xizmat (mehnat) vazifalari doirasi"
+    },
+
+    "kim": {
+      "emoji": "👥",
+      "keng_doira": "Juda keng - barcha xodimlar",
+
+      "turlar": {
+        "mansabdor": {
+          "emoji": "👔",
+          "nom": "Mansabdor shaxslar",
+          "misollar": [
+            "Hokimiyat vakillari",
+            "Rahbarlar",
+            "Boshqaruvchilar",
+            "Sudyalar, prokurorlar",
+            "Politsiya xodimlari"
+          ]
+        },
+
+        "oddiy": {
+          "emoji": "👷",
+          "nom": "Oddiy xizmatchilar",
+          "misollar": [
+            "Qorovullar",
+            "Kotiblar",
+            "Posbonlar",
+            "Kassirlar",
+            "Haydovchilar",
+            "Daftar",
+            "Muhandislar"
+          ]
+        }
+      }
+    },
+
+    "misollar": {
+      "emoji": "📚",
+      "holat_1": "Politsiya xodimi jinoyatchi tutdi → jinoyatchi o'ldirdi",
+      "holat_2": "Sudya hukm chiqardi → mahkum o'ldirdi",
+      "holat_3": "Posbоn talonchini quvdi → talonchi o'ldirdi",
+      "holat_4": "Nazoratchi qoidabuzarlikni aniqladi → qoidabuzar o'ldirdi"
+    }
+  },
+
+  "3_fuqarolik_burchi": {
+    "emoji": "🏛️",
+    "sarlavha": "FUQAROLIK BURCHI - tushuncha",
+
+    "tasnif": {
+      "nom": "Fuqarolik burchi",
+      "ta'rif": "Fuqaroning qonuniy, ijtimoiy foydali faoliyati",
+      "doira": "Jamiyat manfaatida harakat"
+    },
+
+    "turlar": {
+      "1_majburiyat": {
+        "emoji": "📋",
+        "nom": "Maxsus majburiyatlar",
+        "ta'rif": "Qonun bilan yuklangan burchlar",
+        "misollar": [
+          "Harbiy xizmat",
+          "Saylov komissiyasi",
+          "Sud andxo'rlari",
+          "Jamoat nazorati"
+        ]
+      },
+
+      "2_foydali": {
+        "emoji": "🌟",
+        "nom": "Ijtimoiy foydali harakatlar",
+        "ta'rif": "Ixtiyoriy yaxshi ishlar",
+        "misollar": [
+          "Huquqbuzarlikni oldini olish",
+          "Jinoyat haqida xabar berish",
+          "Qidirilayotgan shaxs haqida ma'lumot",
+          "Guvoh sifatida ko'rsatuv",
+          "Yong'inga qarshi kurash",
+          "Odamni qutqarish"
+        ]
+      }
+    },
+
+    "misollar": {
+      "emoji": "📚",
+      "holat_1": "Fuqaro politsiyaga jinoyat haqida xabar berdi → jinoyatchi o'ldirdi",
+      "holat_2": "Guvoh sudda ko'rsatuv berdi → aybdor o'ldirdi",
+      "holat_3": "Fuqaro o'g'rini tutdi → o'g'ri o'ldirdi",
+      "holat_4": "Fuqaro qidiriluvchi haqida ma'lumot berdi → qidiriluvchi o'ldirdi"
+    }
+  },
+
+  "4_aloqa_sharti": {
+    "emoji": "🔗",
+    "sarlavha": "ALOQA - majburiy shart",
+
+    "qoida": {
+      "emoji": "📋",
+      "asosiy": "O'ldirish BURCH MUNOSABATI bilan bo'lishi KERAK",
+      "ma'no": "Sabab-oqibat aloqasi bor",
+      "agar_yoq": "Aloqa yo'q → (g) belgi YO'Q"
+    },
+
+    "aloqa_turlari": {
+      "1_och": {
+        "emoji": "😠",
+        "nom": "O'CH OLISH",
+        "ta'rif": "Qilgan ishi uchun jazolash",
+        "vaqt": "Burch bajarilgandan KEYIN",
+        "misol": "Politsiya tutgan edi → o'ch olib o'ldirdi"
+      },
+
+      "2_qarshilik": {
+        "emoji": "🚫",
+        "nom": "QARSHILIK ko'rsatish",
+        "ta'rif": "Burchni bajarishga to'siq qilish",
+        "vaqt": "Burch bajarilishi OLDIDA yoki PAYTIDA",
+        "misol": "Guvoh ko'rsatuv bermasin deb o'ldirdi"
+      }
+    },
+
+    "isbotlash": {
+      "emoji": "📊",
+      "dalillar": [
+        "Aybdorning so'zlari ('Sen meni tutgansan')",
+        "Guvohlar (sabab-oqibat)",
+        "Vaqt yaqinligi (tutgandan keyin)",
+        "Oldingi munosabat (xizmat bog'liq)",
+        "Holatlar majmui"
+      ]
+    }
+  },
+
+  "5_qonuniylik_sharti": {
+    "emoji": "⚖️",
+    "sarlavha": "QONUNIYLIK - majburiy shart",
+
+    "qoida": {
+      "emoji": "📋",
+      "asosiy": "Faqat QONUNIY faoliyat → (g) belgi",
+      "noqonuniy": "Noqonuniy faoliyat → (g) belgi YO'Q"
+    },
+
+    "qonuniy": {
+      "emoji": "✅",
+      "ta'rif": "Qonunga muvofiq, halol faoliyat",
+      "shartlar": [
+        "Vazifa doirasida",
+        "Qonunga mos",
+        "Suiiste'mol yo'q",
+        "Vakolat chegarasida"
+      ],
+      "natija": "JK 97-2(g) ✅"
+    },
+
+    "noqonuniy": {
+      "emoji": "❌",
+      "ta'rif": "Qonunga xilof, suiiste'mol",
+      "misollar": [
+        "Xizmat suiiste'moli",
+        "Vakolat doirasidan chiqish",
+        "Noqonuniy buyruq",
+        "Pora olish",
+        "Shaxsiy manfaat"
+      ],
+      "natija": "JK 97-2(g) ❌ → JK 97-1"
+    },
+
+    "misol_qonuniy": {
+      "emoji": "✅",
+      "holat": "Politsiya xodimi jinoyatchini QONUNIY tutdi. Jinoyatchi o'ch olib o'ldirdi.",
+      "tahlil": {
+        "faoliyat": "✅ Qonuniy (vazifa)",
+        "aloqa": "✅ Tutgani uchun o'ch"
+      },
+      "kvalifikatsiya": "JK 97-2(g)"
+    },
+
+    "misol_noqonuniy": {
+      "emoji": "❌",
+      "holat": "Politsiya xodimi begunoh fuqaroni NOQONUNIY qamoqqa oldi (shaxsiy o'ch). Fuqaro qutuldi va politsiyachini o'ldirdi.",
+      "tahlil": {
+        "faoliyat": "❌ Noqonuniy (suiiste'mol)",
+        "aloqa": "✅ Qamoqqa olgani uchun"
+      },
+      "kvalifikatsiya": "❌ JK 97-2(g) EMAS",
+      "togri": "JK 97-1 (yoki boshqa)"
+    }
+  },
+
+  "6_yaqin_qarindoshlar": {
+    "emoji": "👨‍👩‍👧‍👦",
+    "sarlavha": "YAQIN QARINDOSHLAR - ro'yxat",
+
+    "tasnif": {
+      "asosiy": "JK Sakkizinchi bo'lim qoidalariga muvofiq",
+      "2_toifa": "Qarindosh va quda tomonidan"
+    },
+
+    "royxat": {
+      "emoji": "📋",
+      "shaxslar": [
+        "👨‍👩 Ota-ona",
+        "👫 Aka-uka, opa-singillar (tug'ma va o'gay)",
+        "💑 Er-xotin",
+        "👶 Farzandlar (shu jumladan farzandlikka olingan)",
+        "👴👵 Bobo, buvi",
+        "👦 Nevaralar",
+        "👨‍👩 Er-xotinning ota-onasi (qaynona, qaynota)",
+        "👫 Er-xotinning aka-uka, opa-singillari (qayni, baldiz)"
+      ]
+    },
+
+    "sabab": {
+      "emoji": "💡",
+      "nima_uchun": "Oilani himoya qilish",
+      "maqsad": "Burchni bajaruvchiga bosim"
+    },
+
+    "misol": {
+      "emoji": "📚",
+      "holat": "Prokuror korrupsiya ishini yuritdi. Aybdor prokurorning FARZANDINI o'ldirdi (prokurorga bosim o'tkazish).",
+      "tahlil": {
+        "burch": "✅ Prokuror ish yuritgan",
+        "jabrlanuvchi": "Farzand (yaqin qarindosh)",
+        "sabab": "Prokurorga bosim",
+        "aloqa": "✅ Ish yuritish munosabati bilan"
+      },
+      "kvalifikatsiya": "JK 97-2(g)"
+    }
+  },
+
+  "7_vaqt_ahamiyatsiz": {
+    "emoji": "⏰",
+    "sarlavha": "VAQT - ahamiyatsiz",
+
+    "qoida": {
+      "emoji": "📋",
+      "asosiy": "Burchni bajarish PAYTIDA yoki KEYINROQ - FARQI YO'Q",
+      "muhim": "ALOQA bor-yo'qligi muhim, vaqt emas"
+    },
+
+    "variantlar": {
+      "paytida": {
+        "emoji": "⏱️",
+        "vaqt": "Burch bajarilishi PAYTIDA",
+        "misol": "Guvoh ko'rsatuv berayotgan paytda o'ldirildi",
+        "natija": "JK 97-2(g) ✅"
+      },
+
+      "darhol_keyin": {
+        "emoji": "⏰",
+        "vaqt": "Burch bajarilgandan DARHOL keyin",
+        "misol": "Politsiya tutdi, 1 soatdan keyin o'ldirildi",
+        "natija": "JK 97-2(g) ✅"
+      },
+
+      "keyinroq": {
+        "emoji": "📅",
+        "vaqt": "Burch bajarilgandan ANCHA keyin",
+        "misol": "Guvoh sudda ko'rsatma berdi, 1 yildan keyin o'ldirildi",
+        "shart": "ALOQA isbotlangan bo'lsa",
+        "natija": "JK 97-2(g) ✅ (agar aloqa aniq)"
+      }
+    },
+
+    "muhim": "❗ Vaqt o'tgan = (g) yo'q EMAS. ALOQA bor = (g) bor!"
+  },
+
+  "8_amaliy_misollar": {
+    "emoji": "📚",
+    "sarlavha": "Amaliy misollar - turli holatlar",
+
+    "misol_1_politsiya": {
+      "emoji": "👮",
+      "vaziyat": "Politsiya xodimi A jinoyatchi B ni tutdi. B qamoqdan qochdi va A ni o'ldirdi (o'ch olish).",
+      "tahlil": {
+        "burch": "✅ Xizmat (jinoyatchi tutish)",
+        "qonuniy": "✅ Qonuniy",
+        "aloqa": "✅ Tutgani uchun o'ch",
+        "sabab": "O'ch olish"
+      },
+      "kvalifikatsiya": "JK 97-2(g)",
+      "jazo": "15-25 yil"
+    },
+
+    "misol_2_guvoh": {
+      "emoji": "👨‍⚖️",
+      "vaziyat": "Fuqaro A jinoyat haqida politsiyaga xabar berdi. Jinoyatchi B A ni o'ldirdi (qarshilik).",
+      "tahlil": {
+        "burch": "✅ Fuqarolik (xabar berish)",
+        "qonuniy": "✅ Qonuniy",
+        "aloqa": "✅ Xabar bergani uchun",
+        "sabab": "Qarshilik (keyingi habar)"
+      },
+      "kvalifikatsiya": "JK 97-2(g)",
+      "jazo": "15-25 yil"
+    },
+
+    "misol_3_qarindosh": {
+      "emoji": "👨‍👩‍👧",
+      "vaziyat": "Sudya A korupsiya ishida hukm chiqardi. Mahkum B sudyaning XOTININI o'ldirdi (sudyaga bosim).",
+      "tahlil": {
+        "burch": "✅ Xizmat (sudya)",
+        "jabrlanuvchi": "Xotin (yaqin qarindosh)",
+        "aloqa": "✅ Hukm uchun o'ch",
+        "sabab": "O'ch, bosim"
+      },
+      "kvalifikatsiya": "JK 97-2(g)",
+      "jazo": "15-25 yil"
+    },
+
+    "misol_4_suiistemol": {
+      "emoji": "❌",
+      "vaziyat": "Politsiya xodimi A begunoh B ni NOQONUNIY qamoqqa oldi (pora olmadi). B qutuldi va A ni o'ldirdi.",
+      "tahlil": {
+        "burch": "✅ Xizmat (politsiya)",
+        "qonuniy": "❌ NOQONUNIY (suiiste'mol)",
+        "aloqa": "✅ Qamoqqa olgani uchun"
+      },
+      "kvalifikatsiya": "❌ JK 97-2(g) EMAS",
+      "togri": "JK 97-1",
+      "jazo": "8-15 yil",
+      "sabab": "Noqonuniy faoliyat"
+    },
+
+    "misol_5_aloqa_yoq": {
+      "emoji": "🤷",
+      "vaziyat": "A politsiya xodimi, B jinoyatchi. A va B shaxsiy janjal qildi (xizmat bog'liq emas). B A ni o'ldirdi.",
+      "tahlil": {
+        "burch": "✅ A politsiyachi",
+        "aloqa": "❌ SHAXSIY janjal (xizmat emas)",
+        "sabab": "Shaxsiy o'ch"
+      },
+      "kvalifikatsiya": "❌ JK 97-2(g) EMAS",
+      "togri": "JK 97-1",
+      "sabab": "ALOQA yo'q"
+    },
+
+    "misol_6_vaqt": {
+      "emoji": "📅",
+      "vaziyat": "Guvoh A sudda ko'rsatuv berdi. 2 yil keyin mahkum B qamoqdan chiqdi va A ni o'ldirdi (o'ch).",
+      "tahlil": {
+        "burch": "✅ Fuqarolik (guvoh)",
+        "vaqt": "2 yil (uzoq)",
+        "aloqa": "✅ Ko'rsatuv uchun o'ch (aniq)",
+        "sabab": "O'ch olish"
+      },
+      "kvalifikatsiya": "JK 97-2(g)",
+      "sabab": "Vaqt AHAMIYATSIZ, aloqa ANIQ"
+    }
+  },
+
+  "9_sudya_uchun_algoritm": {
+    "emoji": "⚖️",
+    "sarlavha": "Sudya uchun kvalifikatsiya algoritmi",
+
+    "qadamlar": [
+      {
+        "qadam": "1️⃣ Xizmat/fuqarolik burchi BAR edimi?",
+        "tekshirish": "Vazifa, ijtimoiy foydali ish?",
+        "javob": "Ha → 2-qadam. Yo'q → (g) yo'q"
+      },
+      {
+        "qadam": "2️⃣ Jabrlanuvchi bajargan edimi?",
+        "tekshirish": "O'zi yoki yaqin qarindoshi?",
+        "javob": "Ha → 3-qadam. Yo'q → (g) yo'q"
+      },
+      {
+        "qadam": "3️⃣ Faoliyat QONUNIY edimi?",
+        "tekshirish": "Suiiste'mol yo'qmi?",
+        "javob": "Qonuniy → 4-qadam. Noqonuniy → (g) yo'q"
+      },
+      {
+        "qadam": "4️⃣ ALOQA bormi? (burch ↔ o'ldirish)",
+        "tekshirish": "O'ch yoki qarshilik?",
+        "javob": "Aniq aloqa → JK 97-2(g). Yo'q/shubha → (g) yo'q"
+      }
+    ]
+  },
+
+  "10_muhim_xulosa": {
+    "emoji": "❗",
+    "asosiy_shartlar": [
+      "💼 Xizmat burchi (ish vazifasi)",
+      "🏛️ Fuqarolik burchi (ijtimoiy foydali)",
+      "🔗 ALOQA (burch ↔ o'ldirish)",
+      "⚖️ QONUNIY faoliyat",
+      "😠 Sabab: o'ch yoki qarshilik"
+    ],
+    "jabrlanuvchilar": [
+      "O'zi (burchni bajargan)",
+      "👨‍👩‍👧‍👦 Yaqin qarindoshlari"
+    ],
+    "ahamiyatsiz": "⏰ Vaqt (paytida yoki keyinroq - farqi yo'q)",
+    "muhim_shart": "⚖️ Faqat QONUNIY faoliyat. Noqonuniy → (g) yo'q"
+  },
+
+  "tushuntirish": "JK 97-2(g): Xizmat/fuqarolik burchini bajarish MUNOSABATI bilan shaxs/yaqin qarindoshlarini o'ldirish. XIZMAT: xodim vazifasi (mansabdor, oddiy xizmatchi). FUQAROLIK: qonuniy, ijtimoiy foydali faoliyat (xabar berish, guvohlik). ALOQA: o'ldirish burch munosabati bilan (sabab-oqibat). Sabab: O'CH olish (bajarilgandan keyin) yoki QARSHILIK (bajarilmaslik uchun). Faqat QONUNIY faoliyat. Noqonuniy (suiiste'mol, vakolat buzish) → (g) belgi YO'Q. YAQIN QARINDOSHLAR: ota-ona, aka-uka, opa-singil, er-xotin, farzand, bobo/buvi, nevara, qaynonalar. VAQT: bajarish paytida yoki keyinroq - AHAMIYATSIZ (aloqa bo'lsa). Jazo: 15-25 yil yoki umrbod.",
+
+  "translations": {
+    "uz": "JK 97-2(g): Xizmat/fuqarolik burchi. Aloqa. Faqat qonuniy. Vaqt ahamiyatsiz.",
+    "ru": "УК 97-2(г): Служебный/гражданский долг. Связь. Только законная. Время неважно.",
+    "en": "CC 97-2(g): Official/civic duty. Connection. Only lawful. Time irrelevant."
+  }
+}
